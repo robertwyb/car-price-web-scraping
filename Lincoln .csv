@@ -1,0 +1,504 @@
+city,lat,long,make,mileage,model,price,province,sepc,year
+Manotick,45.232833,-75.688248,Lincoln,130147,Lincoln LS,8497,Ontario,Lincoln LS Leather,2000
+Ottawa,45.421106,-75.690308,Lincoln,195044,Lincoln Navigator,950,Ontario,Lincoln Navigator Premium- AS IS - FOR PARTS,2003
+North York,43.7708175,-79.4132998,Lincoln,214197,Lincoln Navigator,5800,Ontario,Lincoln Navigator Luxury,2006
+St-Jean-Sur-Richelieu,45.3056879,-73.2533401,Lincoln,128379,Lincoln MKX,7911,Québec,Lincoln MKX AWD  BAS KILOMETRAGE  TRES PROPRE,2007
+Edmonton,53.535411,-113.507996,Lincoln,88991,Lincoln MKZ,11900,Alberta,Lincoln MKZ w,2007
+Charlesbourg,46.8958611,-71.2910300583245,Lincoln,238484,Lincoln MKX,4850,Québec,Lincoln MKX,2008
+Sherwood Park,53.5256963,-113.2966313,Lincoln,193878,Lincoln MKX,8599,Alberta,Lincoln MKX AWD 4DR,2008
+Montréal,45.4972159,-73.6103642,Lincoln,218401,Lincoln MKX,4994,Québec,Lincoln MKX AWD TOIT CUIR SIÈGES CHAUFFANTS,2008
+Bolton,43.879548,-79.73826,Lincoln,149583,Lincoln MKX,6998,Ontario,Lincoln MKX AWD,2008
+Ottawa,45.421106,-75.690308,Lincoln,167467,Lincoln MKX,8995,Ontario,Lincoln MKX AWD LIMITED LEATHER DUAL SUNROOF.,2009
+Richmond,49.163168,-123.137414,Lincoln,76567,Lincoln MKS,11888,British Columbia,Lincoln MKS 2009 Lincoln MKS - 4dr Sdn FWD,2009
+North York,43.7708175,-79.4132998,Lincoln,93699,Lincoln MKS,9800,Ontario,Lincoln MKS LIMITED,2009
+Châteauguay,45.3619066,-73.7524319,Lincoln,142305,Lincoln MKS,6994,Québec,Lincoln MKS,2009
+Edmonton,53.535411,-113.507996,Lincoln,186707,Lincoln MKX,9850,Alberta,Lincoln MKX AWD 4dr,2010
+North York,43.7708175,-79.4132998,Lincoln,184190,Lincoln Navigator,17480,Ontario,Lincoln Navigator 4WD DVD REAR CAM-NAV BLUTHNORTH YORK,2010
+North York,43.7708175,-79.4132998,Lincoln,127000,Lincoln MKX,11995,Ontario,Lincoln MKX AWD Navigation Panoramic Roof,2010
+Edmonton,53.535411,-113.507996,Lincoln,147990,Lincoln MKX,13000,Alberta,Lincoln MKX ,2010
+Verona,44.4784887,-76.6958284,Lincoln,96955,Lincoln MKS,13995,Ontario,Lincoln MKS GTDI,2010
+Brantford,43.1554354,-80.2665916,Lincoln,192000,Lincoln MKS,7807,Ontario,Lincoln MKS Base - LEATHER,2010
+Kingston,44.3054151,-76.4283781,Lincoln,181537,Lincoln MKX,7430,Ontario,Lincoln MKX,2010
+Toronto,43.653963,-79.387207,Lincoln,155346,Lincoln MKT,9488,Ontario,Lincoln MKT AWD Pano Sunroof,2010
+London,42.9537654,-81.2291529,Lincoln,173699,Lincoln MKZ,8995,Ontario,Lincoln MKZ ,2010
+Edmonton,53.535411,-113.507996,Lincoln,141252,Lincoln MKX,14488,Alberta,Lincoln MKX 0,2010
+Calgary,51.02532675,-114.049868485806,Lincoln,178951,Lincoln MKX,11995,Alberta,Lincoln MKX,2011
+Olds,51.7923735,-114.1130367,Lincoln,63543,Lincoln MKT,16900,Alberta,Lincoln MKT EcoBoost,2011
+London,42.9537654,-81.2291529,Lincoln,189228,Lincoln MKX,11995,Ontario,Lincoln MKX Fully Loaded,2011
+Vaudreuil-Dorion,45.3971509,-74.0254577,Lincoln,143000,Lincoln MKX,14495,Québec,Lincoln MKX AWD 4DR ,2011
+Toronto,43.653963,-79.387207,Lincoln,141840,Lincoln MKX,13991,Ontario,Lincoln MKX,2011
+Montréal-Nord,45.5938992,-73.6376062,Lincoln,119300,Lincoln MKX,13477,Québec,Lincoln MKX AWD V6,2011
+Surrey,49.1913033,-122.8491439,Lincoln,136332,Lincoln MKX,16599,British Columbia,Lincoln MKX 4D Utility AWD,2011
+Brantford,43.1554354,-80.2665916,Lincoln,206666,Lincoln MKX,9995,Ontario,Lincoln MKX AWD,2011
+Quebec,52.4760892,-71.8258668,Lincoln,230852,Lincoln MKX,9995,Québec,Lincoln MKX 4X4 AWD,2011
+Kingston,44.3054151,-76.4283781,Lincoln,143433,Lincoln MKS,9499,Ontario,Lincoln MKS Base,2011
+Stratford,46.2189935,-63.0876534061131,Lincoln,206666,Lincoln MKX,9995,Prince Edward Island,Lincoln MKX AWD,2011
+Scarborough,43.773077,-79.257774,Lincoln,214000,Lincoln MKZ,6999,Ontario,Lincoln MKZ AWD SUPER CLEAN safety included,2011
+Scarborough,43.773077,-79.257774,Lincoln,264162,Lincoln MKT,6650,Ontario,Lincoln MKT ECCOBOOST,2011
+Windsor,42.30423,-83.029861,Lincoln,206666,Lincoln MKX,9995,Ontario,Lincoln MKX AWD,2011
+North York,43.7708175,-79.4132998,Lincoln,185499,Lincoln MKT,10800,Ontario,Lincoln MKT EcoBoost,2011
+Edmonton,53.535411,-113.507996,Lincoln,165000,Lincoln MKX,11787,Alberta,Lincoln MKX,2011
+Scarborough,43.773077,-79.257774,Lincoln,128120,Lincoln MKS,10995,Ontario,Lincoln MKS 128km,2011
+Regina,50.44876,-104.61731,Lincoln,73997,Lincoln Navigator,25909,Saskatchewan,Lincoln Navigator ,2012
+Brampton,43.6858146,-79.7599337,Lincoln,121424,Lincoln MKX,18995,Ontario,Lincoln MKX ALL WHEEL DRIVE ,2012
+Mississauga,43.590338,-79.645729,Lincoln,195000,Lincoln MKX,11300,Ontario,Lincoln MKX AWD,2012
+St-Hubert,46.501891,-64.025032,Lincoln,124329,Lincoln MKZ,7944,Prince Edward Island,Lincoln MKZ CUIR ,2012
+Caledonia,45.2773029,-62.3899848,Lincoln,147093,Lincoln MKX,15495,Nova Scotia,Lincoln MKX AWD,2012
+Oakville,43.447436,-79.666672,Lincoln,215676,Lincoln Navigator,17950,Ontario,Lincoln Navigator AWD ,2012
+St-Jérôme,45.775426,-74.013176,Lincoln,139786,Lincoln Navigator,26995,Québec,Lincoln Navigator AWD SIÈGES VENTIL CUIR 7 PLACES TOIT OUVRANT ,2012
+North Bay,46.3092115,-79.4607617,Lincoln,85923,Lincoln MKZ,11987,Ontario,Lincoln MKZ AWD,2012
+Kingston,44.3054151,-76.4283781,Lincoln,101897,Lincoln MKZ,17499,Ontario,Lincoln MKZ,2013
+Oakville,43.447436,-79.666672,Lincoln,123497,Lincoln MKX,17888,Ontario,Lincoln MKX Limitied,2013
+Ridgetown,42.4392133,-81.8870707,Lincoln,113999,Lincoln MKX,19500,Ontario,Lincoln MKX Nav,2013
+Ottawa,45.421106,-75.690308,Lincoln,100349,Lincoln MKX,17550,Ontario,Lincoln MKX,2013
+Surrey,49.1913033,-122.8491439,Lincoln,116791,Lincoln Navigator,29995,British Columbia,Lincoln Navigator LOCAL,2013
+Edmonton,53.535411,-113.507996,Lincoln,140291,Lincoln MKX,17995,Alberta,Lincoln MKX AWD 4dr,2013
+Oakville,43.447436,-79.666672,Lincoln,111875,Lincoln MKX,18950,Ontario,Lincoln MKX NAVI ,2013
+Aurora,43.99973,-79.467545,Lincoln,128478,Lincoln MKT,18888,Ontario,Lincoln MKT EcoBoost,2013
+Surrey,49.1913033,-122.8491439,Lincoln,125471,Lincoln MKX,18888,British Columbia,Lincoln MKX LOCAL,2013
+Caledonia,45.2773029,-62.3899848,Lincoln,112434,Lincoln MKX,17995,Nova Scotia,Lincoln MKX AWD ,2013
+Scarborough,43.773077,-79.257774,Lincoln,122410,Lincoln MKX,17995,Ontario,Lincoln MKX navi,2013
+Barrie,44.3893113,-79.6901736,Lincoln,102560,Lincoln MKX,17987,Ontario,Lincoln MKX Base,2013
+Belleville,44.2436328,-77.3607597,Lincoln,77112,Lincoln MKX,20995,Ontario,Lincoln MKX 2013 Lincoln MKX AWD ADAPTIVE CRUISE LOADED LOW KM,2013
+Vaudreuil-Dorion,45.3971509,-74.0254577,Lincoln,208000,Lincoln MKT,12995,Québec,Lincoln MKT ECOBOOST ,2013
+Sherbrooke,45.403271,-71.889038,Lincoln,130905,Lincoln MKX,14988,Québec,Lincoln MKX AWD,2013
+Chatham-Kent,42.41833,-82.0898417,Lincoln,101000,Lincoln MKZ,15688,Ontario,Lincoln MKZ ALLOYS - LEATHER - SUNROOF - NAVIGATION - HEATED &,2013
+Chatham,42.405207,-82.191467,Lincoln,78471,Lincoln MKS,14999,Ontario,Lincoln MKS AWD,2013
+Moncton,46.097995,-64.80011,Lincoln,191668,Lincoln MKX,12289,New Brunswick,Lincoln MKX,2013
+Scarborough,43.773077,-79.257774,Lincoln,104120,Lincoln MKZ,14995,Ontario,Lincoln MKZ navi,2013
+Toronto,43.653963,-79.387207,Lincoln,98000,Lincoln MKS,11950,Ontario,Lincoln MKS AWD,2013
+Winnipeg,49.884017,-97.168579,Lincoln,166001,Lincoln MKX,16395,Manitoba,Lincoln MKX 4DR AWD,2013
+Laval,45.60558895,-73.7344173056906,Lincoln,118700,Lincoln MKX,16400,Québec,Lincoln MKX AWD  NAVIGATION,2013
+Surrey,49.1913033,-122.8491439,Lincoln,89550,Lincoln MKZ,15988,British Columbia,Lincoln MKZ BASE,2013
+Oakville,43.447436,-79.666672,Lincoln,156023,Lincoln MKX,15988,Ontario,Lincoln MKX Navigation,2013
+St-Esprit,45.898371,-73.666077,Lincoln,62187,Lincoln MKZ,16499,Québec,Lincoln MKZ 2.0 eco cuir brun,2013
+Toronto,43.653963,-79.387207,Lincoln,102858,Lincoln MKX,22800,Ontario,Lincoln MKX ,2014
+Aurora,43.99973,-79.467545,Lincoln,64071,Lincoln MKX,24888,Ontario,Lincoln MKX MKX,2014
+Kingston,44.3054151,-76.4283781,Lincoln,53440,Lincoln MKX,22499,Ontario,Lincoln MKX - $202 B,2014
+Winnipeg,49.884017,-97.168579,Lincoln,65000,Lincoln MKZ,18988,Manitoba,Lincoln MKZ - NO ACCIDENTS,2014
+Brantford,43.1554354,-80.2665916,Lincoln,37217,Lincoln MKX,25888,Ontario,Lincoln MKX ,2014
+Aurora,43.99973,-79.467545,Lincoln,64071,Lincoln MKX,24888,Ontario,Lincoln MKX MKX,2014
+Calgary,51.02532675,-114.049868485806,Lincoln,95500,Lincoln MKT,26995,Alberta,Lincoln MKT AWD Ecoboost,2014
+Fernie,49.5041747,-115.062867,Lincoln,94110,Lincoln Navigator,36995,British Columbia,Lincoln Navigator BASE,2014
+Laval,45.60558895,-73.7344173056906,Lincoln,107757,Lincoln MKX,19999,Québec,Lincoln MKX AWD CUIR TOIT NAV,2014
+Brampton,43.6858146,-79.7599337,Lincoln,68035,Lincoln MKZ,19999,Ontario,Lincoln MKZ 4dr Sdn AWD,2014
+Chatham,42.405207,-82.191467,Lincoln,101396,Lincoln MKX,21933,Ontario,Lincoln MKX LOCAL TRADE,2014
+Red Deer County,52.1040224,-113.7674734,Lincoln,95993,Lincoln MKZ,21967,Alberta,Lincoln MKZ Hybrid,2014
+Wetaskiwin,52.968492,-113.36792,Lincoln,95089,Lincoln MKZ,21987,Alberta,Lincoln MKZ 4DR SDN AWD - $152 B,2014
+Brossard,45.4554829,-73.4678904,Lincoln,91850,Lincoln MKX,19995,Québec,Lincoln MKX AWD ,2014
+Cambridge,43.3855479,-80.3113582,Lincoln,98371,Lincoln MKX,24495,Ontario,Lincoln MKX AWD ,2014
+St-Jean-Sur-Richelieu,45.3056879,-73.2533401,Lincoln,89674,Lincoln MKX,19911,Québec,Lincoln MKX AWD NAVIGATION CAMÉRA DÉTECTEUR D'ANGLE MORT CUIR,2014
+Verona,44.4784887,-76.6958284,Lincoln,112515,Lincoln MKX,19900,Ontario,Lincoln MKX AWD - 1OWNER-ADAPTIVE CRUISE-NAV-MOONROOF,2014
+La Prairie,45.4174659,-73.4891644,Lincoln,40000,Lincoln MKZ,18795,Québec,Lincoln MKZ ,2014
+Sainte-Julie,45.5930624,-73.3395943,Lincoln,40000,Lincoln MKZ,18795,Québec,Lincoln MKZ ,2014
+New Westminster,49.205728,-122.9108651,Lincoln,75927,Lincoln MKZ,16900,British Columbia,Lincoln MKZ Sunroof Leather Nav Cam Technology Pkg,2014
+Montréal,45.4972159,-73.6103642,Lincoln,75030,Lincoln MKZ,17977,Québec,Lincoln MKZ 3.7 AWD - TOIT PANO - GPS,2014
+Mississauga,43.590338,-79.645729,Lincoln,109833,Lincoln MKZ,16995,Ontario,Lincoln MKZ Reserve,2014
+Sherwood Park,53.5256963,-113.2966313,Lincoln,73070,Lincoln MKX,23733,Alberta,Lincoln MKX AWD V6 ,2014
+Kingston,44.3054151,-76.4283781,Lincoln,128311,Lincoln Navigator,32499,Ontario,Lincoln Navigator,2014
+Saskatoon,52.131802,-106.660767,Lincoln,108481,Lincoln MKX,22999,Saskatchewan,Lincoln MKX,2014
+Vaudreuil-Dorion,45.3971509,-74.0254577,Lincoln,179852,Lincoln MKX,15495,Québec,Lincoln MKX AWD ,2014
+Laval,45.60558895,-73.7344173056906,Lincoln,40000,Lincoln MKZ,18795,Québec,Lincoln MKZ ,2014
+London,42.9537654,-81.2291529,Lincoln,75210,Lincoln MKX,22987,Ontario,Lincoln MKX AWD,2014
+Laval,45.60558895,-73.7344173056906,Lincoln,81065,Lincoln MKZ,16700,Québec,Lincoln MKZ BASE ,2014
+Calgary,51.02532675,-114.049868485806,Lincoln,24399,Lincoln MKZ,22990,Alberta,Lincoln MKZ AWD,2014
+Brossard,45.4554829,-73.4678904,Lincoln,71982,Lincoln MKZ,18495,Québec,Lincoln MKZ 3.7L AWD,2014
+Ile-Perrot,46.050293,-71.9814568,Lincoln,98000,Lincoln MKC,20999,Québec,Lincoln MKC AWD CUIR TOIT PANO NAV BLUETOOTH SIEGES,2015
+Rocky Mountain House,52.38196845,-114.912057731829,Lincoln,145483,Lincoln MKX,21995,Alberta,Lincoln MKX Base Limited Pkg Htd,2015
+Saint-Constant,45.3724897,-73.5704589,Lincoln,48693,Lincoln MKZ,20999,Québec,Lincoln MKZ RESERVE AWD 3.7L CUIR TOIT PANO MAGS 19P,2015
+Winnipeg,49.884017,-97.168579,Lincoln,86572,Lincoln Navigator,39250,Manitoba,Lincoln Navigator Premium 7 Passenger,2015
+Calgary,51.02532675,-114.049868485806,Lincoln,67350,Lincoln MKC,25995,Alberta,Lincoln MKC AWD ,2015
+Vancouver,49.2608724,-123.1139529,Lincoln,56245,Lincoln MKC,26480,British Columbia,Lincoln MKC Radar Assist,2015
+Leduc,53.2607636,-113.5501238,Lincoln,93697,Lincoln Navigator,40988,Alberta,Lincoln Navigator 4WD Accident Free,2015
+Spruce Grove,53.545204,-113.903503,Lincoln,56238,Lincoln MKC,25900,Alberta,Lincoln MKC,2015
+Ajax,43.850374,-79.024658,Lincoln,48956,Lincoln MKC,23795,Ontario,Lincoln MKC Pano Roof ,2015
+Thornhill,43.8161477,-79.4245925,Lincoln,69755,Lincoln MKZ,23488,Ontario,Lincoln MKZ Base - NAVIGATION! LEATHER! PANORAMIC SUNROOF!,2015
+Regina,50.44876,-104.61731,Lincoln,69944,Lincoln MKC,26741,Saskatchewan,Lincoln MKC ,2015
+Blainville,45.67932,-73.87619,Lincoln,73100,Lincoln MKX,23950,Québec,Lincoln MKX 2015 Lincoln MKX - AWD TOIT PANO,2015
+New Westminster,49.205728,-122.9108651,Lincoln,72078,Lincoln MKC,25800,British Columbia,Lincoln MKC AWD EcoBoost Pkg Technology Pkg Tow Pkg Nav Cam,2015
+Laval,45.60558895,-73.7344173056906,Lincoln,73154,Lincoln MKC,24900,Québec,Lincoln MKC ,2015
+Aurora,43.99973,-79.467545,Lincoln,66965,Lincoln MKC,24888,Ontario,Lincoln MKC,2015
+Toronto,43.653963,-79.387207,Lincoln,75230,Lincoln MKC,22888,Ontario,Lincoln MKC AWD NAVIGATION,2015
+Lethbridge,49.694285,-112.851562,Lincoln,99395,Lincoln MKC,22995,Alberta,Lincoln MKC,2015
+St. Catharines,43.167376,-79.241638,Lincoln,60525,Lincoln MKC,22950,Ontario,Lincoln MKC AWD ,2015
+Trois-Rivières,46.3507999,-72.5571257,Lincoln,63850,Lincoln MKC,22950,Québec,Lincoln MKC AWD 4dr,2015
+Montréal,45.4972159,-73.6103642,Lincoln,69927,Lincoln Navigator,24500,Québec,Lincoln Navigator ULTIMATE L 4X4 BALLON OK EN MARCHE,2015
+Lethbridge,49.694285,-112.851562,Lincoln,131234,Lincoln MKX,22775,Alberta,Lincoln MKX Base,2015
+Cayuga,42.952055,-79.858002,Lincoln,67683,Lincoln MKC,23995,Ontario,Lincoln MKC 2.0L ECOBOOST AWD,2015
+Red Deer,52.269838,-113.818359,Lincoln,33393,Lincoln MKZ,24983,Alberta,Lincoln MKZ 2015 Lincoln MKZ AWD Luxury Edition,2015
+Laval,45.60558895,-73.7344173056906,Lincoln,53364,Lincoln Navigator,42500,Québec,Lincoln Navigator 3.5L AWD ,2015
+St Thomas,42.7792897,-81.1832518,Lincoln,76768,Lincoln MKX,25888,Ontario,Lincoln MKX Base AWD,2015
+Laval,45.60558895,-73.7344173056906,Lincoln,90887,Lincoln MKC,21999,Québec,Lincoln MKC AWD 2.3T CUIR TOIT PANO MAGS 19P NAV,2015
+Laval,45.60558895,-73.7344173056906,Lincoln,70507,Lincoln MKC,21999,Québec,Lincoln MKC AWD CUIR TOIT PANO MAGS NAV,2015
+Ottawa,45.421106,-75.690308,Lincoln,57170,Lincoln MKS,25426,Ontario,Lincoln MKS Elite AWD LEATHER NAV PANO ROOF LOADED,2015
+Toronto,43.653963,-79.387207,Lincoln,47077,Lincoln MKC,25288,Ontario,Lincoln MKC Tech Pack,2015
+Winnipeg,49.884017,-97.168579,Lincoln,59000,Lincoln MKC,25888,Manitoba,Lincoln MKC BLACK LABEL AWD,2015
+Moncton,46.097995,-64.80011,Lincoln,67179,Lincoln MKC,22222,New Brunswick,Lincoln MKC Base,2015
+Edmonton,53.535411,-113.507996,Lincoln,63542,Lincoln MKC,24997,Alberta,Lincoln MKC Base,2015
+Cayuga,42.952055,-79.858002,Lincoln,81245,Lincoln MKX,23995,Ontario,Lincoln MKX  AWD,2015
+Drummondville,45.8864303,-72.5018764,Lincoln,57700,Lincoln MKC,22398,Québec,Lincoln MKC Traction intégrale,2015
+London,42.9537654,-81.2291529,Lincoln,111253,Lincoln MKC,22495,Ontario,Lincoln MKC AWD ,2015
+Toronto,43.653963,-79.387207,Lincoln,32840,Lincoln MKC,24888,Ontario,Lincoln MKC SE Plus Pack,2015
+Laval,45.60558895,-73.7344173056906,Lincoln,70294,Lincoln MKZ,18700,Québec,Lincoln MKZ HYBRID ,2015
+Brantford,43.1554354,-80.2665916,Lincoln,100800,Lincoln MKC,18800,Ontario,Lincoln MKC AWD,2015
+Stratford,46.2189935,-63.0876534061131,Lincoln,100800,Lincoln MKC,18800,Prince Edward Island,Lincoln MKC AWD,2015
+Windsor,42.30423,-83.029861,Lincoln,100800,Lincoln MKC,18800,Ontario,Lincoln MKC AWD,2015
+Edmonton,53.535411,-113.507996,Lincoln,48411,Lincoln MKC,28988,Alberta,Lincoln MKC Reserve ,2015
+Unionville,43.8686533,-79.3119155,Lincoln,62539,Lincoln MKZ,18995,Ontario,Lincoln MKZ Base - Navigation,2015
+Laval,45.60558895,-73.7344173056906,Lincoln,123400,Lincoln MKC,18500,Québec,Lincoln MKC AWD NAVIGATION ,2015
+Toronto,43.653963,-79.387207,Lincoln,62678,Lincoln MKZ,19388,Ontario,Lincoln MKZ Hybrid,2015
+Brantford,43.1554354,-80.2665916,Lincoln,64103,Lincoln MKC,19444,Ontario,Lincoln MKC AWD,2015
+Hamilton,43.2425289,-79.9470423,Lincoln,70569,Lincoln MKX,27999,Ontario,Lincoln MKX ,2015
+Stratford,46.2189935,-63.0876534061131,Lincoln,64103,Lincoln MKC,19444,Prince Edward Island,Lincoln MKC AWD,2015
+Regina,50.44876,-104.61731,Lincoln,73289,Lincoln MKT,27998,Saskatchewan,Lincoln MKT,2015
+Windsor,42.30423,-83.029861,Lincoln,64103,Lincoln MKC,19444,Ontario,Lincoln MKC AWD,2015
+Saint-Constant,45.3724897,-73.5704589,Lincoln,96305,Lincoln MKZ,18999,Québec,Lincoln MKZ RESERVE HYBRID CUIR TOIT PANO MAGS 19P N,2015
+Laval,45.60558895,-73.7344173056906,Lincoln,94070,Lincoln MKZ,15999,Québec,Lincoln MKZ 2.0T CUIR MAGS 19P CAMERA DE RECUL,2015
+Laval,45.60558895,-73.7344173056906,Lincoln,94974,Lincoln MKZ,16994,Québec,Lincoln MKZ Automatique - AIR CLIMATISÉ - CUIR,2015
+Toronto,43.653963,-79.387207,Lincoln,139031,Lincoln MKZ,15888,Ontario,Lincoln MKZ NAVI,2015
+Winnipeg,49.884017,-97.168579,Lincoln,134733,Lincoln MKZ,15881,Manitoba,Lincoln MKZ 4dr Sdn AWD,2015
+London,42.9537654,-81.2291529,Lincoln,109506,Lincoln MKC,18495,Ontario,Lincoln MKC AWD-NAVI-PANOSUNROOF-ECOBOOST-BLUETOOTH-HEATED SEA,2015
+St. Catharines,43.167376,-79.241638,Lincoln,80707,Lincoln MKZ,17495,Ontario,Lincoln MKZ Reserve,2015
+Edmonton,53.535411,-113.507996,Lincoln,93365,Lincoln MKZ,17900,Alberta,Lincoln MKZ AWD,2015
+Red Deer,52.269838,-113.818359,Lincoln,60096,Lincoln MKC,29716,Alberta,Lincoln MKC 2015 Lincoln MKC AWD Luxury Edition,2015
+Summerside,46.41487645,-63.7839319877345,Lincoln,112571,Lincoln MKC,18480,Prince Edward Island,Lincoln MKC,2015
+Burlington,43.3248924,-79.7966835,Lincoln,66968,Lincoln MKZ,18488,Ontario,Lincoln MKZ ,2015
+St-Jérôme,45.775426,-74.013176,Lincoln,51427,Lincoln MKZ,19495,Québec,Lincoln MKZ TOIT OUVRANT CUIR NAV SIÈGES VENTILÉS ,2015
+Toronto,43.653963,-79.387207,Lincoln,59960,Lincoln MKC,23888,Ontario,Lincoln MKC AWD,2015
+Camrose,53.013131,-112.840576,Lincoln,95731,Lincoln Navigator,36987,Alberta,Lincoln Navigator 4x4,2015
+Burlington,43.3248924,-79.7966835,Lincoln,81504,Lincoln MKC,20988,Ontario,Lincoln MKC ,2015
+Caledonia,45.2773029,-62.3899848,Lincoln,37202,Lincoln MKZ,20950,Nova Scotia,Lincoln MKZ Base - $182 B,2015
+Toronto,43.653963,-79.387207,Lincoln,142326,Lincoln Navigator,37988,Ontario,Lincoln Navigator L~EXTENDED,2015
+Halifax,44.8543667,-63.137798,Lincoln,37125,Lincoln MKZ,20790,Nova Scotia,Lincoln MKZ Hybrid,2015
+Red Deer,52.269838,-113.818359,Lincoln,71493,Lincoln MKC,27817,Alberta,Lincoln MKC 2015 Lincoln MKC AWD Luxury Edition,2015
+Innisfil,44.3150892,-79.5461073,Lincoln,70650,Lincoln MKC,19998,Ontario,Lincoln MKC AWD ,2015
+Unionville,43.8686533,-79.3119155,Lincoln,62906,Lincoln MKZ,19998,Ontario,Lincoln MKZ Hybrid,2015
+Scarborough,43.773077,-79.257774,Lincoln,92024,Lincoln MKZ,20777,Ontario,Lincoln MKZ Base,2015
+Guelph,43.533783,-80.2306337,Lincoln,64000,Lincoln MKZ,20000,Ontario,Lincoln MKZ Hybrid - Navigation,2015
+Lower Sackville,44.7733009,-63.6884669,Lincoln,85240,Lincoln MKC,19995,Nova Scotia,Lincoln MKC AWD ,2015
+Halifax,44.8543667,-63.137798,Lincoln,109792,Lincoln MKX,20777,Nova Scotia,Lincoln MKX,2015
+London,42.9537654,-81.2291529,Lincoln,84180,Lincoln MKZ,26995,Ontario,Lincoln MKZ AWD ,2015
+Mission,49.1589351,-122.2835833,Lincoln,58719,Lincoln MKX,27988,British Columbia,Lincoln MKX Base,2015
+Brantford,43.1554354,-80.2665916,Lincoln,120060,Lincoln MKC,19888,Ontario,Lincoln MKC Reserve ,2015
+St-Gédéon-De-Beauce,45.853434,-70.641747,Lincoln,48200,Lincoln MKC,10950,Québec,Lincoln MKC AWD - Toit - Cuir - GPS - 2.0L EcoBoost - FULL,2015
+St-Gédéon-De-Beauce,45.853434,-70.641747,Lincoln,35800,Lincoln MKX,10950,Québec,Lincoln MKX AWD - Limited - FULL - Cuir - Toit - GPS - ETC.,2015
+Hagersville,42.9642352,-80.046821,Lincoln,117873,Lincoln Navigator,39000,Ontario,Lincoln Navigator 4WD 4dr,2015
+Winnipeg,49.884017,-97.168579,Lincoln,57437,Lincoln MKX,27337,Manitoba,Lincoln MKX AWD V6 ''One Owner Trade with Low Kms'',2015
+Mississauga,43.590338,-79.645729,Lincoln,144500,Lincoln MKX,20888,Ontario,Lincoln MKX Reserve,2016
+Ile-Perrot,46.050293,-71.9814568,Lincoln,78995,Lincoln MKZ,20999,Québec,Lincoln MKZ 2.0H HYBRID CUIR TOIT MAGS 19P NAV,2016
+Laval,45.60558895,-73.7344173056906,Lincoln,97720,Lincoln MKC,20999,Québec,Lincoln MKC AWD CUIR TOIT PANO MAGS NAV CAMERA DE RE,2016
+Burlington,43.3248924,-79.7966835,Lincoln,95059,Lincoln MKC,21988,Ontario,Lincoln MKC Select,2016
+Montréal,45.4972159,-73.6103642,Lincoln,53002,Lincoln MKX,11900,Québec,Lincoln MKX RESERVE AWD 4X4 V6 3.7L BALLON OK EN MARCHE,2016
+Fonthill,43.0394019,-79.283605,Lincoln,84626,Lincoln MKC,22699,Ontario,Lincoln MKC Premier,2016
+Scarborough,43.773077,-79.257774,Lincoln,110190,Lincoln MKZ,18998,Ontario,Lincoln MKZ Sedan,2016
+Brossard,45.4554829,-73.4678904,Lincoln,79100,Lincoln MKC,22795,Québec,Lincoln MKC Reserve,2016
+Montréal-Nord,45.5938992,-73.6376062,Lincoln,79829,Lincoln MKZ,18995,Québec,Lincoln MKZ berline,2016
+La Prairie,45.4174659,-73.4891644,Lincoln,75593,Lincoln MKC,21995,Québec,Lincoln MKC PREMIERE AWD CUIR,2016
+Laval,45.60558895,-73.7344173056906,Lincoln,75593,Lincoln MKC,21995,Québec,Lincoln MKC PREMIERE AWD CUIR ,2016
+Sainte-Julie,45.5930624,-73.3395943,Lincoln,75593,Lincoln MKC,21995,Québec,Lincoln MKC PREMIERE AWD CUIR ,2016
+Drummondville,45.8864303,-72.5018764,Lincoln,73486,Lincoln MKZ,21989,Québec,Lincoln MKZ AWD ,2016
+Trois-Rivières,46.3507999,-72.5571257,Lincoln,71150,Lincoln MKC,22950,Québec,Lincoln MKC AWD 4dr Select,2016
+Salaberry-De-Valleyfield,45.2555625,-74.1316153,Lincoln,74158,Lincoln MKC,22995,Québec,Lincoln MKC PREMIER AWD ECOBOOST 2.0L AC,2016
+Georgetown,43.6502652,-79.9036058,Lincoln,91615,Lincoln MKC,23950,Ontario,Lincoln MKC Select ,2016
+Terrebonne,45.7081005,-73.6515157,Lincoln,75473,Lincoln MKX,30991,Québec,Lincoln MKX RÉSERVE  CUIR TOIT NAV 3.7 LITRES,2016
+Cayuga,42.952055,-79.858002,Lincoln,32092,Lincoln MKC,30950,Ontario,Lincoln MKC RESERVE AWD,2016
+Brantford,43.1554354,-80.2665916,Lincoln,46679,Lincoln MKX,30888,Ontario,Lincoln MKX Reserve ,2016
+Unionville,43.8686533,-79.3119155,Lincoln,75000,Lincoln MKX,30887,Ontario,Lincoln MKX Reserve,2016
+Airdrie,51.28184845,-113.989991054108,Lincoln,93178,Lincoln MKX,30588,Alberta,Lincoln MKX Reserve,2016
+Winnipeg,49.884017,-97.168579,Lincoln,86800,Lincoln MKX,30379,Manitoba,Lincoln MKX Clean CarFAX ,2016
+Laval,45.60558895,-73.7344173056906,Lincoln,72582,Lincoln MKX,29999,Québec,Lincoln MKX RESERVE AWD CUIR TOIT PANO MAGS CAMERA D,2016
+Winnipeg,49.884017,-97.168579,Lincoln,100877,Lincoln MKX,29995,Manitoba,Lincoln MKX Reserve AWD,2016
+Surrey,49.1913033,-122.8491439,Lincoln,60900,Lincoln MKC,31900,British Columbia,Lincoln MKC Reserve,2016
+Mississauga,43.590338,-79.645729,Lincoln,68833,Lincoln MKX,31888,Ontario,Lincoln MKX Reserve - Leather Seats -  Cooled Seats,2016
+Vernon,50.268277,-119.267578,Lincoln,71904,Lincoln MKC,31713,British Columbia,Lincoln MKC Select,2016
+Brampton,43.6858146,-79.7599337,Lincoln,69064,Lincoln MKX,31700,Ontario,Lincoln MKX Reserve AWD ,2016
+Unionville,43.8686533,-79.3119155,Lincoln,39937,Lincoln MKX,31699,Ontario,Lincoln MKX Reserve,2016
+Laval,45.60558895,-73.7344173056906,Lincoln,97473,Lincoln MKX,31300,Québec,Lincoln MKX ,2016
+Montréal-Nord,45.5938992,-73.6376062,Lincoln,51965,Lincoln MKX,29995,Québec,Lincoln MKX technologie package,2016
+Toronto,43.653963,-79.387207,Lincoln,18401,Lincoln MKC,29988,Ontario,Lincoln MKC Select-AWD-2.0L-Total luxury !,2016
+St-Hubert,46.501891,-64.025032,Lincoln,41250,Lincoln MKX,28999,Prince Edward Island,Lincoln MKX AWD CUIR TOIT PANO MAGS NAV,2016
+Brampton,43.6858146,-79.7599337,Lincoln,73594,Lincoln MKX,28999,Ontario,Lincoln MKX AWD 4dr Reserve,2016
+Cayuga,42.952055,-79.858002,Lincoln,99960,Lincoln MKX,28995,Ontario,Lincoln MKX RESERVE AWD,2016
+Laval,45.60558895,-73.7344173056906,Lincoln,87684,Lincoln MKX,28999,Québec,Lincoln MKX RESERVE AWD CUIR TOIT PANO MAGS 21P NAV,2016
+Oakville,43.447436,-79.666672,Lincoln,84998,Lincoln MKX,28988,Ontario,Lincoln MKX Ext Warranty Inc,2016
+Innisfil,44.3150892,-79.5461073,Lincoln,79626,Lincoln MKX,28900,Ontario,Lincoln MKX Ultra AWD ,2016
+Unionville,43.8686533,-79.3119155,Lincoln,86560,Lincoln MKX,28899,Ontario,Lincoln MKX Reserve Panoroof,2016
+Regina,50.44876,-104.61731,Lincoln,118573,Lincoln MKX,28874,Saskatchewan,Lincoln MKX ,2016
+St. Catharines,43.167376,-79.241638,Lincoln,92739,Lincoln MKX,28950,Ontario,Lincoln MKX Reserve AWD ,2016
+Verona,44.4784887,-76.6958284,Lincoln,44939,Lincoln MKX,29900,Ontario,Lincoln MKX AWD - NEW TIRES-NAVIGATION-CLIMATE PKG,2016
+Hinton,53.4046768,-117.570219,Lincoln,38956,Lincoln MKZ,29896,Alberta,Lincoln MKZ 2016 Lincoln mkz,2016
+Thornhill,43.8161477,-79.4245925,Lincoln,72829,Lincoln MKX,29888,Ontario,Lincoln MKX Reserve - Leather - Panoramic Roof - Navigation,2016
+St Thomas,42.7792897,-81.1832518,Lincoln,82051,Lincoln MKX,29888,Ontario,Lincoln MKX Reserve Reserv AWD,2016
+Windsor,42.30423,-83.029861,Lincoln,123400,Lincoln MKX,29788,Ontario,Lincoln MKX,2016
+Red Deer,52.269838,-113.818359,Lincoln,108847,Lincoln MKX,29525,Alberta,Lincoln MKX AWD,2016
+Edmonton,53.535411,-113.507996,Lincoln,70500,Lincoln MKX,29497,Alberta,Lincoln MKX Reserve,2016
+Sainte-Julie,45.5930624,-73.3395943,Lincoln,68727,Lincoln MKX,29495,Québec,Lincoln MKX RESERVE AWD CUIR,2016
+Laval,45.60558895,-73.7344173056906,Lincoln,68727,Lincoln MKX,29495,Québec,Lincoln MKX RESERVE AWD CUIR,2016
+La Prairie,45.4174659,-73.4891644,Lincoln,68727,Lincoln MKX,29495,Québec,Lincoln MKX RESERVE AWD CUIR,2016
+Sherbrooke,45.403271,-71.889038,Lincoln,46641,Lincoln MKX,29988,Québec,Lincoln MKX RESERVE,2016
+Oakville,43.447436,-79.666672,Lincoln,60886,Lincoln MKX,31950,Ontario,Lincoln MKX RESERVE ,2016
+Edmonton,53.535411,-113.507996,Lincoln,33321,Lincoln MKX,36000,Alberta,Lincoln MKX Reserve ,2016
+Georgetown,43.6502652,-79.9036058,Lincoln,41216,Lincoln MKX,35950,Ontario,Lincoln MKX RESERVE,2016
+Thornhill,43.8161477,-79.4245925,Lincoln,39051,Lincoln MKX,37888,Ontario,Lincoln MKX Reserve - LINCOLN CERTIFIED! RATES LOW AS 2.9% ,2016
+Saskatoon,52.131802,-106.660767,Lincoln,69952,Lincoln Navigator,44599,Saskatchewan,Lincoln Navigator,2016
+Brantford,43.1554354,-80.2665916,Lincoln,118742,Lincoln Navigator,45998,Ontario,Lincoln Navigator Reserve - LEATHER,2016
+Fort Mcmurray,56.7291997,-111.3885221,Lincoln,75588,Lincoln Navigator,46206,Alberta,Lincoln Navigator Reserve ,2016
+Windsor,42.30423,-83.029861,Lincoln,81410,Lincoln Navigator,46434,Ontario,Lincoln Navigator,2016
+Toronto,43.653963,-79.387207,Lincoln,94733,Lincoln Navigator,43388,Ontario,Lincoln Navigator Select,2016
+Longueuil,45.5172382,-73.4467466,Lincoln,99700,Lincoln Navigator,41995,Québec,Lincoln Navigator 2016 Lincoln Navigator - 4WD 4dr Reserve,2016
+Winnipeg,49.884017,-97.168579,Lincoln,52878,Lincoln Navigator,49696,Manitoba,Lincoln Navigator Select LEASE RETURN NO ACCIDENTS,2016
+Halifax,44.8543667,-63.137798,Lincoln,55377,Lincoln Navigator,49990,Nova Scotia,Lincoln Navigator,2016
+Thornhill,43.8161477,-79.4245925,Lincoln,51656,Lincoln MKX,39888,Ontario,Lincoln MKX Reserve -  LEATHER! PANORAMIC ROOF! NAVIGATION!,2016
+Vaughan,43.820904,-79.5084,Lincoln,40135,Lincoln MKX,39880,Ontario,Lincoln MKX Reserve,2016
+Saint-Barthélemy,46.1912244,-73.1199,Lincoln,63250,Lincoln MKX,32985,Québec,Lincoln MKX Reserve AWD,2016
+Windsor,42.30423,-83.029861,Lincoln,73684,Lincoln MKX,32916,Ontario,Lincoln MKX,2016
+Verona,44.4784887,-76.6958284,Lincoln,45949,Lincoln MKX,32900,Ontario,Lincoln MKX AWD RESERVE - CLIMATE PKG,2016
+Saskatoon,52.131802,-106.660767,Lincoln,62000,Lincoln MKX,32399,Saskatchewan,Lincoln MKX,2016
+Brampton,43.6858146,-79.7599337,Lincoln,70639,Lincoln MKX,31998,Ontario,Lincoln MKX RESERVE AWD,2016
+Calgary,51.02532675,-114.049868485806,Lincoln,43035,Lincoln MKX,32990,Alberta,Lincoln MKX Ultra,2016
+Thornhill,43.8161477,-79.4245925,Lincoln,63000,Lincoln MKX,34888,Ontario,Lincoln MKX Reserve - LEATHER! PANORAMIC SUNROOF! NAVIGATION!,2016
+Edmonton,53.535411,-113.507996,Lincoln,39000,Lincoln MKX,34247,Alberta,Lincoln MKX Reserve,2016
+Brantford,43.1554354,-80.2665916,Lincoln,66200,Lincoln MKX,33999,Ontario,Lincoln MKX Reserve - ,2016
+Winnipeg,49.884017,-97.168579,Lincoln,64021,Lincoln MKX,33995,Manitoba,Lincoln MKX Reserve AWD,2016
+Brossard,45.4554829,-73.4678904,Lincoln,50149,Lincoln MKS,33495,Québec,Lincoln MKS EcoBoost,2016
+Edmonton,53.535411,-113.507996,Lincoln,104800,Lincoln MKX,28742,Alberta,Lincoln MKX Reserve,2016
+Calgary,51.02532675,-114.049868485806,Lincoln,125030,Lincoln MKX,26990,Alberta,Lincoln MKX Ultra,2016
+Whitby,43.899871,-78.940201,Lincoln,140381,Lincoln MKX,26694,Ontario,Lincoln MKX Reserve AWD,2016
+Toronto,43.653963,-79.387207,Lincoln,32738,Lincoln MKC,26788,Ontario,Lincoln MKC Select,2016
+Ottawa,45.421106,-75.690308,Lincoln,70618,Lincoln MKC,24769,Ontario,Lincoln MKC AWD LEATHER REAR CAM HTD SEATS,2016
+Woodstock,43.133061,-80.749855,Lincoln,75800,Lincoln MKC,24527,Ontario,Lincoln MKC Select AWD - Leather & Sunroof,2016
+Brampton,43.6858146,-79.7599337,Lincoln,74368,Lincoln MKX,26900,Ontario,Lincoln MKX RESERVE ,2016
+Kitchener,43.453168,-80.494423,Lincoln,57905,Lincoln MKZ,26993,Ontario,Lincoln MKZ Reserve AWD,2016
+Montréal-Nord,45.5938992,-73.6376062,Lincoln,95555,Lincoln MKX,26995,Québec,Lincoln MKX Sélect 4 portes TI ,2016
+Fonthill,43.0394019,-79.283605,Lincoln,63419,Lincoln MKC,24399,Ontario,Lincoln MKC RESERVE,2016
+Toronto,43.653963,-79.387207,Lincoln,56142,Lincoln MKC,27388,Ontario,Lincoln MKC Reserve ,2016
+Windsor,42.30423,-83.029861,Lincoln,30261,Lincoln MKC,27478,Ontario,Lincoln MKC,2016
+Oakville,43.447436,-79.666672,Lincoln,90000,Lincoln MKX,27488,Ontario,Lincoln MKX 3.7 AWD - NAVI - PANO ROOF - SELF PARKING,2016
+Burlington,43.3248924,-79.7966835,Lincoln,99850,Lincoln MKX,27488,Ontario,Lincoln MKX Reserve,2016
+Laval,45.60558895,-73.7344173056906,Lincoln,64358,Lincoln MKX,26500,Québec,Lincoln MKX SELECT ,2016
+Laval,45.60558895,-73.7344173056906,Lincoln,46523,Lincoln MKC,27500,Québec,Lincoln MKC GPS,2016
+Brantford,43.1554354,-80.2665916,Lincoln,76393,Lincoln MKC,24777,Ontario,Lincoln MKC RESERVE AWD,2016
+Toronto,43.653963,-79.387207,Lincoln,72925,Lincoln MKC,24999,Ontario,Lincoln MKC Reserve ,2016
+Windsor,42.30423,-83.029861,Lincoln,68426,Lincoln MKC,24999,Ontario,Lincoln MKC Select,2016
+Windsor,42.30423,-83.029861,Lincoln,72110,Lincoln MKC,24995,Ontario,Lincoln MKC AWD RESERVE,2016
+Stratford,46.2189935,-63.0876534061131,Lincoln,72110,Lincoln MKC,24995,Prince Edward Island,Lincoln MKC AWD RESERVE,2016
+Kingston,44.3054151,-76.4283781,Lincoln,94577,Lincoln MKC,25195,Ontario,Lincoln MKC SELECT - AWD,2016
+Windsor,42.30423,-83.029861,Lincoln,83120,Lincoln MKZ,25210,Ontario,Lincoln MKZ,2016
+Toronto,43.653963,-79.387207,Lincoln,113000,Lincoln MKX,25450,Ontario,Lincoln MKX AWD Navigation Leather Pano-Sunroof Backup Cam,2016
+Montréal-Nord,45.5938992,-73.6376062,Lincoln,70000,Lincoln MKC,25495,Québec,Lincoln MKC AWD RESERVE,2016
+St. Catharines,43.167376,-79.241638,Lincoln,49684,Lincoln MKC,25495,Ontario,Lincoln MKC Reserve ,2016
+Brantford,43.1554354,-80.2665916,Lincoln,72110,Lincoln MKC,24995,Ontario,Lincoln MKC AWD RESERVE,2016
+Oakville,43.447436,-79.666672,Lincoln,49000,Lincoln MKC,25878,Ontario,Lincoln MKC 2.0 AWD - NAVI - PANO ROOF - REVERSE CAM,2016
+Oakville,43.447436,-79.666672,Lincoln,75000,Lincoln MKC,24988,Ontario,Lincoln MKC 2.0 AWD - NAVI - PANO ROOF - REVERSE CAM,2016
+Laval,45.60558895,-73.7344173056906,Lincoln,94915,Lincoln MKC,24900,Québec,Lincoln MKC RESERVE ,2016
+Oakville,43.447436,-79.666672,Lincoln,113670,Lincoln MKX,24800,Ontario,Lincoln MKX Navigation,2016
+Windsor,42.30423,-83.029861,Lincoln,76393,Lincoln MKC,24777,Ontario,Lincoln MKC RESERVE AWD,2016
+Trois-Rivières,46.3507999,-72.5571257,Lincoln,49987,Lincoln MKC,25995,Québec,Lincoln MKC SELECT ,2016
+Stratford,46.2189935,-63.0876534061131,Lincoln,76393,Lincoln MKC,24777,Prince Edward Island,Lincoln MKC RESERVE AWD,2016
+Hamilton,43.2425289,-79.9470423,Lincoln,106200,Lincoln MKX,25996,Ontario,Lincoln MKX Select Plus,2016
+Laval,45.60558895,-73.7344173056906,Lincoln,95437,Lincoln MKX,25999,Québec,Lincoln MKX AWD CUIR TOIT PANO MAGS NAV,2016
+St. Catharines,43.167376,-79.241638,Lincoln,55813,Lincoln MKC,26499,Ontario,Lincoln MKC Select,2016
+Hamilton,43.2425289,-79.9470423,Lincoln,75144,Lincoln MKC,24996,Ontario,Lincoln MKC All Wheel Drive ,2016
+Caledonia,45.2773029,-62.3899848,Lincoln,33904,Lincoln MKZ,27950,Nova Scotia,Lincoln MKZ Base - $216 B,2016
+Vancouver,49.2608724,-123.1139529,Lincoln,29537,Lincoln MKZ,27980,British Columbia,Lincoln MKZ All Wheel,2016
+St. Catharines,43.167376,-79.241638,Lincoln,71871,Lincoln MKC,23995,Ontario,Lincoln MKC Reserve ,2016
+Vancouver,49.2608724,-123.1139529,Lincoln,19963,Lincoln MKZ,27986,British Columbia,Lincoln MKZ AWD Only 20000 Easy KMS !!,2016
+Thornhill,43.8161477,-79.4245925,Lincoln,77836,Lincoln MKC,27950,Ontario,Lincoln MKC Reserve - NEW PRICE!! NEW PRICE!!,2016
+Windsor,42.30423,-83.029861,Lincoln,77105,Lincoln MKC,23995,Ontario,Lincoln MKC AWD,2016
+Stratford,46.2189935,-63.0876534061131,Lincoln,77105,Lincoln MKC,23995,Prince Edward Island,Lincoln MKC AWD,2016
+Brantford,43.1554354,-80.2665916,Lincoln,77105,Lincoln MKC,23995,Ontario,Lincoln MKC AWD,2016
+Edmonton,53.535411,-113.507996,Lincoln,51077,Lincoln MKC,27988,Alberta,Lincoln MKC AWD SELECT Navigation ,2016
+Burlington,43.3248924,-79.7966835,Lincoln,93258,Lincoln MKX,27988,Ontario,Lincoln MKX Reserve,2016
+Guelph,43.533783,-80.2306337,Lincoln,62000,Lincoln MKC,23988,Ontario,Lincoln MKC Select AWD,2016
+Caledonia,45.2773029,-62.3899848,Lincoln,38000,Lincoln MKZ,27950,Nova Scotia,Lincoln MKZ Base,2016
+Georgetown,43.6502652,-79.9036058,Lincoln,87310,Lincoln MKC,23950,Ontario,Lincoln MKC Reserve AWD,2016
+Sudbury,46.49272,-80.991211,Lincoln,52587,Lincoln MKC,27695,Ontario,Lincoln MKC Select,2016
+Winnipeg,49.884017,-97.168579,Lincoln,113681,Lincoln MKX,27750,Manitoba,Lincoln MKX Tech,2016
+Tilbury,42.2607964,-82.4324989,Lincoln,40947,Lincoln MKX,35995,Ontario,Lincoln MKX Rserve,2017
+Vaughan,43.820904,-79.5084,Lincoln,24836,Lincoln Navigator,58880,Ontario,Lincoln Navigator Reserve L,2017
+Laval,45.60558895,-73.7344173056906,Lincoln,66035,Lincoln MKZ,24936,Québec,Lincoln MKZ Select AWD NAVIGATION Toit Ouvrant - A,2017
+Milton,43.513671,-79.882817,Lincoln,63727,Lincoln MKC,23988,Ontario,Lincoln MKC AWD,2017
+Surrey,49.1913033,-122.8491439,Lincoln,19151,Lincoln MKX,43995,British Columbia,Lincoln MKX AWD-Leather,2017
+Wetaskiwin,52.968492,-113.36792,Lincoln,23000,Lincoln Navigator,57460,Alberta,Lincoln Navigator Select,2017
+Maple Ridge,49.2197385,-122.5998426,Lincoln,79618,Lincoln Navigator,57900,British Columbia,Lincoln Navigator Select,2017
+Halifax,44.8543667,-63.137798,Lincoln,72659,Lincoln MKX,35992,Nova Scotia,Lincoln MKX,2017
+Grande Prairie,55.1709919,-118.7948882,Lincoln,103129,Lincoln Navigator,45998,Alberta,Lincoln Navigator Select - Certified,2017
+New Westminster,49.205728,-122.9108651,Lincoln,40559,Lincoln MKX,35800,British Columbia,Lincoln MKX Reserve AWD Tow Pkg Tech Pkg Sunroof Leather Nav C,2017
+St. Catharines,43.167376,-79.241638,Lincoln,20100,Lincoln MKX,34995,Ontario,Lincoln MKX Reserve ,2017
+Regina,50.44876,-104.61731,Lincoln,57690,Lincoln MKX,34999,Saskatchewan,Lincoln MKX Reserve AWD,2017
+Spruce Grove,53.545204,-113.903503,Lincoln,38098,Lincoln Continental,44900,Alberta,Lincoln Continental,2017
+Guelph,43.533783,-80.2306337,Lincoln,20082,Lincoln Navigator,61495,Ontario,Lincoln Navigator Reserve,2017
+Laval,45.60558895,-73.7344173056906,Lincoln,68509,Lincoln MKX,35300,Québec,Lincoln MKX RESERVE ,2017
+Toronto,43.653963,-79.387207,Lincoln,12658,Lincoln Continental,44888,Ontario,Lincoln Continental Reserve ,2017
+Hamilton,43.2425289,-79.9470423,Lincoln,56743,Lincoln MKZ,35489,Ontario,Lincoln MKZ,2017
+Edmonton,53.535411,-113.507996,Lincoln,25725,Lincoln MKZ,35787,Alberta,Lincoln MKZ Reserve 3.0L 400HP ALL Wheel Drive,2017
+Calgary,51.02532675,-114.049868485806,Lincoln,47960,Lincoln MKZ,24990,Alberta,Lincoln MKZ RESERVE HYBRID NAVI,2017
+Aurora,43.99973,-79.467545,Lincoln,66577,Lincoln MKX,35888,Ontario,Lincoln MKX Reserve,2017
+Thornhill,43.8161477,-79.4245925,Lincoln,28569,Lincoln MKC,35888,Ontario,Lincoln MKC Reserve - LOW KMS! LEATHER! NAVIGATION! SUNROOF!,2017
+Brampton,43.6858146,-79.7599337,Lincoln,12171,Lincoln Continental,43898,Ontario,Lincoln Continental 4dr Sdn Reserve,2017
+Windsor,42.30423,-83.029861,Lincoln,57998,Lincoln MKX,36954,Ontario,Lincoln MKX Reserve,2017
+Montréal-Nord,45.5938992,-73.6376062,Lincoln,65166,Lincoln MKX,36495,Québec,Lincoln MKX Reserve,2017
+Laval,45.60558895,-73.7344173056906,Lincoln,69531,Lincoln Continental,38500,Québec,Lincoln Continental RESERVE ,2017
+Laval,45.60558895,-73.7344173056906,Lincoln,66099,Lincoln Continental,38900,Québec,Lincoln Continental  ,2017
+Leduc,53.2607636,-113.5501238,Lincoln,75437,Lincoln MKX,39245,Alberta,Lincoln MKX Reserve w,2017
+St Thomas,42.7792897,-81.1832518,Lincoln,70145,Lincoln Navigator,53888,Ontario,Lincoln Navigator Reserve Reserve AWD,2017
+Regina,50.44876,-104.61731,Lincoln,17096,Lincoln Navigator,53888,Saskatchewan,Lincoln Navigator ,2017
+Brantford,43.1554354,-80.2665916,Lincoln,106097,Lincoln MKC,24500,Ontario,Lincoln MKC AWD,2017
+Regina,50.44876,-104.61731,Lincoln,35131,Lincoln MKX,39688,Saskatchewan,Lincoln MKX,2017
+St-Raymond,46.889058,-71.835136,Lincoln,87457,Lincoln MKZ,24450,Québec,Lincoln MKZ Select-AWD -GPS -CUIR -TOIT,2017
+Unionville,43.8686533,-79.3119155,Lincoln,54564,Lincoln Navigator,49995,Ontario,Lincoln Navigator Select - Navigation,2017
+Regina,50.44876,-104.61731,Lincoln,53156,Lincoln Navigator,53701,Saskatchewan,Lincoln Navigator ,2017
+Regina,50.44876,-104.61731,Lincoln,40510,Lincoln Navigator,49999,Saskatchewan,Lincoln Navigator ,2017
+Winnipeg,49.884017,-97.168579,Lincoln,77067,Lincoln MKX,39996,Manitoba,Lincoln MKX Reserve AWD,2017
+Winnipeg,49.884017,-97.168579,Lincoln,30227,Lincoln MKX,39998,Manitoba,Lincoln MKX Reserve AWD LOCAL LEASE RETURN MASSAGE SEATS,2017
+Calgary,51.02532675,-114.049868485806,Lincoln,62436,Lincoln Navigator,51294,Alberta,Lincoln Navigator,2017
+Edmonton,53.535411,-113.507996,Lincoln,60000,Lincoln Navigator,52000,Alberta,Lincoln Navigator Select ,2017
+Sudbury,46.49272,-80.991211,Lincoln,38198,Lincoln MKX,40295,Ontario,Lincoln MKX Reserve,2017
+Regina,50.44876,-104.61731,Lincoln,43141,Lincoln MKX,38497,Saskatchewan,Lincoln MKX ,2017
+Regina,50.44876,-104.61731,Lincoln,60890,Lincoln Navigator,55997,Saskatchewan,Lincoln Navigator,2017
+Thornhill,43.8161477,-79.4245925,Lincoln,24864,Lincoln MKC,36888,Ontario,Lincoln MKC Reserve - ONE OWNER! LOW KMS! LINCOLN CERTIFIED!!,2017
+Notre-Dame-Des-Pins,46.183158,-70.713844,Lincoln,54421,Lincoln Navigator,23995,Québec,Lincoln Navigator SELECT,2017
+Regina,50.44876,-104.61731,Lincoln,36781,Lincoln Navigator,55994,Saskatchewan,Lincoln Navigator,2017
+Unionville,43.8686533,-79.3119155,Lincoln,43933,Lincoln MKX,36994,Ontario,Lincoln MKX Reserve,2017
+Regina,50.44876,-104.61731,Lincoln,50710,Lincoln Continental,42987,Saskatchewan,Lincoln Continental,2017
+Edmonton,53.535411,-113.507996,Lincoln,59491,Lincoln Navigator,48891,Alberta,Lincoln Navigator Select 2nd Row Bucket Seats and Warranty Until 202,2017
+Edmonton,53.535411,-113.507996,Lincoln,40277,Lincoln Navigator,54756,Alberta,Lincoln Navigator Select,2017
+Windsor,42.30423,-83.029861,Lincoln,106097,Lincoln MKC,24500,Ontario,Lincoln MKC AWD,2017
+Stratford,46.2189935,-63.0876534061131,Lincoln,106097,Lincoln MKC,24500,Prince Edward Island,Lincoln MKC AWD,2017
+Kingston,44.3054151,-76.4283781,Lincoln,45450,Lincoln Navigator,54988,Ontario,Lincoln Navigator Navigator L,2017
+St-Hubert,46.501891,-64.025032,Lincoln,27206,Lincoln MKZ,29999,Prince Edward Island,Lincoln MKZ RESERVE AWD NAV TOIT  MAGS 19,2017
+Edmonton,53.535411,-113.507996,Lincoln,38732,Lincoln MKZ,30000,Alberta,Lincoln MKZ Select Hybrid,2017
+Halifax,44.8543667,-63.137798,Lincoln,45427,Lincoln MKC,30490,Nova Scotia,Lincoln MKC,2017
+Burlington,43.3248924,-79.7966835,Lincoln,70495,Lincoln MKC,27488,Ontario,Lincoln MKC Select,2017
+Burnaby,49.2433804,-122.9725459,Lincoln,45485,Lincoln MKC,30600,British Columbia,Lincoln MKC Reserve,2017
+St-Hubert,46.501891,-64.025032,Lincoln,50679,Lincoln MKC,27999,Prince Edward Island,Lincoln MKC SELECT 2.0T AWD NAV CUIR MAGS,2017
+Toronto,43.653963,-79.387207,Lincoln,75187,Lincoln MKC,27388,Ontario,Lincoln MKC Reserve ,2017
+Halifax,44.8543667,-63.137798,Lincoln,55505,Lincoln MKC,27021,Nova Scotia,Lincoln MKC,2017
+Burlington,43.3248924,-79.7966835,Lincoln,40689,Lincoln MKC,30988,Ontario,Lincoln MKC Reserve,2017
+Sherbrooke,45.403271,-71.889038,Lincoln,40677,Lincoln MKC,30988,Québec,Lincoln MKC RESERVE,2017
+Windsor,42.30423,-83.029861,Lincoln,71124,Lincoln MKC,26995,Ontario,Lincoln MKC AWD SELECT,2017
+Stratford,46.2189935,-63.0876534061131,Lincoln,71124,Lincoln MKC,26995,Prince Edward Island,Lincoln MKC AWD SELECT,2017
+Brantford,43.1554354,-80.2665916,Lincoln,71124,Lincoln MKC,26995,Ontario,Lincoln MKC AWD SELECT,2017
+St-Eustache,45.5646052,-73.8929714,Lincoln,18656,Lincoln MKZ,31418,Québec,Lincoln MKZ Select Plus 18439 KM,2017
+Oakville,43.447436,-79.666672,Lincoln,18000,Lincoln MKZ,34988,Ontario,Lincoln MKZ 3.0T AWD - NAVI - PANO ROOF - REVERSE CAM,2017
+Guelph,43.533783,-80.2306337,Lincoln,38000,Lincoln MKC,31750,Ontario,Lincoln MKC Reserve AWD - Leather,2017
+Brampton,43.6858146,-79.7599337,Lincoln,44146,Lincoln MKC,26900,Ontario,Lincoln MKC SELECT ,2017
+Ottawa,45.421106,-75.690308,Lincoln,65887,Lincoln MKC,26888,Ontario,Lincoln MKC AWD 4dr,2017
+Brantford,43.1554354,-80.2665916,Lincoln,76178,Lincoln MKC,26888,Ontario,Lincoln MKC Select ,2017
+Windsor,42.30423,-83.029861,Lincoln,69617,Lincoln MKZ,26880,Ontario,Lincoln MKZ AWD SELECT,2017
+Stratford,46.2189935,-63.0876534061131,Lincoln,69617,Lincoln MKZ,26880,Prince Edward Island,Lincoln MKZ AWD SELECT,2017
+Fonthill,43.0394019,-79.283605,Lincoln,47344,Lincoln MKC,27499,Ontario,Lincoln MKC SELECT,2017
+Regina,50.44876,-104.61731,Lincoln,30212,Lincoln MKC,31984,Saskatchewan,Lincoln MKC,2017
+Notre-Dame-Des-Pins,46.183158,-70.713844,Lincoln,19731,Lincoln MKC,29995,Québec,Lincoln MKC ULTRA,2017
+Longueuil,45.5172382,-73.4467466,Lincoln,64300,Lincoln MKZ,28995,Québec,Lincoln MKZ 4dr Sdn Reserve Hybrid FWD Navi Toit Pano,2017
+Laval,45.60558895,-73.7344173056906,Lincoln,21025,Lincoln MKZ,27995,Québec,Lincoln MKZ HYBRID CUIR ,2017
+Saint-Constant,45.3724897,-73.5704589,Lincoln,59766,Lincoln MKC,28999,Québec,Lincoln MKC RESERVE AWD 2.0T CUIR TOIT NAV MAGS,2017
+Saint-Constant,45.3724897,-73.5704589,Lincoln,33752,Lincoln MKC,28999,Québec,Lincoln MKC SELECT 2.0T AWD CUIR NAV,2017
+Burlington,43.3248924,-79.7966835,Lincoln,93577,Lincoln MKZ,27988,Ontario,Lincoln MKZ Reserve,2017
+Oakville,43.447436,-79.666672,Lincoln,53000,Lincoln MKZ,29488,Ontario,Lincoln MKZ HYBRID - NAVI - SUNROOF - REVERSE CAM,2017
+Guelph,43.533783,-80.2306337,Lincoln,66000,Lincoln MKC,29493,Ontario,Lincoln MKC Reserve AWD - Leather,2017
+La Prairie,45.4174659,-73.4891644,Lincoln,21025,Lincoln MKZ,27995,Québec,Lincoln MKZ HYBRID CUIR ,2017
+Regina,50.44876,-104.61731,Lincoln,32684,Lincoln MKC,29738,Saskatchewan,Lincoln MKC,2017
+Notre-Dame-Des-Pins,46.183158,-70.713844,Lincoln,53083,Lincoln MKX,17995,Québec,Lincoln MKX AWD RESERVE,2017
+St Thomas,42.7792897,-81.1832518,Lincoln,57032,Lincoln MKC,29888,Ontario,Lincoln MKC Select AWD,2017
+Ottawa,45.421106,-75.690308,Lincoln,66721,Lincoln MKC,27888,Ontario,Lincoln MKC Select,2017
+Sainte-Julie,45.5930624,-73.3395943,Lincoln,21025,Lincoln MKZ,27995,Québec,Lincoln MKZ HYBRID CUIR ,2017
+Vancouver,49.2608724,-123.1139529,Lincoln,42898,Lincoln MKC,31986,British Columbia,Lincoln MKC Select NO Payments Until 2020 o.c.a.,2017
+Toronto,43.653963,-79.387207,Lincoln,48805,Lincoln MKZ,28888,Ontario,Lincoln MKZ Hybrid ,2017
+Regina,50.44876,-104.61731,Lincoln,41561,Lincoln MKC,33754,Saskatchewan,Lincoln MKC,2017
+Red Deer,52.269838,-113.818359,Lincoln,22803,Lincoln MKC,33842,Alberta,Lincoln MKC 2017 Lincoln MKC AWD Select Leather Nav BCam,2017
+Innisfil,44.3150892,-79.5461073,Lincoln,37814,Lincoln MKC,28700,Ontario,Lincoln MKC Sélect AWD ,2017
+Lloydminster,53.279995,-110.00885,Lincoln,44201,Lincoln MKC,33960,Alberta,Lincoln MKC,2017
+Edmonton,53.535411,-113.507996,Lincoln,37077,Lincoln MKC,33981,Alberta,Lincoln MKC Reserve 2.3L Ecoboost With Tech Package,2017
+Cayuga,42.952055,-79.858002,Lincoln,27780,Lincoln MKC,33995,Ontario,Lincoln MKC SELECT AWD,2017
+Halifax,44.8543667,-63.137798,Lincoln,59347,Lincoln MKZ,34190,Nova Scotia,Lincoln MKZ,2017
+Red Deer,52.269838,-113.818359,Lincoln,42760,Lincoln MKC,34719,Alberta,Lincoln MKC 2017 Lincoln MKC AWD Reserve,2017
+Thornhill,43.8161477,-79.4245925,Lincoln,30756,Lincoln MKC,34888,Ontario,Lincoln MKC Reserve - LEATHER! PANORAMIC ROOF! NAVIGATION!,2017
+Calgary,51.02532675,-114.049868485806,Lincoln,6263,Lincoln MKC,34900,Alberta,Lincoln MKC Reserve,2017
+Laval,45.60558895,-73.7344173056906,Lincoln,99549,Lincoln MKC,24999,Québec,Lincoln MKC AWD CUIR TOIT PANO MAGS NAV,2017
+Brantford,43.1554354,-80.2665916,Lincoln,69617,Lincoln MKZ,26880,Ontario,Lincoln MKZ AWD SELECT,2017
+Langley,49.10647185,-122.550131156815,Lincoln,34000,Lincoln MKC,31995,British Columbia,Lincoln MKC SELECT - ECOBOOST - AWD,2017
+London,42.9537654,-81.2291529,Lincoln,14546,Lincoln MKZ,31998,Ontario,Lincoln MKZ Reserve,2017
+Winnipeg,49.884017,-97.168579,Lincoln,73186,Lincoln MKC,32495,Manitoba,Lincoln MKC Reserve AWD TECH PKG,2017
+Cayuga,42.952055,-79.858002,Lincoln,25684,Lincoln MKC,32595,Ontario,Lincoln MKC SELECT AWD,2017
+Saint-Hyacinthe,45.627484,-72.940636,Lincoln,41951,Lincoln MKC,32888,Québec,Lincoln MKC Ultra ,2017
+Thornhill,43.8161477,-79.4245925,Lincoln,64038,Lincoln MKX,32888,Ontario,Lincoln MKX Select - LUXURY SUV - ONE OWNER!,2017
+Stratford,46.2189935,-63.0876534061131,Lincoln,42338,Lincoln MKZ,25995,Prince Edward Island,Lincoln MKZ RESERVE AWD,2017
+Windsor,42.30423,-83.029861,Lincoln,42338,Lincoln MKZ,25995,Ontario,Lincoln MKZ RESERVE AWD,2017
+Boisbriand,45.6130352,-73.8386827,Lincoln,81130,Lincoln MKZ,23895,Québec,Lincoln MKZ Select Hybrid NAVI,2017
+London,42.9537654,-81.2291529,Lincoln,18491,Lincoln MKZ,33495,Ontario,Lincoln MKZ Reserve AWD ,2017
+Thornhill,43.8161477,-79.4245925,Lincoln,80946,Lincoln MKZ,25888,Ontario,Lincoln MKZ Select - ONE OWNER!!,2017
+Brantford,43.1554354,-80.2665916,Lincoln,42338,Lincoln MKZ,25995,Ontario,Lincoln MKZ RESERVE AWD,2017
+Vancouver,49.2608724,-123.1139529,Lincoln,51059,Lincoln MKC,33480,British Columbia,Lincoln MKC Super Clean,2017
+Oakville,43.447436,-79.666672,Lincoln,81000,Lincoln MKZ,25988,Ontario,Lincoln MKZ 2.0T AWD - NAVI - SUNROOF - REVERSE CAM,2017
+Maple Ridge,49.2197385,-122.5998426,Lincoln,18088,Lincoln MKC,33000,British Columbia,Lincoln MKC Select AWD - ACCIDENT-FREE EX-LEASE,2017
+Brossard,45.4554829,-73.4678904,Lincoln,74434,Lincoln MKC,25995,Québec,Lincoln MKC Select AWD,2017
+Terrebonne,45.7081005,-73.6515157,Lincoln,23787,Lincoln MKC,32991,Québec,Lincoln MKC RESERVE CUIR TOIT NAVIGATION BAS KM,2017
+Sherbrooke,45.403271,-71.889038,Lincoln,200,Lincoln Continental,45988,Québec,Lincoln Continental 2018 Lincoln Continental - AWD Reserve,2018
+Windsor,42.30423,-83.029861,Lincoln,12887,Lincoln MKX,45639,Ontario,Lincoln MKX 2018 Lincoln MKX - AWD Reserve,2018
+Winnipeg,49.884017,-97.168579,Lincoln,6345,Lincoln MKX,45649,Manitoba,Lincoln MKX Reserve AWD TECH PKG 360 CAMERA ACTIVE PARK ASSIST,2018
+Lethbridge,49.694285,-112.851562,Lincoln,20243,Lincoln MKX,46900,Alberta,Lincoln MKX Reserve,2018
+Ponoka,52.7179975,-113.9112662,Lincoln,27657,Lincoln Navigator,77999,Alberta,Lincoln Navigator Select,2018
+Maple Ridge,49.2197385,-122.5998426,Lincoln,21236,Lincoln Navigator,83000,British Columbia,Lincoln Navigator Select 4x4 - NO ACCIDENTS - LINCOLN CPO - LOCAL,2018
+Thornhill,43.8161477,-79.4245925,Lincoln,64888,Lincoln Navigator,84888,Ontario,Lincoln Navigator Reserve ,2018
+St-Rémi,46.009289,-74.763049,Lincoln,11996,Lincoln Navigator,92995,Québec,Lincoln Navigator ULTRA RÉSERVE,2018
+Windsor,42.30423,-83.029861,Lincoln,14583,Lincoln Continental,53865,Ontario,Lincoln Continental,2018
+Unionville,43.8686533,-79.3119155,Lincoln,4257,Lincoln MKZ,49998,Ontario,Lincoln MKZ Reserve,2018
+Maple Ridge,49.2197385,-122.5998426,Lincoln,21759,Lincoln MKX,48555,British Columbia,Lincoln MKX Reserve,2018
+Surrey,49.1913033,-122.8491439,Lincoln,7200,Lincoln MKX,47995,British Columbia,Lincoln MKX Reserve AWD-Leather,2018
+Montréal,45.4972159,-73.6103642,Lincoln,79900,Lincoln MKX,33500,Québec,Lincoln MKX Reserve AWD VERY CLEAN,2018
+Calgary,51.02532675,-114.049868485806,Lincoln,50346,Lincoln MKT,36990,Alberta,Lincoln MKT Elite,2018
+London,42.9537654,-81.2291529,Lincoln,19087,Lincoln MKC,36998,Ontario,Lincoln MKC,2018
+Aurora,43.99973,-79.467545,Lincoln,21807,Lincoln MKC,37888,Ontario,Lincoln MKC Reserve,2018
+Burlington,43.3248924,-79.7966835,Lincoln,14622,Lincoln MKT,36988,Ontario,Lincoln MKT Elite,2018
+Toronto,43.653963,-79.387207,Lincoln,24000,Lincoln MKX,38995,Ontario,Lincoln MKX AWD Reserve NAVI,2018
+Stouffville,43.967349,-79.2473758,Lincoln,26540,Lincoln MKX,39999,Ontario,Lincoln MKX RESERVE,2018
+St Thomas,42.7792897,-81.1832518,Lincoln,35384,Lincoln MKX,40888,Ontario,Lincoln MKX Reserve Reserv AWD,2018
+Lethbridge,49.694285,-112.851562,Lincoln,63167,Lincoln MKX,40970,Alberta,Lincoln MKX Reserve,2018
+Hamilton,43.2425289,-79.9470423,Lincoln,35403,Lincoln MKX,39492,Ontario,Lincoln MKX Reserve,2018
+Windsor,42.30423,-83.029861,Lincoln,71093,Lincoln MKX,41460,Ontario,Lincoln MKX,2018
+Windsor,42.30423,-83.029861,Lincoln,25500,Lincoln MKC,36546,Ontario,Lincoln MKC Select,2018
+Regina,50.44876,-104.61731,Lincoln,17720,Lincoln MKC,35996,Saskatchewan,Lincoln MKC,2018
+Stouffville,43.967349,-79.2473758,Lincoln,26540,Lincoln MKX,39999,Ontario,Lincoln MKX RESERVE,2018
+Brantford,43.1554354,-80.2665916,Lincoln,30844,Lincoln MKT,34777,Ontario,Lincoln MKT ELITE AWD,2018
+Stratford,46.2189935,-63.0876534061131,Lincoln,30844,Lincoln MKT,34777,Prince Edward Island,Lincoln MKT ELITE AWD,2018
+Montréal,45.4972159,-73.6103642,Lincoln,47565,Lincoln MKZ,35996,Québec,Lincoln MKZ Reserve hybride - cuir - toit ouvrant,2018
+Windsor,42.30423,-83.029861,Lincoln,30844,Lincoln MKT,34777,Ontario,Lincoln MKT ELITE AWD,2018
+Notre-Dame-Des-Pins,46.183158,-70.713844,Lincoln,40987,Lincoln Continental,12995,Québec,Lincoln Continental AWD,2018
+Regina,50.44876,-104.61731,Lincoln,44403,Lincoln MKT,35512,Saskatchewan,Lincoln MKT,2018
+London,42.9537654,-81.2291529,Lincoln,19087,Lincoln MKC,36998,Ontario,Lincoln MKC,2018
+Camrose,53.013131,-112.840576,Lincoln,32692,Lincoln MKX,43888,Alberta,Lincoln MKX Reserve AWD With MKX Technology Package,2018
+Ottawa,45.421106,-75.690308,Lincoln,24106,Lincoln MKX,43888,Ontario,Lincoln MKX AWD,2018
+Kingston,44.3054151,-76.4283781,Lincoln,22142,Lincoln MKX,42998,Ontario,Lincoln MKX RESERVE - AWD,2018
+Winnipeg,49.884017,-97.168579,Lincoln,14030,Lincoln MKX,44983,Manitoba,Lincoln MKX RESERVE  AWD,2018
+Edmonton,53.535411,-113.507996,Lincoln,25227,Lincoln MKX,45000,Alberta,Lincoln MKX Reserve ,2018
+Regina,50.44876,-104.61731,Lincoln,32887,Lincoln MKX,42500,Saskatchewan,Lincoln MKX ,2018
+St-Léonard,45.58671,-73.5969488,Lincoln,22233,Lincoln MKX,42900,Québec,Lincoln MKX Reserve,2018
+Notre-Dame-Des-Pins,46.183158,-70.713844,Lincoln,7307,Lincoln MKC,20995,Québec,Lincoln MKC RESERVE,2019
+Aurora,43.99973,-79.467545,Lincoln,7060,Lincoln MKC,46488,Ontario,Lincoln MKC Reserve,2019
+Aurora,43.99973,-79.467545,Lincoln,13357,Lincoln Nautilus,62888,Ontario,Lincoln Nautilus Reserve,2019
+Windsor,42.30423,-83.029861,Lincoln,12583,Lincoln Nautilus,64631,Ontario,Lincoln Nautilus,2019
+Brampton,43.6858146,-79.7599337,Lincoln,14882,Lincoln Continental,73999,Ontario,Lincoln Continental Reserve ,2019
+Regina,50.44876,-104.61731,Lincoln,4164,Lincoln Navigator,91977,Saskatchewan,Lincoln Navigator,2019
+Winnipeg,49.884017,-97.168579,Lincoln,11075,Lincoln Navigator,92495,Manitoba,Lincoln Navigator Reserve ,2019
+Oakville,43.447436,-79.666672,Lincoln,17807,Lincoln Navigator,96688,Ontario,Lincoln Navigator Reserve,2019
+Brampton,43.6858146,-79.7599337,Lincoln,3312,Lincoln Nautilus,57999,Ontario,Lincoln Nautilus Reserve AWD ,2019
+Laval,45.60558895,-73.7344173056906,Lincoln,9728,Lincoln MKC,40900,Québec,Lincoln MKC RESERVE ,2019
+Thornhill,43.8161477,-79.4245925,Lincoln,5094,Lincoln Nautilus,51588,Ontario,Lincoln Nautilus Reserve - Low kms ONLY 5.094!! MUST SEE!!,2019
+Montréal-Nord,45.5938992,-73.6376062,Lincoln,6900,Lincoln MKZ,49195,Québec,Lincoln MKZ SELECT 305$ aux deux semaines,2019
+Unionville,43.8686533,-79.3119155,Lincoln,4037,Lincoln Nautilus,52985,Ontario,Lincoln Nautilus Reserve,2019
+Chatham,42.405207,-82.191467,Lincoln,7965,Lincoln Nautilus,52999,Ontario,Lincoln Nautilus Reserve,2019
+Unionville,43.8686533,-79.3119155,Lincoln,38121,Lincoln MKC,39888,Ontario,Lincoln MKC Reserve,2019
+Oakville,43.447436,-79.666672,Lincoln,16922,Lincoln MKC,42988,Ontario,Lincoln MKC Reserve,2019
+Sherbrooke,45.403271,-71.889038,Lincoln,16098,Lincoln Nautilus,48488,Québec,Lincoln Nautilus SELECT,2019
+Sherbrooke,45.403271,-71.889038,Lincoln,11340,Lincoln Nautilus,54988,Québec,Lincoln Nautilus RESERVE,2019
+Unionville,43.8686533,-79.3119155,Lincoln,10000,Lincoln Nautilus,54988,Ontario,Lincoln Nautilus Reserve,2019
+Regina,50.44876,-104.61731,Lincoln,16179,Lincoln Nautilus,55486,Saskatchewan,Lincoln Nautilus ,2019
+Regina,50.44876,-104.61731,Lincoln,19148,Lincoln MKT,47386,Saskatchewan,Lincoln MKT ,2019
+Unionville,43.8686533,-79.3119155,Lincoln,22360,Lincoln MKT,47385,Ontario,Lincoln MKT Reserve,2019
+Montréal-Nord,45.5938992,-73.6376062,Lincoln,8888,Lincoln MKC,47145,Québec,Lincoln MKC SELECT 211$ aux deux semaines,2019
+Chatham,42.405207,-82.191467,Lincoln,8858,Lincoln Nautilus,55998,Ontario,Lincoln Nautilus Reserve,2019
+Unionville,43.8686533,-79.3119155,Lincoln,3997,Lincoln Nautilus,55998,Ontario,Lincoln Nautilus Reserve,2019
+Chatham,42.405207,-82.191467,Lincoln,4660,Lincoln Nautilus,55999,Ontario,Lincoln Nautilus Reserve,2019
+Unionville,43.8686533,-79.3119155,Lincoln,5522,Lincoln Nautilus,56998,Ontario,Lincoln Nautilus AWD Reserve - Leather Seats,2019
+Brampton,43.6858146,-79.7599337,Lincoln,19850,Lincoln MKZ,56999,Ontario,Lincoln MKZ Reserve ,2019

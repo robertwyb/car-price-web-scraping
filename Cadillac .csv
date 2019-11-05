@@ -1,0 +1,682 @@
+city,lat,long,make,mileage,model,price,province,sepc,year
+Toronto,43.653963,-79.387207,Cadillac,112764,Cadillac Coupe,32999,Ontario,Cadillac Coupe DeVille Rebuilt Engine & Transmission,1954
+St-Esprit,45.898371,-73.666077,Cadillac,160400,Cadillac DeVille,2999,Québec,Cadillac DeVille,1990
+Gananoque,44.3352722,-76.1646638,Cadillac,27387,Cadillac ALLANTE,18995,Ontario,Cadillac ALLANTE,1993
+St-Esprit,45.898371,-73.666077,Cadillac,142000,Cadillac Seville,5499,Québec,Cadillac Seville Touring STS comme neuf,2001
+New Glasgow,45.5869474,-62.6483547,Cadillac,133497,Cadillac XLR,26995,Nova Scotia,Cadillac XLR Florida Car,2004
+Quebec,52.4760892,-71.8258668,Cadillac,161231,Cadillac CTS,3995,Québec,Cadillac CTS 3.6L ,2005
+Mission,49.1589351,-122.2835833,Cadillac,172684,Cadillac CTS,7888,British Columbia,Cadillac CTS CTS -  - Sunroof - Power Windows,2005
+Saskatoon,52.131802,-106.660767,Cadillac,115759,Cadillac STS-V,18758,Saskatchewan,Cadillac STS-V ,2006
+Montréal,45.4972159,-73.6103642,Cadillac,112688,Cadillac CTS,4996,Québec,Cadillac CTS 2.8L,2006
+Wetaskiwin,52.968492,-113.36792,Cadillac,208717,Cadillac Escalade,14995,Alberta,Cadillac Escalade Base,2007
+St-Esprit,45.898371,-73.666077,Cadillac,206000,Cadillac Escalade,10999,Québec,Cadillac Escalade 7 places t tv_dvd,2007
+North York,43.7708175,-79.4132998,Cadillac,277038,Cadillac Escalade,10800,Ontario,Cadillac Escalade 7 PASSENGER,2007
+Saskatoon,52.131802,-106.660767,Cadillac,128820,Cadillac STS-V,17990,Saskatchewan,Cadillac STS-V Sedan,2007
+Sherwood Park,53.5256963,-113.2966313,Cadillac,51088,Cadillac CTS-V,24980,Alberta,Cadillac CTS-V 6.0L 400HP,2007
+Edmonton,53.535411,-113.507996,Cadillac,161252,Cadillac CTS,6950,Alberta,Cadillac CTS 2007 Cadillac CTS - 4dr Sdn,2007
+Thornhill,43.8161477,-79.4245925,Cadillac,97123,Cadillac CTS,6588,Ontario,Cadillac CTS 2.8L Leather Heated Seats,2007
+New Glasgow,45.5869474,-62.6483547,Cadillac,179420,Cadillac CTS,5499,Nova Scotia,Cadillac CTS 2.8L,2007
+Vaughan,43.820904,-79.5084,Cadillac,160000,Cadillac DTS,4500,Ontario,Cadillac DTS Sunroof,2007
+Stratford,46.2189935,-63.0876534061131,Cadillac,71632,Cadillac CTS,10000,Prince Edward Island,Cadillac CTS w,2008
+London,42.9537654,-81.2291529,Cadillac,274018,Cadillac SRX,2482,Ontario,Cadillac SRX V6,2008
+Scarborough,43.773077,-79.257774,Cadillac,162868,Cadillac Escalade,16995,Ontario,Cadillac Escalade EXT 162km,2008
+London,42.9537654,-81.2291529,Cadillac,210545,Cadillac SRX,4400,Ontario,Cadillac SRX V6,2008
+North York,43.7708175,-79.4132998,Cadillac,216823,Cadillac Escalade,13800,Ontario,Cadillac Escalade 7 PASSENGER,2008
+Edmonton,53.535411,-113.507996,Cadillac,168263,Cadillac Escalade,17950,Alberta,Cadillac Escalade 2008 Cadillac Escalade - AWD 4dr,2008
+Kingston,44.3054151,-76.4283781,Cadillac,128000,Cadillac Escalade,20999,Ontario,Cadillac Escalade EXT EXT - $348 B,2008
+Medicine Hat,50.04303,-110.679016,Cadillac,128239,Cadillac CTS,12590,Alberta,Cadillac CTS AWD,2008
+Burnaby,49.2433804,-122.9725459,Cadillac,88900,Cadillac CTS,12800,British Columbia,Cadillac CTS,2008
+Toronto,43.653963,-79.387207,Cadillac,166000,Cadillac DTS,7888,Ontario,Cadillac DTS Livery I NO ACCIDENT,2008
+Toronto,43.653963,-79.387207,Cadillac,202000,Cadillac Escalade,15888,Ontario,Cadillac Escalade ESV NAVIGATION I BACK UP,2008
+Toronto,43.653963,-79.387207,Cadillac,196145,Cadillac Escalade,13295,Ontario,Cadillac Escalade V8 ,2009
+Grande Prairie,55.1709919,-118.7948882,Cadillac,127179,Cadillac SRX,16998,Alberta,Cadillac SRX - Certified,2009
+Mississauga,43.590338,-79.645729,Cadillac,140190,Cadillac Escalade,18300,Ontario,Cadillac Escalade EXT,2009
+Newmarket,44.056258,-79.461708,Cadillac,206657,Cadillac CTS,3989,Ontario,Cadillac CTS ,2009
+Calgary,51.02532675,-114.049868485806,Cadillac,258913,Cadillac Escalade,13995,Alberta,Cadillac Escalade Base,2009
+Whitby,43.899871,-78.940201,Cadillac,114857,Cadillac CTS,9988,Ontario,Cadillac CTS 3.6L w,2009
+Etobicoke,43.67145915,-79.5524920661167,Cadillac,190251,Cadillac CTS,6995,Ontario,Cadillac CTS AWD,2009
+Sherwood Park,53.5256963,-113.2966313,Cadillac,67026,Cadillac CTS-V,34333,Alberta,Cadillac CTS-V ,2009
+Saint-Jérôme,45.775426,-74.013176,Cadillac,112176,Cadillac CTS,6990,Québec,Cadillac CTS AWD V6 3.6L ,2009
+Calgary,51.02532675,-114.049868485806,Cadillac,117948,Cadillac CTS,14995,Alberta,Cadillac CTS Premium,2010
+Notre-Dame-Des-Pins,46.183158,-70.713844,Cadillac,67527,Cadillac SRX,12495,Québec,Cadillac SRX FWD,2010
+Mississauga,43.590338,-79.645729,Cadillac,64000,Cadillac STS,12488,Ontario,Cadillac STS Awd,2010
+Moncton,46.097995,-64.80011,Cadillac,12545,Cadillac CTS-V,38800,New Brunswick,Cadillac CTS-V,2010
+Etobicoke,43.67145915,-79.5524920661167,Cadillac,89570,Cadillac SRX,14999,Ontario,Cadillac SRX,2010
+St-Hubert,46.501891,-64.025032,Cadillac,109147,Cadillac SRX,12999,Prince Edward Island,Cadillac SRX LUXURY AWD CUIR TOIT PANO MAGS,2010
+Courtenay,49.6894061,-124.9954959,Cadillac,85720,Cadillac SRX,15863,British Columbia,Cadillac SRX 3.0 Performance,2010
+Ridgetown,42.4392133,-81.8870707,Cadillac,121157,Cadillac SRX,15500,Ontario,Cadillac SRX,2010
+Calgary,51.02532675,-114.049868485806,Cadillac,165422,Cadillac SRX,10888,Alberta,Cadillac SRX 3.0 Luxury,2010
+Moncton,46.097995,-64.80011,Cadillac,142146,Cadillac SRX,10800,New Brunswick,Cadillac SRX Luxury and Performance Collection,2010
+Kingston,44.3054151,-76.4283781,Cadillac,102023,Cadillac CTS,10496,Ontario,Cadillac CTS 3.0L,2010
+Joliette,46.0528409,-73.4617483,Cadillac,141024,Cadillac CTS,10494,Québec,Cadillac CTS,2010
+Mississauga,43.590338,-79.645729,Cadillac,120849,Cadillac CTS,7890,Ontario,Cadillac CTS 3.6L,2010
+Oakville,43.447436,-79.666672,Cadillac,146396,Cadillac CTS,8800,Ontario,Cadillac CTS,2010
+Montréal,45.4972159,-73.6103642,Cadillac,116000,Cadillac CTS,8900,Québec,Cadillac CTS CTX RWD V6 3.0,2010
+Nepean,45.2885815,-75.7339698,Cadillac,106350,Cadillac CTS,9888,Ontario,Cadillac CTS Sedan 3.0L SIDI RWD 1SA,2010
+Oakville,43.447436,-79.666672,Cadillac,151000,Cadillac SRX,11000,Ontario,Cadillac SRX LUXURY COLLECTION ,2010
+Moncton,46.097995,-64.80011,Cadillac,111032,Cadillac CTS-V,29700,New Brunswick,Cadillac CTS-V 556 HP,2010
+Montréal,45.4972159,-73.6103642,Cadillac,158336,Cadillac Escalade,25987,Québec,Cadillac Escalade Cuir Toit 8 Places,2011
+Windsor,42.30423,-83.029861,Cadillac,392288,Cadillac DTS,1995,Ontario,Cadillac DTS,2011
+Vancouver,49.2608724,-123.1139529,Cadillac,76195,Cadillac SRX,20995,British Columbia,Cadillac SRX SRX Premium Collection - Low Mileage,2011
+Burnaby,49.2433804,-122.9725459,Cadillac,152308,Cadillac SRX,16400,British Columbia,Cadillac SRX 3.0 Premium,2011
+Edmonton,53.535411,-113.507996,Cadillac,173244,Cadillac SRX,14992,Alberta,Cadillac SRX Base,2011
+Lacombe,52.4727515,-113.733215,Cadillac,148213,Cadillac Escalade,26800,Alberta,Cadillac Escalade EXT ,2011
+Stratford,46.2189935,-63.0876534061131,Cadillac,392288,Cadillac DTS,1995,Prince Edward Island,Cadillac DTS,2011
+Regina,50.44876,-104.61731,Cadillac,205091,Cadillac Escalade,19975,Saskatchewan,Cadillac Escalade AWD ,2011
+Brantford,43.1554354,-80.2665916,Cadillac,392288,Cadillac DTS,1995,Ontario,Cadillac DTS,2011
+Calgary,51.02532675,-114.049868485806,Cadillac,110051,Cadillac CTS,17995,Alberta,Cadillac CTS Premium coupe,2011
+Caledonia,45.2773029,-62.3899848,Cadillac,159057,Cadillac CTS,9695,Nova Scotia,Cadillac CTS Leather Heated Seats,2011
+Newmarket,44.056258,-79.461708,Cadillac,102401,Cadillac CTS,11990,Ontario,Cadillac CTS Sedan3.0L SIDI AWD,2011
+Victoriaville,46.0573705,-71.9536674,Cadillac,150500,Cadillac SRX,11995,Québec,Cadillac SRX Luxury Collection AWD,2011
+Valleyfield,51.01189,-113.9987594,Cadillac,104852,Cadillac CTS,10996,Alberta,Cadillac CTS CTS V6 CUIR,2011
+St-Esprit,45.898371,-73.666077,Cadillac,161800,Cadillac SRX,11499,Québec,Cadillac SRX 3.0 Base,2011
+Vancouver,49.2608724,-123.1139529,Cadillac,162665,Cadillac Escalade,29995,British Columbia,Cadillac Escalade Base - Navigation -  Leather Seats,2011
+Ottawa,45.421106,-75.690308,Cadillac,122662,Cadillac CTS,11590,Ontario,Cadillac CTS AWD PERFORMANCE,2011
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,121160,Cadillac SRX,12495,Québec,Cadillac SRX Luxury Collection ,2011
+Moncton,46.097995,-64.80011,Cadillac,273500,Cadillac CTS,5995,New Brunswick,Cadillac CTS 3.0L,2011
+Burnaby,49.2433804,-122.9725459,Cadillac,111562,Cadillac Escalade,28400,British Columbia,Cadillac Escalade AWD 4DR,2011
+Fort Saskatchewan,53.712965,-113.214111,Cadillac,124659,Cadillac SRX,13995,Alberta,Cadillac SRX 3.0 Performance AWD,2011
+Mississauga,43.590338,-79.645729,Cadillac,97073,Cadillac CTS,14393,Ontario,Cadillac CTS Sidi RWD-PREMIER PREOWNED SALE:OCTOBER 21-26 ONLY!,2011
+Stouffville,43.967349,-79.2473758,Cadillac,76100,Cadillac STS,14500,Ontario,Cadillac STS V6,2011
+Red Deer,52.269838,-113.818359,Cadillac,70000,Cadillac CTS-V,37525,Alberta,Cadillac CTS-V 550HP Supercharged V8,2011
+Saint-Hubert,45.5042755,-73.4216976,Cadillac,170101,Cadillac SRX,12500,Québec,Cadillac SRX Premium 3.6L AWD,2011
+Burlington,43.3248924,-79.7966835,Cadillac,159913,Cadillac CTS,12988,Ontario,Cadillac CTS ,2011
+Sherwood Park,53.5256963,-113.2966313,Cadillac,93603,Cadillac CTS,22999,Alberta,Cadillac CTS AWD CTS PREMIUM Accident Free,2012
+Mississauga,43.590338,-79.645729,Cadillac,276000,Cadillac SRX,5800,Ontario,Cadillac SRX Sunroof,2012
+Toronto,43.653963,-79.387207,Cadillac,222982,Cadillac Escalade,19999,Ontario,Cadillac Escalade Luxury,2012
+Lethbridge,49.694285,-112.851562,Cadillac,74432,Cadillac SRX,19998,Alberta,Cadillac SRX Premium,2012
+Edmonton,53.535411,-113.507996,Cadillac,88618,Cadillac SRX,18967,Alberta,Cadillac SRX Premium - New tires,2012
+Oakville,43.447436,-79.666672,Cadillac,80000,Cadillac CTS,13000,Ontario,Cadillac CTS,2012
+Québec,52.4760892,-71.8258668,Cadillac,135786,Cadillac SRX,13487,Québec,Cadillac SRX LUXURY - V6 AWD - CUIR - TOIT PANORAMIQUE,2012
+London,42.9537654,-81.2291529,Cadillac,148929,Cadillac CTS,13495,Ontario,Cadillac CTS Loaded,2012
+Oakville,43.447436,-79.666672,Cadillac,144876,Cadillac CTS,11385,Ontario,Cadillac CTS,2012
+Toronto,43.653963,-79.387207,Cadillac,71510,Cadillac CTS,18495,Ontario,Cadillac CTS Performance Collection AWD ,2012
+Edmonton,53.535411,-113.507996,Cadillac,132433,Cadillac CTS,11966,Alberta,Cadillac CTS AWD,2012
+Edmonton,53.535411,-113.507996,Cadillac,77780,Cadillac CTS,16995,Alberta,Cadillac CTS 4dr Sdn 3.0L AWD,2012
+Caledonia,45.2773029,-62.3899848,Cadillac,138000,Cadillac CTS,17595,Nova Scotia,Cadillac CTS Performance ,2012
+Edmonton,53.535411,-113.507996,Cadillac,108284,Cadillac Escalade,29864,Alberta,Cadillac Escalade ESV AWD 4DR,2012
+Red Deer,52.269838,-113.818359,Cadillac,168780,Cadillac CTS-V,28246,Alberta,Cadillac CTS-V Base  ,2012
+St-Léonard,45.58671,-73.5969488,Cadillac,73000,Cadillac Escalade,33890,Québec,Cadillac Escalade PREMIUM ,2012
+Kingston,44.3054151,-76.4283781,Cadillac,155590,Cadillac Escalade,29998,Ontario,Cadillac Escalade EXT Base,2012
+Drummondville,45.8864303,-72.5018764,Cadillac,76612,Cadillac ATS,14489,Québec,Cadillac ATS AWD ,2013
+Toronto,43.653963,-79.387207,Cadillac,109485,Cadillac ATS4,14495,Ontario,Cadillac ATS4 ,2013
+Lethbridge,49.694285,-112.851562,Cadillac,124229,Cadillac SRX,19998,Alberta,Cadillac SRX Premium ,2013
+Lethbridge,49.694285,-112.851562,Cadillac,68042,Cadillac SRX,22995,Alberta,Cadillac SRX Collection luxe,2013
+Blainville,45.67932,-73.87619,Cadillac,105000,Cadillac SRX,13995,Québec,Cadillac SRX 2013 Cadillac SRX - CUIR AVEC TOIT PANORAMIQUE,2013
+Waterloo,43.466874,-80.524635,Cadillac,109000,Cadillac SRX,17490,Ontario,Cadillac SRX Collection luxe AWD ,2013
+Montreal,45.4972159,-73.6103642,Cadillac,84791,Cadillac ATS,17977,Québec,Cadillac ATS 3.6L Luxury AWD 2013 Cadilac ATS AWD Luxury,2013
+St-Eustache,45.5646052,-73.8929714,Cadillac,116025,Cadillac SRX,13900,Québec,Cadillac SRX Performance 1,2013
+Rimbey,52.6417347,-114.2385994,Cadillac,117004,Cadillac ATS,13910,Alberta,Cadillac ATS,2013
+Oakville,43.447436,-79.666672,Cadillac,87000,Cadillac SRX,17900,Ontario,Cadillac SRX Great vehicle ,2013
+Calgary,51.02532675,-114.049868485806,Cadillac,96827,Cadillac XTS,19995,Alberta,Cadillac XTS Platinum Collection,2013
+Waterloo,43.466874,-80.524635,Cadillac,45999,Cadillac CTS,22699,Ontario,Cadillac CTS 1 OWNER! 3.6 PREMIUM PACK LOW KMS!!,2013
+Edmonton,53.535411,-113.507996,Cadillac,170893,Cadillac SRX,14999,Alberta,Cadillac SRX AWD SRX4 Accident Free,2013
+Victoriaville,46.0573705,-71.9536674,Cadillac,134500,Cadillac SRX,15995,Québec,Cadillac SRX AWD,2013
+Lethbridge,49.694285,-112.851562,Cadillac,53424,Cadillac ATS,16900,Alberta,Cadillac ATS 3,2013
+St-Hubert,46.501891,-64.025032,Cadillac,51715,Cadillac ATS,15999,Prince Edward Island,Cadillac ATS ATS LUXURY TOIT CUIR CAMERA RECUL,2013
+Richmond,49.163168,-123.137414,Cadillac,91537,Cadillac CTS,16888,British Columbia,Cadillac CTS Performance Collection,2013
+Edmonton,53.535411,-113.507996,Cadillac,71264,Cadillac SRX,20995,Alberta,Cadillac SRX,2013
+Moncton,46.097995,-64.80011,Cadillac,81000,Cadillac ATS,16800,New Brunswick,Cadillac ATS 2.0L Turbo Luxury,2013
+Moncton,46.097995,-64.80011,Cadillac,114774,Cadillac XTS,21800,New Brunswick,Cadillac XTS Platinum Collection,2013
+Brampton,43.6858146,-79.7599337,Cadillac,124020,Cadillac ATS,16695,Ontario,Cadillac ATS LTG RWD,2013
+Richmond,49.163168,-123.137414,Cadillac,101555,Cadillac SRX,21995,British Columbia,Cadillac SRX Base - Leather Seats -  Bluetooth,2013
+St-Hubert,46.501891,-64.025032,Cadillac,131032,Cadillac XTS,14999,Prince Edward Island,Cadillac XTS BLUETOOTH CUIR MAGS TOIT PANO,2013
+Laval,45.60558895,-73.7344173056906,Cadillac,109600,Cadillac SRX,15990,Québec,Cadillac SRX Luxury Collection,2013
+Edmonton,53.535411,-113.507996,Cadillac,82377,Cadillac SRX,21995,Alberta,Cadillac SRX Premium - Driver Awareness & Assist Package,2013
+Ottawa,45.421106,-75.690308,Cadillac,91813,Cadillac CTS,20726,Ontario,Cadillac CTS Performance LEATHER PANO ROOF REAR CAM LOADED,2013
+Guelph,43.533783,-80.2306337,Cadillac,137500,Cadillac CTS,16995,Ontario,Cadillac CTS 2013 Cadillac CTS - 4dr Sdn 3.0L Luxury AWD,2013
+St-Jérôme,45.775426,-74.013176,Cadillac,65500,Cadillac XTS,16995,Québec,Cadillac XTS Luxury Collection CUIR TOIT NAVI MAG BAS KILO,2013
+Ottawa,45.421106,-75.690308,Cadillac,125755,Cadillac ATS,15500,Ontario,Cadillac ATS PERFORMANCE AWD,2013
+Caledonia,45.2773029,-62.3899848,Cadillac,117621,Cadillac SRX,16995,Nova Scotia,Cadillac SRX Luxury AWD ,2013
+Laval,45.60558895,-73.7344173056906,Cadillac,124500,Cadillac SRX,15500,Québec,Cadillac SRX Luxury Collection  AWD,2013
+Kitchener,43.453168,-80.494423,Cadillac,106123,Cadillac CTS,15777,Ontario,Cadillac CTS Luxury,2013
+Laval,45.60558895,-73.7344173056906,Cadillac,126138,Cadillac SRX,15791,Québec,Cadillac SRX Luxury AWD TOIT OUVRANT - Automatique - A,2013
+Oakville,43.447436,-79.666672,Cadillac,145646,Cadillac SRX,15969,Ontario,Cadillac SRX,2013
+Mississauga,43.590338,-79.645729,Cadillac,108900,Cadillac SRX,15988,Ontario,Cadillac SRX Camera,2013
+Saint-Hubert,45.5042755,-73.4216976,Cadillac,133308,Cadillac ATS,13888,Québec,Cadillac ATS 3.6L Performance AWD ,2013
+Vancouver,49.2608724,-123.1139529,Cadillac,72675,Cadillac Escalade,39995,British Columbia,Cadillac Escalade Escalade Hybrid,2013
+Hamilton,43.2425289,-79.9470423,Cadillac,108438,Cadillac SRX,17998,Ontario,Cadillac SRX 4 AWD Luxury Collection Nav-Pano Roof-Bluetooth,2013
+Edmonton,53.535411,-113.507996,Cadillac,80372,Cadillac ATS,18995,Alberta,Cadillac ATS,2013
+Edmonton,53.535411,-113.507996,Cadillac,140000,Cadillac SRX,18995,Alberta,Cadillac SRX Luxury - One owner,2013
+Calgary,51.02532675,-114.049868485806,Cadillac,112787,Cadillac XTS,18995,Alberta,Cadillac XTS Premium Collection,2013
+Winnipeg,49.884017,-97.168579,Cadillac,108000,Cadillac SRX,19800,Manitoba,Cadillac SRX Leather Collection - AWD,2013
+Waterloo,43.466874,-80.524635,Cadillac,104020,Cadillac SRX,18293,Ontario,Cadillac SRX Luxury \ NAVIGATION \ AWD \ SUNROOF \,2013
+St-Léonard,45.58671,-73.5969488,Cadillac,130819,Cadillac Escalade,33890,Québec,Cadillac Escalade ESV LUXURY ,2013
+Edmonton,53.535411,-113.507996,Cadillac,105029,Cadillac SRX,19213,Alberta,Cadillac SRX Premium,2013
+Oakville,43.447436,-79.666672,Cadillac,74324,Cadillac SRX,18350,Ontario,Cadillac SRX Luxury,2013
+Laval,45.60558895,-73.7344173056906,Cadillac,61223,Cadillac SRX,19495,Québec,Cadillac SRX Toit ouvrant Cuir AWD Luxury Collection,2013
+Aurora,43.99973,-79.467545,Cadillac,90571,Cadillac XTS,18999,Ontario,Cadillac XTS Platinum Collection,2013
+Red Deer,52.269838,-113.818359,Cadillac,134781,Cadillac Escalade,30058,Alberta,Cadillac Escalade Base ,2013
+Georgetown,43.6502652,-79.9036058,Cadillac,95996,Cadillac Escalade,42950,Ontario,Cadillac Escalade EXT AWD ,2013
+Medicine Hat,50.04303,-110.679016,Cadillac,150192,Cadillac Escalade,34000,Alberta,Cadillac Escalade Platinum AWD ,2013
+Georgetown,43.6502652,-79.9036058,Cadillac,61953,Cadillac CTS,19950,Ontario,Cadillac CTS Performance,2013
+Brantford,43.1554354,-80.2665916,Cadillac,101259,Cadillac SRX,17995,Ontario,Cadillac SRX 1SC,2013
+Whitby,43.899871,-78.940201,Cadillac,85239,Cadillac XTS,18788,Ontario,Cadillac XTS Luxury Collection,2013
+Stratford,46.2189935,-63.0876534061131,Cadillac,101259,Cadillac SRX,17995,Prince Edward Island,Cadillac SRX 1SC,2013
+Toronto,43.653963,-79.387207,Cadillac,51975,Cadillac XTS,23988,Ontario,Cadillac XTS Collection Haut de Gamme,2013
+Edmonton,53.535411,-113.507996,Cadillac,45656,Cadillac CTS,23988,Alberta,Cadillac CTS AWD PREMIUM Navigation ,2013
+Windsor,42.30423,-83.029861,Cadillac,101259,Cadillac SRX,17995,Ontario,Cadillac SRX 1SC,2013
+Markham,43.854336,-79.326782,Cadillac,64071,Cadillac XTS,19988,Ontario,Cadillac XTS Collection Luxe Luxury Collection,2013
+Brantford,43.1554354,-80.2665916,Cadillac,117088,Cadillac ATS,12888,Ontario,Cadillac ATS 2.5L ,2013
+Kitchener,43.453168,-80.494423,Cadillac,101582,Cadillac SRX,20897,Ontario,Cadillac SRX Premium,2014
+Brandon,49.8511143,-99.9608924,Cadillac,94736,Cadillac SRX,18383,Manitoba,Cadillac SRX Luxury AWD ,2014
+Ottawa,45.421106,-75.690308,Cadillac,84943,Cadillac XTS,21500,Ontario,Cadillac XTS Luxury XTS,2014
+Québec,52.4760892,-71.8258668,Cadillac,25321,Cadillac ATS,20987,Québec,Cadillac ATS ,2014
+North Bay,46.3092115,-79.4607617,Cadillac,111039,Cadillac ATS,16988,Ontario,Cadillac ATS AWD,2014
+Mississauga,43.590338,-79.645729,Cadillac,127968,Cadillac SRX,20900,Ontario,Cadillac SRX AWD V6 Luxury 1SB Pano Roof,2014
+Cornwall,46.240769,-63.2009544400727,Cadillac,98987,Cadillac SRX,18551,Prince Edward Island,Cadillac SRX Luxury - Trade-in - Sunroof - $146 B,2014
+Uxbridge,44.107556,-79.127655,Cadillac,120446,Cadillac SRX,18494,Ontario,Cadillac SRX AWD V6 Luxury 1SB,2014
+London,42.9537654,-81.2291529,Cadillac,98011,Cadillac ATS,20995,Ontario,Cadillac ATS 2.0L Turbo Luxury ,2014
+Drummondville,45.8864303,-72.5018764,Cadillac,77859,Cadillac ATS,16885,Québec,Cadillac ATS V6 3.6L,2014
+Cambridge,43.3855479,-80.3113582,Cadillac,116006,Cadillac CTS,20998,Ontario,Cadillac CTS 2014 Cadillac CTS - 4dr Sdn 3.6L Luxury AWD,2014
+Trois-Rivières,46.3507999,-72.5571257,Cadillac,65640,Cadillac XTS,26995,Québec,Cadillac XTS Collection luxe,2014
+Brantford,43.1554354,-80.2665916,Cadillac,99912,Cadillac CTS,26995,Ontario,Cadillac CTS 3.6L COUPE AWD,2014
+Ste-Julie,45.5930624,-73.3395943,Cadillac,45454,Cadillac SRX,18495,Québec,Cadillac SRX CUIR,2014
+Brandon,49.8511143,-99.9608924,Cadillac,76892,Cadillac SRX,25911,Manitoba,Cadillac SRX Premium,2014
+Laval,45.60558895,-73.7344173056906,Cadillac,45454,Cadillac SRX,18495,Québec,Cadillac SRX CUIR,2014
+Sainte-Julie,45.5930624,-73.3395943,Cadillac,45454,Cadillac SRX,18495,Québec,Cadillac SRX CUIR,2014
+Waterloo,43.466874,-80.524635,Cadillac,77000,Cadillac SRX,18990,Ontario,Cadillac SRX de luxe 77K ,2014
+Moncton,46.097995,-64.80011,Cadillac,141000,Cadillac ATS,18400,New Brunswick,Cadillac ATS 2.0L Turbo Performance,2014
+La Prairie,45.4174659,-73.4891644,Cadillac,45454,Cadillac SRX,18495,Québec,Cadillac SRX CUIR,2014
+Belleville,44.2436328,-77.3607597,Cadillac,140907,Cadillac SRX,19988,Ontario,Cadillac SRX Luxury,2014
+Niagara Falls,43.100983,-79.115295,Cadillac,62923,Cadillac ATS,19488,Ontario,Cadillac ATS Luxury AWD,2014
+Calgary,51.02532675,-114.049868485806,Cadillac,76000,Cadillac ATS,19995,Alberta,Cadillac ATS 3.6L Luxury AWD,2014
+Toronto,43.653963,-79.387207,Cadillac,91738,Cadillac ATS,17888,Ontario,Cadillac ATS 2.0L AWD Turbo,2014
+Richmond,49.163168,-123.137414,Cadillac,59426,Cadillac ATS,19888,British Columbia,Cadillac ATS RWD Power,2014
+Richmond,49.163168,-123.137414,Cadillac,87372,Cadillac ATS,19888,British Columbia,Cadillac ATS Performance AWD Leather,2014
+Mississauga,43.590338,-79.645729,Cadillac,103122,Cadillac XTS,19900,Ontario,Cadillac XTS Platinum,2014
+Toronto,43.653963,-79.387207,Cadillac,129045,Cadillac SRX,17950,Ontario,Cadillac SRX AWD 4dr Luxury,2014
+London,42.9537654,-81.2291529,Cadillac,93825,Cadillac ATS,19995,Ontario,Cadillac ATS 2.0L Luxury AWD ,2014
+Laval,45.60558895,-73.7344173056906,Cadillac,86200,Cadillac CTS,19990,Québec,Cadillac CTS 3.6L Luxury,2014
+Laval,45.60558895,-73.7344173056906,Cadillac,79794,Cadillac LUXURY,19900,Québec,Cadillac LUXURY ,2014
+Ottawa,45.421106,-75.690308,Cadillac,77034,Cadillac ATS,16995,Ontario,Cadillac ATS RWD,2014
+Oakville,43.447436,-79.666672,Cadillac,102542,Cadillac ATS,20600,Ontario,Cadillac ATS,2014
+Niagara Falls,43.100983,-79.115295,Cadillac,95686,Cadillac CTS,20500,Ontario,Cadillac CTS LUXURY,2014
+Mississauga,43.590338,-79.645729,Cadillac,98686,Cadillac CTS,20499,Ontario,Cadillac CTS 3 6 L de luxe,2014
+Ste-Julie,45.5930624,-73.3395943,Cadillac,87085,Cadillac SRX,20498,Québec,Cadillac SRX Premium,2014
+Waterloo,43.466874,-80.524635,Cadillac,109000,Cadillac SRX,17994,Ontario,Cadillac SRX de luxe Back-Up Camera ,2014
+Ile-Perrot,46.050293,-71.9814568,Cadillac,59952,Cadillac ATS,16999,Québec,Cadillac ATS 2.0 TURBO LUXURY AWD AUTOMATIQUE,2014
+Taber,49.8895343,-112.0488074,Cadillac,125138,Cadillac ATS,16999,Alberta,Cadillac ATS Luxury All Wheel Drive,2014
+Toronto,43.653963,-79.387207,Cadillac,88431,Cadillac SRX,19500,Ontario,Cadillac SRX Base - Bluetooth -  Heated Seats,2014
+Kingston,44.3054151,-76.4283781,Cadillac,88946,Cadillac ATS,19487,Ontario,Cadillac ATS 2.0L Turbo Luxury,2014
+Regina,50.44876,-104.61731,Cadillac,55000,Cadillac CTS,25900,Saskatchewan,Cadillac CTS 2.0L Turbo Performance,2014
+Etobicoke,43.67145915,-79.5524920661167,Cadillac,189630,Cadillac SRX,14995,Ontario,Cadillac SRX PREMIUM COLLECTION,2014
+Surrey,49.1913033,-122.8491439,Cadillac,67100,Cadillac ATS,24500,British Columbia,Cadillac ATS 2.0T,2014
+St-Esprit,45.898371,-73.666077,Cadillac,52800,Cadillac CTS,28999,Québec,Cadillac CTS Vsport  twin turbo gps toit mags  bas kilo,2014
+Saint-Constant,45.3724897,-73.5704589,Cadillac,99370,Cadillac ATS,14999,Québec,Cadillac ATS 2.0T CUIR TOIT MAGS,2014
+Edmonton,53.535411,-113.507996,Cadillac,172220,Cadillac XTS,15000,Alberta,Cadillac XTS Luxury Collection ,2014
+Richmond,49.163168,-123.137414,Cadillac,62976,Cadillac SRX,27888,British Columbia,Cadillac SRX Premium  - Sunroof,2014
+Oakville,43.447436,-79.666672,Cadillac,69749,Cadillac CTS,22500,Ontario,Cadillac CTS 3.6L Luxury Btooth Dual Sroof HTD Lthr NAV Park CA,2014
+London,42.9537654,-81.2291529,Cadillac,113721,Cadillac ATS,22495,Ontario,Cadillac ATS 3.6L Luxury ,2014
+Ste-Julie,45.5930624,-73.3395943,Cadillac,99687,Cadillac ATS,15495,Québec,Cadillac ATS 2.0L TURBO AWD CUIR,2014
+Toronto,43.653963,-79.387207,Cadillac,97436,Cadillac SRX,22400,Ontario,Cadillac SRX Premium - Sunroof -  Navigation,2014
+La Prairie,45.4174659,-73.4891644,Cadillac,99687,Cadillac ATS,15495,Québec,Cadillac ATS 2.0L TURBO AWD CUIR,2014
+Montréal,45.4972159,-73.6103642,Cadillac,88873,Cadillac ATS,13998,Québec,Cadillac ATS ATS,2014
+Stratford,46.2189935,-63.0876534061131,Cadillac,111600,Cadillac ATS,13995,Prince Edward Island,Cadillac ATS,2014
+St-Hubert,46.501891,-64.025032,Cadillac,49167,Cadillac CTS,22999,Prince Edward Island,Cadillac CTS PERFORMANCE COUPE AWD 3.6L CUIR,2014
+Brantford,43.1554354,-80.2665916,Cadillac,111600,Cadillac ATS,13995,Ontario,Cadillac ATS,2014
+Montréal,45.4972159,-73.6103642,Cadillac,58858,Cadillac SRX,14587,Québec,Cadillac SRX TA GROUPE PRIVILÈGE,2014
+Laval,45.60558895,-73.7344173056906,Cadillac,99687,Cadillac ATS,15495,Québec,Cadillac ATS 2.0L TURBO AWD CUIR,2014
+Truro,45.366668,-63.300006,Cadillac,123804,Cadillac ATS,14900,Nova Scotia,Cadillac ATS 2.5L Standard RWD,2014
+Toronto,43.653963,-79.387207,Cadillac,111791,Cadillac ATS,14950,Ontario,Cadillac ATS 4dr Sdn 2.0L AWD,2014
+Edmonton,53.535411,-113.507996,Cadillac,119569,Cadillac CTS,30991,Alberta,Cadillac CTS 3.6L Twin Turbo Vsport,2014
+Sainte-Julie,45.5930624,-73.3395943,Cadillac,99687,Cadillac ATS,15495,Québec,Cadillac ATS 2.0L TURBO AWD CUIR,2014
+London,42.9537654,-81.2291529,Cadillac,47830,Cadillac ATS,25495,Ontario,Cadillac ATS 3.6L Performance ,2014
+Edmonton,53.535411,-113.507996,Cadillac,105671,Cadillac ATS,18887,Alberta,Cadillac ATS Performance ,2014
+Joliette,46.0528409,-73.4617483,Cadillac,137549,Cadillac ATS,12894,Québec,Cadillac ATS,2014
+Calgary,51.02532675,-114.049868485806,Cadillac,171620,Cadillac ATS,12995,Alberta,Cadillac ATS RWD,2014
+Oakville,43.447436,-79.666672,Cadillac,69749,Cadillac CTS,22500,Ontario,Cadillac CTS 3.6L Luxury Btooth Dual Sroof HTD Lthr NAV Park CA,2014
+Windsor,42.30423,-83.029861,Cadillac,118500,Cadillac XTS,21587,Ontario,Cadillac XTS,2014
+Toronto,43.653963,-79.387207,Cadillac,73848,Cadillac ATS,16250,Ontario,Cadillac ATS Leather Seats,2014
+Vancouver,49.2608724,-123.1139529,Cadillac,86784,Cadillac XTS,24995,British Columbia,Cadillac XTS LUXURY NAVIGATION REMOTE START,2014
+Windsor,42.30423,-83.029861,Cadillac,111600,Cadillac ATS,13995,Ontario,Cadillac ATS,2014
+Toronto,43.653963,-79.387207,Cadillac,80000,Cadillac ATS,15999,Ontario,Cadillac ATS LEATHER-ROOF-BACK UP CAMERA-REMOTE START-ONLY 80KM,2014
+London,42.9537654,-81.2291529,Cadillac,125648,Cadillac CTS,27495,Ontario,Cadillac CTS 3.6L Premium ,2014
+Brantford,43.1554354,-80.2665916,Cadillac,84555,Cadillac Escalade,39977,Ontario,Cadillac Escalade ESV AWD,2014
+Whitby,43.899871,-78.940201,Cadillac,209623,Cadillac Escalade,24988,Ontario,Cadillac Escalade Base,2014
+Stratford,46.2189935,-63.0876534061131,Cadillac,84555,Cadillac Escalade,39977,Prince Edward Island,Cadillac Escalade ESV AWD,2014
+Windsor,42.30423,-83.029861,Cadillac,84555,Cadillac Escalade,39977,Ontario,Cadillac Escalade ESV AWD,2014
+Stratford,46.2189935,-63.0876534061131,Cadillac,40590,Cadillac ATS,17995,Prince Edward Island,Cadillac ATS 2.5L,2015
+Stratford,46.2189935,-63.0876534061131,Cadillac,50896,Cadillac ATS,17995,Prince Edward Island,Cadillac ATS,2015
+Headingley,49.868087,-97.391052,Cadillac,83000,Cadillac SRX,29800,Manitoba,Cadillac SRX LUXURY AWD LOADED PAN ROOF,2015
+St. Catharines,43.167376,-79.241638,Cadillac,82786,Cadillac ATS,17995,Ontario,Cadillac ATS 2.0L Turbo AWD,2015
+Windsor,42.30423,-83.029861,Cadillac,40590,Cadillac ATS,17995,Ontario,Cadillac ATS 2.5L,2015
+Victoriaville,46.0573705,-71.9536674,Cadillac,53191,Cadillac ATS,28995,Québec,Cadillac ATS COUPE PREMIUM,2015
+Calgary,51.02532675,-114.049868485806,Cadillac,43000,Cadillac SRX,28995,Alberta,Cadillac SRX AWD Premium NAVI,2015
+Windsor,42.30423,-83.029861,Cadillac,50896,Cadillac ATS,17995,Ontario,Cadillac ATS,2015
+Bedford,44.7303901,-63.6582365,Cadillac,43909,Cadillac ATS,18200,Nova Scotia,Cadillac ATS,2015
+Edmonton,53.535411,-113.507996,Cadillac,16519,Cadillac SRX,29895,Alberta,Cadillac SRX Premium - Driver Awareness & Assist Package,2015
+Oakville,43.447436,-79.666672,Cadillac,108122,Cadillac ATS,18700,Ontario,Cadillac ATS,2015
+Laval,45.60558895,-73.7344173056906,Cadillac,95470,Cadillac ATS,18695,Québec,Cadillac ATS Standard AWD Automatique - AIR CLIMATISÉ - Cuir,2015
+Charlottetown,46.234953,-63.132935,Cadillac,72428,Cadillac SRX,26495,Prince Edward Island,Cadillac SRX Luxury,2015
+Vaughan,43.820904,-79.5084,Cadillac,32000,Cadillac SRX,26500,Ontario,Cadillac SRX Luxury AWD,2015
+Welland,42.993097,-79.250565,Cadillac,49373,Cadillac CTS,31987,Ontario,Cadillac CTS Performance AWD,2015
+Woodstock,43.133061,-80.749855,Cadillac,78552,Cadillac SRX,30999,Ontario,Cadillac SRX Premium - Sunroof -  Navigation - $244 B,2015
+Lethbridge,49.694285,-112.851562,Cadillac,126883,Cadillac ATS,17998,Alberta,Cadillac ATS 2.0L Turbo Performance,2015
+Lethbridge,49.694285,-112.851562,Cadillac,80428,Cadillac SRX,29995,Alberta,Cadillac SRX Premium,2015
+Brantford,43.1554354,-80.2665916,Cadillac,40590,Cadillac ATS,17995,Ontario,Cadillac ATS 2.5L,2015
+Oakville,43.447436,-79.666672,Cadillac,124384,Cadillac CTS,20400,Ontario,Cadillac CTS Sedan AWD 3.6L Luxury,2015
+St-Léonard,45.58671,-73.5969488,Cadillac,68450,Cadillac ATS,17995,Québec,Cadillac ATS Turbo Luxury,2015
+Stratford,46.2189935,-63.0876534061131,Cadillac,85516,Cadillac ATS,16950,Prince Edward Island,Cadillac ATS,2015
+Brantford,43.1554354,-80.2665916,Cadillac,85516,Cadillac ATS,16950,Ontario,Cadillac ATS,2015
+Windsor,42.30423,-83.029861,Cadillac,85516,Cadillac ATS,16950,Ontario,Cadillac ATS,2015
+Edmonton,53.535411,-113.507996,Cadillac,64011,Cadillac SRX,26978,Alberta,Cadillac SRX Premium - Lease Return,2015
+Bedford,44.7303901,-63.6582365,Cadillac,43909,Cadillac ATS,16900,Nova Scotia,Cadillac ATS,2015
+Toronto,43.653963,-79.387207,Cadillac,90000,Cadillac ATS,16888,Ontario,Cadillac ATS AWD-1 OWNER-NO ACCIDENTS-WARRANTY-CERTIFIED!!,2015
+Toronto,43.653963,-79.387207,Cadillac,55046,Cadillac CTS,27000,Ontario,Cadillac CTS AWD,2015
+Hamilton,43.2425289,-79.9470423,Cadillac,67944,Cadillac SRX,25488,Ontario,Cadillac SRX Luxury AWD ,2015
+Windsor,42.30423,-83.029861,Cadillac,94452,Cadillac ATS,16775,Ontario,Cadillac ATS,2015
+Brantford,43.1554354,-80.2665916,Cadillac,94452,Cadillac ATS,16775,Ontario,Cadillac ATS,2015
+Stratford,46.2189935,-63.0876534061131,Cadillac,94452,Cadillac ATS,16775,Prince Edward Island,Cadillac ATS,2015
+St. Catharines,43.167376,-79.241638,Cadillac,74270,Cadillac ATS,16795,Ontario,Cadillac ATS 2.5L ,2015
+Brantford,43.1554354,-80.2665916,Cadillac,50896,Cadillac ATS,17995,Ontario,Cadillac ATS,2015
+Ottawa,45.421106,-75.690308,Cadillac,78547,Cadillac CTS,27888,Ontario,Cadillac CTS Luxury AWD,2015
+Laval,45.60558895,-73.7344173056906,Cadillac,107759,Cadillac ATS,16999,Québec,Cadillac ATS AWD 2.0L TURBO CUIR MAGS,2015
+Richmond,49.163168,-123.137414,Cadillac,85213,Cadillac SRX,26888,British Columbia,Cadillac SRX SRX Luxury Collection - Sunroof,2015
+Welland,42.993097,-79.250565,Cadillac,70611,Cadillac ATS,28687,Ontario,Cadillac ATS Premium AWD V6,2015
+Hamilton,43.2425289,-79.9470423,Cadillac,93672,Cadillac ATS,17988,Ontario,Cadillac ATS 2.0L Turbo ,2015
+Mississauga,43.590338,-79.645729,Cadillac,49556,Cadillac SRX,28900,Ontario,Cadillac SRX AWD Performance Navi,2015
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,65313,Cadillac ATS,17995,Québec,Cadillac ATS 2.0L Turbo ,2015
+Abbotsford,49.0521162,-122.3294792,Cadillac,87370,Cadillac SRX,27998,British Columbia,Cadillac SRX Performance Collection AWD Remote vehicle start,2015
+Cornwall,46.240769,-63.2009544400727,Cadillac,79871,Cadillac SRX,26956,Prince Edward Island,Cadillac SRX Luxury - Sunroof -  Leather Seats - $212 B,2015
+Kitchener,43.453168,-80.494423,Cadillac,41916,Cadillac ATS,17292,Ontario,Cadillac ATS 2.5L ,2015
+Calgary,51.02532675,-114.049868485806,Cadillac,78179,Cadillac CTS,27995,Alberta,Cadillac CTS 2.0L Turbo Luxury,2015
+St-Léonard,45.58671,-73.5969488,Cadillac,125667,Cadillac ATS,17495,Québec,Cadillac ATS Standard AWD,2015
+Victoriaville,46.0573705,-71.9536674,Cadillac,53401,Cadillac ATS,27995,Québec,Cadillac ATS 2.0L TURBO LUXURY,2015
+Richmond,49.163168,-123.137414,Cadillac,91215,Cadillac SRX,26888,British Columbia,Cadillac SRX SRX Luxury Collection  - Sunroof,2015
+Burlington,43.3248924,-79.7966835,Cadillac,69369,Cadillac SRX,25488,Ontario,Cadillac SRX Luxury,2015
+Burlington,43.3248924,-79.7966835,Cadillac,75417,Cadillac CTS,24988,Ontario,Cadillac CTS 2.0L Turbo Luxury,2015
+Tracadie-Sheila,47.515751,-64.9127856,Cadillac,41001,Cadillac ATS,21995,New Brunswick,Cadillac ATS AWD,2015
+Calgary,51.02532675,-114.049868485806,Cadillac,69991,Cadillac ATS,21995,Alberta,Cadillac ATS 2.0L TURBO LUXURY AWD ,2015
+Toronto,43.653963,-79.387207,Cadillac,75268,Cadillac CTS,24988,Ontario,Cadillac CTS 2.0L Turbo Luxe,2015
+Calgary,51.02532675,-114.049868485806,Cadillac,70249,Cadillac ATS,21999,Alberta,Cadillac ATS ALL WHEEL DRIVE! LOW KMS!,2015
+Oakville,43.447436,-79.666672,Cadillac,40795,Cadillac ATS,22200,Ontario,Cadillac ATS 2.99% FIN,2015
+Edmonton,53.535411,-113.507996,Cadillac,113415,Cadillac SRX,22442,Alberta,Cadillac SRX SRX Luxury Collection,2015
+Edmonton,53.535411,-113.507996,Cadillac,82555,Cadillac SRX,22462,Alberta,Cadillac SRX,2015
+Winnipeg,49.884017,-97.168579,Cadillac,70000,Cadillac SRX,24980,Manitoba,Cadillac SRX AWD ,2015
+St-Jean-Sur-Richelieu,45.3056879,-73.2533401,Cadillac,87022,Cadillac ATS,22511,Québec,Cadillac ATS Performance AWD  2.0T  NAVI  TOIT,2015
+Boucherville,45.6050197,-73.4526144,Cadillac,31675,Cadillac ATS,24888,Québec,Cadillac ATS 3.6L LUXURY ,2015
+Ste-Julie,45.5930624,-73.3395943,Cadillac,14488,Cadillac ATS,22898,Québec,Cadillac ATS BLUETOOTH,2015
+Ottawa,45.421106,-75.690308,Cadillac,48123,Cadillac ATS,25888,Ontario,Cadillac ATS 3.6 Performance 2.0 TURBO,2015
+Moncton,46.097995,-64.80011,Cadillac,58000,Cadillac ATS,21800,New Brunswick,Cadillac ATS 2.0L Turbo Luxury,2015
+Brantford,43.1554354,-80.2665916,Cadillac,91095,Cadillac XTS,20995,Ontario,Cadillac XTS AWD LUXURY,2015
+Stratford,46.2189935,-63.0876534061131,Cadillac,91095,Cadillac XTS,20995,Prince Edward Island,Cadillac XTS AWD LUXURY,2015
+Windsor,42.30423,-83.029861,Cadillac,91095,Cadillac XTS,20995,Ontario,Cadillac XTS AWD LUXURY,2015
+Ottawa,45.421106,-75.690308,Cadillac,57315,Cadillac ATS,25925,Ontario,Cadillac ATS 2.0T COUPE AWD LEATHER SUNROOF REAR CAM LOADED,2015
+Vaudreuil-Dorion,45.3971509,-74.0254577,Cadillac,42000,Cadillac ATS,20995,Québec,Cadillac ATS 2.0L TURBO ,2015
+St. Catharines,43.167376,-79.241638,Cadillac,96603,Cadillac SRX,20995,Ontario,Cadillac SRX Luxury ,2015
+St. Catharines,43.167376,-79.241638,Cadillac,75908,Cadillac ATS,20995,Ontario,Cadillac ATS 2.0L Turbo Lux ,2015
+Ste-Julie,45.5930624,-73.3395943,Cadillac,39000,Cadillac SRX,20998,Québec,Cadillac SRX SIEGES AVANT CHAUFFANTS,2015
+Thornhill,43.8161477,-79.4245925,Cadillac,55507,Cadillac SRX,21288,Ontario,Cadillac SRX FWD Dual Climate Control 2.99%,2015
+Cambridge,43.3855479,-80.3113582,Cadillac,127028,Cadillac SRX,21477,Ontario,Cadillac SRX Luxury,2015
+St-Jérôme,45.775426,-74.013176,Cadillac,79275,Cadillac SRX,21495,Québec,Cadillac SRX LUXURY CUIR ,2015
+Ste-Julie,45.5930624,-73.3395943,Cadillac,67800,Cadillac SRX,21498,Québec,Cadillac SRX Luxury,2015
+Ajax,43.850374,-79.024658,Cadillac,47097,Cadillac ATS,21540,Ontario,Cadillac ATS Luxury AWD,2015
+Cornwall,46.240769,-63.2009544400727,Cadillac,119348,Cadillac SRX,21551,Prince Edward Island,Cadillac SRX Luxury - Trade-in - Sunroof - $170 B,2015
+Brampton,43.6858146,-79.7599337,Cadillac,54781,Cadillac ATS,21700,Ontario,Cadillac ATS 2.0L TURBO ,2015
+Winnipeg,49.884017,-97.168579,Cadillac,84000,Cadillac SRX,23980,Manitoba,Cadillac SRX AWD ,2015
+Thornhill,43.8161477,-79.4245925,Cadillac,46183,Cadillac ATS,23988,Ontario,Cadillac ATS 2.99% AWD Bose Bluetooth Rear Camera,2015
+Burlington,43.3248924,-79.7966835,Cadillac,96019,Cadillac SRX,23988,Ontario,Cadillac SRX Luxury,2015
+Kitchener,43.453168,-80.494423,Cadillac,79600,Cadillac CTS,23992,Ontario,Cadillac CTS 3.6L Luxury AWD ,2015
+Edmonton,53.535411,-113.507996,Cadillac,42269,Cadillac ATS,23995,Alberta,Cadillac ATS Luxury AWD - Heated Steering Wheel,2015
+St. Catharines,43.167376,-79.241638,Cadillac,87472,Cadillac SRX,24495,Ontario,Cadillac SRX Premium ,2015
+Edmonton,53.535411,-113.507996,Cadillac,80616,Cadillac ATS,23995,Alberta,Cadillac ATS,2015
+Ste-Julie,45.5930624,-73.3395943,Cadillac,51337,Cadillac ATS,23998,Québec,Cadillac ATS COUPE LUXURY GROUPE SECURITE EVOLUEE,2015
+St-Hubert,46.501891,-64.025032,Cadillac,55542,Cadillac SRX,23999,Prince Edward Island,Cadillac SRX LUXURY AWD TOIT PANO NAV CUIR,2015
+Cambridge,43.3855479,-80.3113582,Cadillac,73200,Cadillac SRX,25498,Ontario,Cadillac SRX Premium- Roof,2015
+Moncton,46.097995,-64.80011,Cadillac,102337,Cadillac SRX,23700,New Brunswick,Cadillac SRX Luxury,2015
+Mont-Royal,45.5086157,-73.5903112,Cadillac,64400,Cadillac ATS,22995,Québec,Cadillac ATS 2.0L Luxury AWD,2015
+Ottawa,45.421106,-75.690308,Cadillac,65702,Cadillac ATS,22995,Ontario,Cadillac ATS 2.0L Turbo Luxury - Backup cam,2015
+St. Catharines,43.167376,-79.241638,Cadillac,70630,Cadillac SRX,22995,Ontario,Cadillac SRX Luxury,2015
+Cambridge,43.3855479,-80.3113582,Cadillac,23452,Cadillac ATS,22998,Ontario,Cadillac ATS 4dr Sdn 2.0L Luxury AWD,2015
+Ile-Perrot,46.050293,-71.9814568,Cadillac,56059,Cadillac SRX,22999,Québec,Cadillac SRX LUXURY AWD CUIR TOIT PANO NAV,2015
+Ile-Perrot,46.050293,-71.9814568,Cadillac,44882,Cadillac SRX,22999,Québec,Cadillac SRX AWD CUIR MAGS 20P NAV CAMERA DE RECUL,2015
+Newmarket,44.056258,-79.461708,Cadillac,65462,Cadillac SRX,25599,Ontario,Cadillac SRX Performance AWD ,2015
+Toronto,43.653963,-79.387207,Cadillac,59987,Cadillac ATS,20988,Ontario,Cadillac ATS COUPE ,2015
+Edmonton,53.535411,-113.507996,Cadillac,99500,Cadillac SRX,23397,Alberta,Cadillac SRX Premium,2015
+Toronto,43.653963,-79.387207,Cadillac,57000,Cadillac ATS,23450,Ontario,Cadillac ATS Standard AWD,2015
+St. Catharines,43.167376,-79.241638,Cadillac,84138,Cadillac CTS,25495,Ontario,Cadillac CTS 3.6L Luxury ,2015
+Sainte-Julie,45.5930624,-73.3395943,Cadillac,88642,Cadillac SRX,23495,Québec,Cadillac SRX PREMIUM AWD CUIR,2015
+Laval,45.60558895,-73.7344173056906,Cadillac,88642,Cadillac SRX,23495,Québec,Cadillac SRX PREMIUM AWD CUIR,2015
+La Prairie,45.4174659,-73.4891644,Cadillac,88642,Cadillac SRX,23495,Québec,Cadillac SRX PREMIUM AWD CUIR,2015
+Cayuga,42.952055,-79.858002,Cadillac,89489,Cadillac SRX,25595,Ontario,Cadillac SRX LUXURY COLLECTION FWD,2015
+Québec,52.4760892,-71.8258668,Cadillac,25321,Cadillac ATS,20987,Québec,Cadillac ATS ,2015
+St-Hubert,46.501891,-64.025032,Cadillac,68245,Cadillac ATS,18999,Prince Edward Island,Cadillac ATS AWD CUIR TOIT MAGS GROS ECRAN,2015
+Dauphin,51.153509,-100.04425,Cadillac,105596,Cadillac ATS,19745,Manitoba,Cadillac ATS Luxury Performance,2015
+Kitchener,43.453168,-80.494423,Cadillac,87807,Cadillac ATS,19596,Ontario,Cadillac ATS AWD! ,2015
+Laval,45.60558895,-73.7344173056906,Cadillac,67372,Cadillac ATS,19593,Québec,Cadillac ATS Luxury AWD NAVIGATION - Automatique - A,2015
+Estevan,49.1428076,-102.9910752,Cadillac,28503,Cadillac ATS,24995,Saskatchewan,Cadillac ATS AWD ,2015
+Lévis,46.7910096,-71.1753274,Cadillac,52360,Cadillac ATS,18995,Québec,Cadillac ATS AWD,2015
+Laval,45.60558895,-73.7344173056906,Cadillac,70100,Cadillac ATS,19400,Québec,Cadillac ATS 2.0L Turbo Luxury AWD ,2015
+Cayuga,42.952055,-79.858002,Cadillac,75690,Cadillac SRX,24995,Ontario,Cadillac SRX,2015
+Whitby,43.899871,-78.940201,Cadillac,69776,Cadillac CTS,25488,Ontario,Cadillac CTS 2.0L Turbo Performance,2015
+La Prairie,45.4174659,-73.4891644,Cadillac,61000,Cadillac ATS,19995,Québec,Cadillac ATS TURBO LUXURY AWD CUIR,2015
+Toronto,43.653963,-79.387207,Cadillac,27778,Cadillac ATS,25995,Ontario,Cadillac ATS ,2015
+Winnipeg,49.884017,-97.168579,Cadillac,66000,Cadillac ATS,19988,Manitoba,Cadillac ATS AWD 2.0T - LOCAL VEHICLE,2015
+Burlington,43.3248924,-79.7966835,Cadillac,79933,Cadillac ATS,19988,Ontario,Cadillac ATS 2.0L Turbo Performance,2015
+Ottawa,45.421106,-75.690308,Cadillac,75498,Cadillac CTS,25000,Ontario,Cadillac CTS Luxury LUXURY,2015
+Montréal,45.4972159,-73.6103642,Cadillac,37521,Cadillac ATS,19975,Québec,Cadillac ATS 2.0T @ 272 HP! - AWD - CAM - TOIT - BOSE,2015
+Windsor,42.30423,-83.029861,Cadillac,70715,Cadillac ATS,19880,Ontario,Cadillac ATS,2015
+Laval,45.60558895,-73.7344173056906,Cadillac,68458,Cadillac ATS,18992,Québec,Cadillac ATS LUXURY awd GPS toit ouvrant volant chauffant,2015
+Stratford,46.2189935,-63.0876534061131,Cadillac,70715,Cadillac ATS,19880,Prince Edward Island,Cadillac ATS,2015
+Vancouver,49.2608724,-123.1139529,Cadillac,78506,Cadillac ATS,18995,British Columbia,Cadillac ATS Standard RWD,2015
+Sainte-Julie,45.5930624,-73.3395943,Cadillac,61000,Cadillac ATS,19995,Québec,Cadillac ATS TURBO LUXURY AWD CUIR,2015
+Laval,45.60558895,-73.7344173056906,Cadillac,61000,Cadillac ATS,19995,Québec,Cadillac ATS TURBO LUXURY AWD CUIR,2015
+Brantford,43.1554354,-80.2665916,Cadillac,70715,Cadillac ATS,19880,Ontario,Cadillac ATS,2015
+Winnipeg,49.884017,-97.168579,Cadillac,71000,Cadillac ATS,19988,Manitoba,Cadillac ATS AWD - NO ACCIDENTS,2015
+Laval,45.60558895,-73.7344173056906,Cadillac,52793,Cadillac SRX,18999,Québec,Cadillac SRX BLUETOOTH CUIR MAGS,2015
+Surrey,49.1913033,-122.8491439,Cadillac,60900,Cadillac ATS,20900,British Columbia,Cadillac ATS Low KMs,2015
+Hamilton,43.2425289,-79.9470423,Cadillac,68028,Cadillac ATS,20388,Ontario,Cadillac ATS Luxury AWD ,2015
+St. Catharines,43.167376,-79.241638,Cadillac,79134,Cadillac ATS,20795,Ontario,Cadillac ATS 2.0L Turbo Luxury ,2015
+Oakville,43.447436,-79.666672,Cadillac,124384,Cadillac CTS,20400,Ontario,Cadillac CTS Sedan AWD 3.6L Luxury,2015
+Ottawa,45.421106,-75.690308,Cadillac,112019,Cadillac XTS,18995,Ontario,Cadillac XTS Luxury NAVIGATION LEATHER,2015
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,67693,Cadillac ATS,20492,Québec,Cadillac ATS 2.0L Turbo Luxury AWD ,2015
+Calgary,51.02532675,-114.049868485806,Cadillac,178833,Cadillac XTS,18995,Alberta,Cadillac XTS Premium,2015
+Surrey,49.1913033,-122.8491439,Cadillac,105200,Cadillac ATS,20500,British Columbia,Cadillac ATS 2.0T,2015
+St. Catharines,43.167376,-79.241638,Cadillac,62456,Cadillac ATS,20795,Ontario,Cadillac ATS Hot Looking Sport Appearance Pkg  ,2015
+London,42.9537654,-81.2291529,Cadillac,124209,Cadillac SRX,20982,Ontario,Cadillac SRX Luxury-AWD-Lane Change-Htd Lthr-Pwr Tailgate-Remot,2015
+Cambridge,43.3855479,-80.3113582,Cadillac,71479,Cadillac SRX,20000,Ontario,Cadillac SRX BASE,2015
+Cambridge,43.3855479,-80.3113582,Cadillac,55245,Cadillac ATS,20000,Ontario,Cadillac ATS Standard,2015
+Kingston,44.3054151,-76.4283781,Cadillac,53545,Cadillac SRX,29998,Ontario,Cadillac SRX Luxury Collection,2016
+Toronto,43.653963,-79.387207,Cadillac,72000,Cadillac ATS,23250,Ontario,Cadillac ATS Luxury Collection AWD,2016
+Niagara Falls,43.100983,-79.115295,Cadillac,82245,Cadillac XTS,23988,Ontario,Cadillac XTS Base - Local - Trade-in - Certified,2016
+Ste-Julie,45.5930624,-73.3395943,Cadillac,67420,Cadillac SRX,25498,Québec,Cadillac SRX Luxury,2016
+Montréal,45.4972159,-73.6103642,Cadillac,41259,Cadillac SRX,25996,Québec,Cadillac SRX Luxury Collection toit ouvrant - démarreur,2016
+Moncton,46.097995,-64.80011,Cadillac,59095,Cadillac SRX,33997,New Brunswick,Cadillac SRX Premium Collection,2016
+Saint-Constant,45.3724897,-73.5704589,Cadillac,87992,Cadillac CTS,23999,Québec,Cadillac CTS AWD 2.0T CUIR MAGS GROS ECRAN,2016
+Oshawa,43.91768,-78.862953,Cadillac,119125,Cadillac SRX,25607,Ontario,Cadillac SRX,2016
+Stratford,46.2189935,-63.0876534061131,Cadillac,70270,Cadillac SRX,23500,Prince Edward Island,Cadillac SRX FWD BASE,2016
+Cayuga,42.952055,-79.858002,Cadillac,43351,Cadillac SRX,29995,Ontario,Cadillac SRX LUXURY  AWD,2016
+Ottawa,45.421106,-75.690308,Cadillac,106458,Cadillac CTS,23888,Ontario,Cadillac CTS AWD,2016
+Moose Jaw,50.401515,-105.542908,Cadillac,85496,Cadillac XTS,28995,Saskatchewan,Cadillac XTS,2016
+Mississauga,43.590338,-79.645729,Cadillac,57007,Cadillac SRX,25999,Ontario,Cadillac SRX AWD,2016
+Rocky Mountain House,52.38196845,-114.912057731829,Cadillac,100307,Cadillac CTS,23995,Alberta,Cadillac CTS 2.0L Turbo Luxury 2x Tires,2016
+Brantford,43.1554354,-80.2665916,Cadillac,70270,Cadillac SRX,23500,Ontario,Cadillac SRX FWD BASE,2016
+Lacombe,52.4727515,-113.733215,Cadillac,76846,Cadillac CTS,28900,Alberta,Cadillac CTS 3.6L Luxury Collection,2016
+Ottawa,45.421106,-75.690308,Cadillac,59598,Cadillac CTS,33984,Ontario,Cadillac CTS 3.6L Luxury AWD LEATHER NAV PANO ROOF LOADED,2016
+Toronto,43.653963,-79.387207,Cadillac,136712,Cadillac SRX,23995,Ontario,Cadillac SRX Luxury ,2016
+Edmonton,53.535411,-113.507996,Cadillac,23461,Cadillac ATS,23995,Alberta,Cadillac ATS Luxury Collection AWD,2016
+Hamilton,43.2425289,-79.9470423,Cadillac,13518,Cadillac SRX,35990,Ontario,Cadillac SRX AWD Premium,2016
+St. Catharines,43.167376,-79.241638,Cadillac,54740,Cadillac ATS,23995,Ontario,Cadillac ATS 2.0L Turbo Coupe ,2016
+Orangeville,43.9194098,-80.0988238,Cadillac,54589,Cadillac CTS,33500,Ontario,Cadillac CTS LUXURY,2016
+Terrebonne,45.7081005,-73.6515157,Cadillac,41664,Cadillac ATS,19690,Québec,Cadillac ATS TURBO,2016
+St-Nicolas,47.1592368,-70.8595886,Cadillac,106416,Cadillac SRX,24668,Québec,Cadillac SRX Luxury Collection AWD ,2016
+Edmonton,53.535411,-113.507996,Cadillac,65192,Cadillac SRX,29995,Alberta,Cadillac SRX,2016
+London,42.9537654,-81.2291529,Cadillac,124714,Cadillac XTS,24495,Ontario,Cadillac XTS LEATHER ,2016
+Mercier,45.310444,-73.746051,Cadillac,87538,Cadillac SRX,28995,Québec,Cadillac SRX Premium Collection CUIR TOIT PANO GPS CAMÉRA,2016
+Oshawa,43.91768,-78.862953,Cadillac,138559,Cadillac ATS,19580,Ontario,Cadillac ATS AWD ,2016
+Windsor,42.30423,-83.029861,Cadillac,70270,Cadillac SRX,23500,Ontario,Cadillac SRX FWD BASE,2016
+Wetaskiwin,52.968492,-113.36792,Cadillac,22746,Cadillac CTS,36995,Alberta,Cadillac CTS 3.6L Premium Collection,2016
+Stratford,46.2189935,-63.0876534061131,Cadillac,44488,Cadillac CT6,39995,Prince Edward Island,Cadillac CT6 AWD AWD 3.6L LUXURY,2016
+Richmond,49.163168,-123.137414,Cadillac,12593,Cadillac CTS,43888,British Columbia,Cadillac CTS Performance Collection AWD Ultraview Power Sunroof,2016
+Brantford,43.1554354,-80.2665916,Cadillac,44488,Cadillac CT6,39995,Ontario,Cadillac CT6 AWD AWD 3.6L LUXURY,2016
+Windsor,42.30423,-83.029861,Cadillac,44488,Cadillac CT6,39995,Ontario,Cadillac CT6 AWD AWD 3.6L LUXURY,2016
+Kingston,44.3054151,-76.4283781,Cadillac,43772,Cadillac SRX,32670,Ontario,Cadillac SRX Premium Collection,2016
+Lévis,46.7910096,-71.1753274,Cadillac,60350,Cadillac SRX,21995,Québec,Cadillac SRX Standard,2016
+Ste-Julie,45.5930624,-73.3395943,Cadillac,17200,Cadillac ATS,17498,Québec,Cadillac ATS BLUETOOTH,2016
+Lower Sackville,44.7733009,-63.6884669,Cadillac,119161,Cadillac SRX,21995,Nova Scotia,Cadillac SRX Luxury ,2016
+Toronto,43.653963,-79.387207,Cadillac,72302,Cadillac SRX,27477,Ontario,Cadillac SRX Luxury - Navigation - Sunroof,2016
+Edmonton,53.535411,-113.507996,Cadillac,77214,Cadillac SRX,27997,Alberta,Cadillac SRX Premium w,2016
+Gananoque,44.3352722,-76.1646638,Cadillac,125967,Cadillac ATS,19999,Ontario,Cadillac ATS 2016 Cadillac ATS - 4dr Sdn 2.0L Standard AWD,2016
+Thornhill,43.8161477,-79.4245925,Cadillac,70538,Cadillac ATS,21888,Ontario,Cadillac ATS AWD Bluetooth Rear Camera,2016
+Brandon,49.8511143,-99.9608924,Cadillac,52790,Cadillac SRX,31593,Manitoba,Cadillac SRX Premium AWD ,2016
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,41930,Cadillac SRX,24995,Québec,Cadillac SRX Luxury Collection ,2016
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,63872,Cadillac ATS,20994,Québec,Cadillac ATS 2.0L Turbo ,2016
+Wetaskiwin,52.968492,-113.36792,Cadillac,66521,Cadillac ATS,20924,Alberta,Cadillac ATS Luxury,2016
+Guelph,43.533783,-80.2306337,Cadillac,82000,Cadillac ATS,20888,Ontario,Cadillac ATS Luxury Collection AWD - New Tires! Leather,2016
+Vancouver,49.2608724,-123.1139529,Cadillac,69284,Cadillac CTS,31995,British Columbia,Cadillac CTS 3.6 LUXURY AWD NAVIGATION SUNROOF,2016
+Stratford,46.2189935,-63.0876534061131,Cadillac,41245,Cadillac ATS,25885,Prince Edward Island,Cadillac ATS COUPE PREMIUM,2016
+Terrebonne,45.7081005,-73.6515157,Cadillac,70478,Cadillac ATS,20490,Québec,Cadillac ATS TURBO LUXURY,2016
+Victoriaville,46.0573705,-71.9536674,Cadillac,45500,Cadillac CT6,39995,Québec,Cadillac CT6 CT6 LUXURY AWD,2016
+London,42.9537654,-81.2291529,Cadillac,69401,Cadillac ATS,21462,Ontario,Cadillac ATS 2.0L AWD Back Up Camera-Heated Seats-Sunroof-Leath,2016
+Oakville,43.447436,-79.666672,Cadillac,68000,Cadillac ATS,21500,Ontario,Cadillac ATS 2.99 % FOR 60 MTHS OAC,2016
+Oakville,43.447436,-79.666672,Cadillac,91500,Cadillac SRX,25900,Ontario,Cadillac SRX Collection luxe AWD Luxury with Navigation,2016
+Ste-Julienne,45.9624229,-73.710013,Cadillac,36805,Cadillac ATS,21422,Québec,Cadillac ATS 2.0L Turbo AWD CUIR BLUETOOTH CAMERA 8 ROUES,2016
+Kitchener,43.453168,-80.494423,Cadillac,63622,Cadillac ATS,21997,Ontario,Cadillac ATS Luxury ,2016
+Brantford,43.1554354,-80.2665916,Cadillac,41245,Cadillac ATS,25885,Ontario,Cadillac ATS COUPE PREMIUM,2016
+Brantford,43.1554354,-80.2665916,Cadillac,40824,Cadillac ATS,19995,Ontario,Cadillac ATS SEDAN RWD 2.5L,2016
+Toronto,43.653963,-79.387207,Cadillac,61681,Cadillac SRX,27989,Ontario,Cadillac SRX Luxury - Sunroof - Navigation,2016
+Brampton,43.6858146,-79.7599337,Cadillac,61456,Cadillac ATS,22900,Ontario,Cadillac ATS AWD ,2016
+Windsor,42.30423,-83.029861,Cadillac,40824,Cadillac ATS,19995,Ontario,Cadillac ATS SEDAN RWD 2.5L,2016
+Oakville,43.447436,-79.666672,Cadillac,17586,Cadillac SRX,30400,Ontario,Cadillac SRX,2016
+Ottawa,45.421106,-75.690308,Cadillac,28703,Cadillac XTS,29500,Ontario,Cadillac XTS Luxury LUXURY AWD!!,2016
+Brantford,43.1554354,-80.2665916,Cadillac,66862,Cadillac SRX,22995,Ontario,Cadillac SRX Base,2016
+Stratford,46.2189935,-63.0876534061131,Cadillac,66862,Cadillac SRX,22995,Prince Edward Island,Cadillac SRX Base,2016
+Windsor,42.30423,-83.029861,Cadillac,66862,Cadillac SRX,22995,Ontario,Cadillac SRX Base,2016
+Mississauga,43.590338,-79.645729,Cadillac,52610,Cadillac SRX,32999,Ontario,Cadillac SRX Collection haut de gamme ONE OWNER  AWD  PREMIUM C,2016
+Stratford,46.2189935,-63.0876534061131,Cadillac,40824,Cadillac ATS,19995,Prince Edward Island,Cadillac ATS SEDAN RWD 2.5L,2016
+St. Catharines,43.167376,-79.241638,Cadillac,27586,Cadillac ATS,24898,Ontario,Cadillac ATS Luxury Collection AWD,2016
+Windsor,42.30423,-83.029861,Cadillac,41245,Cadillac ATS,25885,Ontario,Cadillac ATS COUPE PREMIUM,2016
+Laval,45.60558895,-73.7344173056906,Cadillac,86134,Cadillac ATS,19995,Québec,Cadillac ATS 2.0T LUXURY CUIR,2016
+Sainte-Julie,45.5930624,-73.3395943,Cadillac,86134,Cadillac ATS,19995,Québec,Cadillac ATS 2.0T LUXURY CUIR,2016
+La Prairie,45.4174659,-73.4891644,Cadillac,86134,Cadillac ATS,19995,Québec,Cadillac ATS 2.0T LUXURY CUIR,2016
+Mississauga,43.590338,-79.645729,Cadillac,92090,Cadillac XT5,33900,Ontario,Cadillac XT5 Premium Luxury Navi,2017
+Aurora,43.99973,-79.467545,Cadillac,52224,Cadillac XT5,33303,Ontario,Cadillac XT5 Luxury AWD,2017
+Richmond,49.163168,-123.137414,Cadillac,11500,Cadillac ATS,31995,British Columbia,Cadillac ATS AWD - Sunroof - Low Mileage,2017
+Sarnia,42.992595,-82.380981,Cadillac,62352,Cadillac XT5,33995,Ontario,Cadillac XT5 Luxury - 1 Owner - Local Trade,2017
+Blainville,45.67932,-73.87619,Cadillac,67202,Cadillac XT5,33995,Québec,Cadillac XT5 LUXURY ,2017
+Montréal,45.4972159,-73.6103642,Cadillac,41637,Cadillac XT5,34187,Québec,Cadillac XT5 TI 4 portes de luxe,2017
+Halifax,44.8543667,-63.137798,Cadillac,55631,Cadillac XT5,32481,Nova Scotia,Cadillac XT5,2017
+Blainville,45.67932,-73.87619,Cadillac,67000,Cadillac XT5,32500,Québec,Cadillac XT5 LUXURY ,2017
+Scarborough,43.773077,-79.257774,Cadillac,47647,Cadillac XT5,32500,Ontario,Cadillac XT5,2017
+Moose Jaw,50.401515,-105.542908,Cadillac,63158,Cadillac XT5,33790,Saskatchewan,Cadillac XT5 ,2017
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,68230,Cadillac XT5,33495,Québec,Cadillac XT5 Luxury ,2017
+Oakville,43.447436,-79.666672,Cadillac,45668,Cadillac ATS,24500,Ontario,Cadillac ATS 2.99% fin,2017
+Edmonton,53.535411,-113.507996,Cadillac,39352,Cadillac XT5,41998,Alberta,Cadillac XT5 Platinum AWD,2017
+Oakville,43.447436,-79.666672,Cadillac,49240,Cadillac XT5,34500,Ontario,Cadillac XT5,2017
+Edmonton,53.535411,-113.507996,Cadillac,30227,Cadillac XT5,38980,Alberta,Cadillac XT5 ,2017
+Edmonton,53.535411,-113.507996,Cadillac,80300,Cadillac XT5,38965,Alberta,Cadillac XT5 Platinum AWD - Lease Return,2017
+Regina,50.44876,-104.61731,Cadillac,28000,Cadillac XT5,38900,Saskatchewan,Cadillac XT5 Luxury,2017
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,48830,Cadillac XT5,31995,Québec,Cadillac XT5 Luxury,2017
+Edmonton,53.535411,-113.507996,Cadillac,59600,Cadillac XT5,37995,Alberta,Cadillac XT5 Premium Luxury AWD,2017
+Moose Jaw,50.401515,-105.542908,Cadillac,60248,Cadillac XT5,37401,Saskatchewan,Cadillac XT5,2017
+Winnipeg,49.884017,-97.168579,Cadillac,89206,Cadillac XT5,38987,Manitoba,Cadillac XT5 Premium Luxury AWD,2017
+Aurora,43.99973,-79.467545,Cadillac,65821,Cadillac XT5,38994,Ontario,Cadillac XT5 Platinum AWD,2017
+Kingston,44.3054151,-76.4283781,Cadillac,11702,Cadillac CT6,41999,Ontario,Cadillac CT6 3.6L Luxury AWD ,2017
+Vancouver,49.2608724,-123.1139529,Cadillac,36631,Cadillac CT6,42245,British Columbia,Cadillac CT6 Luxury AWD - Leather Seats,2017
+Kingston,44.3054151,-76.4283781,Cadillac,37290,Cadillac XT5,42680,Ontario,Cadillac XT5 Platinum,2017
+Edmonton,53.535411,-113.507996,Cadillac,58739,Cadillac XT5,39995,Alberta,Cadillac XT5 Platinum AWD - Lease Return,2017
+Hamilton,43.2425289,-79.9470423,Cadillac,56508,Cadillac XT5,39900,Ontario,Cadillac XT5 Platinum - EXECUTIVE DRIVEN WITH ALL THE OPTIONS!,2017
+Richmond,49.163168,-123.137414,Cadillac,64003,Cadillac XT5,39888,British Columbia,Cadillac XT5,2017
+Abbotsford,49.0521162,-122.3294792,Cadillac,27291,Cadillac XT5,38999,British Columbia,Cadillac XT5 Premium Luxury AWD,2017
+Edmonton,53.535411,-113.507996,Cadillac,30300,Cadillac XT5,38997,Alberta,Cadillac XT5,2017
+Victoria,48.4283182,-123.3649533,Cadillac,63104,Cadillac XTS,24995,British Columbia,Cadillac XTS Luxury - Wifi Dual Climate Leather Heated Seats,2017
+Edmonton,53.535411,-113.507996,Cadillac,52481,Cadillac XT5,36500,Alberta,Cadillac XT5 Luxury ,2017
+Montréal,45.4972159,-73.6103642,Cadillac,65579,Cadillac XT5,36387,Québec,Cadillac XT5 Premium Luxury  4 portes AWD,2017
+Windsor,42.30423,-83.029861,Cadillac,40762,Cadillac XT5,34999,Ontario,Cadillac XT5 AWD,2017
+Stratford,46.2189935,-63.0876534061131,Cadillac,40762,Cadillac XT5,34999,Prince Edward Island,Cadillac XT5 AWD,2017
+Brantford,43.1554354,-80.2665916,Cadillac,40762,Cadillac XT5,34999,Ontario,Cadillac XT5 AWD,2017
+Montréal,45.4972159,-73.6103642,Cadillac,28420,Cadillac XT5,34996,Québec,Cadillac XT5 Luxury toit - cuir - démarreur,2017
+Montréal,45.4972159,-73.6103642,Cadillac,51804,Cadillac XT5,34996,Québec,Cadillac XT5 Luxury awd - nav - toit,2017
+Langley,49.10647185,-122.550131156815,Cadillac,21800,Cadillac ATS,34995,British Columbia,Cadillac ATS PREMIUM LUXURY,2017
+Sherbrooke,45.403271,-71.889038,Cadillac,66593,Cadillac XT5,34988,Québec,Cadillac XT5 2017 Cadillac XT5 - AWD 4dr Luxury,2017
+Toronto,43.653963,-79.387207,Cadillac,79220,Cadillac XT5,34988,Ontario,Cadillac XT5 Platine,2017
+Oakville,43.447436,-79.666672,Cadillac,45748,Cadillac XT5,34600,Ontario,Cadillac XT5,2017
+Montréal,45.4972159,-73.6103642,Cadillac,65144,Cadillac CT6,35997,Québec,Cadillac CT6 Berline 3.6L 4 portes,2017
+Edmonton,53.535411,-113.507996,Cadillac,81337,Cadillac XT5,35995,Alberta,Cadillac XT5,2017
+Vancouver,49.2608724,-123.1139529,Cadillac,105219,Cadillac XT5,35995,British Columbia,Cadillac XT5 PLATINUM AWD NAVIGATION SUNROOF,2017
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,75483,Cadillac XT5,35995,Québec,Cadillac XT5 Premium Luxury,2017
+Edmonton,53.535411,-113.507996,Cadillac,95737,Cadillac XT5,36495,Alberta,Cadillac XT5,2017
+Thornhill,43.8161477,-79.4245925,Cadillac,28153,Cadillac XT5,35888,Ontario,Cadillac XT5 Luxury AWD Driver Aware Pkg Nav Roof,2017
+Montréal,45.4972159,-73.6103642,Cadillac,10015,Cadillac CTS,6900,Québec,Cadillac CTS PREMIUM LUXURY V6,2017
+Wetaskiwin,52.968492,-113.36792,Cadillac,53685,Cadillac XT5,35775,Alberta,Cadillac XT5 Luxury,2017
+Oakville,43.447436,-79.666672,Cadillac,37501,Cadillac XT5,35500,Ontario,Cadillac XT5,2017
+Edmonton,53.535411,-113.507996,Cadillac,79877,Cadillac XT5,37995,Alberta,Cadillac XT5 Platinum AWD - Lease Return,2017
+Ste-Julie,45.5930624,-73.3395943,Cadillac,41238,Cadillac XT5,28998,Québec,Cadillac XT5 STANDARD HAUT-PARLEURS BOSE,2017
+Edmonton,53.535411,-113.507996,Cadillac,56338,Cadillac XTS,22395,Alberta,Cadillac XTS Heated,2017
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,66600,Cadillac ATS,26995,Québec,Cadillac ATS 2.0L Turbo Luxury ,2017
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,92032,Cadillac XT5,26995,Québec,Cadillac XT5 CUIR,2017
+Lévis,46.7910096,-71.1753274,Cadillac,51600,Cadillac XT5,28995,Québec,Cadillac XT5 Base,2017
+Victoriaville,46.0573705,-71.9536674,Cadillac,84135,Cadillac XT5,27995,Québec,Cadillac XT5 LUXURY FWD,2017
+Oakville,43.447436,-79.666672,Cadillac,77080,Cadillac XT5,27700,Ontario,Cadillac XT5 3.99% for up to 60 months O.A.C.!,2017
+Vaughan,43.820904,-79.5084,Cadillac,17583,Cadillac Escalade,71910,Ontario,Cadillac Escalade ESV ,2017
+Montréal,45.4972159,-73.6103642,Cadillac,39483,Cadillac XTS,12500,Québec,Cadillac XTS FWD V6 2 BALLONS DASH OK EN MARCHE,2017
+Saint-Basile-Le-Grand,45.526246,-73.2876515,Cadillac,41015,Cadillac CTS,27989,Québec,Cadillac CTS 2.0T ,2017
+Edmonton,53.535411,-113.507996,Cadillac,50781,Cadillac ATS,27500,Alberta,Cadillac ATS Luxury AWD,2017
+Sherbrooke,45.403271,-71.889038,Cadillac,54443,Cadillac XT5,29389,Québec,Cadillac XT5 2017 Cadillac XT5 - FWD 4dr,2017
+Oakville,43.447436,-79.666672,Cadillac,35104,Cadillac XT5,27800,Ontario,Cadillac XT5 3.99% for 60 mths OAC,2017
+Milton,43.513671,-79.882817,Cadillac,38742,Cadillac XTS,25988,Ontario,Cadillac XTS Luxury,2017
+Oakville,43.447436,-79.666672,Cadillac,33416,Cadillac XT5,27800,Ontario,Cadillac XT5 3.99% for 60 Mths OAC,2017
+North York,43.7708175,-79.4132998,Cadillac,44120,Cadillac ATS,27800,Ontario,Cadillac ATS 2.0T,2017
+St. Catharines,43.167376,-79.241638,Cadillac,86149,Cadillac XT5,28988,Ontario,Cadillac XT5 2017 Cadillac XT5 - FWD 4dr Luxury,2017
+Boucherville,45.6050197,-73.4526144,Cadillac,52198,Cadillac ATS,26995,Québec,Cadillac ATS ,2017
+Toronto,43.653963,-79.387207,Cadillac,107352,Cadillac ATS,21988,Ontario,Cadillac ATS 2.0L Turbo,2017
+Oakville,43.447436,-79.666672,Cadillac,39956,Cadillac XT5,27200,Ontario,Cadillac XT5 3.99% FIN ,2017
+Guelph,43.533783,-80.2306337,Cadillac,99547,Cadillac ATS,21995,Ontario,Cadillac ATS 2.0L TURBO LUXURY ATS SUNROOF ,2017
+Windsor,42.30423,-83.029861,Cadillac,67704,Cadillac XTS,21999,Ontario,Cadillac XTS,2017
+Oakville,43.447436,-79.666672,Cadillac,40244,Cadillac XT5,27200,Ontario,Cadillac XT5 3.99% FIN FOR 60 MTHS OAC,2017
+Oakville,43.447436,-79.666672,Cadillac,50000,Cadillac ATS,27400,Ontario,Cadillac ATS 2.99% Financing for 60 Mths OAC,2017
+Thetford Mines,46.091329,-71.30127,Cadillac,82290,Cadillac ATS,21995,Québec,Cadillac ATS 4dr Sdn 2.0L Luxury AWD,2017
+Stratford,46.2189935,-63.0876534061131,Cadillac,67704,Cadillac XTS,21999,Prince Edward Island,Cadillac XTS,2017
+Brantford,43.1554354,-80.2665916,Cadillac,67704,Cadillac XTS,21999,Ontario,Cadillac XTS,2017
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,31576,Cadillac ATS,28495,Québec,Cadillac ATS 2.0L Turbo Luxury SPORT ,2017
+Markham,43.854336,-79.326782,Cadillac,63469,Cadillac ATS,23295,Ontario,Cadillac ATS Sedan AWD 2.0L Turbo - Luxury Navi,2017
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,44205,Cadillac ATS,23495,Québec,Cadillac ATS 2.0L Turbo ,2017
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,42290,Cadillac ATS,23495,Québec,Cadillac ATS 2.0L Turbo ,2017
+Toronto,43.653963,-79.387207,Cadillac,98274,Cadillac XT5,28750,Ontario,Cadillac XT5 - Sunroof - Navigation,2017
+Terrebonne,45.7081005,-73.6515157,Cadillac,26653,Cadillac ATS,23490,Québec,Cadillac ATS AWD,2017
+Oakville,43.447436,-79.666672,Cadillac,69950,Cadillac XT5,28675,Ontario,Cadillac XT5 3.99% for 60 Mths. OAC  Navigation,2017
+Brossard,45.4554829,-73.4678904,Cadillac,93658,Cadillac XT5,28588,Québec,Cadillac XT5 V6 ,2017
+Magog,45.265463,-72.147903,Cadillac,62200,Cadillac XTS,23395,Québec,Cadillac XTS,2017
+Toronto,43.653963,-79.387207,Cadillac,25913,Cadillac ATS,22995,Ontario,Cadillac ATS 4dr Sdn 2.0L Luxury AWD,2017
+Toronto,43.653963,-79.387207,Cadillac,45532,Cadillac XT5,29584,Ontario,Cadillac XT5,2017
+Mississauga,43.590338,-79.645729,Cadillac,54114,Cadillac XT5,29658,Ontario,Cadillac XT5 de luxe LED HEADLAMPS  ULTRAVIEW SUNROOF  NAVIGATI,2017
+Montréal,45.4972159,-73.6103642,Cadillac,45085,Cadillac XT5,27986,Québec,Cadillac XT5 Cuir - Bose - mags 18'' - 4 LTE,2017
+Ottawa,45.421106,-75.690308,Cadillac,71867,Cadillac XT5,26700,Ontario,Cadillac XT5 Base XT5 ,2017
+St-Jérôme,45.775426,-74.013176,Cadillac,76440,Cadillac XT5,30995,Québec,Cadillac XT5 LUXURY AWD ,2017
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,29651,Cadillac XT5,30991,Québec,Cadillac XT5 ,2017
+Gananoque,44.3352722,-76.1646638,Cadillac,96794,Cadillac XT5,30900,Ontario,Cadillac XT5 Luxury AWD,2017
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,64830,Cadillac XT5,30494,Québec,Cadillac XT5 Luxury ,2017
+Brandon,49.8511143,-99.9608924,Cadillac,78772,Cadillac XT5,30979,Manitoba,Cadillac XT5 Luxury AWD ,2017
+Oakville,43.447436,-79.666672,Cadillac,58957,Cadillac XT5,29600,Ontario,Cadillac XT5 3.99% FIN,2017
+Aurora,43.99973,-79.467545,Cadillac,65723,Cadillac XT5,31888,Ontario,Cadillac XT5 Luxury AWD,2017
+London,42.9537654,-81.2291529,Cadillac,80558,Cadillac XTS,26495,Ontario,Cadillac XTS ,2017
+Newmarket,44.056258,-79.461708,Cadillac,88178,Cadillac XT5,31388,Ontario,Cadillac XT5 Premium Luxury LEATHER,2017
+Oakville,43.447436,-79.666672,Cadillac,43863,Cadillac XT5,31300,Ontario,Cadillac XT5,2017
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,76858,Cadillac XT5,27995,Québec,Cadillac XT5 'intérêt à 3.99% jusquà 60 mois.,2017
+Ottawa,45.421106,-75.690308,Cadillac,18223,Cadillac ATS,30000,Ontario,Cadillac ATS Luxury AWD SUNROOF COUPE!,2017
+Vancouver,49.2608724,-123.1139529,Cadillac,53776,Cadillac ATS,25995,British Columbia,Cadillac ATS RWD,2017
+St. Albert,53.633239,-113.628845,Cadillac,82700,Cadillac ATS,26710,Alberta,Cadillac ATS Luxury AWD,2017
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,40952,Cadillac XT5,29995,Québec,Cadillac XT5 EXCLUSIF ,2017
+Niagara Falls,43.100983,-79.115295,Cadillac,83582,Cadillac XT5,29988,Ontario,Cadillac XT5 Luxury Sunroof,2017
+Cornwall,46.240769,-63.2009544400727,Cadillac,54423,Cadillac XT5,29956,Prince Edward Island,Cadillac XT5 Luxury - Navigation -  Cooled Seats - $209 B,2017
+Cornwall,46.240769,-63.2009544400727,Cadillac,33342,Cadillac XT5,29956,Prince Edward Island,Cadillac XT5 Base - Trade-in - Bluetooth - $209 B,2017
+St-Jean-Sur-Richelieu,45.3056879,-73.2533401,Cadillac,65463,Cadillac ATS,22988,Québec,Cadillac ATS 2.0T - AWD - TOIT OUVRANT - ET ,2017
+Richmond,49.163168,-123.137414,Cadillac,16620,Cadillac ATS,29888,British Columbia,Cadillac ATS Luxury - Navigation -  Leather Seats,2017
+Oakville,43.447436,-79.666672,Cadillac,49434,Cadillac XT5,29699,Ontario,Cadillac XT5,2017
+Montréal,45.4972159,-73.6103642,Cadillac,58200,Cadillac ATS,22587,Québec,Cadillac ATS Berline 2.0L 4 portes,2017
+Laval,45.60558895,-73.7344173056906,Cadillac,87000,Cadillac XT5,29995,Québec,Cadillac XT5 LUXURY AWD CUIR,2017
+Sainte-Julie,45.5930624,-73.3395943,Cadillac,87000,Cadillac XT5,29995,Québec,Cadillac XT5 LUXURY AWD CUIR,2017
+Oakville,43.447436,-79.666672,Cadillac,43786,Cadillac ATS,26900,Ontario,Cadillac ATS 2.99% FIN. 60 MTHS.OAC .,2017
+Vaughan,43.820904,-79.5084,Cadillac,41195,Cadillac ATS,29997,Ontario,Cadillac ATS,2017
+Lethbridge,49.694285,-112.851562,Cadillac,114740,Cadillac XT5,29998,Alberta,Cadillac XT5 Premium Luxury,2017
+Moncton,46.097995,-64.80011,Cadillac,106000,Cadillac XT5,26800,New Brunswick,Cadillac XT5 Luxury,2017
+Ste-Julie,45.5930624,-73.3395943,Cadillac,83629,Cadillac XT5,29998,Québec,Cadillac XT5 TOIT OUVRANT ULTRAVIEW,2017
+La Prairie,45.4174659,-73.4891644,Cadillac,87000,Cadillac XT5,29995,Québec,Cadillac XT5 LUXURY AWD CUIR,2017
+St-Hubert,46.501891,-64.025032,Cadillac,67736,Cadillac XT5,29999,Prince Edward Island,Cadillac XT5 LUXURY V6 CUIR TOIT PANO MAGS,2017
+Newmarket,44.056258,-79.461708,Cadillac,62255,Cadillac XT5,26899,Ontario,Cadillac XT5 APPLE CARPLAY,2017
+Grande Prairie,55.1709919,-118.7948882,Cadillac,47197,Cadillac XT5,38788,Alberta,Cadillac XT5 Luxury AWD,2018
+Montréal,45.4972159,-73.6103642,Cadillac,26200,Cadillac XT5,39777,Québec,Cadillac XT5 TI 4 portes de luxe ALERTE PRÉVENTION DE,2018
+Moncton,46.097995,-64.80011,Cadillac,26833,Cadillac XTS,38498,New Brunswick,Cadillac XTS Luxury,2018
+Newmarket,44.056258,-79.461708,Cadillac,42500,Cadillac XT5,38943,Ontario,Cadillac XT5 Premium Luxury,2018
+Oakville,43.447436,-79.666672,Cadillac,51717,Cadillac XT5,31900,Ontario,Cadillac XT5 3.99% FIN. 60MTHS OAC,2018
+Ottawa,45.421106,-75.690308,Cadillac,40896,Cadillac ATS,27500,Ontario,Cadillac ATS 2.0 Turbo AWD AWD,2018
+Brantford,43.1554354,-80.2665916,Cadillac,55974,Cadillac XTS,26500,Ontario,Cadillac XTS FWD,2018
+Edmonton,53.535411,-113.507996,Cadillac,21614,Cadillac ATS,26000,Alberta,Cadillac ATS 2.0L Turbo Luxury,2018
+Stratford,46.2189935,-63.0876534061131,Cadillac,55974,Cadillac XTS,26500,Prince Edward Island,Cadillac XTS FWD,2018
+Windsor,42.30423,-83.029861,Cadillac,55974,Cadillac XTS,26500,Ontario,Cadillac XTS FWD,2018
+Regina,50.44876,-104.61731,Cadillac,21198,Cadillac XT5,43518,Saskatchewan,Cadillac XT5 Premium Luxury AWD ,2018
+Port Perry,44.101147,-78.947754,Cadillac,30092,Cadillac XT5,43856,Ontario,Cadillac XT5 2018 Cadillac XT5 - AWD 4dr Luxury,2018
+Shellbrook,53.22248,-106.387482,Cadillac,39453,Cadillac XT5,42990,Saskatchewan,Cadillac XT5 Luxury AWD,2018
+Richmond,49.163168,-123.137414,Cadillac,25179,Cadillac XT5,42888,British Columbia,Cadillac XT5 Luxury AWD  - Leather Seats,2018
+Edmonton,53.535411,-113.507996,Cadillac,14860,Cadillac XT5,42495,Alberta,Cadillac XT5,2018
+Edmonton,53.535411,-113.507996,Cadillac,15546,Cadillac XT5,40429,Alberta,Cadillac XT5,2018
+Edmonton,53.535411,-113.507996,Cadillac,62194,Cadillac XTS,25906,Alberta,Cadillac XTS Leather ,2018
+Edmonton,53.535411,-113.507996,Cadillac,26575,Cadillac XT5,39995,Alberta,Cadillac XT5 Luxury AWD - Driver Awareness Pkg,2018
+Chatham,42.405207,-82.191467,Cadillac,22981,Cadillac ATS,26999,Ontario,Cadillac ATS HEATED LEATHER--MOON ROOF--LOOKS NEW,2018
+North York,43.7708175,-79.4132998,Cadillac,29962,Cadillac XT5,39950,Ontario,Cadillac XT5 NAVIGATION,2018
+Salaberry-De-Valleyfield,45.2555625,-74.1316153,Cadillac,25891,Cadillac ATS,29995,Québec,Cadillac ATS Luxury AWD 2.0L TURBO TOIT OUVRANT NAV,2018
+Montréal,45.4972159,-73.6103642,Cadillac,9500,Cadillac ATS,29996,Québec,Cadillac ATS 2,2018
+Shellbrook,53.22248,-106.387482,Cadillac,20263,Cadillac ATS,28990,Saskatchewan,Cadillac ATS AWD,2018
+Edmonton,53.535411,-113.507996,Cadillac,28244,Cadillac ATS,28985,Alberta,Cadillac ATS LUXURY AWD ,2018
+Port Moody,49.2822243,-122.8293424,Cadillac,18297,Cadillac ATS,28800,British Columbia,Cadillac ATS 2.0L LUX AWD,2018
+Ottawa,45.421106,-75.690308,Cadillac,28068,Cadillac ATS,28495,Ontario,Cadillac ATS Sedan AWD 2.0L Turbo,2018
+Richmond,49.163168,-123.137414,Cadillac,16975,Cadillac ATS,28000,British Columbia,Cadillac ATS,2018
+Mississauga,43.590338,-79.645729,Cadillac,39849,Cadillac XT5,33214,Ontario,Cadillac XT5 BEIGE INTERIOR  REAR PARK ASSIST  BOSE SPEAKERS  P,2018
+St-Léonard,45.58671,-73.5969488,Cadillac,38624,Cadillac XTS,35900,Québec,Cadillac XTS Luxury,2018
+Mississauga,43.590338,-79.645729,Cadillac,39984,Cadillac XT5,33787,Ontario,Cadillac XT5 BOSE PREMIUM SPEAKERS  POWER LIFTGATE  REAR PARK A,2018
+Moncton,46.097995,-64.80011,Cadillac,19048,Cadillac CTS,34055,New Brunswick,Cadillac CTS 3.6L Luxury,2018
+Airdrie,51.28184845,-113.989991054108,Cadillac,18107,Cadillac ATS,29000,Alberta,Cadillac ATS 2.0L Turbo Luxury,2018
+Windsor,42.30423,-83.029861,Cadillac,19966,Cadillac ATS,28999,Ontario,Cadillac ATS AWD TURBO LUXURY,2018
+Windsor,42.30423,-83.029861,Cadillac,17573,Cadillac ATS,28999,Ontario,Cadillac ATS AWD LUXURY,2018
+Stratford,46.2189935,-63.0876534061131,Cadillac,19966,Cadillac ATS,28999,Prince Edward Island,Cadillac ATS AWD TURBO LUXURY,2018
+Stratford,46.2189935,-63.0876534061131,Cadillac,17573,Cadillac ATS,28999,Prince Edward Island,Cadillac ATS AWD LUXURY,2018
+Brantford,43.1554354,-80.2665916,Cadillac,19966,Cadillac ATS,28999,Ontario,Cadillac ATS AWD TURBO LUXURY,2018
+Brantford,43.1554354,-80.2665916,Cadillac,17573,Cadillac ATS,28999,Ontario,Cadillac ATS AWD LUXURY,2018
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,15001,Cadillac XT5,33995,Québec,Cadillac XT5 'intérêt à 3.99% jusquà 60 mois.,2018
+Burnaby,49.2433804,-122.9725459,Cadillac,23701,Cadillac ATS,29700,British Columbia,Cadillac ATS Luxury AWD,2018
+Mississauga,43.590338,-79.645729,Cadillac,51450,Cadillac XTS,28999,Ontario,Cadillac XTS UNIVERSAL HOME REMOTE  REAR PARK ASSIST AND REAR C,2018
+Calgary,51.02532675,-114.049868485806,Cadillac,30176,Cadillac CTS,33993,Alberta,Cadillac CTS 3.6L Luxury,2018
+Laval,45.60558895,-73.7344173056906,Cadillac,70973,Cadillac ATS,23995,Québec,Cadillac ATS AWD Automatique - AIR CLIMATISÉ - CUIR,2018
+Calgary,51.02532675,-114.049868485806,Cadillac,6340,Cadillac ATS,29900,Alberta,Cadillac ATS,2018
+Red Deer,52.269838,-113.818359,Cadillac,51751,Cadillac XT5,36525,Alberta,Cadillac XT5 Luxury,2018
+Richmond,49.163168,-123.137414,Cadillac,24752,Cadillac ATS,32888,British Columbia,Cadillac ATS Luxury AWD  - Navigation,2018
+Oshawa,43.91768,-78.862953,Cadillac,19239,Cadillac XTS,36998,Ontario,Cadillac XTS 4dr Sdn Luxury AWD,2018
+Moncton,46.097995,-64.80011,Cadillac,30431,Cadillac XTS,36998,New Brunswick,Cadillac XTS Luxury,2018
+Sherbrooke,45.403271,-71.889038,Cadillac,27053,Cadillac CTS,36998,Québec,Cadillac CTS 4dr Sdn 3.6L Luxury AWD,2018
+Mississauga,43.590338,-79.645729,Cadillac,44731,Cadillac XT5,36999,Ontario,Cadillac XT5 de luxe 5 PASSENGER SEATING  HEATED STEERING WHEEL,2018
+Toronto,43.653963,-79.387207,Cadillac,47744,Cadillac XT5,31495,Ontario,Cadillac XT5,2018
+Calgary,51.02532675,-114.049868485806,Cadillac,48974,Cadillac XTS,27995,Alberta,Cadillac XTS,2018
+Burnaby,49.2433804,-122.9725459,Cadillac,30062,Cadillac ATS,31300,British Columbia,Cadillac ATS Luxury AWD,2018
+Edmonton,53.535411,-113.507996,Cadillac,63626,Cadillac XTS,27995,Alberta,Cadillac XTS,2018
+Moncton,46.097995,-64.80011,Cadillac,17160,Cadillac CTS,37100,New Brunswick,Cadillac CTS 3.6L Luxury AWD,2018
+Richmond,49.163168,-123.137414,Cadillac,25947,Cadillac ATS,32888,British Columbia,Cadillac ATS Luxury AWD - Navigation,2018
+Richmond,49.163168,-123.137414,Cadillac,24920,Cadillac ATS,32888,British Columbia,Cadillac ATS Luxury AWD  - Navigation,2018
+Thornhill,43.8161477,-79.4245925,Cadillac,43135,Cadillac XT5,30998,Ontario,Cadillac XT5 FWD,2018
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Cadillac,5168,Cadillac CTS,36995,Québec,Cadillac CTS 2.0L Turbo Luxury,2018
+Victoriaville,46.0573705,-71.9536674,Cadillac,37000,Cadillac XT5,37995,Québec,Cadillac XT5 LUXURY,2018
+Aurora,43.99973,-79.467545,Cadillac,40279,Cadillac ATS,27994,Ontario,Cadillac ATS AWD,2018
+Mississauga,43.590338,-79.645729,Cadillac,34096,Cadillac XT5,32999,Ontario,Cadillac XT5 ONE OWNER  REMOTE START  POWER TAILGATE  POWER HEA,2018
+Toronto,43.653963,-79.387207,Cadillac,39352,Cadillac XT5,31988,Ontario,Cadillac XT5,2018
+Mississauga,43.590338,-79.645729,Cadillac,25688,Cadillac XTS,36888,Ontario,Cadillac XTS Luxury Navi,2018
+St-Léonard,45.58671,-73.5969488,Cadillac,43388,Cadillac XT5,36890,Québec,Cadillac XT5 Luxury AWD,2018
+Toronto,43.653963,-79.387207,Cadillac,38450,Cadillac XT5,31988,Ontario,Cadillac XT5,2018
+Vancouver,49.2608724,-123.1139529,Cadillac,7292,Cadillac ATS,31995,British Columbia,Cadillac ATS LEATHER  HEATED VSEATS B,2018
+Dartmouth,44.6799707,-63.5720232,Cadillac,22622,Cadillac XT5,36977,Nova Scotia,Cadillac XT5 ONE OWNER FRESH TRADE IN!!  Absolutely LOADED!! AW,2018
+St-Jean-Sur-Richelieu,45.3056879,-73.2533401,Cadillac,53912,Cadillac XT5,36988,Québec,Cadillac XT5 LUXURUY AWD toit panoramique,2018
+Mississauga,43.590338,-79.645729,Cadillac,59138,Cadillac XTS,27998,Ontario,Cadillac XTS HEATED FRONT SEATS  LED HEADLAMPS  BLUETOOTH  REAR,2018
+Oshawa,43.91768,-78.862953,Cadillac,16074,Cadillac XT4,42995,Ontario,Cadillac XT4 AWD ,2019
+Scarborough,43.773077,-79.257774,Cadillac,28252,Cadillac XT5,43998,Ontario,Cadillac XT5 AWD ,2019
+Vancouver,49.2608724,-123.1139529,Cadillac,22765,Cadillac CTS,43995,British Columbia,Cadillac CTS Luxury - Sunroof,2019
+Brandon,49.8511143,-99.9608924,Cadillac,11946,Cadillac XT4,43899,Manitoba,Cadillac XT4 AWD Premium Luxury,2019
+Edmonton,53.535411,-113.507996,Cadillac,27977,Cadillac XTS,37998,Alberta,Cadillac XTS Luxury,2019
+Windsor,42.30423,-83.029861,Cadillac,90,Cadillac XT4,34631,Ontario,Cadillac XT4 LUXURY FWD,2019
+Brantford,43.1554354,-80.2665916,Cadillac,44295,Cadillac XT5,36880,Ontario,Cadillac XT5 Luxury AWD,2019
+Stratford,46.2189935,-63.0876534061131,Cadillac,44295,Cadillac XT5,36880,Prince Edward Island,Cadillac XT5 Luxury AWD,2019
+Saskatoon,52.131802,-106.660767,Cadillac,13509,Cadillac XTS,39945,Saskatchewan,Cadillac XTS Luxury AWD Only 13,2019
+Windsor,42.30423,-83.029861,Cadillac,44295,Cadillac XT5,36880,Ontario,Cadillac XT5 Luxury AWD,2019
+Windsor,42.30423,-83.029861,Cadillac,17430,Cadillac XTS,39500,Ontario,Cadillac XTS LUXURY AWD,2019
+Stratford,46.2189935,-63.0876534061131,Cadillac,17430,Cadillac XTS,39500,Prince Edward Island,Cadillac XTS LUXURY AWD,2019
+Brantford,43.1554354,-80.2665916,Cadillac,17430,Cadillac XTS,39500,Ontario,Cadillac XTS LUXURY AWD,2019
+Thornhill,43.8161477,-79.4245925,Cadillac,17421,Cadillac XTS,39988,Ontario,Cadillac XTS Luxury AWD Nav Apple Car Play 3.99%,2019
+Vancouver,49.2608724,-123.1139529,Cadillac,4747,Cadillac XT4,38995,British Columbia,Cadillac XT4 LUXURY AWD LEATHER HEATED STEERING REMOTE START,2019
+Thornhill,43.8161477,-79.4245925,Cadillac,20013,Cadillac XT5,37388,Ontario,Cadillac XT5 3.99% Apple Car Play Remote Start Bluetooth,2019
+Edmonton,53.535411,-113.507996,Cadillac,56,Cadillac XT5,37744,Alberta,Cadillac XT5 FWD,2019
+Brantford,43.1554354,-80.2665916,Cadillac,90,Cadillac XT5,37750,Ontario,Cadillac XT5 FWD BASE,2019
+Windsor,42.30423,-83.029861,Cadillac,23233,Cadillac XTS,38500,Ontario,Cadillac XTS LUXURY AWD,2019
+Stratford,46.2189935,-63.0876534061131,Cadillac,23233,Cadillac XTS,38500,Prince Edward Island,Cadillac XTS LUXURY AWD,2019
+Brantford,43.1554354,-80.2665916,Cadillac,23233,Cadillac XTS,38500,Ontario,Cadillac XTS LUXURY AWD,2019
+Uxbridge,44.107556,-79.127655,Cadillac,12928,Cadillac XT5,38994,Ontario,Cadillac XT5 Base - Cadillac Style -  Proximity Key,2019
+Brantford,43.1554354,-80.2665916,Cadillac,90,Cadillac XT4,34631,Ontario,Cadillac XT4 LUXURY FWD,2019
+Brandon,49.8511143,-99.9608924,Cadillac,12064,Cadillac XT5,42677,Manitoba,Cadillac XT5 Luxury AWD ,2019
+Brandon,49.8511143,-99.9608924,Cadillac,12321,Cadillac XT5,42677,Manitoba,Cadillac XT5 Luxury AWD ,2019
+Gananoque,44.3352722,-76.1646638,Cadillac,4800,Cadillac XT4,34900,Ontario,Cadillac XT4 Luxury,2019
+Richmond,49.163168,-123.137414,Cadillac,18678,Cadillac XTS,41995,British Columbia,Cadillac XTS Luxury,2019
+Brandon,49.8511143,-99.9608924,Cadillac,12010,Cadillac XT5,41977,Manitoba,Cadillac XT5 Luxury AWD ,2019
+Scarborough,43.773077,-79.257774,Cadillac,33454,Cadillac XT5,40998,Ontario,Cadillac XT5 AWD ,2019
+Vancouver,49.2608724,-123.1139529,Cadillac,17473,Cadillac XTS,40995,British Columbia,Cadillac XTS Luxury - Navigation -  Cooled Seats,2019
+Vancouver,49.2608724,-123.1139529,Cadillac,12305,Cadillac XTS,40995,British Columbia,Cadillac XTS Luxury - Navigation -  Cooled Seats,2019
+St-Jérôme,45.775426,-74.013176,Cadillac,20628,Cadillac XT5,40995,Québec,Cadillac XT5 LUXURY AWD ,2019
+Mississauga,43.590338,-79.645729,Cadillac,16368,Cadillac XTS,40746,Ontario,Cadillac XTS de luxe ONE OWNER  AWD  NAVIGATION  SIDE BLIND ZON,2019
+Edmonton,53.535411,-113.507996,Cadillac,5,Cadillac XT5,40130,Alberta,Cadillac XT5 AWD,2019
+Mississauga,43.590338,-79.645729,Cadillac,34612,Cadillac XT5,41856,Ontario,Cadillac XT5 Luxury,2019

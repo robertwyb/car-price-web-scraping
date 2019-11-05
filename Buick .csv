@@ -1,0 +1,742 @@
+city,lat,long,make,mileage,model,price,province,sepc,year
+Vancouver,49.2608724,-123.1139529,Buick,93687,Buick Wildcat,29980,British Columbia,Buick Wildcat Convertible,1966
+Sherwood Park,53.5256963,-113.2966313,Buick,42909,Buick Regal,34980,Alberta,Buick Regal Grand National 3.8L Turbo,1987
+Medicine Hat,50.04303,-110.679016,Buick,136024,Buick LeSabre,3500,Alberta,Buick LeSabre Limited Under $5000,1999
+Chilliwack,49.157677,-121.9514307,Buick,92000,Buick Regal,2599,British Columbia,Buick Regal LS,2003
+Calgary,51.02532675,-114.049868485806,Buick,120889,Buick Century,3888,Alberta,Buick Century Custom,2003
+High Prairie,55.4325044,-116.4836198,Buick,332916,Buick LeSabre,900,Alberta,Buick LeSabre Limited,2004
+Chilliwack,49.157677,-121.9514307,Buick,114346,Buick Allure,4888,British Columbia,Buick Allure CX Fixer-Upper,2005
+Saskatoon,52.131802,-106.660767,Buick,219700,Buick Rainier,3888,Saskatchewan,Buick Rainier CXL,2006
+Aurora,43.99973,-79.467545,Buick,195187,Buick Allure,2989,Ontario,Buick Allure CX,2006
+Salaberry-De-Valleyfield,45.2555625,-74.1316153,Buick,60483,Buick Allure,4995,Québec,Buick Allure CX   DÉMARREUR   GROUPE ÉLECTRIQUE   CRUISE,2007
+New Westminster,49.205728,-122.9108651,Buick,143316,Buick Lucerne,5998,British Columbia,Buick Lucerne 4dr Sdn V6 CXL,2007
+Vaudreuil-Dorion,45.3971509,-74.0254577,Buick,175896,Buick Lucerne,2495,Québec,Buick Lucerne NORTH STAR V8 4.6L ,2007
+London,42.9537654,-81.2291529,Buick,225085,Buick Lucerne,3295,Ontario,Buick Lucerne CXL V6 ,2007
+Charlottetown,46.234953,-63.132935,Buick,178000,Buick Rendezvous,2770,Prince Edward Island,Buick Rendezvous THIS WHOLESALE WILL BE SOLD AS-TRADED! INQUIRE,2007
+London,42.9537654,-81.2291529,Buick,177000,Buick Allure,4395,Ontario,Buick Allure Pwr Windows Locks Driver Seat-Cruise-A,2007
+Edmonton,53.535411,-113.507996,Buick,188457,Buick Enclave,10777,Alberta,Buick Enclave CXL,2008
+Calgary,51.02532675,-114.049868485806,Buick,150690,Buick Allure,8995,Alberta,Buick Allure Super,2008
+Salaberry-De-Valleyfield,45.2555625,-74.1316153,Buick,153248,Buick Lucerne,5995,Québec,Buick Lucerne CXL CUIR SIÈGES ÉLECTRIQUE MAGS,2008
+Richmond,49.163168,-123.137414,Buick,181150,Buick Enclave,8900,British Columbia,Buick Enclave 7 passenger DVD AWD 4dr CXL,2008
+Saskatoon,52.131802,-106.660767,Buick,247845,Buick Enclave,6544,Saskatchewan,Buick Enclave CXL,2008
+Ottawa,45.421106,-75.690308,Buick,145547,Buick Lucerne,6888,Ontario,Buick Lucerne CX,2008
+Boucherville,45.6050197,-73.4526144,Buick,173000,Buick Lucerne,5990,Québec,Buick Lucerne CXL ,2008
+London,42.9537654,-81.2291529,Buick,215484,Buick Allure,1500,Ontario,Buick Allure CX ,2008
+Mississauga,43.590338,-79.645729,Buick,244642,Buick Lucerne,3245,Ontario,Buick Lucerne CXL - ROOF ,2008
+Ottawa,45.421106,-75.690308,Buick,200945,Buick Allure,1700,Ontario,Buick Allure CX AS-IS,2008
+Brampton,43.6858146,-79.7599337,Buick,196469,Buick Enclave,5495,Ontario,Buick Enclave CXL,2008
+Scarborough,43.773077,-79.257774,Buick,229507,Buick Enclave,5858,Ontario,Buick Enclave Premier Pre-Owned Sale: October 21-26 only!,2008
+Fort Macleod,49.7257568,-113.4053475,Buick,219223,Buick Enclave,9998,Alberta,Buick Enclave CXL Luxury TV,2009
+Toronto,43.653963,-79.387207,Buick,181000,Buick Enclave,8488,Ontario,Buick Enclave CX,2009
+Toronto,43.653963,-79.387207,Buick,141000,Buick Enclave,9888,Ontario,Buick Enclave CX,2009
+Calgary,51.02532675,-114.049868485806,Buick,103668,Buick Allure,5555,Alberta,Buick Allure CX,2009
+Mississauga,43.590338,-79.645729,Buick,159966,Buick Lucerne,6488,Ontario,Buick Lucerne CXL,2009
+Winnipeg,49.884017,-97.168579,Buick,88828,Buick LaCrosse,11999,Manitoba,Buick LaCrosse 4dr Sdn CXL FWD,2010
+Moncton,46.097995,-64.80011,Buick,134814,Buick LaCrosse,9443,New Brunswick,Buick LaCrosse CXL,2010
+Windsor,42.30423,-83.029861,Buick,140000,Buick Enclave,8995,Ontario,Buick Enclave CXL,2010
+Brantford,43.1554354,-80.2665916,Buick,140000,Buick Enclave,8995,Ontario,Buick Enclave CXL,2010
+North Bay,46.3092115,-79.4607617,Buick,139201,Buick Lucerne,8916,Ontario,Buick Lucerne CXL,2010
+Guelph,43.533783,-80.2306337,Buick,138650,Buick LaCrosse,10995,Ontario,Buick LaCrosse 2010 Buick LaCrosse - 4dr Sdn CX FWD V6,2010
+Stratford,46.2189935,-63.0876534061131,Buick,140000,Buick Enclave,8995,Prince Edward Island,Buick Enclave CXL,2010
+London,42.9537654,-81.2291529,Buick,258475,Buick Enclave,4500,Ontario,Buick Enclave CXL1,2010
+Gatineau,45.457241,-75.723267,Buick,95310,Buick LaCrosse,6994,Québec,Buick LaCrosse Le Confort  au Meilleur Prix !!! CXL,2010
+Burlington,43.3248924,-79.7966835,Buick,191480,Buick Enclave,6988,Ontario,Buick Enclave CX,2010
+Thornhill,43.8161477,-79.4245925,Buick,25146,Buick LaCrosse,13888,Ontario,Buick LaCrosse CXL Heads Up Display Bluetooth Remote Start,2010
+Winnipeg,49.884017,-97.168579,Buick,158000,Buick Enclave,16600,Manitoba,Buick Enclave CXL AWD - Htd Lthr,2011
+Calgary,51.02532675,-114.049868485806,Buick,79069,Buick Regal,10888,Alberta,Buick Regal CXL,2011
+Wetaskiwin,52.968492,-113.36792,Buick,170428,Buick LaCrosse,10987,Alberta,Buick LaCrosse CXS - Bluetooth -  Leather Seats,2011
+Steinbach,49.530557,-96.69342,Buick,159254,Buick Lucerne,9995,Manitoba,Buick Lucerne CXL Sedan,2011
+Victoriaville,46.0573705,-71.9536674,Buick,98568,Buick Regal,9995,Québec,Buick Regal CXL Turbo,2011
+Calgary,51.02532675,-114.049868485806,Buick,150733,Buick Enclave,13900,Alberta,Buick Enclave,2011
+Ottawa,45.421106,-75.690308,Buick,90985,Buick Regal,9995,Ontario,Buick Regal CXL,2011
+Cayuga,42.952055,-79.858002,Buick,96116,Buick LACROSSE,12595,Ontario,Buick LACROSSE CXS FWD,2011
+Edmonton,53.535411,-113.507996,Buick,127409,Buick LaCrosse,11995,Alberta,Buick LaCrosse CXL - 3.6L,2011
+Waterloo,43.466874,-80.524635,Buick,48500,Buick Regal,11490,Ontario,Buick Regal CXL Leather  ,2011
+Aylmer,42.773227,-80.983658,Buick,81000,Buick Lucerne,11995,Ontario,Buick Lucerne CXL! HEATED LEATHER! HEATED STEERING WHEEL!,2011
+London,42.9537654,-81.2291529,Buick,107783,Buick LaCrosse,12495,Ontario,Buick LaCrosse CXL ,2011
+Ottawa,45.421106,-75.690308,Buick,62984,Buick Regal,11226,Ontario,Buick Regal CXL ONLY 63,2011
+Coquitlam,49.2842958,-122.793281,Buick,92242,Buick LaCrosse,12487,British Columbia,Buick LaCrosse CXL,2011
+Scarborough,43.773077,-79.257774,Buick,120600,Buick Enclave,14995,Ontario,Buick Enclave CXL1,2011
+Calgary,51.02532675,-114.049868485806,Buick,216968,Buick Enclave,12995,Alberta,Buick Enclave CXL2,2011
+Brampton,43.6858146,-79.7599337,Buick,141067,Buick Regal,8888,Ontario,Buick Regal CXL,2011
+Uxbridge,44.107556,-79.127655,Buick,190265,Buick Enclave,9494,Ontario,Buick Enclave CX AWD 1SA - Bluetooth -  Power Tailgate,2011
+Laval,45.60558895,-73.7344173056906,Buick,102248,Buick LaCrosse,7495,Québec,Buick LaCrosse CX,2011
+Guelph,43.533783,-80.2306337,Buick,133592,Buick LaCrosse,7495,Ontario,Buick LaCrosse CX,2011
+Etobicoke,43.67145915,-79.5524920661167,Buick,146780,Buick Regal,7888,Ontario,Buick Regal CXL TURBO NAVIGATION,2011
+Mississauga,43.590338,-79.645729,Buick,127900,Buick Regal,7988,Ontario,Buick Regal Turbo,2011
+Kingston,44.3054151,-76.4283781,Buick,251316,Buick LaCrosse,2995,Ontario,Buick LaCrosse CXL,2011
+Châteauguay,45.3619066,-73.7524319,Buick,118125,Buick LaCrosse,6989,Québec,Buick LaCrosse CX ,2011
+Ottawa,45.421106,-75.690308,Buick,140684,Buick Regal,9888,Ontario,Buick Regal CXL,2011
+Fonthill,43.0394019,-79.283605,Buick,124250,Buick Lucerne,8900,Ontario,Buick Lucerne CXL,2011
+Ottawa,45.421106,-75.690308,Buick,155292,Buick Regal,8888,Ontario,Buick Regal CXL w,2011
+London,42.9537654,-81.2291529,Buick,96543,Buick Regal,11990,Ontario,Buick Regal PREMIUM ULTIMATE EDITION,2012
+Toronto,43.653963,-79.387207,Buick,178259,Buick Enclave,11995,Ontario,Buick Enclave CXL1 ,2012
+Gananoque,44.3352722,-76.1646638,Buick,132856,Buick Enclave,15900,Ontario,Buick Enclave 2012 Buick Enclave - AWD 4dr CXL1,2012
+Ottawa,45.421106,-75.690308,Buick,85667,Buick Verano,11888,Ontario,Buick Verano w,2012
+Uxbridge,44.107556,-79.127655,Buick,64308,Buick Enclave,17994,Ontario,Buick Enclave CXL AWD - Low Mileage,2012
+Calgary,51.02532675,-114.049868485806,Buick,119076,Buick Regal,15995,Alberta,Buick Regal GS w,2012
+Sherbrooke,45.403271,-71.889038,Buick,199767,Buick Enclave,8888,Québec,Buick Enclave CXL1,2012
+Regina,50.44876,-104.61731,Buick,80360,Buick Enclave,17988,Saskatchewan,Buick Enclave CXL AWD,2012
+London,42.9537654,-81.2291529,Buick,169341,Buick Enclave,12898,Ontario,Buick Enclave CXL AWD- Htd Lthr-7 Passenger-New Tires,2012
+Ajax,43.850374,-79.024658,Buick,135800,Buick Enclave,13888,Ontario,Buick Enclave CXL2,2012
+Laval,45.60558895,-73.7344173056906,Buick,137000,Buick Verano,5995,Québec,Buick Verano ,2012
+Sainte-Julie,45.5930624,-73.3395943,Buick,137000,Buick Verano,5995,Québec,Buick Verano ,2012
+La Prairie,45.4174659,-73.4891644,Buick,137000,Buick Verano,5995,Québec,Buick Verano ,2012
+Sainte-Julie,45.5930624,-73.3395943,Buick,63000,Buick Regal,12995,Québec,Buick Regal GS MAGS,2012
+Laval,45.60558895,-73.7344173056906,Buick,63000,Buick Regal,12995,Québec,Buick Regal GS MAGS,2012
+Cayuga,42.952055,-79.858002,Buick,111368,Buick VERANO,12995,Ontario,Buick VERANO  FWD,2012
+La Prairie,45.4174659,-73.4891644,Buick,63000,Buick Regal,12995,Québec,Buick Regal GS MAGS,2012
+Edmonton,53.535411,-113.507996,Buick,107546,Buick Enclave,22991,Alberta,Buick Enclave CXL,2012
+St-Nicolas,47.1592368,-70.8595886,Buick,75224,Buick LaCrosse,10998,Québec,Buick LaCrosse Base ,2012
+Fort Macleod,49.7257568,-113.4053475,Buick,41335,Buick Verano,12889,Alberta,Buick Verano 2012 Buick Verano - 4dr Sdn w-1SL,2012
+Caledonia,45.2773029,-62.3899848,Buick,131023,Buick Enclave,14995,Nova Scotia,Buick Enclave CXL1 ,2012
+Waterloo,43.466874,-80.524635,Buick,104298,Buick Regal,14999,Ontario,Buick Regal GS,2012
+Longueuil,45.5172382,-73.4467466,Buick,152046,Buick Regal,7995,Québec,Buick Regal 4dr Sdn Turbo w-1SP CUIR TOIT MAGS 18'' ,2012
+Woodstock,43.133061,-80.749855,Buick,164047,Buick LaCrosse,8000,Ontario,Buick LaCrosse CX 3.6L V6,2012
+Laval,45.60558895,-73.7344173056906,Buick,75000,Buick Verano,8995,Québec,Buick Verano LEATHER I MAGS ,2012
+Brampton,43.6858146,-79.7599337,Buick,94126,Buick Verano,9300,Ontario,Buick Verano 4Dr Sedan 1SL,2012
+Clarington,43.96868585,-78.6513573827391,Buick,99889,Buick Verano,9999,Ontario,Buick Verano ,2012
+Vaughan,43.820904,-79.5084,Buick,217000,Buick Enclave,10000,Ontario,Buick Enclave CXL AWD,2012
+Duncan,48.7786872,-123.7080446,Buick,100931,Buick Regal,10995,British Columbia,Buick Regal w,2012
+Moncton,46.097995,-64.80011,Buick,122267,Buick Verano,9800,New Brunswick,Buick Verano Base,2012
+Granby,45.3990409,-72.721834,Buick,103199,Buick LaCrosse,10490,Québec,Buick LaCrosse Convenience Group,2012
+St-Jérôme,45.775426,-74.013176,Buick,90113,Buick Verano,10995,Québec,Buick Verano TOIT OUVRANT SIÈGES ,2012
+St-Léonard,45.58671,-73.5969488,Buick,97229,Buick Verano,9885,Québec,Buick Verano w,2012
+Blainville,45.67932,-73.87619,Buick,95318,Buick Verano,10995,Québec,Buick Verano GROUPE COMMODITE ,2012
+Sainte-Julie,45.5930624,-73.3395943,Buick,75000,Buick Verano,8995,Québec,Buick Verano LEATHER I MAGS ,2012
+Oakville,43.447436,-79.666672,Buick,156201,Buick Regal,9350,Ontario,Buick Regal NICE CLEAN CAR ,2012
+La Prairie,45.4174659,-73.4891644,Buick,75000,Buick Verano,8995,Québec,Buick Verano LEATHER I MAGS ,2012
+Vernon,50.268277,-119.267578,Buick,70424,Buick Encore,19800,British Columbia,Buick Encore Convenience,2013
+Lloydminster,53.279995,-110.00885,Buick,81658,Buick Enclave,22973,Alberta,Buick Enclave Leather,2013
+Tracadie-Sheila,47.515751,-64.9127856,Buick,170968,Buick Encore,10495,New Brunswick,Buick Encore Base,2013
+Niagara Falls,43.100983,-79.115295,Buick,98069,Buick Verano,12988,Ontario,Buick Verano Leather,2013
+Delson,45.3749509,-73.5413403,Buick,72245,Buick Verano,10494,Québec,Buick Verano 1 SEUL PROPRIO,2013
+Saint-Barthélemy,46.1912244,-73.1199,Buick,60500,Buick Verano,12795,Québec,Buick Verano CUIR,2013
+Coquitlam,49.2842958,-122.793281,Buick,129664,Buick Regal,12887,British Columbia,Buick Regal Turbo,2013
+Lethbridge,49.694285,-112.851562,Buick,116081,Buick Enclave,23295,Alberta,Buick Enclave Leather,2013
+Woodstock,43.133061,-80.749855,Buick,138469,Buick Encore,10850,Ontario,Buick Encore CXL - Leather & Sunroof,2013
+Aurora,43.99973,-79.467545,Buick,163322,Buick Enclave,19418,Ontario,Buick Enclave Leather,2013
+Toronto,43.653963,-79.387207,Buick,114005,Buick Regal,12950,Ontario,Buick Regal 4dr Sdn Turbo,2013
+Thornhill,43.8161477,-79.4245925,Buick,62929,Buick Verano,10721,Ontario,Buick Verano ,2013
+Mississauga,43.590338,-79.645729,Buick,148000,Buick LaCrosse,9500,Ontario,Buick LaCrosse Premium,2013
+Scarborough,43.773077,-79.257774,Buick,132654,Buick LaCrosse,12998,Ontario,Buick LaCrosse,2013
+Moncton,46.097995,-64.80011,Buick,226376,Buick Enclave,13888,New Brunswick,Buick Enclave Premium,2013
+Saint-Constant,45.3724897,-73.5704589,Buick,111612,Buick Encore,13999,Québec,Buick Encore AWD CUIR TOIT,2013
+Laval,45.60558895,-73.7344173056906,Buick,125215,Buick Encore,13999,Québec,Buick Encore AWD CUIR TOIT NAV MAGS,2013
+Toronto,43.653963,-79.387207,Buick,106862,Buick Encore,13988,Ontario,Buick Encore Haut de Gamme,2013
+Burlington,43.3248924,-79.7966835,Buick,90464,Buick Regal,13988,Ontario,Buick Regal eASSIST,2013
+Markham,43.854336,-79.326782,Buick,155960,Buick Verano,5668,Ontario,Buick Verano 4Dr Sedan 4PG69 Rear Cam,2013
+Aylmer,42.773227,-80.983658,Buick,117000,Buick LaCrosse,13495,Ontario,Buick LaCrosse HEATED LEATHER SEATS! BACKUP CAM! REMOTE START!,2013
+Gatineau,45.457241,-75.723267,Buick,104057,Buick LaCrosse,10000,Québec,Buick LaCrosse eAssist,2013
+Campbell River,50.023071,-125.2441538,Buick,165213,Buick Enclave,16995,British Columbia,Buick Enclave Premium Group,2013
+Ste-Julie,45.5930624,-73.3395943,Buick,81904,Buick Verano,9998,Québec,Buick Verano DEMARREUR A DISTANCE,2013
+Terrebonne,45.7081005,-73.6515157,Buick,101209,Buick Verano,9790,Québec,Buick Verano 2.0Turbo,2013
+Kingston,44.3054151,-76.4283781,Buick,75755,Buick Verano,12998,Ontario,Buick Verano Base,2013
+Aylmer,42.773227,-80.983658,Buick,60210,Buick Encore,17495,Ontario,Buick Encore Leather,2013
+London,42.9537654,-81.2291529,Buick,148084,Buick LaCrosse,10995,Ontario,Buick LaCrosse Base,2013
+Mississauga,43.590338,-79.645729,Buick,63322,Buick Enclave,28900,Ontario,Buick Enclave AWD Navi,2013
+Red Deer,52.269838,-113.818359,Buick,130921,Buick Encore,15525,Alberta,Buick Encore CXL AWD,2013
+Aylmer,42.773227,-80.983658,Buick,154000,Buick Encore,11995,Ontario,Buick Encore CONVENIENCE! CLEAN CARPROOF!,2013
+Newmarket,44.056258,-79.461708,Buick,109842,Buick Enclave,24994,Ontario,Buick Enclave Cuir AWD ,2013
+Anjou,45.6182795,-73.5961726,Buick,77000,Buick Verano,11495,Québec,Buick Verano LEATHER,2013
+100 Mile House,51.6427866,-121.2956943,Buick,131621,Buick Enclave,28700,British Columbia,Buick Enclave Convenience - Certified - Bluetooth - $249 B,2013
+Ingersoll,43.037725,-80.88211,Buick,117922,Buick Enclave,25349,Ontario,Buick Enclave Premium,2013
+Kitchener,43.453168,-80.494423,Buick,126399,Buick Enclave,17998,Ontario,Buick Enclave Leather,2013
+Cayuga,42.952055,-79.858002,Buick,127719,Buick VERANO,10950,Ontario,Buick VERANO  FWD,2013
+Winnipeg,49.884017,-97.168579,Buick,105000,Buick Enclave,23900,Manitoba,Buick Enclave PREMIUM ,2013
+London,42.9537654,-81.2291529,Buick,94899,Buick Encore,14999,Ontario,Buick Encore,2013
+Ottawa,45.421106,-75.690308,Buick,98500,Buick Verano,12500,Ontario,Buick Verano Turbo,2013
+Brandon,49.8511143,-99.9608924,Buick,70521,Buick Encore,15289,Manitoba,Buick Encore Leather AWD ,2013
+Red Deer,52.269838,-113.818359,Buick,97595,Buick Enclave,25525,Alberta,Buick Enclave Premium,2013
+North Bay,46.3092115,-79.4607617,Buick,130465,Buick Encore,12334,Ontario,Buick Encore Back Up Camera,2013
+Thunder Bay,48.406414,-89.259796,Buick,89888,Buick Encore,11999,Ontario,Buick Encore Convenience ,2013
+Thetford Mines,46.091329,-71.30127,Buick,122067,Buick Enclave,18995,Québec,Buick Enclave 2014 Buick Enclave - AWD 4dr Convenience,2014
+St-Hubert,46.501891,-64.025032,Buick,63430,Buick Verano,13999,Prince Edward Island,Buick Verano CUIR TOIT CAMERA RECUL  GROUPE CONFORT,2014
+Cayuga,42.952055,-79.858002,Buick,75412,Buick LACROSSE,16995,Ontario,Buick LACROSSE  FWD,2014
+Oakville,43.447436,-79.666672,Buick,85568,Buick Encore,15995,Ontario,Buick Encore ,2014
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Buick,69464,Buick Encore,15995,Québec,Buick Encore CUIR ,2014
+Edmonton,53.535411,-113.507996,Buick,178332,Buick Enclave,18865,Alberta,Buick Enclave AWD. One Owner. Accident Free. 7-Seating. Factory,2014
+Mississauga,43.590338,-79.645729,Buick,74841,Buick Encore,16888,Ontario,Buick Encore Convenience,2014
+Chatham-Kent,42.41833,-82.0898417,Buick,158712,Buick Enclave,19288,Ontario,Buick Enclave Cuir AWD - LEATHER - SUNROOF - HEATED SEATS - REAR,2014
+Ottawa,45.421106,-75.690308,Buick,47968,Buick Encore,18888,Ontario,Buick Encore AWD - Low Mileage,2014
+Scarborough,43.773077,-79.257774,Buick,67231,Buick Encore,16998,Ontario,Buick Encore FWD,2014
+Toronto,43.653963,-79.387207,Buick,146455,Buick Enclave,19995,Ontario,Buick Enclave Premium ,2014
+Calgary,51.02532675,-114.049868485806,Buick,110102,Buick Encore,16888,Alberta,Buick Encore Premium,2014
+New Richmond,48.1651194,-65.8655584,Buick,101480,Buick Encore,16595,Québec,Buick Encore AWD,2014
+Winnipeg,49.884017,-97.168579,Buick,132000,Buick Encore,15800,Manitoba,Buick Encore AWD - Bose,2014
+Fort Mcmurray,56.7291997,-111.3885221,Buick,88195,Buick Enclave,24706,Alberta,Buick Enclave Premium ,2014
+Regina,50.44876,-104.61731,Buick,86000,Buick Enclave,24835,Saskatchewan,Buick Enclave AWD,2014
+Kingston,44.3054151,-76.4283781,Buick,86442,Buick Enclave,22995,Ontario,Buick Enclave Cuir,2014
+Montréal,45.4972159,-73.6103642,Buick,56550,Buick Verano,11977,Québec,Buick Verano VERANO WOW BAS KILOMÉTRAGE! CUIR,2014
+Sainte-Julie,45.5930624,-73.3395943,Buick,60200,Buick Verano,10995,Québec,Buick Verano CUIR,2014
+Laval,45.60558895,-73.7344173056906,Buick,60200,Buick Verano,10995,Québec,Buick Verano CUIR,2014
+La Prairie,45.4174659,-73.4891644,Buick,60200,Buick Verano,10995,Québec,Buick Verano CUIR,2014
+Aylmer,42.773227,-80.983658,Buick,187000,Buick Verano,10995,Ontario,Buick Verano LEATHER PKG! HEATED LEATHER SEATS! REMOTE START!,2014
+London,42.9537654,-81.2291529,Buick,163291,Buick Verano,8987,Ontario,Buick Verano Bluetooth-New Tires-Leather-Alloy-Pwr Windows,2014
+Montréal-Nord,45.5938992,-73.6376062,Buick,48370,Buick Enclave,23495,Québec,Buick Enclave AWD ,2014
+Winnipeg,49.884017,-97.168579,Buick,90000,Buick Verano,11950,Manitoba,Buick Verano 4Dr Sedan 4PG69,2014
+St. Catharines,43.167376,-79.241638,Buick,108761,Buick Verano,11995,Ontario,Buick Verano,2014
+Windsor,42.30423,-83.029861,Buick,156326,Buick Verano,11999,Ontario,Buick Verano Convenience 2 Annual Clearance Sale!,2014
+Shellbrook,53.22248,-106.387482,Buick,111116,Buick Enclave,23990,Saskatchewan,Buick Enclave Leather,2014
+Whitby,43.899871,-78.940201,Buick,186925,Buick Verano,8678,Ontario,Buick Verano Base,2014
+London,42.9537654,-81.2291529,Buick,95000,Buick Verano,12488,Ontario,Buick Verano Convenience 1,2014
+Edmonton,53.535411,-113.507996,Buick,111440,Buick Enclave,23900,Alberta,Buick Enclave Leather,2014
+Salaberry-De-Valleyfield,45.2555625,-74.1316153,Buick,39052,Buick Verano,12511,Québec,Buick Verano Convenience 1,2014
+Brossard,45.4554829,-73.4678904,Buick,121165,Buick Encore,12999,Québec,Buick Encore convenience ,2014
+Moose Jaw,50.401515,-105.542908,Buick,123116,Buick Enclave,22484,Saskatchewan,Buick Enclave ,2014
+Scarborough,43.773077,-79.257774,Buick,66117,Buick Enclave,25998,Ontario,Buick Enclave AWD ,2014
+Lethbridge,49.694285,-112.851562,Buick,152728,Buick Enclave,21695,Alberta,Buick Enclave Leather,2014
+Woodstock,43.133061,-80.749855,Buick,144508,Buick Encore,13804,Ontario,Buick Encore Premium - Leather,2014
+Calgary,51.02532675,-114.049868485806,Buick,130146,Buick Verano,13888,Alberta,Buick Verano APPLY TODAY DRIVE TODAY!,2014
+Sherwood Park,53.5256963,-113.2966313,Buick,133545,Buick Encore,13444,Alberta,Buick Encore CX 1.4T AWD,2014
+Terrebonne,45.7081005,-73.6515157,Buick,37667,Buick Verano,10800,Québec,Buick Verano CAM.REC,2014
+Brampton,43.6858146,-79.7599337,Buick,51081,Buick Verano,13900,Ontario,Buick Verano Heated Leather ,2014
+Moncton,46.097995,-64.80011,Buick,89990,Buick Encore,15800,New Brunswick,Buick Encore Convenience,2015
+Niagara Falls,43.100983,-79.115295,Buick,65079,Buick Regal,16988,Ontario,Buick Regal Premium I NAV,2015
+Hamilton,43.2425289,-79.9470423,Buick,35688,Buick Verano,15888,Ontario,Buick Verano ,2015
+Terrebonne,45.7081005,-73.6515157,Buick,72670,Buick Verano,11790,Québec,Buick Verano Convenience 2,2015
+Toronto,43.653963,-79.387207,Buick,127728,Buick Verano,11875,Ontario,Buick Verano,2015
+Markham,43.854336,-79.326782,Buick,106322,Buick Verano,11888,Ontario,Buick Verano,2015
+Chilliwack,49.157677,-121.9514307,Buick,37500,Buick Verano,11900,British Columbia,Buick Verano,2015
+St. Catharines,43.167376,-79.241638,Buick,63626,Buick Verano,16495,Ontario,Buick Verano NAV ,2015
+St-Léonard,45.58671,-73.5969488,Buick,16818,Buick Encore,15994,Québec,Buick Encore Convenience,2015
+La Prairie,45.4174659,-73.4891644,Buick,89013,Buick Verano,10995,Québec,Buick Verano CUIR,2015
+Sainte-Julie,45.5930624,-73.3395943,Buick,89013,Buick Verano,10995,Québec,Buick Verano CUIR,2015
+Laval,45.60558895,-73.7344173056906,Buick,89013,Buick Verano,10995,Québec,Buick Verano CUIR,2015
+Scarborough,43.773077,-79.257774,Buick,54027,Buick Encore,15999,Ontario,Buick Encore,2015
+Guelph,43.533783,-80.2306337,Buick,119939,Buick Regal,16495,Ontario,Buick Regal Turbo Premium I,2015
+Toronto,43.653963,-79.387207,Buick,78000,Buick Verano,10999,Ontario,Buick Verano NEW TIRES-FACTORY WARRANTY-ONLY 78KM,2015
+Delson,45.3749509,-73.5413403,Buick,71985,Buick Encore,15999,Québec,Buick Encore AWD,2015
+Scarborough,43.773077,-79.257774,Buick,56052,Buick Verano,15998,Ontario,Buick Verano Sedan,2015
+Essex,42.2354142,-82.7120106,Buick,86799,Buick Regal,17628,Ontario,Buick Regal Turbo Premium I,2015
+Chambly,45.4473898,-73.2932002,Buick,67471,Buick Verano,11445,Québec,Buick Verano DEMARREUR,2015
+Thornhill,43.8161477,-79.4245925,Buick,72115,Buick Regal,16718,Ontario,Buick Regal Nav Leather Rear Camera Bluetooth,2015
+Aurora,43.99973,-79.467545,Buick,89251,Buick Encore,16717,Ontario,Buick Encore Premium,2015
+St-Jérôme,45.775426,-74.013176,Buick,43606,Buick Encore,15995,Québec,Buick Encore Convenience 1 SEUL PROPRIÉTAIRE INTERIEUR EN CUIR,2015
+Laval,45.60558895,-73.7344173056906,Buick,56300,Buick Encore,15995,Québec,Buick Encore Caméra de Recul ,2015
+Lévis,46.7910096,-71.1753274,Buick,30900,Buick Encore,15995,Québec,Buick Encore BAS KM,2015
+Kingston,44.3054151,-76.4283781,Buick,121447,Buick Verano,11295,Ontario,Buick Verano Cuir,2015
+Laval,45.60558895,-73.7344173056906,Buick,96484,Buick LaCrosse,15992,Québec,Buick LaCrosse CXL cuir sièges chauffants caméra de recul mags,2015
+Moose Jaw,50.401515,-105.542908,Buick,123400,Buick LaCrosse,11950,Saskatchewan,Buick LaCrosse,2015
+Kingston,44.3054151,-76.4283781,Buick,90595,Buick Encore,15788,Ontario,Buick Encore Leather,2015
+Toronto,43.653963,-79.387207,Buick,33838,Buick Verano,14250,Ontario,Buick Verano - Low Mileage,2015
+Niagara Falls,43.100983,-79.115295,Buick,57494,Buick Verano,14488,Ontario,Buick Verano REARCAM,2015
+Toronto,43.653963,-79.387207,Buick,91675,Chevrolet Camaro,13250,Ontario,Chevrolet Camaro LT 1 Owner,2015
+St-Léonard,45.58671,-73.5969488,Buick,91512,Buick Verano,14495,Québec,Buick Verano Premium Group,2015
+Kingston,44.3054151,-76.4283781,Buick,125000,Buick Verano,12998,Ontario,Buick Verano,2015
+St. Catharines,43.167376,-79.241638,Buick,74192,Buick Verano,14568,Ontario,Buick Verano,2015
+St-Jérôme,45.775426,-74.013176,Buick,120131,Buick Encore,14495,Québec,Buick Encore AWD COMMODITÉ ,2015
+Oshawa,43.91768,-78.862953,Buick,62522,Buick Verano,14612,Ontario,Buick Verano,2015
+Ajax,43.850374,-79.024658,Buick,90999,Buick Verano,13495,Ontario,Buick Verano,2015
+Mississauga,43.590338,-79.645729,Buick,92621,Buick Verano,13499,Ontario,Buick Verano Sedan 1SD,2015
+Edmonton,53.535411,-113.507996,Buick,105027,Buick Verano,13995,Alberta,Buick Verano 4dr Sdn w-1SD,2015
+Burlington,43.3248924,-79.7966835,Buick,36033,Buick Verano,13988,Ontario,Buick Verano ,2015
+Toronto,43.653963,-79.387207,Buick,118397,Buick Encore,13999,Ontario,Buick Encore Convenience Pkg,2015
+Woodstock,43.133061,-80.749855,Buick,47472,Buick Encore,14000,Ontario,Buick Encore Convenience,2015
+Toronto,43.653963,-79.387207,Buick,75125,Buick Verano,13699,Ontario,Buick Verano,2015
+Terrebonne,45.7081005,-73.6515157,Buick,78343,Buick Verano,13690,Québec,Buick Verano CXL,2015
+Sherbrooke,45.403271,-71.889038,Buick,72867,Buick Encore,14748,Québec,Buick Encore 2015 Buick Encore - FWD 4dr Convenience,2015
+Terrebonne,45.7081005,-73.6515157,Buick,74082,Buick Verano,12495,Québec,Buick Verano Commodité,2015
+Chatham,42.405207,-82.191467,Buick,95744,Buick Encore,14999,Ontario,Buick Encore Leather,2015
+London,42.9537654,-81.2291529,Buick,78470,Buick Verano,12488,Ontario,Buick Verano Base,2015
+St-Léonard,45.58671,-73.5969488,Buick,51598,Buick Verano,12488,Québec,Buick Verano TOUT ÉQUIPÉ - MAGS - 8 PNEUS - BLUETOOTH - BAS KM,2015
+St-Raymond,46.889058,-71.835136,Buick,83117,Buick Verano,12450,Québec,Buick Verano AC -GR. ÉLECTRIQUE ET ,2015
+Listowel,43.731593,-80.952882,Buick,43207,Buick Verano,15495,Ontario,Buick Verano CX Convenience PKG ,2015
+Rockland,45.0065642,-64.7041513,Buick,25999,Buick Verano,15499,Nova Scotia,Buick Verano,2015
+Oakville,43.447436,-79.666672,Buick,76000,Buick Verano,15600,Ontario,Buick Verano AUDIO SYSTEM WITH NAVIGATION SYSTEM ,2015
+Trois-Rivières,46.3507999,-72.5571257,Buick,66543,Buick Verano,11978,Québec,Buick Verano AUTOMATIQUE MAGS ,2015
+Oshawa,43.91768,-78.862953,Buick,113671,Buick Encore,14995,Ontario,Buick Encore AWD 4dr Leather,2015
+Brantford,43.1554354,-80.2665916,Buick,95398,Buick Verano,12880,Ontario,Buick Verano,2015
+Laval,45.60558895,-73.7344173056906,Buick,71632,Buick Verano,12992,Québec,Buick Verano Convenience 1 caméra de recul cuir démarreur mags,2015
+Moncton,46.097995,-64.80011,Buick,67299,Buick Verano,14800,New Brunswick,Buick Verano,2015
+Terrebonne,45.7081005,-73.6515157,Buick,73797,Buick Encore,14890,Québec,Buick Encore NAV,2015
+Summerside,46.41487645,-63.7839319877345,Buick,52020,Buick Verano,12949,Prince Edward Island,Buick Verano,2015
+Dollard-Des Ormeaux,45.48423,-73.8064547,Buick,120374,Buick Encore,14987,Québec,Buick Encore LEATHER SEATS,2015
+Welland,42.993097,-79.250565,Buick,92899,Buick Verano,14987,Ontario,Buick Verano 1SL LEATHER,2015
+Niagara Falls,43.100983,-79.115295,Buick,9825,Buick Verano,14988,Ontario,Buick Verano Base - SiriusXM -  OnStar,2015
+Windsor,42.30423,-83.029861,Buick,95398,Buick Verano,12880,Ontario,Buick Verano,2015
+Stratford,46.2189935,-63.0876534061131,Buick,95398,Buick Verano,12880,Prince Edward Island,Buick Verano,2015
+Guelph,43.533783,-80.2306337,Buick,78000,Buick Enclave,27488,Ontario,Buick Enclave AWD - NEW TIRES! 7 Passenger,2015
+Westlock,54.2700377,-113.8513211,Buick,142082,Buick Enclave,21995,Alberta,Buick Enclave Leather group,2015
+Kingston,44.3054151,-76.4283781,Buick,32258,Buick Regal,18274,Ontario,Buick Regal,2015
+Lacombe,52.4727515,-113.733215,Buick,98095,Buick Regal,21500,Alberta,Buick Regal ,2015
+Moncton,46.097995,-64.80011,Buick,113477,Buick Encore,17994,New Brunswick,Buick Encore Leather,2015
+Kingston,44.3054151,-76.4283781,Buick,65704,Buick LaCrosse,19195,Ontario,Buick LaCrosse Leather,2015
+Toronto,43.653963,-79.387207,Buick,105000,Buick Enclave,24450,Ontario,Buick Enclave 4WD Nav Leather Dual Sroof Backup Cam 7Pass,2015
+High River,50.5797079,-113.8569213,Buick,140459,Buick Enclave,24495,Alberta,Buick Enclave Leather - 7 PASSENGER,2015
+Oshawa,43.91768,-78.862953,Buick,46329,Buick Regal,19998,Ontario,Buick Regal Premium II 0% Financing for 24 Months ,2015
+Dartmouth,44.6799707,-63.5720232,Buick,54679,Buick Regal,17777,Nova Scotia,Buick Regal Turbo Premium Heated Leather,2015
+Stratford,46.2189935,-63.0876534061131,Buick,26743,Buick LaCrosse,21000,Prince Edward Island,Buick LaCrosse Leather,2015
+Red Deer,52.269838,-113.818359,Buick,91310,Buick Encore,17525,Alberta,Buick Encore Premium AWD,2015
+Edmonton,53.535411,-113.507996,Buick,131959,Buick Enclave,23988,Alberta,Buick Enclave AWD LIMITED 7 PASS Leather,2015
+Kanata,61.0666922,-107.9917071,Buick,77823,Buick Encore,18999,,Buick Encore Leather,2015
+Burnaby,49.2433804,-122.9725459,Buick,59421,Buick Enclave,29995,British Columbia,Buick Enclave Premium; Local one owner!,2015
+St. Catharines,43.167376,-79.241638,Buick,61894,Buick Encore,18995,Ontario,Buick Encore Premium ,2015
+Vancouver,49.2608724,-123.1139529,Buick,121449,Buick Enclave,22995,British Columbia,Buick Enclave Leather - Leather Seats -  Bluetooth,2015
+St. Catharines,43.167376,-79.241638,Buick,86852,Buick Encore,18995,Ontario,Buick Encore Premium ,2015
+Sherwood Park,53.5256963,-113.2966313,Buick,98036,Buick Enclave,23211,Alberta,Buick Enclave Leather AWD ,2015
+Orangeville,43.9194098,-80.0988238,Buick,79717,Buick Regal,18500,Ontario,Buick Regal PREMIUM I,2015
+Virden,49.8485092,-100.9322654,Buick,118539,Buick Enclave,23228,Manitoba,Buick Enclave Leather ,2015
+Toronto,43.653963,-79.387207,Buick,135000,Buick Enclave,23450,Ontario,Buick Enclave Premium,2015
+Edmonton,53.535411,-113.507996,Buick,72187,Buick Regal,19777,Alberta,Buick Regal Base,2015
+Terrebonne,45.7081005,-73.6515157,Buick,36661,Buick LaCrosse,19888,Québec,Buick LaCrosse CXL,2015
+Headingley,49.868087,-97.391052,Buick,77000,Buick Enclave,29800,Manitoba,Buick Enclave EXL AWD,2015
+Kingston,44.3054151,-76.4283781,Buick,64593,Buick Regal,19399,Ontario,Buick Regal Premium II,2015
+Aylmer,42.773227,-80.983658,Buick,99000,Buick Enclave,25495,Ontario,Buick Enclave LEATHER GROUP! HEATED LEATHER SEATS! NAVI! DVD!,2015
+Orillia,44.6066135,-79.4169256,Buick,46754,Buick Encore,17183,Ontario,Buick Encore AWD CONVENIENCE BLUETOOTH REAR CAMERA 1 OWNER,2015
+Estevan,49.1428076,-102.9910752,Buick,85726,Buick Encore,16990,Saskatchewan,Buick Encore AWD ,2015
+Kitchener,43.453168,-80.494423,Buick,136752,Buick Enclave,20000,Ontario,Buick Enclave Leather,2015
+Mississauga,43.590338,-79.645729,Buick,72143,Buick Verano,16999,Ontario,Buick Verano RARE VERANO WITH FORWARD COLLISION ALERT  SIDE BLI,2015
+Stratford,46.2189935,-63.0876534061131,Buick,95839,Buick Enclave,26000,Prince Edward Island,Buick Enclave Premium,2015
+Ottawa,45.421106,-75.690308,Buick,55802,Buick Enclave,25995,Ontario,Buick Enclave Leather - Backup cam,2015
+Toronto,43.653963,-79.387207,Buick,103000,Buick Enclave,25450,Ontario,Buick Enclave NO ACCIDENT,2015
+St-Raymond,46.889058,-71.835136,Buick,39025,Buick Encore,17450,Québec,Buick Encore Convenience AWD -BAS KM,2015
+Cornwall,46.240769,-63.2009544400727,Buick,73512,Buick Enclave,26551,Prince Edward Island,Buick Enclave Leather AWD - Ex-Lease - Leather Seats - $209 B,2015
+Guelph,43.533783,-80.2306337,Buick,78000,Buick Enclave,27488,Ontario,Buick Enclave AWD - NEW TIRES! 7 Passenger,2015
+Brampton,43.6858146,-79.7599337,Buick,66501,Buick Enclave,26995,Ontario,Buick Enclave AWD Leather,2015
+Toronto,43.653963,-79.387207,Buick,94290,Buick Enclave,26988,Ontario,Buick Enclave Haut de Gamme,2015
+Medicine Hat,50.04303,-110.679016,Buick,87947,Buick Enclave,26950,Alberta,Buick Enclave Premium AWD,2015
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Buick,26699,Buick Enclave,31495,Québec,Buick Enclave Premium ,2016
+Ottawa,45.421106,-75.690308,Buick,80000,Buick Encore,20888,Ontario,Buick Encore Leather - Leather Seat -  Heated Seat,2016
+Oshawa,43.91768,-78.862953,Buick,176396,Buick Enclave,20797,Ontario,Buick Enclave,2016
+Saskatoon,52.131802,-106.660767,Buick,74624,Buick Enclave,31500,Saskatchewan,Buick Enclave Premium - Leather Seats -  Cooled Seats - $213 B,2016
+London,42.9537654,-81.2291529,Buick,74519,Buick Encore,22500,Ontario,Buick Encore Premium,2016
+Ottawa,45.421106,-75.690308,Buick,54898,Buick Enclave,31900,Ontario,Buick Enclave Premium,2016
+Virden,49.8485092,-100.9322654,Buick,120,Buick Enclave,22728,Manitoba,Buick Enclave Leather,2016
+Regina,50.44876,-104.61731,Buick,77000,Buick Enclave,31895,Saskatchewan,Buick Enclave AWD Premium,2016
+Victoria,48.4283182,-123.3649533,Buick,53227,Buick Encore,20703,British Columbia,Buick Encore Leather,2016
+Ottawa,45.421106,-75.690308,Buick,28588,Buick Enclave,33888,Ontario,Buick Enclave Premium AWD,2016
+Listowel,43.731593,-80.952882,Buick,59357,Buick Encore,22495,Ontario,Buick Encore Leather ,2016
+London,42.9537654,-81.2291529,Buick,58872,Buick Encore,20998,Ontario,Buick Encore Leather,2016
+New Glasgow,45.5869474,-62.6483547,Buick,60824,Buick Encore,20995,Nova Scotia,Buick Encore Leather,2016
+Whitby,43.899871,-78.940201,Buick,106893,Buick Verano,13988,Ontario,Buick Verano,2016
+Orangeville,43.9194098,-80.0988238,Buick,109097,Buick Verano,13800,Ontario,Buick Verano CONVENIENCE 1,2016
+Orangeville,43.9194098,-80.0988238,Buick,71611,Buick Encore,21500,Ontario,Buick Encore LEATHER,2016
+Whitby,43.899871,-78.940201,Buick,66965,Buick Encore,20994,Ontario,Buick Encore Leather,2016
+Terrebonne,45.7081005,-73.6515157,Buick,28018,Buick Verano,13695,Québec,Buick Verano Convenience 1,2016
+Richmond,49.163168,-123.137414,Buick,49743,Buick LaCrosse,21888,British Columbia,Buick LaCrosse Leather  - Heated Front Seats,2016
+Rivière-Du-Loup,47.8358164,-69.5368025,Buick,38634,Buick Cascada,32790,Québec,Buick Cascada Premium  ,2016
+Mississauga,43.590338,-79.645729,Buick,50337,Buick Enclave,32999,Ontario,Buick Enclave Haut de gamme LOW KMS  TOWING PACKAGE  REAR ENTERT,2016
+St. Catharines,43.167376,-79.241638,Buick,54505,Buick Encore,22485,Ontario,Buick Encore Leather,2016
+St-Jean-Sur-Richelieu,45.3056879,-73.2533401,Buick,33300,Buick Cascada,31988,Québec,Buick Cascada PREMIUM - CUIR 2 TONS- NAVIGATION - MAG 20 PO,2016
+St-Jean-Sur-Richelieu,45.3056879,-73.2533401,Buick,48716,Buick Cascada,31988,Québec,Buick Cascada PREMIUM - BALANCE DE GARANTIE - JAMAIS ACCIDENTÉ,2016
+Saskatoon,52.131802,-106.660767,Buick,57000,Buick Enclave,31990,Saskatchewan,Buick Enclave Leather AWD ,2016
+Terrebonne,45.7081005,-73.6515157,Buick,30993,Buick Encore,20990,Québec,Buick Encore SPORT TOURING,2016
+Edmonton,53.535411,-113.507996,Buick,96882,Buick Verano,13221,Alberta,Buick Verano BASE ,2016
+Boucherville,45.6050197,-73.4526144,Buick,39689,Buick Verano,13495,Québec,Buick Verano Base,2016
+Victoriaville,46.0573705,-71.9536674,Buick,44600,Buick Cascada,32995,Québec,Buick Cascada PREMIUM CONVERTIBLE,2016
+Kingston,44.3054151,-76.4283781,Buick,69467,Buick LaCrosse,21998,Ontario,Buick LaCrosse Leather,2016
+Oakville,43.447436,-79.666672,Buick,44000,Buick Envision,26988,Ontario,Buick Envision AWD - PANO ROOF - REVERSE CAM,2016
+Toronto,43.653963,-79.387207,Buick,130670,Buick Enclave,24885,Ontario,Buick Enclave Premium ,2016
+London,42.9537654,-81.2291529,Buick,43550,Buick Envision,26999,Ontario,Buick Envision Premium II ,2016
+Oshawa,43.91768,-78.862953,Buick,86307,Buick Enclave,27995,Ontario,Buick Enclave FWD 4dr Leather,2016
+St. Catharines,43.167376,-79.241638,Buick,64364,Buick Envision,27995,Ontario,Buick Envision Premium II ,2016
+Brantford,43.1554354,-80.2665916,Buick,63460,Buick Envision,24983,Ontario,Buick Envision Premium II,2016
+Tillsonburg,42.859494,-80.7265015,Buick,108991,Buick Envision,24994,Ontario,Buick Envision Premium II,2016
+Oakville,43.447436,-79.666672,Buick,81000,Buick Envision,25488,Ontario,Buick Envision AWD - NAVI - PANO ROOF - REVERSE CAM,2016
+Whitby,43.899871,-78.940201,Buick,90245,Buick Enclave,25799,Ontario,Buick Enclave Leather AWD,2016
+Thunder Bay,48.406414,-89.259796,Buick,67040,Buick Enclave,27998,Ontario,Buick Enclave Leather ,2016
+Edmonton,53.535411,-113.507996,Buick,103400,Buick Envision,25886,Alberta,Buick Envision PREMIUM II AWD ,2016
+Orangeville,43.9194098,-80.0988238,Buick,100440,Buick Enclave,25900,Ontario,Buick Enclave LEATHER,2016
+Airdrie,51.28184845,-113.989991054108,Buick,137879,Buick Enclave,26500,Alberta,Buick Enclave Haut de gamme 3.6L V6  7 PASS  MOONROOF  REMOTE ST,2016
+Moose Jaw,50.401515,-105.542908,Buick,107970,Buick Enclave,25831,Saskatchewan,Buick Enclave,2016
+Langley,49.10647185,-122.550131156815,Buick,75500,Buick Verano,11995,British Columbia,Buick Verano BACKUP CAMERA,2016
+Cambridge,43.3855479,-80.3113582,Buick,89847,Buick Enclave,28998,Ontario,Buick Enclave 2016 Buick Enclave - AWD 4dr Premium,2016
+Woodstock,43.133061,-80.749855,Buick,18270,Buick Encore,22999,Ontario,Buick Encore Convenience -  Touch Screen - $160 B,2016
+Virden,49.8485092,-100.9322654,Buick,91364,Buick Enclave,30228,Manitoba,Buick Enclave Premium ,2016
+Saskatoon,52.131802,-106.660767,Buick,82050,Buick Enclave,30302,Saskatchewan,Buick Enclave Premium  - Leather -  Heated Seats,2016
+Thetford Mines,46.091329,-71.30127,Buick,69127,Buick Enclave,30495,Québec,Buick Enclave AWD,2016
+Dartmouth,44.6799707,-63.5720232,Buick,61017,Buick Verano,12977,Nova Scotia,Buick Verano Alloys,2016
+St-Léonard,45.58671,-73.5969488,Buick,62079,Buick Verano,12990,Québec,Buick Verano Convenience 1,2016
+Salaberry-De-Valleyfield,45.2555625,-74.1316153,Buick,11796,Buick Encore,22995,Québec,Buick Encore  CONVENIENCE AWD 11,2016
+Edmonton,53.535411,-113.507996,Buick,106228,Buick Enclave,28995,Alberta,Buick Enclave Premium,2016
+Ile-Perrot,46.050293,-71.9814568,Buick,30923,Buick Enclave,28499,Québec,Buick Enclave Cuir,2016
+Midland,44.750147,-79.885712,Buick,91666,Buick Encore,23994,Ontario,Buick Encore Leather Heated Leather Seats - Sunroof - AWD,2016
+Hamilton,43.2425289,-79.9470423,Buick,92852,Buick LaCrosse,23888,Ontario,Buick LaCrosse Premium I AWD ,2016
+Vancouver,49.2608724,-123.1139529,Buick,48481,Buick Envision,28979,British Columbia,Buick Envision Premium I -  Heated Seats,2016
+St-Jean-Sur-Richelieu,45.3056879,-73.2533401,Buick,100008,Buick Envision,23984,Québec,Buick Envision PREMIUM ll - TOIT PANO - GPS - BEAUCOUP D'EXTRA!!,2016
+Edmonton,53.535411,-113.507996,Buick,70581,Buick Enclave,28988,Alberta,Buick Enclave Leather w,2016
+Oakville,43.447436,-79.666672,Buick,126032,Buick Enclave,23950,Ontario,Buick Enclave LEATHER ,2016
+Edmonton,53.535411,-113.507996,Buick,123363,Buick Enclave,23900,Alberta,Buick Enclave AWD Premium,2016
+North York,43.7708175,-79.4132998,Buick,75526,Buick Verano,13998,Ontario,Buick Verano SONY AUDIO,2016
+Lacombe,52.4727515,-113.733215,Buick,16530,Buick Verano,17800,Alberta,Buick Verano,2016
+Laval,45.60558895,-73.7344173056906,Buick,52322,Buick Verano,14992,Québec,Buick Verano LEATHER CUIR GPS volant chauffant toit ouvrant,2016
+Camrose,53.013131,-112.840576,Buick,93436,Buick Encore,18997,Alberta,Buick Encore Leather - Leather Seat -  Heated Seat - $139 B,2016
+Cayuga,42.952055,-79.858002,Buick,118478,Buick LACROSSE,18995,Ontario,Buick LACROSSE  AWD,2016
+Richmond,49.163168,-123.137414,Buick,57174,Buick Regal,17888,British Columbia,Buick Regal Base  - Bluetooth,2016
+Terrebonne,45.7081005,-73.6515157,Buick,71114,Buick Encore,17890,Québec,Buick Encore AWD,2016
+Vancouver,49.2608724,-123.1139529,Buick,54757,Buick Verano,14995,British Columbia,Buick Verano Convenience 1 -  Bluetooth,2016
+Edmonton,53.535411,-113.507996,Buick,67563,Buick Encore,18995,Alberta,Buick Encore Leather ,2016
+Airdrie,51.28184845,-113.989991054108,Buick,14828,Buick LaCrosse,42900,Alberta,Buick LaCrosse Haut de gamme I LOW KMS  AWD  NAVIGATION  DUAL PAN,2016
+St-Léonard,45.58671,-73.5969488,Buick,50411,Buick Encore,15995,Québec,Buick Encore,2016
+Coquitlam,49.2842958,-122.793281,Buick,21701,Buick Verano,19811,British Columbia,Buick Verano,2016
+Calgary,51.02532675,-114.049868485806,Buick,42106,Buick Encore,19740,Alberta,Buick Encore AWD SPORT,2016
+Delson,45.3749509,-73.5413403,Buick,34274,Buick Verano,15999,Québec,Buick Verano 4DR SDN BASE,2016
+Kemptville,45.0156497,-75.6445598,Buick,115875,Buick Encore,19516,Ontario,Buick Encore Leather - Leather Seat -  Heated Seat,2016
+Laval,45.60558895,-73.7344173056906,Buick,74556,Buick Encore,19494,Québec,Buick Encore Premium AWD NAVIGATION - Toit Ouvrant - A,2016
+Dauphin,51.153509,-100.04425,Buick,74509,Buick Encore,19480,Manitoba,Buick Encore Sport Touring,2016
+St-Raymond,46.889058,-71.835136,Buick,70192,Buick Encore,18650,Québec,Buick Encore Convenience -AWD -AC -GR. ÉLECTRIQUE,2016
+Red Deer,52.269838,-113.818359,Buick,81977,Buick Encore,18525,Alberta,Buick Encore CXL,2016
+St. Catharines,43.167376,-79.241638,Buick,65593,Buick Encore,18495,Ontario,Buick Encore Convenience ,2016
+Cayuga,42.952055,-79.858002,Buick,40067,Buick VERANO,17995,Ontario,Buick VERANO  FWD,2016
+Delson,45.3749509,-73.5413403,Buick,62345,Buick Encore,18494,Québec,Buick Encore AWD,2016
+Brampton,43.6858146,-79.7599337,Buick,81743,Buick Encore,18695,Ontario,Buick Encore AWD Leather,2016
+Boisbriand,45.6130352,-73.8386827,Buick,92282,Buick Encore,15969,Québec,Buick Encore Convenience BLUETOOTH,2016
+Aurora,43.99973,-79.467545,Buick,26859,Buick Encore,18993,Ontario,Buick Encore Convenience,2016
+Thornhill,43.8161477,-79.4245925,Buick,58652,Buick Verano,14999,Ontario,Buick Verano Bluetooth Rear Camera Remote Start,2016
+Ile-Perrot,46.050293,-71.9814568,Buick,59156,Buick Verano,13999,Québec,Buick Verano CUIR A,2016
+Kingston,44.3054151,-76.4283781,Buick,112226,Buick Regal,15295,Ontario,Buick Regal,2016
+Aylmer,42.773227,-80.983658,Buick,19000,Buick Verano,17995,Ontario,Buick Verano LEATHER PKG! HEATED LEATHER! REMOTE START!,2016
+Ste-Julie,45.5930624,-73.3395943,Buick,20560,Buick Encore,17998,Québec,Buick Encore FWD,2016
+Mississauga,43.590338,-79.645729,Buick,45678,Buick Verano,16999,Ontario,Buick Verano HEATED FRONT SEATS  REMOTE START  REAR VISION CAME,2016
+Sherwood Park,53.5256963,-113.2966313,Buick,45501,Buick Verano,16998,Alberta,Buick Verano Verano Convenience w,2016
+Orangeville,43.9194098,-80.0988238,Buick,36280,Buick Verano,16900,Ontario,Buick Verano CONVENIENCE 1,2016
+Lasalle,45.4325141,-73.6292667,Buick,64246,Buick Verano,14495,Québec,Buick Verano 17 Wheels,2016
+Richmond Hill,43.880078,-79.439392,Buick,62121,Buick Regal,16900,Ontario,Buick Regal Premium I AWD ,2016
+Lasalle,45.4325141,-73.6292667,Buick,74389,Buick Verano,16695,Québec,Buick Verano Leather,2016
+Aurora,43.99973,-79.467545,Buick,116009,Buick Regal,20389,Ontario,Buick Regal GS,2016
+Nanaimo,49.1637594,-123.9379719,Buick,71197,Buick Regal,16995,British Columbia,Buick Regal TURBO Leather,2016
+Mission,49.1589351,-122.2835833,Buick,46187,Buick Regal,19998,British Columbia,Buick Regal Premium I - Leather Seats -  Heated Seats,2016
+Delson,45.3749509,-73.5413403,Buick,25257,Buick Encore,19999,Québec,Buick Encore FWD 4DR,2016
+St-Jérôme,45.775426,-74.013176,Buick,121475,Buick Encore,16995,Québec,Buick Encore AWD TOIT OUVRANT NAVIGATION ,2016
+Brossard,45.4554829,-73.4678904,Buick,67084,Buick Verano,14493,Québec,Buick Verano 4DR SDN,2016
+London,42.9537654,-81.2291529,Buick,126872,Buick LaCrosse,19995,Ontario,Buick LaCrosse Leather ,2016
+Hamilton,43.2425289,-79.9470423,Buick,92376,Buick Encore,19900,Ontario,Buick Encore Sport Touring - BIG LUXURY IN A SMALL SUV,2016
+Toronto,43.653963,-79.387207,Buick,50000,Buick Verano,13999,Ontario,Buick Verano SPORT TOURING-CAMERA-BLUETOOTH-HEATED SEATS-58KM,2016
+St-Léonard,45.58671,-73.5969488,Buick,36099,Buick Encore,17490,Québec,Buick Encore Leather,2016
+Montréal,45.4972159,-73.6103642,Buick,67424,Buick Encore,19987,Québec,Buick Encore TI 4 portes de catégorie supérieure,2016
+Victoriaville,46.0573705,-71.9536674,Buick,35000,Buick Cascada,33995,Québec,Buick Cascada PREMIUM ,2016
+Edmonton,53.535411,-113.507996,Buick,66187,Buick Verano,16988,Alberta,Buick Verano Leather,2016
+Hamilton,43.2425289,-79.9470423,Buick,32471,Buick Verano,16288,Ontario,Buick Verano Convenience ,2016
+Lasalle,45.4325141,-73.6292667,Buick,81445,Buick Verano,16195,Québec,Buick Verano Leather,2016
+Listowel,43.731593,-80.952882,Buick,41499,Buick Encore,20495,Ontario,Buick Encore Premium FWD ,2016
+Burnaby,49.2433804,-122.9725459,Buick,50218,Buick Encore,17300,British Columbia,Buick Encore 4DR SUV FWD,2016
+Kingston,44.3054151,-76.4283781,Buick,33272,Buick LaCrosse,26994,Ontario,Buick LaCrosse Premium,2017
+Milton,43.513671,-79.882817,Buick,12002,Buick Encore,26988,Ontario,Buick Encore PREMIUM ,2017
+Uxbridge,44.107556,-79.127655,Buick,69748,Buick Envision,27294,Ontario,Buick Envision Premium I - Certified,2017
+Niagara Falls,43.100983,-79.115295,Buick,16070,Buick Enclave,26900,Ontario,Buick Enclave,2017
+Ottawa,45.421106,-75.690308,Buick,67503,Buick LaCrosse,26516,Ontario,Buick LaCrosse Essence LEATHER NAV REAR CAM HTD SEATS LOADED,2017
+Richmond,49.163168,-123.137414,Buick,20899,Buick Encore,27645,British Columbia,Buick Encore Preferred -  Cruise Control,2017
+Listowel,43.731593,-80.952882,Buick,83091,Buick Envision,27895,Ontario,Buick Envision Premium I AWD ,2017
+Milton,43.513671,-79.882817,Buick,50717,Buick Envision,27988,Ontario,Buick Envision  AWD,2017
+Truro,45.366668,-63.300006,Buick,60000,Buick LaCrosse,27995,Nova Scotia,Buick LaCrosse 2017 Buick LaCrosse - 4dr Sdn Premium FWD,2017
+Montréal,45.4972159,-73.6103642,Buick,11270,Buick Enclave,41946,Québec,Buick Enclave AWD,2017
+Midland,44.750147,-79.885712,Buick,35512,Buick Encore,25995,Ontario,Buick Encore AWD 4dr Essence,2017
+London,42.9537654,-81.2291529,Buick,75479,Buick Encore,25995,Ontario,Buick Encore Essence ,2017
+Terrebonne,45.7081005,-73.6515157,Buick,36475,Buick Envision,25990,Québec,Buick Envision AWD PREFERRED,2017
+Edmonton,53.535411,-113.507996,Buick,49742,Buick Enclave,33995,Alberta,Buick Enclave Premium,2017
+Port Moody,49.2822243,-122.8293424,Buick,52879,Buick Enclave,32500,British Columbia,Buick Enclave Leather AWD,2017
+Edmonton,53.535411,-113.507996,Buick,70895,Buick Enclave,32441,Alberta,Buick Enclave Premium,2017
+Winnipeg,49.884017,-97.168579,Buick,19300,Buick Enclave,35571,Manitoba,Buick Enclave Leather AWD ,2017
+Virden,49.8485092,-100.9322654,Buick,65247,Buick Enclave,32228,Manitoba,Buick Enclave Leather ,2017
+Dauphin,51.153509,-100.04425,Buick,64936,Buick Enclave,32227,Manitoba,Buick Enclave Sport Touring,2017
+Neepawa,50.2319353,-99.4637261,Buick,87589,Buick Enclave,32200,Manitoba,Buick Enclave ,2017
+Moncton,46.097995,-64.80011,Buick,33369,Buick Enclave,35800,New Brunswick,Buick Enclave Leather,2017
+Surrey,49.1913033,-122.8491439,Buick,57616,Buick Enclave,35822,British Columbia,Buick Enclave,2017
+Vancouver,49.2608724,-123.1139529,Buick,20735,Buick Envision,31995,British Columbia,Buick Envision ESSENCE AWD LEATHER NAVIGATION MOONROOF,2017
+Moose Jaw,50.401515,-105.542908,Buick,50758,Buick Enclave,35865,Saskatchewan,Buick Enclave Cuir Leather  Loaded  Clean History,2017
+Mississauga,43.590338,-79.645729,Buick,69940,Buick Enclave,32888,Ontario,Buick Enclave Premium,2017
+Listowel,43.731593,-80.952882,Buick,34431,Buick Enclave,33995,Ontario,Buick Enclave Leather,2017
+Abbotsford,49.0521162,-122.3294792,Buick,15750,Buick Envision,33999,British Columbia,Buick Envision Premium II AWD Remote vehicle start,2017
+Moose Jaw,50.401515,-105.542908,Buick,59995,Buick Envision,33750,Saskatchewan,Buick Envision Haut de gamme I Premium Model  Luxury loaded,2017
+Red Deer,52.269838,-113.818359,Buick,77334,Buick Enclave,34525,Alberta,Buick Enclave Premium,2017
+Strathmore,51.0435486,-113.3998479,Buick,39329,Buick Envision,33000,Alberta,Buick Envision Premium II,2017
+Edmonton,53.535411,-113.507996,Buick,40897,Buick Enclave,34683,Alberta,Buick Enclave LEATHER AWD ,2017
+Lethbridge,49.694285,-112.851562,Buick,77107,Buick Enclave,32999,Alberta,Buick Enclave Premium,2017
+Sherwood Park,53.5256963,-113.2966313,Buick,57802,Buick Enclave,34890,Alberta,Buick Enclave Leather,2017
+Orangeville,43.9194098,-80.0988238,Buick,50487,Buick Envision,34900,Ontario,Buick Envision PREMIUM II,2017
+Virden,49.8485092,-100.9322654,Buick,69878,Buick Enclave,32995,Manitoba,Buick Enclave Premium ,2017
+Sherwood Park,53.5256963,-113.2966313,Buick,71777,Buick Enclave,32980,Alberta,Buick Enclave Premium 7Pass,2017
+Vancouver,49.2608724,-123.1139529,Buick,54619,Buick Enclave,35995,British Columbia,Buick Enclave Leather - Power Liftgate -  Leather Seats,2017
+Woodstock,43.133061,-80.749855,Buick,78513,Buick Enclave,29897,Ontario,Buick Enclave Premium - Sunroof & Nav,2017
+Regina,50.44876,-104.61731,Buick,50802,Buick Envision,29701,Saskatchewan,Buick Envision Premium I ,2017
+Uxbridge,44.107556,-79.127655,Buick,34664,Buick Envision,29294,Ontario,Buick Envision Essence - Certified,2017
+Sherbrooke,45.403271,-71.889038,Buick,32500,Buick LaCrosse,28998,Québec,Buick LaCrosse 2017 Buick LaCrosse - 4dr Sdn Premium FWD,2017
+Edmonton,53.535411,-113.507996,Buick,67405,Buick Enclave,28998,Alberta,Buick Enclave Leather,2017
+Vancouver,49.2608724,-123.1139529,Buick,44852,Buick Enclave,36995,British Columbia,Buick Enclave PREMIUM AWD 7PASS NAVIGATION,2017
+Charlottetown,46.234953,-63.132935,Buick,65050,Buick Envision,28995,Prince Edward Island,Buick Envision Premium I,2017
+Windsor,42.30423,-83.029861,Buick,130364,Buick Enclave,28995,Ontario,Buick Enclave,2017
+Stratford,46.2189935,-63.0876534061131,Buick,130364,Buick Enclave,28995,Prince Edward Island,Buick Enclave,2017
+Brantford,43.1554354,-80.2665916,Buick,130364,Buick Enclave,28995,Ontario,Buick Enclave,2017
+Montréal,45.4972159,-73.6103642,Buick,11496,Buick Enclave,39886,Québec,Buick Enclave LEATHER pneu hiver - toit ouvrant,2017
+Wetaskiwin,52.968492,-113.36792,Buick,76505,Buick Envision,29899,Alberta,Buick Envision Premium II,2017
+Belleville,44.2436328,-77.3607597,Buick,56445,Buick Enclave,29900,Ontario,Buick Enclave Leather,2017
+Slave Lake,55.2810741,-114.7717876,Buick,58789,Buick Enclave,36605,Alberta,Buick Enclave Leather,2017
+Estevan,49.1428076,-102.9910752,Buick,63216,Buick Enclave,31490,Saskatchewan,Buick Enclave AWD ,2017
+Edmonton,53.535411,-113.507996,Buick,52182,Buick Envision,31299,Alberta,Buick Envision Haut de gamme II,2017
+Kingston,44.3054151,-76.4283781,Buick,3484,Buick Regal,30998,Ontario,Buick Regal GS,2017
+Wetaskiwin,52.968492,-113.36792,Buick,51890,Buick Envision,30994,Alberta,Buick Envision Premium II,2017
+Brampton,43.6858146,-79.7599337,Buick,57038,Buick Enclave,30800,Ontario,Buick Enclave LEATHER AWD ,2017
+Grande Prairie,55.1709919,-118.7948882,Buick,26054,Buick Enclave,36900,Alberta,Buick Enclave Leather - Navigation - Uconnect - $127.27 ,2017
+Hamilton,43.2425289,-79.9470423,Buick,19610,Buick Envision,36988,Ontario,Buick Envision Premium II ,2017
+Virden,49.8485092,-100.9322654,Buick,45566,Buick Enclave,36995,Manitoba,Buick Enclave Premium ,2017
+Laval,45.60558895,-73.7344173056906,Buick,56652,Buick LaCrosse,29992,Québec,Buick LaCrosse AWD Premium cuir gps toit ouvrant sièges chauffant,2017
+Hamilton,43.2425289,-79.9470423,Buick,32841,Buick Envision,29988,Ontario,Buick Envision Essence ,2017
+Oshawa,43.91768,-78.862953,Buick,26593,Buick Encore,19703,Ontario,Buick Encore Low KM&#39;s ,2017
+Hamilton,43.2425289,-79.9470423,Buick,34678,Buick Encore,21988,Ontario,Buick Encore ESSENCE ,2017
+Fort Mcmurray,56.7291997,-111.3885221,Buick,17442,Buick Encore,22706,Alberta,Buick Encore Sport Touring ,2017
+Montréal,45.4972159,-73.6103642,Buick,42045,Buick Encore,22596,Québec,Buick Encore Essence TOIT-DÉMARREUR - AWD,2017
+Edmonton,53.535411,-113.507996,Buick,50876,Buick Encore,22495,Alberta,Buick Encore Essence,2017
+Vancouver,49.2608724,-123.1139529,Buick,49161,Buick Encore,21995,British Columbia,Buick Encore SPORT TOURING AWD NAVIGATION SUNROOF,2017
+Edmonton,53.535411,-113.507996,Buick,45226,Buick Encore,21995,Alberta,Buick Encore Privilégiée II,2017
+Blainville,45.67932,-73.87619,Buick,31382,Buick Encore,21995,Québec,Buick Encore CX TOIT,2017
+Vancouver,49.2608724,-123.1139529,Buick,25790,Buick Encore,21990,British Columbia,Buick Encore Preferred LOW KMS !!,2017
+Edmonton,53.535411,-113.507996,Buick,68207,Buick Regal,21988,Alberta,Buick Regal Premium I w,2017
+Brossard,45.4554829,-73.4678904,Buick,58591,Buick Encore,21493,Québec,Buick Encore AWD 4DR PREFERR,2017
+Lasalle,45.4325141,-73.6292667,Buick,55225,Buick Verano,18495,Québec,Buick Verano Leather Sunroof,2017
+Stratford,46.2189935,-63.0876534061131,Buick,63000,Buick Regal,22995,Prince Edward Island,Buick Regal Sport,2017
+St-Jérôme,45.775426,-74.013176,Buick,43458,Buick Encore,23995,Québec,Buick Encore PREMIUM AWD ALERTE ANGLE MORT CUIR ,2017
+Uxbridge,44.107556,-79.127655,Buick,36236,Buick Encore,23994,Ontario,Buick Encore Premium - Certified -  Heated Seats,2017
+Sherwood Park,53.5256963,-113.2966313,Buick,98029,Buick Encore,23980,Alberta,Buick Encore Essence AWD,2017
+Lasalle,45.4325141,-73.6292667,Buick,68452,Buick Encore,23795,Québec,Buick Encore Premium AWD Sunroof,2017
+Milton,43.513671,-79.882817,Buick,76437,Buick Encore,23488,Ontario,Buick Encore ESSENCE,2017
+St-Hubert,46.501891,-64.025032,Buick,77763,Buick Encore,18999,Prince Edward Island,Buick Encore PREFERRED MAGS 18 A,2017
+Vancouver,49.2608724,-123.1139529,Buick,63831,Buick Regal,17980,British Columbia,Buick Regal Premium Type ll,2017
+Saint-Constant,45.3724897,-73.5704589,Buick,79557,Buick Encore,17999,Québec,Buick Encore PREFERRED CUIR A,2017
+Québec,52.4760892,-71.8258668,Buick,21320,Buick Encore,22995,Québec,Buick Encore SPORT,2017
+Windsor,42.30423,-83.029861,Buick,63000,Buick Regal,22995,Ontario,Buick Regal Sport,2017
+Brantford,43.1554354,-80.2665916,Buick,63000,Buick Regal,22995,Ontario,Buick Regal Sport,2017
+Dartmouth,44.6799707,-63.5720232,Buick,44545,Buick LaCrosse,21477,Nova Scotia,Buick LaCrosse Essence - FRESH TRADE IN!!,2017
+Winnipeg,49.884017,-97.168579,Buick,31319,Buick Verano,20000,Manitoba,Buick Verano Base ,2017
+Woodstock,43.133061,-80.749855,Buick,65520,Buick Verano,14250,Ontario,Buick Verano CX - Remote Start & Rear Camera,2017
+Summerside,46.41487645,-63.7839319877345,Buick,54818,Buick Verano,14346,Prince Edward Island,Buick Verano,2017
+Newmarket,44.056258,-79.461708,Buick,30739,Buick Verano,19998,Ontario,Buick Verano Cuir NAV ,2017
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Buick,77298,Buick Verano,14495,Québec,Buick Verano CAMERA,2017
+Terrebonne,45.7081005,-73.6515157,Buick,38452,Buick Encore,19995,Québec,Buick Encore Sport Touring,2017
+Laval,45.60558895,-73.7344173056906,Buick,44135,Buick Verano,14495,Québec,Buick Verano MAGS,2017
+La Prairie,45.4174659,-73.4891644,Buick,44135,Buick Verano,14495,Québec,Buick Verano MAGS,2017
+Sainte-Julie,45.5930624,-73.3395943,Buick,44135,Buick Verano,14495,Québec,Buick Verano MAGS,2017
+Guelph,43.533783,-80.2306337,Buick,17000,Buick Encore,19925,Ontario,Buick Encore Preferred AWD - Leather Trim,2017
+Oshawa,43.91768,-78.862953,Buick,26593,Buick Encore,19703,Ontario,Buick Encore Low KM&#39;s ,2017
+Penticton,49.5024388,-119.5912065,Buick,16646,Buick Encore,21426,British Columbia,Buick Encore Sport Touring,2017
+Boisbriand,45.6130352,-73.8386827,Buick,39942,Buick Encore,20494,Québec,Buick Encore AWD Sport Touring BLUETOOTH,2017
+La Prairie,45.4174659,-73.4891644,Buick,54539,Buick Encore,20495,Québec,Buick Encore SPORT AWD CUIR,2017
+Markham,43.854336,-79.326782,Buick,24090,Buick Encore,20985,Ontario,Buick Encore Sport Touring 1.4L Turbo SuperLow Mileage !!!,2017
+Vancouver,49.2608724,-123.1139529,Buick,30214,Buick Encore,20980,British Columbia,Buick Encore All Wheel Drive,2017
+Edmonton,53.535411,-113.507996,Buick,25265,Buick Encore,20906,Alberta,Buick Encore Preferred ,2017
+Airdrie,51.28184845,-113.989991054108,Buick,13635,Buick Encore,20900,Alberta,Buick Encore Privilégié,2017
+Ottawa,45.421106,-75.690308,Buick,50300,Buick Encore,20800,Ontario,Buick Encore CLOTH,2017
+Terrebonne,45.7081005,-73.6515157,Buick,6716,Buick Encore,20790,Québec,Buick Encore Sport Touring,2017
+Laval,45.60558895,-73.7344173056906,Buick,54539,Buick Encore,20495,Québec,Buick Encore SPORT AWD CUIR,2017
+Sainte-Julie,45.5930624,-73.3395943,Buick,54539,Buick Encore,20495,Québec,Buick Encore SPORT AWD CUIR,2017
+Dieppe,46.0945258,-64.7354772,Buick,71258,Buick Verano,13999,New Brunswick,Buick Verano,2017
+Oakville,43.447436,-79.666672,Buick,56087,Buick Encore,24488,Ontario,Buick Encore,2017
+Airdrie,51.28184845,-113.989991054108,Buick,59228,Buick Verano,16800,Alberta,Buick Verano SEATS 5  CD PLAYER  CRUISE CONTROL,2017
+Salaberry-De-Valleyfield,45.2555625,-74.1316153,Buick,12655,Buick Encore,24695,Québec,Buick Encore PRIVILÉGIÉ 12 000 KM AWD CAMÉRA DE RECUL,2017
+Woodstock,43.133061,-80.749855,Buick,83977,Buick Envision,25155,Ontario,Buick Envision Preferred AWD,2017
+Oshawa,43.91768,-78.862953,Buick,63258,Buick Verano,16995,Ontario,Buick Verano,2017
+Edmonton,53.535411,-113.507996,Buick,59724,Buick Verano,16800,Alberta,Buick Verano Base,2017
+Dartmouth,44.6799707,-63.5720232,Buick,83273,Buick Envision,24927,Nova Scotia,Buick Envision Preferred - Heated Seats,2017
+Salaberry-De-Valleyfield,45.2555625,-74.1316153,Buick,15927,Buick Verano,16995,Québec,Buick Verano 16,2017
+Ste-Julie,45.5930624,-73.3395943,Buick,27366,Buick LaCrosse,24998,Québec,Buick LaCrosse NAVIGATION,2017
+Embrun,45.2742012,-75.2749125,Buick,51277,Buick LaCrosse,24500,Ontario,Buick LaCrosse Essence-Low kilometres! great condition,2017
+Calgary,51.02532675,-114.049868485806,Buick,68631,Buick Verano,17898,Alberta,Buick Verano,2017
+Windsor,42.30423,-83.029861,Buick,42365,Buick Regal,25261,Ontario,Buick Regal,2017
+St. Catharines,43.167376,-79.241638,Buick,102280,Buick Encore,17495,Ontario,Buick Encore Sport Touring ,2017
+Toronto,43.653963,-79.387207,Buick,69998,Buick Encore,16988,Ontario,Buick Encore BACK UP CAMERA  ALLOYS,2017
+Rivière-Du-Loup,47.8358164,-69.5368025,Buick,74831,Buick Envision,25490,Québec,Buick Envision AWD Cuir Toit Bose Camera ,2017
+Laval,45.60558895,-73.7344173056906,Buick,16800,Buick Enclave,49992,Québec,Buick Enclave AVENIR AWD toit panoramique gps cuir V6 7 passager,2018
+Brossard,45.4554829,-73.4678904,Buick,8838,Buick Envision,38998,Québec,Buick Envision PREMIUM CUIR TOIT NAV COMME NEUF,2018
+Salaberry-De-Valleyfield,45.2555625,-74.1316153,Buick,29339,Buick Encore,20775,Québec,Buick Encore Preferred,2018
+London,42.9537654,-81.2291529,Buick,25912,Buick Enclave,49999,Ontario,Buick Enclave,2018
+Welland,42.993097,-79.250565,Buick,20932,Buick Envision,39987,Ontario,Buick Envision Premium 1 AWD,2018
+Red Deer County,52.1040224,-113.7674734,Buick,6812,Buick Envision,39967,Alberta,Buick Envision Premium II,2018
+Terrebonne,45.7081005,-73.6515157,Buick,8566,Buick Regal,30995,Québec,Buick Regal Sportback AWD Essence,2018
+Brossard,45.4554829,-73.4678904,Buick,8734,Buick Encore,20788,Québec,Buick Encore FWD Preferred  CAMERA DE RECUL,2018
+Sudbury,46.49272,-80.991211,Buick,15410,Buick Regal,26995,Ontario,Buick Regal Preferred II,2018
+Winnipeg,49.884017,-97.168579,Buick,16747,Buick Envision,39956,Manitoba,Buick Envision Premium - Leather Seats -  Heated Seats,2018
+Oshawa,43.91768,-78.862953,Buick,21555,Buick Envision,36995,Ontario,Buick Envision AWD 4dr Premium II,2018
+Victoriaville,46.0573705,-71.9536674,Buick,3387,Buick Regal,38995,Québec,Buick Regal TOUR X WAGON,2018
+St-Hubert,46.501891,-64.025032,Buick,21286,Buick Envision,28999,Prince Edward Island,Buick Envision AWD CUIR MAGS,2018
+Lethbridge,49.694285,-112.851562,Buick,65941,Buick Enclave,38895,Alberta,Buick Enclave Essence,2018
+Burnaby,49.2433804,-122.9725459,Buick,23442,Buick LaCrosse,37400,British Columbia,Buick LaCrosse Avenir,2018
+Brantford,43.1554354,-80.2665916,Buick,69759,Buick Encore,21888,Ontario,Buick Encore Preferred ,2018
+Brantford,43.1554354,-80.2665916,Buick,64372,Buick Encore,21888,Ontario,Buick Encore Preferred ,2018
+St-Jérôme,45.775426,-74.013176,Buick,37928,Buick Envision,32995,Québec,Buick Envision PREFERRED AWD HAYON ÉLECT ÉCRAN 8 ,2018
+Victoria,48.4283182,-123.3649533,Buick,12901,Buick Enclave,51903,British Columbia,Buick Enclave Avenir,2018
+Orillia,44.6066135,-79.4169256,Buick,25752,Buick Enclave,51883,Ontario,Buick Enclave AVENIR AWD LOADED ROOF NAV ADAPTIVE CRUISE,2018
+Camrose,53.013131,-112.840576,Buick,8,Buick Envision,31999,Alberta,Buick Envision Preferred -  Power Seat - $231 B,2018
+St. Catharines,43.167376,-79.241638,Buick,15437,Buick Encore,21995,Ontario,Buick Encore Preferred ,2018
+St. Catharines,43.167376,-79.241638,Buick,11114,Buick Encore,21995,Ontario,Buick Encore Preferrred,2018
+Laval,45.60558895,-73.7344173056906,Buick,59989,Buick Enclave,37992,Québec,Buick Enclave AWD Premium gps cuir toit ouvrant caméra de recul,2018
+Edmonton,53.535411,-113.507996,Buick,12398,Buick LaCrosse,37998,Alberta,Buick LaCrosse Premium,2018
+Toronto,43.653963,-79.387207,Buick,11618,Buick Encore,22450,Ontario,Buick Encore Preferred - Onstar - Siriusxm,2018
+Mississauga,43.590338,-79.645729,Buick,1568,Buick Regal,31888,Ontario,Buick Regal Essence,2018
+Listowel,43.731593,-80.952882,Buick,32413,Buick Enclave,49895,Ontario,Buick Enclave Avenir AWD ,2018
+Vancouver,49.2608724,-123.1139529,Buick,6020,Buick Regal,33995,British Columbia,Buick Regal ESSENCE AWD MOONROOF HAETED STEERING,2018
+Listowel,43.731593,-80.952882,Buick,17910,Buick Enclave,49795,Ontario,Buick Enclave AVENIR AWD ,2018
+Brandon,49.8511143,-99.9608924,Buick,26685,Buick Enclave,46964,Manitoba,Buick Enclave Avenir AWD ,2018
+Victoriaville,46.0573705,-71.9536674,Buick,9587,Buick Regal,42995,Québec,Buick Regal REGAL TOUR X WAGON,2018
+Tracadie-Sheila,47.515751,-64.9127856,Buick,45532,Buick Envision,34995,New Brunswick,Buick Envision PREMIUM 2,2018
+Brantford,43.1554354,-80.2665916,Buick,11600,Buick Envision,34999,Ontario,Buick Envision ESSENCE AWD,2018
+Stratford,46.2189935,-63.0876534061131,Buick,11600,Buick Envision,34999,Prince Edward Island,Buick Envision ESSENCE AWD,2018
+Windsor,42.30423,-83.029861,Buick,11600,Buick Envision,34999,Ontario,Buick Envision ESSENCE AWD,2018
+Ottawa,45.421106,-75.690308,Buick,65654,Buick Encore,23995,Ontario,Buick Encore Sport Touring,2018
+Brandon,49.8511143,-99.9608924,Buick,23030,Buick Enclave,43977,Manitoba,Buick Enclave Premium AWD ,2018
+Wetaskiwin,52.968492,-113.36792,Buick,21877,Buick Envision,35449,Alberta,Buick Envision Premium II,2018
+Airdrie,51.28184845,-113.989991054108,Buick,10785,Buick Envision,35500,Alberta,Buick Envision Essence 2.5L  AWD  HTD FRONT,2018
+Victoria,48.4283182,-123.3649533,Buick,4720,Buick Encore,28106,British Columbia,Buick Encore Premium,2018
+Woodstock,43.133061,-80.749855,Buick,22057,Buick Encore,27999,Ontario,Buick Encore Essence - Heated Seats - $189 B,2018
+St-Jérôme,45.775426,-74.013176,Buick,17232,Buick Encore,27995,Québec,Buick Encore ESSENCE AWD NAVIGATION CUIR TOIT OUVRANT ,2018
+Calgary,51.02532675,-114.049868485806,Buick,44765,Buick Enclave,44888,Alberta,Buick Enclave Premium,2018
+Sherbrooke,45.403271,-71.889038,Buick,22051,Buick Enclave,42988,Québec,Buick Enclave 2018 Buick Enclave - AWD 4dr Premium,2018
+Vancouver,49.2608724,-123.1139529,Buick,11352,Buick LaCrosse,41995,British Columbia,Buick LaCrosse Avenir - Navigation -  Sunroof,2018
+Brampton,43.6858146,-79.7599337,Buick,10,Buick LaCrosse,42170,Ontario,Buick LaCrosse Essence,2018
+St-Jérôme,45.775426,-74.013176,Buick,47067,Buick Encore,23795,Québec,Buick Encore SPORT TOURING AWD TOIT OUVRANT BLUETOOTH ,2018
+Camrose,53.013131,-112.840576,Buick,9001,Buick Enclave,40997,Alberta,Buick Enclave Essence - Sunroof - Navigation - $295 B,2018
+Oshawa,43.91768,-78.862953,Buick,8525,Buick Regal,28998,Ontario,Buick Regal 4dr Sdn Essence AWD,2018
+Scarborough,43.773077,-79.257774,Buick,51783,Buick Encore,22998,Ontario,Buick Encore AWD,2018
+Gananoque,44.3352722,-76.1646638,Buick,23808,Buick Enclave,42899,Ontario,Buick Enclave Premium AWD,2018
+Salaberry-De-Valleyfield,45.2555625,-74.1316153,Buick,6068,Buick Encore,22995,Québec,Buick Encore PRIVILÉGIÉ 6 000 KM CAMERA RECUL,2018
+Terrebonne,45.7081005,-73.6515157,Buick,11500,Buick Enclave,46995,Québec,Buick Enclave AWD Premium,2018
+Laval,45.60558895,-73.7344173056906,Buick,18201,Buick Encore,20999,Québec,Buick Encore PREFERRED MAGS 18 A,2018
+Gananoque,44.3352722,-76.1646638,Buick,11071,Buick Enclave,42900,Ontario,Buick Enclave Premium,2018
+Terrebonne,45.7081005,-73.6515157,Buick,25,Buick Enclave,46995,Québec,Buick Enclave AWD Essence,2018
+Edmonton,53.535411,-113.507996,Buick,113,Buick LaCrosse,29961,Alberta,Buick LaCrosse CLEARANCE SPECIAL TRIP FOR TWO TO VEGAS INCL.,2018
+London,42.9537654,-81.2291529,Buick,21570,Buick Encore,29495,Ontario,Buick Encore Premium ,2018
+Guelph,43.533783,-80.2306337,Buick,55000,Buick Regal,22788,Ontario,Buick Regal Sportback Preferred II Used -  Leather Trim,2019
+Newmarket,44.056258,-79.461708,Buick,114,Buick Envision,56209,Ontario,Buick Envision Haut de Gamme II - Leather Seat - $304 B,2019
+Rocky Mountain House,52.38196845,-114.912057731829,Buick,10938,Buick Enclave,55495,Alberta,Buick Enclave Avenir Warr Htd,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Enclave,55678,Ontario,Buick Enclave AWD PREMIUM,2019
+Moncton,46.097995,-64.80011,Buick,7612,Buick Enclave,52800,New Brunswick,Buick Enclave Premium,2019
+Richmond Hill,43.880078,-79.439392,Buick,3580,Buick Enclave,52528,Ontario,Buick Enclave Avenir ,2019
+Penticton,49.5024388,-119.5912065,Buick,26838,Buick Enclave,55700,British Columbia,Buick Enclave Avenir,2019
+Toronto,43.653963,-79.387207,Buick,10,Buick LaCrosse,60399,Ontario,Buick LaCrosse Avenir,2019
+London,42.9537654,-81.2291529,Buick,22201,Buick Envision,36999,Ontario,Buick Envision Essence - Certified - Leather Seats,2019
+Welland,42.993097,-79.250565,Buick,15973,Buick Enclave,52687,Ontario,Buick Enclave PREMIUM AWD,2019
+Edmonton,53.535411,-113.507996,Buick,12063,Buick Enclave,58998,Alberta,Buick Enclave Avenir,2019
+Toronto,43.653963,-79.387207,Buick,14128,Buick Enclave,53222,Ontario,Buick Enclave Avenir,2019
+Edmonton,53.535411,-113.507996,Buick,15257,Buick Enclave,44900,Alberta,Buick Enclave Essence,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Enclave,51950,Ontario,Buick Enclave AWD PREMIUM,2019
+Oshawa,43.91768,-78.862953,Buick,29381,Buick Enclave,42938,Ontario,Buick Enclave Essence ,2019
+Saskatoon,52.131802,-106.660767,Buick,20039,Buick Enclave,42945,Saskatchewan,Buick Enclave Essence AWD Leather,2019
+Saskatoon,52.131802,-106.660767,Buick,21131,Buick Enclave,42945,Saskatchewan,Buick Enclave Essence AWD Leather,2019
+Victoriaville,46.0573705,-71.9536674,Buick,17699,Buick Cascada,42995,Québec,Buick Cascada Premium,2019
+Victoriaville,46.0573705,-71.9536674,Buick,24800,Buick Regal,42995,Québec,Buick Regal REGAL TOUR X WAGON,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Envision,46628,Ontario,Buick Envision PREMIUM II AWD,2019
+Orillia,44.6066135,-79.4169256,Buick,6079,Buick LaCrosse,45995,Ontario,Buick LaCrosse AVENIR AWD LOADED ROOF NAV HEADS-UP DISPLAY,2019
+Calgary,51.02532675,-114.049868485806,Buick,17588,Buick Envision,43488,Alberta,Buick Envision Premium II,2019
+Burnaby,49.2433804,-122.9725459,Buick,16959,Buick Enclave,43700,British Columbia,Buick Enclave Essence,2019
+Saskatoon,52.131802,-106.660767,Buick,16160,Buick Enclave,43945,Saskatchewan,Buick Enclave Essence AWD Leather,2019
+Cornwall,46.240769,-63.2009544400727,Buick,5113,Buick Envision,42551,Prince Edward Island,Buick Envision Premium II - Navigation -  Leather Seats,2019
+Saskatoon,52.131802,-106.660767,Buick,17871,Buick Enclave,43945,Saskatchewan,Buick Enclave Essence AWD Leather,2019
+Winnipeg,49.884017,-97.168579,Buick,18467,Buick Enclave,45899,Manitoba,Buick Enclave Essence AWD ,2019
+Saskatoon,52.131802,-106.660767,Buick,18250,Buick Enclave,43945,Saskatchewan,Buick Enclave Essence AWD Leather,2019
+Edmonton,53.535411,-113.507996,Buick,6487,Buick Envision,43988,Alberta,Buick Envision Premium II w,2019
+Vancouver,49.2608724,-123.1139529,Buick,20691,Buick Enclave,43995,British Columbia,Buick Enclave Essence - Heated Seats,2019
+Winnipeg,49.884017,-97.168579,Buick,31906,Buick Envision,44195,Manitoba,Buick Envision Essence,2019
+Surrey,49.1913033,-122.8491439,Buick,24957,Buick Enclave,45885,British Columbia,Buick Enclave 2019 Buick Enclave - AWD 4dr Essence,2019
+Mississauga,43.590338,-79.645729,Buick,19401,Buick Enclave,44900,Ontario,Buick Enclave Essence AWD - Heated Seats,2019
+Orillia,44.6066135,-79.4169256,Buick,10463,Buick Regal,42503,Ontario,Buick Regal GS,2019
+Mississauga,43.590338,-79.645729,Buick,4076,Buick Regal,37900,Ontario,Buick Regal Avenir Navi,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Regal,38000,Ontario,Buick Regal ESSENCE AWD,2019
+Richmond Hill,43.880078,-79.439392,Buick,13522,Buick Enclave,51323,Ontario,Buick Enclave Avenir ,2019
+Welland,42.993097,-79.250565,Buick,26902,Buick Enclave,50987,Ontario,Buick Enclave Premium AWD,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Regal,38025,Ontario,Buick Regal SPORTBACK AVENIR FWD,2019
+Moose Jaw,50.401515,-105.542908,Buick,855,Buick Regal,38844,Saskatchewan,Buick Regal,2019
+Montréal,45.4972159,-73.6103642,Buick,6419,Buick Regal,39596,Québec,Buick Regal SPORTBACK ESSENCE AWD TOIT OUVRANT,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Regal,39780,Ontario,Buick Regal SPORTBACK AVENIR FWD,2019
+Ottawa,45.421106,-75.690308,Buick,13428,Buick Envision,39888,Ontario,Buick Envision Premium II,2019
+Brantford,43.1554354,-80.2665916,Buick,26048,Buick Enclave,39900,Ontario,Buick Enclave ESSENCE AWD,2019
+Stratford,46.2189935,-63.0876534061131,Buick,26048,Buick Enclave,39900,Prince Edward Island,Buick Enclave ESSENCE AWD,2019
+Windsor,42.30423,-83.029861,Buick,26048,Buick Enclave,39900,Ontario,Buick Enclave ESSENCE AWD,2019
+Orillia,44.6066135,-79.4169256,Buick,11561,Buick Envision,39995,Ontario,Buick Envision PREMIUM AWD NAV ROOF HEATED STEERING WHEEL,2019
+Calgary,51.02532675,-114.049868485806,Buick,21933,Buick Enclave,48888,Alberta,Buick Enclave Premium Group,2019
+Toronto,43.653963,-79.387207,Buick,10075,Buick LaCrosse,47915,Ontario,Buick LaCrosse Avenir,2019
+Oshawa,43.91768,-78.862953,Buick,20604,Buick Regal,41463,Ontario,Buick Regal AWD ,2019
+Aylmer,42.773227,-80.983658,Buick,37000,Buick Encore,24695,Ontario,Buick Encore BASE! BLUETOOTH! BACKUP CAMERA!,2019
+Airdrie,51.28184845,-113.989991054108,Buick,22335,Buick Regal,24700,Alberta,Buick Regal Privilégiée II 2.0L  TURBO  FWD  REMOTE START  DUA,2019
+Brantford,43.1554354,-80.2665916,Buick,33787,Buick Regal,24750,Ontario,Buick Regal Preferred II,2019
+Stratford,46.2189935,-63.0876534061131,Buick,33787,Buick Regal,24750,Prince Edward Island,Buick Regal Preferred II,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Encore,27232,Ontario,Buick Encore FWD SPORT TOURING,2019
+Windsor,42.30423,-83.029861,Buick,33787,Buick Regal,24750,Ontario,Buick Regal Preferred II,2019
+Brossard,45.4554829,-73.4678904,Buick,22000,Buick REGAL,26998,Québec,Buick REGAL PREFERRED II MAGS CUIR TOIT NAV,2019
+St-Léonard (montréal),45.58671,-73.5969488,Buick,1400,Buick Encore,26995,Québec,Buick Encore Sport Touring AWD ,2019
+Ottawa,45.421106,-75.690308,Buick,39782,Buick Encore,24888,Ontario,Buick Encore Preferred - Apple Carplay -  Android Auto,2019
+Winnipeg,49.884017,-97.168579,Buick,23000,Buick Encore,26991,Manitoba,Buick Encore Preferred AWD - OnStar Nav,2019
+Salaberry-De-Valleyfield,45.2555625,-74.1316153,Buick,9100,Buick Encore,24597,Québec,Buick Encore PREFERRED COMME UN NEUF !!!,2019
+Winnipeg,49.884017,-97.168579,Buick,31605,Buick Encore,24980,Manitoba,Buick Encore Preferred ,2019
+Montréal,45.4972159,-73.6103642,Buick,12130,Buick Encore,27710,Québec,Buick Encore AWD,2019
+Windsor,42.30423,-83.029861,Buick,23057,Buick Regal,24500,Ontario,Buick Regal Preferred II,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Encore,28150,Ontario,Buick Encore FWD SPORT TOURING,2019
+Winnipeg,49.884017,-97.168579,Buick,39859,Buick Encore,23999,Manitoba,Buick Encore Preferred AWD ,2019
+Ottawa,45.421106,-75.690308,Buick,36058,Buick Encore,24299,Ontario,Buick Encore Essence ENCORE AWD,2019
+Sarnia,42.992595,-82.380981,Buick,14915,Buick Regal,24495,Ontario,Buick Regal Preferred II,2019
+Brossard,45.4554829,-73.4678904,Buick,24122,Buick Encore,24495,Québec,Buick Encore Preferred,2019
+Listowel,43.731593,-80.952882,Buick,22830,Buick Encore,24495,Ontario,Buick Encore Preferred ,2019
+Edmonton,53.535411,-113.507996,Buick,42666,Buick Encore,24495,Alberta,Buick Encore Preferred,2019
+Brantford,43.1554354,-80.2665916,Buick,23057,Buick Regal,24500,Ontario,Buick Regal Preferred II,2019
+Stratford,46.2189935,-63.0876534061131,Buick,23057,Buick Regal,24500,Prince Edward Island,Buick Regal Preferred II,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Encore,27749,Ontario,Buick Encore AWD PREFERRED,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Encore,26786,Ontario,Buick Encore FWD PREFERRED,2019
+Aurora,43.99973,-79.467545,Buick,33889,Buick Regal,25994,Ontario,Buick Regal Preferred II,2019
+Ottawa,45.421106,-75.690308,Buick,30340,Buick Regal,25000,Ontario,Buick Regal Preferred II,2019
+St-Jean-Sur-Richelieu,45.3056879,-73.2533401,Buick,26919,Buick Regal,25488,Québec,Buick Regal Preferred II - VOLANT CHAUFFANT,2019
+Ottawa,45.421106,-75.690308,Buick,24742,Buick Regal,25500,Ontario,Buick Regal Preferred II PREFERRED II,2019
+Aylmer,42.773227,-80.983658,Buick,36000,Buick Regal,25495,Ontario,Buick Regal HEATED STEERING WHEEL! REMOTE START! BLUETOOTH!,2019
+Rivière-Du-Loup,47.8358164,-69.5368025,Buick,5603,Buick Encore,26790,Québec,Buick Encore Tourisme sport TA ,2019
+Victoriaville,46.0573705,-71.9536674,Buick,26404,Buick Encore,25995,Québec,Buick Encore 2019 Buick Encore - AWD  Preferred,2019
+St-Raymond,46.889058,-71.835136,Buick,8290,Buick Encore,26720,Québec,Buick Encore Preferred - SPECIAL DEMO - LOCATION À 88$,2019
+Lethbridge,49.694285,-112.851562,Buick,37121,Buick Encore,26695,Alberta,Buick Encore Preferred,2019
+Montréal,45.4972159,-73.6103642,Buick,5000,Buick Encore,26607,Québec,Buick Encore Preferred Awd 1.4 L,2019
+Port Coquitlam,49.2621643,-122.7805425,Buick,26953,Buick Encore,24995,British Columbia,Buick Encore Preferred - Apple Carplay -  Android Auto,2019
+Toronto,43.653963,-79.387207,Buick,10,Buick Encore,26295,Ontario,Buick Encore PrivilÃ©giÃ©,2019
+Edmonton,53.535411,-113.507996,Buick,36293,Buick Regal,24995,Alberta,Buick Regal Preferred II,2019
+Edmonton,53.535411,-113.507996,Buick,33958,Buick Regal,24995,Alberta,Buick Regal Preferred II,2019
+Sherbrooke,45.403271,-71.889038,Buick,9123,Buick Encore,25998,Québec,Buick Encore PRIVILÉGIÉ,2019
+Windsor,42.30423,-83.029861,Buick,21284,Buick Encore,23999,Ontario,Buick Encore PREFERRED AWD,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Encore,31560,Ontario,Buick Encore AWD SPORT TOURING,2019
+Brantford,43.1554354,-80.2665916,Buick,34612,Buick Encore,22895,Ontario,Buick Encore PREFERRED AWD,2019
+Brantford,43.1554354,-80.2665916,Buick,32,Buick Encore,22895,Ontario,Buick Encore PREFERRED AWD,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Encore,31308,Ontario,Buick Encore AWD SPORT TOURING,2019
+Stratford,46.2189935,-63.0876534061131,Buick,34612,Buick Encore,22895,Prince Edward Island,Buick Encore PREFERRED AWD,2019
+Stratford,46.2189935,-63.0876534061131,Buick,32,Buick Encore,22895,Prince Edward Island,Buick Encore PREFERRED AWD,2019
+Windsor,42.30423,-83.029861,Buick,34612,Buick Encore,22895,Ontario,Buick Encore PREFERRED AWD,2019
+Windsor,42.30423,-83.029861,Buick,32,Buick Encore,22895,Ontario,Buick Encore PREFERRED AWD,2019
+London,42.9537654,-81.2291529,Buick,32881,Buick Regal,30995,Ontario,Buick Regal Preferred ,2019
+Brantford,43.1554354,-80.2665916,Buick,34903,Buick Encore,22900,Ontario,Buick Encore PREFERRED AWD,2019
+Stratford,46.2189935,-63.0876534061131,Buick,34903,Buick Encore,22900,Prince Edward Island,Buick Encore PREFERRED AWD,2019
+Windsor,42.30423,-83.029861,Buick,34903,Buick Encore,22900,Ontario,Buick Encore PREFERRED AWD,2019
+Guelph,43.533783,-80.2306337,Buick,55000,Buick Regal,22788,Ontario,Buick Regal Sportback Preferred II Used -  Leather Trim,2019
+Stratford,46.2189935,-63.0876534061131,Buick,21284,Buick Encore,23999,Prince Edward Island,Buick Encore PREFERRED AWD,2019
+Midland,44.750147,-79.885712,Buick,27383,Buick Envision,31750,Ontario,Buick Envision Preferred Remote Start - Keyless Entry - Bluetooth,2019
+Welland,42.993097,-79.250565,Buick,30255,Buick Envision,31987,Ontario,Buick Envision Preferred CX AWD,2019
+Montréal,45.4972159,-73.6103642,Buick,12059,Buick Encore,33988,Québec,Buick Encore VERSION ESSNCE,2019
+Windsor,42.30423,-83.029861,Buick,18914,Buick Envision,33500,Ontario,Buick Envision AWD PREFERRED,2019
+Stratford,46.2189935,-63.0876534061131,Buick,18914,Buick Envision,33500,Prince Edward Island,Buick Envision AWD PREFERRED,2019
+Brantford,43.1554354,-80.2665916,Buick,18914,Buick Envision,33500,Ontario,Buick Envision AWD PREFERRED,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Encore,33109,Ontario,Buick Encore AWD ESSENCE,2019
+St Albert,53.633239,-113.628845,Buick,30998,Buick Envision,32900,Alberta,Buick Envision PREFERRED,2019
+Montréal,45.4972159,-73.6103642,Buick,9452,Buick Encore,32776,Québec,Buick Encore SPORT TOURING AWD TOIT OUVRANT,2019
+Montréal,45.4972159,-73.6103642,Buick,30986,Buick Envision,32496,Québec,Buick Envision Preferred awd - démarreur,2019
+Guelph,43.533783,-80.2306337,Buick,45000,Buick Encore,22488,Ontario,Buick Encore Preferred AWD Used â€“ Leather Trim,2019
+St-Jean-Sur-Richelieu,45.3056879,-73.2533401,Buick,37983,Buick Encore,22988,Québec,Buick Encore PREFERRED - AWD - GARANTIE 2023 ,2019
+Longueuil,45.5172382,-73.4467466,Buick,38783,Buick Encore,22995,Québec,Buick Encore Preferred,2019
+Dartmouth,44.6799707,-63.5720232,Buick,38065,Buick Encore,23877,Nova Scotia,Buick Encore Preferred - w,2019
+Uxbridge,44.107556,-79.127655,Buick,6677,Buick Encore,28994,Ontario,Buick Encore Sport Touring - Certified,2019
+St-Jean-Sur-Richelieu,45.3056879,-73.2533401,Buick,40837,Buick Encore,23911,Québec,Buick Encore Preferred AWD  CAMERA  MAGS,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Regal,28979,Ontario,Buick Regal PREFERRED II FWD,2019
+Burlington,43.3248924,-79.7966835,Buick,34430,Buick Regal,23988,Ontario,Buick Regal Preferred II,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Encore,28686,Ontario,Buick Encore AWD PREFERRED,2019
+Brantford,43.1554354,-80.2665916,Buick,39370,Buick Regal,23995,Ontario,Buick Regal Preferred II,2019
+Stratford,46.2189935,-63.0876534061131,Buick,39370,Buick Regal,23995,Prince Edward Island,Buick Regal Preferred II,2019
+Windsor,42.30423,-83.029861,Buick,39370,Buick Regal,23995,Ontario,Buick Regal Preferred II,2019
+Brantford,43.1554354,-80.2665916,Buick,21284,Buick Encore,23999,Ontario,Buick Encore PREFERRED AWD,2019
+Guelph,43.533783,-80.2306337,Buick,30000,Buick Regal,23988,Ontario,Buick Regal Sportback Preferred II Used -  Leather Trim,2019
+Kingston,44.3054151,-76.4283781,Buick,36664,Buick Encore,23495,Ontario,Buick Encore PrivilÃ©giÃ©,2019
+Montréal,45.4972159,-73.6103642,Buick,35516,Buick Encore,22996,Québec,Buick Encore Preferred awd - bluetooth,2019
+Toronto,43.653963,-79.387207,Buick,10,Buick Encore,29859,Ontario,Buick Encore Sport Touring,2019
+Virden,49.8485092,-100.9322654,Buick,378,Buick Encore,28995,Manitoba,Buick Encore Preferred - Low Mileage,2019
+St-Raymond,46.889058,-71.835136,Buick,3500,Buick Encore,29690,Québec,Buick Encore Sport Touring - SPECIAL DEMO - LOCATION À 97$,2019
+Brantford,43.1554354,-80.2665916,Buick,33178,Buick Encore,22995,Ontario,Buick Encore PREFERRED AWD,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Encore,29494,Ontario,Buick Encore AWD SPORT TOURING,2019
+Montréal,45.4972159,-73.6103642,Buick,32402,Buick Envision,12700,Québec,Buick Envision ESSENCE 4X4 4 CYL BALLON OK EN MARCHE,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Encore,29277,Ontario,Buick Encore AWD SPORT TOURING,2019
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Encore,30140,Ontario,Buick Encore FWD ESSENCE,2019
+St-Raymond,46.889058,-71.835136,Buick,8500,Buick Encore,29195,Québec,Buick Encore SPORT TOURING - SPECIAL DEMO - LOCATION 92$ ,2019
+Lethbridge,49.694285,-112.851562,Buick,7484,Buick Encore,28999,Alberta,Buick Encore Preferred  - All Wheel Drive - Low Kms - Wifi,2019
+Windsor,42.30423,-83.029861,Buick,33178,Buick Encore,22995,Ontario,Buick Encore PREFERRED AWD,2019
+Stratford,46.2189935,-63.0876534061131,Buick,33178,Buick Encore,22995,Prince Edward Island,Buick Encore PREFERRED AWD,2019
+Toronto,43.653963,-79.387207,Buick,10,Buick Enclave,59757,Ontario,Buick Enclave Essence,2020
+Toronto,43.653963,-79.387207,Buick,10,Buick Enclave,71427,Ontario,Buick Enclave Avenir,2020
+Brantford,43.1554354,-80.2665916,Buick,90,Buick Envision,53951,Ontario,Buick Envision II AWD,2020

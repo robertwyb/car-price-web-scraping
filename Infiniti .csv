@@ -1,0 +1,897 @@
+city,lat,long,make,mileage,model,price,province,sepc,year
+Coquitlam,49.2842958,-122.793281,Infiniti,180205,Infiniti G35,4887,British Columbia,Infiniti G35,2003
+Airdrie,51.28184845,-113.989991054108,Infiniti,220857,Infiniti G35,4888,Alberta,Infiniti G35 Luxury,2003
+Toronto,43.653963,-79.387207,Infiniti,205000,Infiniti QX56,8888,Ontario,Infiniti QX56 PREMIUM NAVIGATION,2004
+North York,43.7708175,-79.4132998,Infiniti,221431,Infiniti FX45,5980,Ontario,Infiniti FX45 Navi Camera DVD AWD Leather Sunroof,2005
+Edmonton,53.535411,-113.507996,Infiniti,238707,Infiniti G35,5470,Alberta,Infiniti G35 AWD...AUTO....GREAT CONDITION - Local,2005
+Toronto,43.653963,-79.387207,Infiniti,165000,Infiniti G35,5488,Ontario,Infiniti G35 Luxury,2005
+Burlington,43.3248924,-79.7966835,Infiniti,246951,Infiniti G35X,1388,Ontario,Infiniti G35X ,2005
+Oakville,43.447436,-79.666672,Infiniti,155478,Infiniti G35,7950,Ontario,Infiniti G35 ,2006
+Kingston,44.3054151,-76.4283781,Infiniti,223241,Infiniti M35X,5990,Ontario,Infiniti M35X Luxury,2006
+Brossard,45.4554829,-73.4678904,Infiniti,120661,Infiniti G35,6666,Québec,Infiniti G35 Coupe G35 CUIR - TOIT OUVRANT,2006
+North York,43.7708175,-79.4132998,Infiniti,207183,Infiniti QX56,7800,Ontario,Infiniti QX56 AWD,2006
+Vancouver,49.2608724,-123.1139529,Infiniti,33330,Infiniti G35,15980,British Columbia,Infiniti G35 Coupe Touring - 33,2006
+Scarborough,43.773077,-79.257774,Infiniti,161509,Infiniti G35,6993,Ontario,Infiniti G35 Premier Pre-Owned Sale: October 21-26 only!,2007
+London,42.9537654,-81.2291529,Infiniti,175416,Infiniti FX35,8995,Ontario,Infiniti FX35 BACK UP CAM,2007
+Mississauga,43.590338,-79.645729,Infiniti,230364,Infiniti G35X,5488,Ontario,Infiniti G35X Awd,2007
+Waterloo,43.466874,-80.524635,Infiniti,113500,Infiniti EX35,12997,Ontario,Infiniti EX35 de luxe LOW KMs ,2008
+Coquitlam,49.2842958,-122.793281,Infiniti,126551,Infiniti FX35,9987,British Columbia,Infiniti FX35,2008
+Longueuil,45.5172382,-73.4467466,Infiniti,168103,Infiniti G37,11995,Québec,Infiniti G37 G37S 2dr Sport ,2008
+Toronto,43.653963,-79.387207,Infiniti,150382,Infiniti EX35,8995,Ontario,Infiniti EX35 AUTO,2008
+London,42.9537654,-81.2291529,Infiniti,348141,Infiniti QX56,8995,Ontario,Infiniti QX56 7-PASS,2008
+Georgetown,43.6502652,-79.9036058,Infiniti,129735,Infiniti G37,12950,Ontario,Infiniti G37 Sport ,2008
+Calgary,51.02532675,-114.049868485806,Infiniti,174842,Infiniti FX35,8995,Alberta,Infiniti FX35,2008
+Whitby,43.899871,-78.940201,Infiniti,182378,Infiniti G35X,4900,Ontario,Infiniti G35X Base,2008
+Vancouver,49.2608724,-123.1139529,Infiniti,120079,Infiniti G37,14995,British Columbia,Infiniti G37 Sport,2008
+Sainte-Julie,45.5930624,-73.3395943,Infiniti,155188,Infiniti EX35,7995,Québec,Infiniti EX35,2008
+Calgary,51.02532675,-114.049868485806,Infiniti,95513,Infiniti G37,15888,Alberta,Infiniti G37 Luxury ,2009
+Lethbridge,49.694285,-112.851562,Infiniti,233203,Infiniti G37X,9900,Alberta,Infiniti G37X,2009
+Charlemagne,45.72551965,-73.4896922220162,Infiniti,160618,Infiniti G37,14895,Québec,Infiniti G37 S Convertible V6 3.7L Automatique,2009
+Ottawa,45.421106,-75.690308,Infiniti,146189,Infiniti G37,10788,Ontario,Infiniti G37 AWD SPORT,2009
+Mississauga,43.590338,-79.645729,Infiniti,158616,Infiniti G37X,10488,Ontario,Infiniti G37X Awd,2009
+Toronto,43.653963,-79.387207,Infiniti,194984,Infiniti G37X,6000,Ontario,Infiniti G37X Sedan Luxury AWD,2009
+Longueuil,45.5172382,-73.4467466,Infiniti,142003,Infiniti FX35,13995,Québec,Infiniti FX35 AWD 4dr 3.5L V6,2009
+Milton,43.513671,-79.882817,Infiniti,191652,Infiniti G,8795,Ontario,Infiniti G G37Sx AWD AUTO NAVIGATION CAMERA CERTIFIED 2YR WAR,2009
+Longueuil,45.5172382,-73.4467466,Infiniti,139076,Infiniti G37,16995,Québec,Infiniti G37 2009 Infiniti G37 - 2dr Premium  Convertible,2009
+Saint-Constant,45.3724897,-73.5704589,Infiniti,145000,Infiniti G37X,10999,Québec,Infiniti G37X AWD CUIR,2010
+New Glasgow,45.5869474,-62.6483547,Infiniti,112039,Infiniti G37X,13899,Nova Scotia,Infiniti G37X Premium ,2010
+Toronto,43.653963,-79.387207,Infiniti,107000,Infiniti EX35,12999,Ontario,Infiniti EX35 JOURNEY PKG AWD LEATHER,2010
+Waterloo,43.466874,-80.524635,Infiniti,144293,Infiniti EX35,10996,Ontario,Infiniti EX35 Luxury ,2010
+Victoriaville,46.0573705,-71.9536674,Infiniti,168207,Infiniti FX35,11995,Québec,Infiniti FX35 TRES PROPRE,2010
+North York,43.7708175,-79.4132998,Infiniti,124000,Infiniti EX,12800,Ontario,Infiniti EX V6,2010
+Montreal,45.4972159,-73.6103642,Infiniti,73509,Infiniti EX35,12888,Québec,Infiniti EX35 AWD JOURNEY !! BAS KILO !!,2010
+Drummondville,45.8864303,-72.5018764,Infiniti,110743,Infiniti G37,11989,Québec,Infiniti G37 S ,2010
+Vaughan,43.820904,-79.5084,Infiniti,135719,Infiniti EX35,12900,Ontario,Infiniti EX35 Luxury,2010
+Edmonton,53.535411,-113.507996,Infiniti,247381,Infiniti QX56,11900,Alberta,Infiniti QX56 8 Passenger,2010
+St-Léonard,45.58671,-73.5969488,Infiniti,144000,Infiniti EX35,10995,Québec,Infiniti EX35,2010
+Nobleton (vaughan),43.9244361,-79.5672218,Infiniti,238278,Infiniti FX35,10499,Ontario,Infiniti FX35 FULLY LOADED-NAV-CAM-ROOF-LANE ASSIST-PARK SENSORS,2010
+Toronto,43.653963,-79.387207,Infiniti,185000,Infiniti EX35,9995,Ontario,Infiniti EX35 LEATHER,2010
+Terrebonne,45.7081005,-73.6515157,Infiniti,167725,Infiniti EX35,9988,Québec,Infiniti EX35 LUXURY,2010
+London,42.9537654,-81.2291529,Infiniti,177472,Infiniti EX35,10995,Ontario,Infiniti EX35 Luxury,2010
+Winnipeg,49.884017,-97.168579,Infiniti,69950,Infiniti G37X,19991,Manitoba,Infiniti G37X HTD leather BLUETOOTH sunroof BACKCAM PUSH START,2011
+Milton,43.513671,-79.882817,Infiniti,140425,Infiniti G,13495,Ontario,Infiniti G G37x AWD COUPE NAVIGATION CAMERA CERTIFIED,2011
+Mississauga,43.590338,-79.645729,Infiniti,193800,Infiniti QX56,17988,Ontario,Infiniti QX56 8Passenger,2011
+London,42.9537654,-81.2291529,Infiniti,188007,Infiniti G37,8488,Ontario,Infiniti G37 2011 Infiniti G37 - AWD - Warranty Bonus,2011
+Laval,45.60558895,-73.7344173056906,Infiniti,87389,Infiniti G37,15994,Québec,Infiniti G37 DÉCAPOTABLE - NAVIGATION - AIR CLIMATISÉ- CUIR,2011
+Surrey,49.1913033,-122.8491439,Infiniti,121326,Infiniti EX35,15995,British Columbia,Infiniti EX35 Luxury w ,2011
+Newmarket,44.056258,-79.461708,Infiniti,255993,Infiniti M37x,3900,Ontario,Infiniti M37x AWD,2011
+Medicine Hat,50.04303,-110.679016,Infiniti,111739,Infiniti G37,16498,Alberta,Infiniti G37 XS AWD AWD,2011
+Winnipeg,49.884017,-97.168579,Infiniti,101000,Infiniti G37,16991,Manitoba,Infiniti G37 X AWD NAVIGATION htd leather PUSH START sunroof,2011
+Milton,43.513671,-79.882817,Infiniti,162777,Infiniti M37,14795,Ontario,Infiniti M37 M37S Sport NAVI CAMERA NO ACCIDENT CERTIFIED 2011,2011
+Calgary,51.02532675,-114.049868485806,Infiniti,33008,Infiniti G25X,18990,Alberta,Infiniti G25X LUXURY AWD,2011
+St-Hubert,46.501891,-64.025032,Infiniti,66277,Infiniti FX35,19999,Prince Edward Island,Infiniti FX35 FX35 AWD CUIR TOIT  MAGS CAMERA DE RECUL,2011
+Toronto,43.653963,-79.387207,Infiniti,39000,Infiniti G37,19980,Ontario,Infiniti G37 IPL SPORTS PKG.NAVIGATION,2011
+Toronto,43.653963,-79.387207,Infiniti,82595,Infiniti EX35,15995,Ontario,Infiniti EX35 ,2012
+Sherbrooke,45.403271,-71.889038,Infiniti,97613,Infiniti G37,19986,Québec,Infiniti G37 Premier Edition Convertible Toit Rigide - Cuir Rou,2012
+Saint-Constant,45.3724897,-73.5704589,Infiniti,115400,Infiniti G37X,17999,Québec,Infiniti G37X AWD MAGS CAMERA DE RECUL,2012
+Concord,45.452798,-62.7905136,Infiniti,111649,Infiniti FX35,19888,Nova Scotia,Infiniti FX35 LIMITED EDITION NAVIGATION 360 CAMERA LOCAL VEHICL,2012
+Montreal,45.4972159,-73.6103642,Infiniti,96500,Infiniti M37,18888,Québec,Infiniti M37 2012 Infiniti M37 - 4dr Sdn AWD,2012
+Calgary,51.02532675,-114.049868485806,Infiniti,169347,Infiniti QX56,24449,Alberta,Infiniti QX56 Base 7 Passenger ,2012
+Calgary,51.02532675,-114.049868485806,Infiniti,27022,Infiniti FX35,28990,Alberta,Infiniti FX35 PREMIUM B.CAM,2012
+Burlington,43.3248924,-79.7966835,Infiniti,113455,Infiniti M35h,15988,Ontario,Infiniti M35h ,2012
+Calgary,51.02532675,-114.049868485806,Infiniti,98429,Infiniti FX35,23995,Alberta,Infiniti FX35 AWD ,2012
+Calgary,51.02532675,-114.049868485806,Infiniti,165710,Infiniti M37x,15888,Alberta,Infiniti M37x A7 ,2012
+Leduc,53.2607636,-113.5501238,Infiniti,140621,Infiniti QX56,23988,Alberta,Infiniti QX56 4X4 LIMITED Accident Free,2012
+Mississauga,43.590338,-79.645729,Infiniti,38024,Infiniti EX35,18990,Ontario,Infiniti EX35 [LOW KMS!] [ONE OWNER] [CERTIFIED],2012
+Toronto,43.653963,-79.387207,Infiniti,139000,Infiniti FX35,18950,Ontario,Infiniti FX35 Limited Edition.Navigation!! NO Accidents,2012
+Sherbrooke,45.403271,-71.889038,Infiniti,140889,Infiniti FX35,18993,Québec,Infiniti FX35 awd - V6 3,2012
+Toronto,43.653963,-79.387207,Infiniti,79000,Infiniti FX35,21888,Ontario,Infiniti FX35 Premium I Navigation I Backup I NO ACCIDENT,2012
+Toronto,43.653963,-79.387207,Infiniti,117506,Infiniti FX35,19595,Ontario,Infiniti FX35 LIMITED EDITION AWD NAVI 360 CAMERA,2012
+Edmonton,53.535411,-113.507996,Infiniti,101369,Infiniti G37,17988,Alberta,Infiniti G37 AWD XS Navigation ,2012
+Magog,45.265463,-72.147903,Infiniti,136908,Infiniti EX35,13795,Québec,Infiniti EX35 AWD ,2012
+Toronto,43.653963,-79.387207,Infiniti,173000,Infiniti M37x,14995,Ontario,Infiniti M37x TECHNOLOGY AWD NAVIGATION,2012
+Waterloo,43.466874,-80.524635,Infiniti,133970,Infiniti G25,9900,Ontario,Infiniti G25 Luxury ,2012
+Winnipeg,49.884017,-97.168579,Infiniti,151000,Infiniti EX35,14980,Manitoba,Infiniti EX35 AWD ,2012
+London,42.9537654,-81.2291529,Infiniti,149832,Infiniti G37,11990,Ontario,Infiniti G37 Luxury,2012
+North York,43.7708175,-79.4132998,Infiniti,131000,Infiniti M35h,14888,Ontario,Infiniti M35h Hybrid Luxury Navigation,2012
+Toronto,43.653963,-79.387207,Infiniti,191000,Infiniti G37X,10999,Ontario,Infiniti G37X COUPE NAV CAM AWD SPORT PREMIUM FULLY LOADED,2012
+London,42.9537654,-81.2291529,Infiniti,161000,Infiniti G,12476,Ontario,Infiniti G 37X AWD-BackupCamera-HeatedLeatherSeats-Sunroof-Po,2012
+Edmonton,53.535411,-113.507996,Infiniti,54058,Infiniti M37,25888,Alberta,Infiniti M37 Sport,2013
+Calgary,51.02532675,-114.049868485806,Infiniti,110740,Infiniti JX35,25194,Alberta,Infiniti JX35 CVT,2013
+Calgary,51.02532675,-114.049868485806,Infiniti,120000,Infiniti QX56,25000,Alberta,Infiniti QX56 7 Passenger Great Value. Local car.,2013
+Mont-Royal,45.5086157,-73.5903112,Infiniti,89000,Infiniti JX35,21770,Québec,Infiniti JX35 7 PASS NAVIGATION FULL,2013
+Ile-Perrot,46.050293,-71.9814568,Infiniti,119727,Infiniti JX35,17999,Québec,Infiniti JX35 AWD CUIR TOIT MAGS GROS ECRAN,2013
+Toronto,43.653963,-79.387207,Infiniti,143000,Infiniti JX35,17999,Ontario,Infiniti JX35 TECH PKG NAVIGATION,2013
+North Vancouver,49.3207133,-123.0737831,Infiniti,103589,Infiniti JX35,19999,British Columbia,Infiniti JX35 Base,2013
+Ile-Perrot,46.050293,-71.9814568,Infiniti,92958,Infiniti JX35,19999,Québec,Infiniti JX35 Awd Cuir Toit Nav,2013
+Pickering,43.835765,-79.090576,Infiniti,90147,Infiniti JX35,18999,Ontario,Infiniti JX35,2013
+North York,43.7708175,-79.4132998,Infiniti,154000,Infiniti EX37,12899,Ontario,Infiniti EX37 360 CAMERA,2013
+Nobleton (vaughan),43.9244361,-79.5672218,Infiniti,116735,Infiniti JX35,17888,Ontario,Infiniti JX35 PREMIERE-LEATHER INT-CAM-SUNROOF-7PASS-LED LIGHTS,2013
+Nobleton (vaughan),43.9244361,-79.5672218,Infiniti,108961,Infiniti EX37,11999,Ontario,Infiniti EX37 LUXURY,2013
+Saint-Hyacinthe,45.627484,-72.940636,Infiniti,79164,Infiniti G37,14995,Québec,Infiniti G37,2013
+Ste-Julie,45.5930624,-73.3395943,Infiniti,148033,Infiniti JX35,14999,Québec,Infiniti JX35 DVD ,2013
+Sherbrooke,45.403271,-71.889038,Infiniti,170587,Infiniti JX35,14489,Québec,Infiniti JX35 AWD - Cuir - Toit Ouvrant - Caméra de Recul - Syst,2013
+Beauport,46.8594456,-71.1932496,Infiniti,107139,Infiniti G35X,14995,Québec Québec,Infiniti G35X 4dr Sdn Luxury AWD,2013
+Montréal,45.4972159,-73.6103642,Infiniti,121881,Infiniti JX35,16977,Québec,Infiniti JX35 JX 35,2013
+North York,43.7708175,-79.4132998,Infiniti,161531,Infiniti JX35,16980,Ontario,Infiniti JX35 AWD7 Pass.NaviCameraBluetoothLeatherSunroof,2013
+Pointe-Aux-Trembles,45.6904144,-73.4906885,Infiniti,72047,Infiniti EX37,15990,Québec,Infiniti EX37 AWD Cuir Mags,2013
+La Prairie,45.4174659,-73.4891644,Infiniti,131192,Infiniti JX35,15995,Québec,Infiniti JX35 ,2013
+Sainte-Julie,45.5930624,-73.3395943,Infiniti,131192,Infiniti JX35,15995,Québec,Infiniti JX35 ,2013
+Laval,45.60558895,-73.7344173056906,Infiniti,131192,Infiniti JX35,15995,Québec,Infiniti JX35 ,2013
+North York,43.7708175,-79.4132998,Infiniti,151268,Infiniti JX35,15800,Ontario,Infiniti JX35 NAVI,2013
+Toronto,43.653963,-79.387207,Infiniti,99374,Infiniti JX35,16700,Ontario,Infiniti JX35 CVT,2013
+Bolton,43.879548,-79.73826,Infiniti,107669,Infiniti JX35,16699,Ontario,Infiniti JX35 AWD,2013
+Scarborough,43.773077,-79.257774,Infiniti,141845,Infiniti JX35,17777,Ontario,Infiniti JX35 Base,2013
+Victoriaville,46.0573705,-71.9536674,Infiniti,95999,Infiniti G37X,15995,Québec,Infiniti G37X SPORT,2013
+Nepean,45.2885815,-75.7339698,Infiniti,70215,Infiniti Q70,27888,Ontario,Infiniti Q70 3.7 AWD Sport,2014
+Toronto,43.653963,-79.387207,Infiniti,130520,Infiniti QX60,20888,Ontario,Infiniti QX60 AWD,2014
+Vernon,50.268277,-119.267578,Infiniti,67001,Infiniti QX60,27816,British Columbia,Infiniti QX60 Base,2014
+Edmonton,53.535411,-113.507996,Infiniti,105452,Infiniti Q50,20868,Alberta,Infiniti Q50,2014
+Scarborough,43.773077,-79.257774,Infiniti,121913,Infiniti QX60,20001,Ontario,Infiniti QX60 Premier Pre-Owned Sale: October 21-26 only!,2014
+St-Hubert,46.501891,-64.025032,Infiniti,73225,Infiniti Q60,20499,Prince Edward Island,Infiniti Q60 S AWD CUIR TOIT NAVIGATION,2014
+Ajax,43.850374,-79.024658,Infiniti,104330,Infiniti Q50,19988,Ontario,Infiniti Q50 Tech,2014
+Langley,49.10647185,-122.550131156815,Infiniti,36852,Infiniti QX50,19995,British Columbia,Infiniti QX50 Journey,2014
+Mississauga,43.590338,-79.645729,Infiniti,87426,Infiniti QX60,19995,Ontario,Infiniti QX60 [LOW KMS!] [Premium Package] [360 Cam] [Navi],2014
+Toronto,43.653963,-79.387207,Infiniti,151077,Infiniti Q50,19995,Ontario,Infiniti Q50 Hybrid Q50S ,2014
+Toronto,43.653963,-79.387207,Infiniti,138000,Infiniti QX60,19995,Ontario,Infiniti QX60 NAVIGATION,2014
+Toronto,43.653963,-79.387207,Infiniti,71500,Infiniti QX50,22000,Ontario,Infiniti QX50 Luxury Premium Navigation,2014
+Ile-Perrot,46.050293,-71.9814568,Infiniti,83456,Infiniti QX50,19999,Québec,Infiniti QX50 AWD CUIR TOIT MAGS CAMERA DE RECUL,2014
+St-Hubert,46.501891,-64.025032,Infiniti,80287,Infiniti QX70,26999,Prince Edward Island,Infiniti QX70 PREMIUM AWD CUIR TOIT,2014
+Montréal,45.4972159,-73.6103642,Infiniti,42328,Infiniti Q60,24998,Québec,Infiniti Q60 SPORT,2014
+Oshawa,43.91768,-78.862953,Infiniti,118371,Infiniti QX60,21777,Ontario,Infiniti QX60 Base,2014
+Calgary,51.02532675,-114.049868485806,Infiniti,80000,Infiniti QX70,24995,Alberta,Infiniti QX70 AWD Premium BACK UP CAMERA,2014
+Winnipeg,49.884017,-97.168579,Infiniti,55824,Infiniti Q60,24888,Manitoba,Infiniti Q60 IT'S AN AWD,2014
+Saskatoon,52.131802,-106.660767,Infiniti,128885,Infiniti QX60,23909,Saskatchewan,Infiniti QX60 Base - Leather Seats -  Sunroof - $188 B,2014
+Manotick,45.232833,-75.688248,Infiniti,117917,Infiniti QX60,21995,Ontario,Infiniti QX60 Base,2014
+Quebec,52.4760892,-71.8258668,Infiniti,27601,Infiniti Q50,21987,Québec,Infiniti Q50 4dr Sdn Premium AWD,2014
+Ottawa,45.421106,-75.690308,Infiniti,48345,Infiniti QX60,24999,Ontario,Infiniti QX60 LOW KMS ,2014
+Toronto,43.653963,-79.387207,Infiniti,49000,Infiniti Q50,22995,Ontario,Infiniti Q50 TECHNOLOGY SUNROOF,2014
+St-Jérôme,45.775426,-74.013176,Infiniti,83686,Infiniti QX60,20977,Québec,Infiniti QX60 AWD HAYON ÉLECT CUIR TOIT OUVRANT NAV ,2014
+Saint-Hubert,45.5042755,-73.4216976,Infiniti,67179,Infiniti Q60,20980,Québec,Infiniti Q60 ,2014
+Toronto,43.653963,-79.387207,Infiniti,166082,Infiniti QX60,20995,Ontario,Infiniti QX60 Premium Tech pkg 360 Camera NAVI TV-DVD BLIS,2014
+Ottawa,45.421106,-75.690308,Infiniti,64117,Infiniti QX70,26888,Ontario,Infiniti QX70 AWD NAVIGATION LEATHER WOOD TRIM.,2014
+Montreal,45.4972159,-73.6103642,Infiniti,108000,Infiniti Q50,20995,Québec,Infiniti Q50 2014 Infiniti Q50 - 4dr Sdn Sport AWD,2014
+North Vancouver,49.3207133,-123.0737831,Infiniti,75182,Infiniti QX50,20999,British Columbia,Infiniti QX50 Journey,2014
+Markham,43.854336,-79.326782,Infiniti,66925,Infiniti QX60,26680,Ontario,Infiniti QX60 PREMIUM,2014
+Laval,45.60558895,-73.7344173056906,Infiniti,110962,Infiniti Q50,20999,Québec,Infiniti Q50 HYBRID AWD NAV TOIT CUIR,2014
+Calgary,51.02532675,-114.049868485806,Infiniti,167650,Infiniti QX80,25995,Alberta,Infiniti QX80 ,2014
+Montreal,45.4972159,-73.6103642,Infiniti,93000,Infiniti QX60,22995,Québec,Infiniti QX60 AWD 4dr,2014
+Guelph,43.533783,-80.2306337,Infiniti,76000,Infiniti Q50,21575,Ontario,Infiniti Q50 Premium AWD - Leather,2014
+Ottawa,45.421106,-75.690308,Infiniti,139770,Infiniti Q50,17950,Ontario,Infiniti Q50 Sport DELUXE TOURING & TECHNOLOGY PKG,2014
+Ajax,43.850374,-79.024658,Infiniti,118657,Infiniti Q50,18988,Ontario,Infiniti Q50 Premium,2014
+Toronto,43.653963,-79.387207,Infiniti,138000,Infiniti Q50,17450,Ontario,Infiniti Q50 S AWD NAVIGATION LEATHER SUNROOF BACKUP CAM,2014
+Brampton,43.6858146,-79.7599337,Infiniti,75283,Infiniti QX50,19500,Ontario,Infiniti QX50 Journey ,2014
+Saint-Hubert,45.5042755,-73.4216976,Infiniti,100712,Infiniti Q50,17488,Québec,Infiniti Q50 Premium ,2014
+Laval,45.60558895,-73.7344173056906,Infiniti,102275,Infiniti QX50,17499,Québec,Infiniti QX50 JOURNEY AWD CUIR TOIT MAGS,2014
+Québec,52.4760892,-71.8258668,Infiniti,66979,Infiniti QX50,19495,Québec,Infiniti QX50 Journey ,2014
+St-Jérôme,45.775426,-74.013176,Infiniti,98253,Infiniti Q50,19595,Québec,Infiniti Q50 AWD CAMÉRA 360 CUIR TOIT OUVRANT ,2014
+Calgary,51.02532675,-114.049868485806,Infiniti,137669,Infiniti QX80,29995,Alberta,Infiniti QX80 4X4 ,2014
+Brossard,45.4554829,-73.4678904,Infiniti,134234,Infiniti QX60,17994,Québec,Infiniti QX60 AWD TOIT OUVRANT CAM DE RECUL,2014
+Toronto,43.653963,-79.387207,Infiniti,185000,Infiniti QX60,16999,Ontario,Infiniti QX60 NAVIGATION,2014
+Toronto,43.653963,-79.387207,Infiniti,127376,Infiniti QX60,18950,Ontario,Infiniti QX60 AWD 4dr - PREMIUM - NAVIGATION - SUNROOF - CAMERAS,2014
+Oakville,43.447436,-79.666672,Infiniti,82000,Infiniti Q50,19488,Ontario,Infiniti Q50 AWD - NAVI - REVERSE CAM,2014
+Laval,45.60558895,-73.7344173056906,Infiniti,76870,Infiniti Q50,17975,Québec,Infiniti Q50 ,2014
+Whitby,43.899871,-78.940201,Infiniti,126215,Infiniti Q50,17994,Ontario,Infiniti Q50 Premium AWD,2014
+Barrie,44.3893113,-79.6901736,Infiniti,137760,Infiniti QX60,18995,Ontario,Infiniti QX60 QX60,2014
+Laval,45.60558895,-73.7344173056906,Infiniti,101687,Infiniti Q50,17999,Québec,Infiniti Q50 AWD CUIR TOIT MAGS NAV CAMERA DE RECUL,2014
+Vaughan,43.820904,-79.5084,Infiniti,92000,Infiniti QX80,35998,Ontario,Infiniti QX80 Fully Loaded,2014
+Saint-Hubert,45.5042755,-73.4216976,Infiniti,99797,Infiniti QX50,17888,Québec,Infiniti QX50 Journey ,2014
+Beauport,46.8594456,-71.1932496,Infiniti,138000,Infiniti QX80,31995,Québec Québec,Infiniti QX80 Base 8 Passenger,2014
+Brampton,43.6858146,-79.7599337,Infiniti,98381,Infiniti QX60,17995,Ontario,Infiniti QX60 4DR AWD,2014
+North York,43.7708175,-79.4132998,Infiniti,66000,Infiniti Q50,17995,Ontario,Infiniti Q50  Premium AWD Navigation,2014
+Toronto,43.653963,-79.387207,Infiniti,146000,Infiniti QX50,15950,Ontario,Infiniti QX50 4WD Leather Sunroof Backup Cam,2014
+Toronto,43.653963,-79.387207,Infiniti,121295,Infiniti Q50,17995,Ontario,Infiniti Q50 Premium ,2014
+Oakville,43.447436,-79.666672,Infiniti,131021,Infiniti QX80,32988,Ontario,Infiniti QX80 Navigation,2014
+Toronto,43.653963,-79.387207,Infiniti,117959,Infiniti QX60,23999,Ontario,Infiniti QX60 Auto Financing Available ..!,2015
+Montreal,45.4972159,-73.6103642,Infiniti,45100,Infiniti Q50,24498,Québec,Infiniti Q50 2015 Infiniti Q50 - 4dr Sdn AWD,2015
+Calgary,51.02532675,-114.049868485806,Infiniti,38799,Infiniti Q50,24300,Alberta,Infiniti Q50 Premium AWD,2015
+Laval,45.60558895,-73.7344173056906,Infiniti,41451,Infiniti Q60,24495,Québec,Infiniti Q60 S  CPE SPORT AWD CUIR,2015
+Brossard,45.4554829,-73.4678904,Infiniti,90822,Infiniti QX60,21994,Québec,Infiniti QX60 TOIT,2015
+Sarnia,42.992595,-82.380981,Infiniti,73783,Infiniti Q50,21995,Ontario,Infiniti Q50 Sport,2015
+Mississauga,43.590338,-79.645729,Infiniti,42988,Infiniti Q50,24550,Ontario,Infiniti Q50 [Tech PKG] [Blind Spot] [Navi] [LOW KMS!],2015
+Thunder Bay,48.406414,-89.259796,Infiniti,90254,Infiniti QX50,24628,Ontario,Infiniti QX50 LUXURY AWD,2015
+Laval,45.60558895,-73.7344173056906,Infiniti,46557,Infiniti Q50,23999,Québec,Infiniti Q50 LIMITED AWD CUIR TOIT MAGS 19P NAV,2015
+Winnipeg,49.884017,-97.168579,Infiniti,75000,Infiniti QX50,24488,Manitoba,Infiniti QX50 AWD -SUNROOF,2015
+Saint-Constant,45.3724897,-73.5704589,Infiniti,30733,Infiniti QX50,23999,Québec,Infiniti QX50 PREMIUM AWD TOIT MAGS 19P NAV,2015
+Sainte-Julie,45.5930624,-73.3395943,Infiniti,41451,Infiniti Q60,24495,Québec,Infiniti Q60 S  CPE SPORT AWD CUIR,2015
+Winnipeg,49.884017,-97.168579,Infiniti,72000,Infiniti QX50,24488,Manitoba,Infiniti QX50 Journey  - NO ACCIDENTS,2015
+Saint-Constant,45.3724897,-73.5704589,Infiniti,48193,Infiniti Q50,23999,Québec,Infiniti Q50 LIMITED AWD CUIR TOIT MAGS 19P NAV,2015
+Winnipeg,49.884017,-97.168579,Infiniti,80000,Infiniti QX50,21981,Manitoba,Infiniti QX50 AWD JOURNEY PKG ,2015
+Saint-Hubert,45.5042755,-73.4216976,Infiniti,59874,Infiniti Q50,21980,Québec,Infiniti Q50 Limited AWD ,2015
+La Prairie,45.4174659,-73.4891644,Infiniti,41451,Infiniti Q60,24495,Québec,Infiniti Q60 S  CPE SPORT AWD CUIR,2015
+Stoney Creek,43.217687,-79.758682,Infiniti,124766,Infiniti QX80,36999,Ontario,Infiniti QX80 A MUST SEE! NAVIGATION! LEATHER!!,2015
+Vaughan,43.820904,-79.5084,Infiniti,74487,Infiniti Q50,21900,Ontario,Infiniti Q50,2015
+Winnipeg,49.884017,-97.168579,Infiniti,44000,Infiniti QX50,24980,Manitoba,Infiniti QX50 AWD JOURNEY ,2015
+Montreal,45.4972159,-73.6103642,Infiniti,92782,Infiniti Q50,21888,Québec,Infiniti Q50 4dr Sdn AWD,2015
+Winnipeg,49.884017,-97.168579,Infiniti,79000,Infiniti Q50,24988,Manitoba,Infiniti Q50 Sport AWD - NO ACCIDENTS,2015
+Montreal,45.4972159,-73.6103642,Infiniti,88956,Infiniti Q50,21882,Québec,Infiniti Q50 2015 Infiniti Q50 AWD!! LIMITED,2015
+Brampton,43.6858146,-79.7599337,Infiniti,57431,Infiniti Q50,21880,Ontario,Infiniti Q50 AWD LEATHER,2015
+North York,43.7708175,-79.4132998,Infiniti,114524,Infiniti Q60,21800,Ontario,Infiniti Q60 S AWD,2015
+Brossard,45.4554829,-73.4678904,Infiniti,49234,Infiniti Q50,21795,Québec,Infiniti Q50 JANTES19P 94$-SEMAINES 0$CASH CERTIFIE TECH PACK N,2015
+Mississauga,43.590338,-79.645729,Infiniti,76513,Infiniti QX60,24995,Ontario,Infiniti QX60 NAVIGATION,2015
+Mississauga,43.590338,-79.645729,Infiniti,87068,Infiniti QX60,24995,Ontario,Infiniti QX60 7PASS,2015
+Hamilton,43.2425289,-79.9470423,Infiniti,88040,Infiniti Q50,24995,Ontario,Infiniti Q50 3.7,2015
+Montréal,45.4972159,-73.6103642,Infiniti,72137,Infiniti Q50,24998,Québec,Infiniti Q50 Q50S,2015
+Montreal,45.4972159,-73.6103642,Infiniti,50100,Infiniti QX70,31995,Québec,Infiniti QX70 AWD 4dr,2015
+Richmond,49.163168,-123.137414,Infiniti,19963,Infiniti QX80,43887,British Columbia,Infiniti QX80 AWD- Local,2015
+Nobleton (vaughan),43.9244361,-79.5672218,Infiniti,88041,Infiniti QX50,17999,Ontario,Infiniti QX50 Journey,2015
+Ile-Perrot,46.050293,-71.9814568,Infiniti,92375,Infiniti QX60,24999,Québec,Infiniti QX60 PREMIUM AWD CUIR TOIT MAGS 20P NAV TV,2015
+Ottawa,45.421106,-75.690308,Infiniti,62709,Infiniti QX60,24999,Ontario,Infiniti QX60 LOW KMS ,2015
+Winnipeg,49.884017,-97.168579,Infiniti,49000,Infiniti Q50,24980,Manitoba,Infiniti Q50 SPORT AWD ,2015
+Ajax,43.850374,-79.024658,Infiniti,97533,Infiniti Q50,21888,Ontario,Infiniti Q50 AWD,2015
+Winnipeg,49.884017,-97.168579,Infiniti,77357,Infiniti QX50,21979,Manitoba,Infiniti QX50 NO ACCIDENTS BACKUP CAMERALEATHER HEATED SEATS SUN,2015
+Toronto,43.653963,-79.387207,Infiniti,136000,Infiniti QX60,21950,Ontario,Infiniti QX60 4WD Navigation Leather Sunroof Backup Cam 7Pass,2015
+Mississauga,43.590338,-79.645729,Infiniti,29830,Infiniti Q50,24883,Ontario,Infiniti Q50 [LIMITED] [Bose Sound] [Navi] [Sport Wheels],2015
+Lloydminster,53.279995,-110.00885,Infiniti,97498,Infiniti Q50,24888,Alberta,Infiniti Q50 Sport - Navigation -  Leather Seats,2015
+Langley,49.10647185,-122.550131156815,Infiniti,73622,Infiniti Q50,21900,British Columbia,Infiniti Q50 AWD $256 Biweekly,2015
+Montreal,45.4972159,-73.6103642,Infiniti,66561,Infiniti Q50,24888,Québec,Infiniti Q50 2015 Infiniti Q50 - AWD! 212$ au 2 semaines!!,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,40968,Infiniti Q50,21899,Ontario,Infiniti Q50 ,2015
+Guelph,43.533783,-80.2306337,Infiniti,86244,Infiniti QX60,24888,Ontario,Infiniti QX60 PREMIUM ,2015
+Brossard,45.4554829,-73.4678904,Infiniti,35036,Infiniti Q50,24895,Québec,Infiniti Q50 Limited AWD,2015
+Montréal,45.4972159,-73.6103642,Infiniti,92011,Infiniti QX50,17995,Québec,Infiniti QX50 AWD,2015
+Vaughan,43.820904,-79.5084,Infiniti,77321,Infiniti Q50,24900,Ontario,Infiniti Q50,2015
+Ottawa,45.421106,-75.690308,Infiniti,22220,Infiniti Q50,24900,Ontario,Infiniti Q50 3.7L-NAVI-CAM-ONLY 22K,2015
+Toronto,43.653963,-79.387207,Infiniti,88000,Infiniti QX60,24900,Ontario,Infiniti QX60 Navigation   Rear Camera   7 Passenger,2015
+Vaughan,43.820904,-79.5084,Infiniti,95750,Infiniti QX60,24900,Ontario,Infiniti QX60 PREMIUMDLX TOUR PKG,2015
+Vaughan,43.820904,-79.5084,Infiniti,59093,Infiniti Q50,24900,Ontario,Infiniti Q50,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,76331,Infiniti Q50,24900,Ontario,Infiniti Q50 LIMITED  Tech  CPO FROM 2.9% & CPO WARRANTY INCLUD,2015
+Montreal,45.4972159,-73.6103642,Infiniti,78600,Infiniti QX50,21888,Québec,Infiniti QX50 2015 Infiniti QX50 - AWD 4dr,2015
+Brossard,45.4554829,-73.4678904,Infiniti,89000,Infiniti Q50,21888,Québec,Infiniti Q50 95$-SEMAINES TECH NAVI AIDE A LA CONDUITE,2015
+Montreal,45.4972159,-73.6103642,Infiniti,41828,Infiniti Q50,23995,Québec,Infiniti Q50 2015 Infiniti Q50 LIMITED!!  - 4dr Sdn AWD,2015
+Toronto,43.653963,-79.387207,Infiniti,76000,Infiniti Q50,22950,Ontario,Infiniti Q50 Limited,2015
+Toronto,43.653963,-79.387207,Infiniti,125000,Infiniti QX60,22950,Ontario,Infiniti QX60 4WD Navigation Leather Sunroof Backup Cam 7Pass,2015
+Burnaby,49.2433804,-122.9725459,Infiniti,89235,Infiniti Q50,22985,British Columbia,Infiniti Q50 AWD with heated seats,2015
+Guelph,43.533783,-80.2306337,Infiniti,65000,Infiniti Q50,22988,Ontario,Infiniti Q50 Sport V6 AWD - Limited Package,2015
+Toronto,43.653963,-79.387207,Infiniti,163475,Infiniti QX50,14888,Ontario,Infiniti QX50 Journey Pkg,2015
+St-Hubert,46.501891,-64.025032,Infiniti,58299,Infiniti QX50,21999,Prince Edward Island,Infiniti QX50 AWD CUIR TOIT MAGS,2015
+La Prairie,45.4174659,-73.4891644,Infiniti,114229,Infiniti QX60,22995,Québec,Infiniti QX60 AWD CUIR,2015
+Laval,45.60558895,-73.7344173056906,Infiniti,114229,Infiniti QX60,22995,Québec,Infiniti QX60 AWD CUIR,2015
+Sainte-Julie,45.5930624,-73.3395943,Infiniti,114229,Infiniti QX60,22995,Québec,Infiniti QX60 AWD CUIR,2015
+Montreal,45.4972159,-73.6103642,Infiniti,69813,Infiniti Q50,22995,Québec,Infiniti Q50 4dr Sdn Sport AWD,2015
+Ile-Perrot,46.050293,-71.9814568,Infiniti,76315,Infiniti Q50,21999,Québec,Infiniti Q50 LIMITED AWD CUIR TOIT MAGS 19P NAV,2015
+Calgary,51.02532675,-114.049868485806,Infiniti,121308,Infiniti Q50,22998,Alberta,Infiniti Q50 AWD,2015
+Laval,45.60558895,-73.7344173056906,Infiniti,68141,Infiniti Q50,22999,Québec,Infiniti Q50 LIMITED AWD CUIR TOIT NAV MAGS 19[Quotations],2015
+Toronto,43.653963,-79.387207,Infiniti,108000,Infiniti QX60,22999,Ontario,Infiniti QX60 NAVIGATION,2015
+Saint-Constant,45.3724897,-73.5704589,Infiniti,63952,Infiniti QX50,21999,Québec,Infiniti QX50 AWD CUIR TOIT MAGS CAMERA DE RECUL,2015
+Calgary,51.02532675,-114.049868485806,Infiniti,78017,Infiniti QX50,22999,Alberta,Infiniti QX50 AWD,2015
+Vaughan,43.820904,-79.5084,Infiniti,34001,Infiniti QX50,22900,Ontario,Infiniti QX50 Journey,2015
+Montreal,45.4972159,-73.6103642,Infiniti,53177,Infiniti Q50,22888,Québec,Infiniti Q50 4dr Sdn AWD,2015
+Magog,45.265463,-72.147903,Infiniti,47250,Infiniti Q50,22395,Québec,Infiniti Q50 Premium,2015
+Markham,43.854336,-79.326782,Infiniti,87234,Infiniti Q50,22425,Ontario,Infiniti Q50 Limitd 3.7 AWD,2015
+Guelph,43.533783,-80.2306337,Infiniti,40643,Infiniti QX50,22488,Ontario,Infiniti QX50 PREMIUM ,2015
+Toronto,43.653963,-79.387207,Infiniti,69000,Infiniti QX60,21999,Ontario,Infiniti QX60 LEATHER,2015
+Brossard,45.4554829,-73.4678904,Infiniti,52082,Infiniti Q50,22495,Québec,Infiniti Q50 97$-SEMAINES LIMITED TECH PACK NAV CAM360 BOSE 19P,2015
+Brossard,45.4554829,-73.4678904,Infiniti,56800,Infiniti Q50,22495,Québec,Infiniti Q50 LIMITED TECH JANTES19P NAV CAM360 BOSE TOIT,2015
+Montréal,45.4972159,-73.6103642,Infiniti,74308,Infiniti Q50,22498,Québec,Infiniti Q50 LIMITED,2015
+Cambridge,43.3855479,-80.3113582,Infiniti,102166,Infiniti QX60,22777,Ontario,Infiniti QX60 ,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,49532,Infiniti Q50,22887,Ontario,Infiniti Q50 Sport,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,69905,Infiniti QX50,22887,Ontario,Infiniti QX50 ,2015
+Brossard,45.4554829,-73.4678904,Infiniti,66320,Infiniti Q50,22888,Québec,Infiniti Q50 99$-SEMAINES LIMITED TECH PACK CAM360 BOSE JANTES,2015
+Oakville,43.447436,-79.666672,Infiniti,37000,Infiniti QX50,22888,Ontario,Infiniti QX50 AWD - NAVI - 360 CAMERA - SUNROOF,2015
+Oakville,43.447436,-79.666672,Infiniti,56000,Infiniti Q50,22888,Ontario,Infiniti Q50 LTD AWD - NAVI - SUNROOF - REVERSE CAM,2015
+Montreal,45.4972159,-73.6103642,Infiniti,164234,Infiniti Q60,22888,Québec,Infiniti Q60 2dr Auto Premier Red Interior,2015
+Montreal,45.4972159,-73.6103642,Infiniti,79705,Infiniti QX50,22888,Québec,Infiniti QX50 2015 Infiniti QX50 - AWD ! CAMERA 360 ,2015
+Montreal,45.4972159,-73.6103642,Infiniti,80375,Infiniti Q50,22888,Québec,Infiniti Q50 2015 Infiniti Q50  AWD!! BOSE GPS !!,2015
+Ajax,43.850374,-79.024658,Infiniti,63950,Infiniti Q50,22888,Ontario,Infiniti Q50 AWD,2015
+Ajax,43.850374,-79.024658,Infiniti,142365,Infiniti QX60,22888,Ontario,Infiniti QX60,2015
+Brossard,45.4554829,-73.4678904,Infiniti,82353,Infiniti QX60,23800,Québec,Infiniti QX60 TECH CAM 360 TOIT GPS,2015
+Winnipeg,49.884017,-97.168579,Infiniti,72000,Infiniti QX50,23800,Manitoba,Infiniti QX50 AWD - R.Start,2015
+Laval,45.60558895,-73.7344173056906,Infiniti,76867,Infiniti QX60,23801,Québec,Infiniti QX60 AWD NAVIGATION - Toit Ouvrant - A,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,78673,Infiniti Q50,23881,Ontario,Infiniti Q50 Tech pkg  Adaptive cruise  Blind spot  Navi  Strea,2015
+Mississauga,43.590338,-79.645729,Infiniti,54988,Infiniti Q50,23883,Ontario,Infiniti Q50 [LIMITED] [Bose Sound] [Navi] [Sport Wheels],2015
+Mississauga,43.590338,-79.645729,Infiniti,77777,Infiniti Q50,23883,Ontario,Infiniti Q50 [Sport] [NAVI] [Loaded] [BACKUP CAM],2015
+Mississauga,43.590338,-79.645729,Infiniti,54222,Infiniti Q50,23883,Ontario,Infiniti Q50 [Sport] [NAVI] [Loaded] [BACKUP CAM],2015
+Sainte-Julie,45.5930624,-73.3395943,Infiniti,58754,Infiniti Q50,21995,Québec,Infiniti Q50 AWD CUIR,2015
+La Prairie,45.4174659,-73.4891644,Infiniti,58754,Infiniti Q50,21995,Québec,Infiniti Q50 AWD CUIR,2015
+Dollard-Des Ormeaux,45.48423,-73.8064547,Infiniti,41998,Infiniti Q50,23977,Québec,Infiniti Q50 Sport AWD ,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,74586,Infiniti Q50,23981,Ontario,Infiniti Q50 Limited  Tech  360 cam  Blind spot  19 alloys,2015
+Winnipeg,49.884017,-97.168579,Infiniti,72000,Infiniti QX50,23988,Manitoba,Infiniti QX50 AWD - NO ACCIDENTS,2015
+Oakville,43.447436,-79.666672,Infiniti,90000,Infiniti QX60,23988,Ontario,Infiniti QX60 AWD - NAVI - 7 PASS - 360 CAMERA - SUNROOF,2015
+Oakville,43.447436,-79.666672,Infiniti,86000,Infiniti QX60,23988,Ontario,Infiniti QX60 AWD - NAVI - 7 PASS - 360 CAMERA - SUNROOF,2015
+Mississauga,43.590338,-79.645729,Infiniti,26605,Infiniti Q50,23990,Ontario,Infiniti Q50 [Tech PKG] [Blind Spot] [Navi] [LOW KMS!],2015
+Brossard,45.4554829,-73.4678904,Infiniti,83514,Infiniti QX60,23995,Québec,Infiniti QX60 NAV,2015
+Guelph,43.533783,-80.2306337,Infiniti,59112,Infiniti Q50,23788,Ontario,Infiniti Q50 BLIND SPOT INTERVENTION ,2015
+Saint-Constant,45.3724897,-73.5704589,Infiniti,56079,Infiniti QX50,21999,Québec,Infiniti QX50 PREMIUM AWD CUIR TOIT MAGS 19P s,2015
+Laval,45.60558895,-73.7344173056906,Infiniti,83700,Infiniti QX60,23400,Québec,Infiniti QX60 Base,2015
+Ottawa,45.421106,-75.690308,Infiniti,51155,Infiniti QX50,23426,Ontario,Infiniti QX50 Journey Pkg AWD LEATHER SUNROOF REAR CAM LOADED,2015
+Toronto,43.653963,-79.387207,Infiniti,62390,Infiniti QX50,21999,Ontario,Infiniti QX50 Journey REVERSE CAMERA CLEAN CARFAX,2015
+Laval,45.60558895,-73.7344173056906,Infiniti,76112,Infiniti QX50,21999,Québec,Infiniti QX50 Premium Awd Cuir,2015
+Oakville,43.447436,-79.666672,Infiniti,43000,Infiniti Q50,23488,Ontario,Infiniti Q50 AWD - NAVI - 360 CAMERA - SUNROOF,2015
+Guelph,43.533783,-80.2306337,Infiniti,74712,Infiniti Q50,23488,Ontario,Infiniti Q50 2015 Infiniti Q50 - 4dr Sdn AWD,2015
+Sherwood Park,53.5256963,-113.2966313,Infiniti,97762,Infiniti QX50,21998,Alberta,Infiniti QX50 AWD JOURNEY EDITION $21998 Leather,2015
+Montreal,45.4972159,-73.6103642,Infiniti,88000,Infiniti Q50,23495,Québec,Infiniti Q50 4dr Sdn AWD,2015
+Mississauga,43.590338,-79.645729,Infiniti,55111,Infiniti Q50,23550,Ontario,Infiniti Q50 [LIMITED] [Bose Sound] [Navi] [Sport Wheels],2015
+Mississauga,43.590338,-79.645729,Infiniti,46747,Infiniti Q50,23550,Ontario,Infiniti Q50 [LIMITED] [Bose Sound] [Navi] [Sport Wheels],2015
+Mississauga,43.590338,-79.645729,Infiniti,60888,Infiniti Q50,23550,Ontario,Infiniti Q50 [Tech PKG] [Blind Spot] [Navi] [LIMITED],2015
+Laval,45.60558895,-73.7344173056906,Infiniti,58754,Infiniti Q50,21995,Québec,Infiniti Q50 AWD CUIR,2015
+Calgary,51.02532675,-114.049868485806,Infiniti,103000,Infiniti QX80,36995,Alberta,Infiniti QX80 4WD,2015
+Brantford,43.1554354,-80.2665916,Infiniti,94943,Infiniti QX50,20777,Ontario,Infiniti QX50 PREMIUM AWD,2015
+Saint-Constant,45.3724897,-73.5704589,Infiniti,123655,Infiniti QX50,18999,Québec,Infiniti QX50 PREMIUM AWD CUIR TOIT MAGS 19P NAV,2015
+Mississauga,43.590338,-79.645729,Infiniti,70452,Infiniti QX70,27883,Ontario,Infiniti QX70 [4 NEW TIRES] [NAVI] [TECH PKG],2015
+Thornhill,43.8161477,-79.4245925,Infiniti,92285,Infiniti Q50,20749,Ontario,Infiniti Q50 ,2015
+Toronto,43.653963,-79.387207,Infiniti,72111,Infiniti Q50,20700,Ontario,Infiniti Q50 6CYL 3.7L,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,37949,Infiniti Q50,27900,Ontario,Infiniti Q50 LIMITED  Tech  CPO FROM 2.9% & CPO WARRANTY INCLUD,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,34524,Infiniti Q50,27900,Ontario,Infiniti Q50 LIMITED  Tech  CPO FROM 2.9% & CPO WARRANTY INCLUD,2015
+Mississauga,43.590338,-79.645729,Infiniti,63555,Infiniti QX60,27983,Ontario,Infiniti QX60 [DELUXE MODEL] [NAVI] [DVD] [LOW KMS],2015
+Hamilton,43.2425289,-79.9470423,Infiniti,44603,Infiniti QX60,27777,Ontario,Infiniti QX60 Base,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,64188,Infiniti QX50,20500,Ontario,Infiniti QX50 Journey pkg.  Leather  Bluetooth  SUNROOF  Back up,2015
+Stratford,46.2189935,-63.0876534061131,Infiniti,94943,Infiniti QX50,20777,Prince Edward Island,Infiniti QX50 PREMIUM AWD,2015
+Windsor,42.30423,-83.029861,Infiniti,94943,Infiniti QX50,20777,Ontario,Infiniti QX50 PREMIUM AWD,2015
+Toronto,43.653963,-79.387207,Infiniti,102000,Infiniti Q50,20950,Ontario,Infiniti Q50 AWD NAVIGATION LEATHER SUNROOF BACKUP CAM,2015
+Montréal,45.4972159,-73.6103642,Infiniti,98484,Infiniti QX60,26998,Québec,Infiniti QX60 AWD,2015
+Toronto,43.653963,-79.387207,Infiniti,73000,Infiniti QX50,20950,Ontario,Infiniti QX50 AWD,2015
+Mississauga,43.590338,-79.645729,Infiniti,92130,Infiniti Q50,18995,Ontario,Infiniti Q50 NAVIGATION,2015
+Brossard,45.4554829,-73.4678904,Infiniti,67581,Infiniti QX60,27199,Québec,Infiniti QX60 AWD ,2015
+Guelph,43.533783,-80.2306337,Infiniti,82541,Infiniti QX70,27288,Ontario,Infiniti QX70 DELUXE TOURING TECH ,2015
+Mississauga,43.590338,-79.645729,Infiniti,60995,Infiniti Q50,20888,Ontario,Infiniti Q50,2015
+Mississauga,43.590338,-79.645729,Infiniti,55388,Infiniti QX60,27328,Ontario,Infiniti QX60 [LOW KMS!] [Premium Package] [360 Cam] [Navi],2015
+Thornhill,43.8161477,-79.4245925,Infiniti,51413,Infiniti QX50,20800,Ontario,Infiniti QX50 Leather  Bluetooth  Back up  Heated seats,2015
+Winnipeg,49.884017,-97.168579,Infiniti,90000,Infiniti QX60,27600,Manitoba,Infiniti QX60 AWD w,2015
+Mississauga,43.590338,-79.645729,Infiniti,59385,Infiniti QX60,27550,Ontario,Infiniti QX60 [LOW KMS!] [Blind Spot Warnings] [360 Cam] [Navi],2015
+Toronto,43.653963,-79.387207,Infiniti,85000,Infiniti QX50,20850,Ontario,Infiniti QX50 4WD Navigation Leather Sunroof Backup Cam,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,73659,Infiniti QX60,30800,Ontario,Infiniti QX60 Tech  Adaptive  CPO from 2.9% & CPO Warranty INCL.,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,66399,Infiniti QX60,27500,Ontario,Infiniti QX60 Premium pkg  Navi  CPO FROM 2.9% & CPO WARRANTY IN,2015
+Toronto,43.653963,-79.387207,Infiniti,83000,Infiniti Q50,20950,Ontario,Infiniti Q50 4WD Navigation Leather Sunroof Backup Cam,2015
+Oakville,43.447436,-79.666672,Infiniti,96000,Infiniti Q50,20488,Ontario,Infiniti Q50 LTD AWD - NAVI - SUNROOF - REVERSE CAM,2015
+Montreal,45.4972159,-73.6103642,Infiniti,65500,Infiniti Q70,27995,Québec,Infiniti Q70 4dr Sdn V6 Premium,2015
+Ottawa,45.421106,-75.690308,Infiniti,100673,Infiniti QX70,29950,Ontario,Infiniti QX70 Sport AWD NAV ROOF CLIMATE SEATS 360 C,2015
+Toronto,43.653963,-79.387207,Infiniti,102000,Infiniti QX50,19850,Ontario,Infiniti QX50 4WD Navigation Leather Sunroof Backup Cam,2015
+Quebec,52.4760892,-71.8258668,Infiniti,89985,Infiniti QX70,28999,Québec,Infiniti QX70 ,2015
+Simcoe,44.5014007,-79.7038708,Infiniti,105402,Infiniti QX80,38995,Ontario,Infiniti QX80 Limited,2015
+Montreal,45.4972159,-73.6103642,Infiniti,79957,Infiniti QX50,19888,Québec,Infiniti QX50 2015 Infiniti QX50 AWD!! JOURNEY!JAMAIS ACCIDENTÉ!,2015
+Vancouver,49.2608724,-123.1139529,Infiniti,73667,Infiniti QX60,29900,British Columbia,Infiniti QX60 AWD,2015
+Laval,45.60558895,-73.7344173056906,Infiniti,96311,Infiniti Q50,19994,Québec,Infiniti Q50 Sport AWD NAVIGATION - Toit Ouvrant - A,2015
+Toronto,43.653963,-79.387207,Infiniti,140633,Infiniti QX60,19888,Ontario,Infiniti QX60 NAVI ,2015
+Milton,43.513671,-79.882817,Infiniti,89496,Infiniti QX50,19988,Ontario,Infiniti QX50 QX50 ,2015
+Surrey,49.1913033,-122.8491439,Infiniti,47898,Infiniti Q50,29885,British Columbia,Infiniti Q50 2015 Infiniti Q50 - 4dr Sdn Sport AWD,2015
+Ottawa,45.421106,-75.690308,Infiniti,39100,Infiniti Q50,19900,Ontario,Infiniti Q50 LIMITED-AWD-NAV-CAMERA-39K,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,66049,Infiniti QX60,29900,Ontario,Infiniti QX60 Deluxe Touring  CPO from 2.9% & CPO Warranty INCL,2015
+Langley,49.10647185,-122.550131156815,Infiniti,40500,Infiniti Q50,28995,British Columbia,Infiniti Q50 Q50S - SPORT,2015
+Laval,45.60558895,-73.7344173056906,Infiniti,88253,Infiniti Q50,19475,Québec,Infiniti Q50 AWD ,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,64907,Infiniti QX60,28200,Ontario,Infiniti QX60 Premium pkg  Navi  CPO FROM 2.9% & CPO WARRANTY IN,2015
+Winnipeg,49.884017,-97.168579,Infiniti,63000,Infiniti QX60,28488,Manitoba,Infiniti QX60 AWD - NO ACCIDENTS,2015
+Mississauga,43.590338,-79.645729,Infiniti,57955,Infiniti QX60,29995,Ontario,Infiniti QX60 [TECH PKG] [DVD] [BLIND SPOT] [NAVI],2015
+Winnipeg,49.884017,-97.168579,Infiniti,73850,Infiniti QX60,29991,Manitoba,Infiniti QX60 premium DVD PLAYER LEATHER SUNROOF BACKCAM,2015
+Brossard,45.4554829,-73.4678904,Infiniti,90878,Infiniti QX50,19500,Québec,Infiniti QX50 LUXURY PACKAGE CAMERA CUIR BLUETOOTH GRPE ELEC,2015
+Montreal,45.4972159,-73.6103642,Infiniti,78495,Infiniti QX50,19995,Québec,Infiniti QX50 2015 Infiniti QX50 - AWD ! CAMERA 360,2015
+Lower Sackville,44.7733009,-63.6884669,Infiniti,96890,Infiniti QX50,19995,Nova Scotia,Infiniti QX50 LUXURY SUV,2015
+Toronto,43.653963,-79.387207,Infiniti,85000,Infiniti QX70,28950,Ontario,Infiniti QX70 S ONE OWNER SERVICE RECORDS FULLY LOADED,2015
+Calgary,51.02532675,-114.049868485806,Infiniti,39000,Infiniti Q50,26995,Alberta,Infiniti Q50 Limited AWD,2015
+Georgetown,43.6502652,-79.9036058,Infiniti,84974,Infiniti Q50,20950,Ontario,Infiniti Q50 AWD ,2015
+Mississauga,43.590338,-79.645729,Infiniti,29555,Infiniti Q70,30990,Ontario,Infiniti Q70 [Tech PKG] [Blind Spot] [Navi] [LIMITED],2015
+Toronto,43.653963,-79.387207,Infiniti,74000,Infiniti Q50,18880,Ontario,Infiniti Q50 AWD,2015
+Mississauga,43.590338,-79.645729,Infiniti,47752,Infiniti Q50,25995,Ontario,Infiniti Q50 [Tech PKG] [Blind Spot] [Navi] [LIMITED],2015
+Montreal,45.4972159,-73.6103642,Infiniti,86014,Infiniti QX50,18882,Québec,Infiniti QX50 2015 Infiniti QX50 - AWD !! CUIR,2015
+Guelph,43.533783,-80.2306337,Infiniti,97631,Infiniti Q50,21088,Ontario,Infiniti Q50 LIMITED ,2015
+Toronto,43.653963,-79.387207,Infiniti,95194,Infiniti QX60,25999,Ontario,Infiniti QX60 6CYL 3.5L,2015
+Toronto,43.653963,-79.387207,Infiniti,77000,Infiniti QX60,25999,Ontario,Infiniti QX60 TECH PKG NAVIGATION,2015
+Calgary,51.02532675,-114.049868485806,Infiniti,60494,Infiniti Q50,25999,Alberta,Infiniti Q50 AWD,2015
+Calgary,51.02532675,-114.049868485806,Infiniti,57980,Infiniti Q50,25999,Alberta,Infiniti Q50 AWD,2015
+Regina,50.44876,-104.61731,Infiniti,86800,Infiniti QX80,41900,Saskatchewan,Infiniti QX80 7 Passenger,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,58242,Infiniti Q50,26300,Ontario,Infiniti Q50 LIMITED  Tech  CPO FROM 2.9% & CPO WARRANTY INCLUD,2015
+Toronto,43.653963,-79.387207,Infiniti,79000,Infiniti QX60,26450,Ontario,Infiniti QX60 AWD,2015
+Toronto,43.653963,-79.387207,Infiniti,96000,Infiniti Q50,20999,Ontario,Infiniti Q50 TECHNOLOGY 3.7 AWD NAVIGATION,2015
+Ottawa,45.421106,-75.690308,Infiniti,76959,Infiniti QX50,20999,Ontario,Infiniti QX50 NO ACCIDENTS ,2015
+La Prairie,45.4174659,-73.4891644,Infiniti,99354,Infiniti Q50,21295,Québec,Infiniti Q50 LIMITED AWD CUIR,2015
+Ile-Perrot,46.050293,-71.9814568,Infiniti,58699,Infiniti QX50,20999,Québec,Infiniti QX50 AWD CUIR TOIT MAGS A,2015
+Sainte-Julie,45.5930624,-73.3395943,Infiniti,99354,Infiniti Q50,21295,Québec,Infiniti Q50 LIMITED AWD CUIR,2015
+Laval,45.60558895,-73.7344173056906,Infiniti,99354,Infiniti Q50,21295,Québec,Infiniti Q50 LIMITED AWD CUIR,2015
+Toronto,43.653963,-79.387207,Infiniti,82000,Infiniti QX60,25450,Ontario,Infiniti QX60 4WD Navigation Leather Sunroof Bcam 7Pass,2015
+Mississauga,43.590338,-79.645729,Infiniti,80692,Infiniti QX60,25495,Ontario,Infiniti QX60 MOONROOF,2015
+Mississauga,43.590338,-79.645729,Infiniti,59655,Infiniti Q50,21555,Ontario,Infiniti Q50,2015
+Mississauga,43.590338,-79.645729,Infiniti,48857,Infiniti QX50,21500,Ontario,Infiniti QX50 Journey  AWD - Leather - Sunroof - Rear Camera,2015
+Guelph,43.533783,-80.2306337,Infiniti,80841,Infiniti QX60,25798,Ontario,Infiniti QX60 ,2015
+Toronto,43.653963,-79.387207,Infiniti,80457,Infiniti Q50,21500,Ontario,Infiniti Q50 6CYL 3.7L,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,65577,Infiniti QX60,31900,Ontario,Infiniti QX60 Tech  DVD  Adaptive  CPO from 2.9% & CPO Warranty,2015
+Markham,43.854336,-79.326782,Infiniti,82152,Infiniti QX50,18500,Ontario,Infiniti QX50 Clean Carproof,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,69498,Infiniti QX60,25888,Ontario,Infiniti QX60 AWD No Accident,2015
+Brossard,45.4554829,-73.4678904,Infiniti,88900,Infiniti Q50,21495,Québec,Infiniti Q50 LIMITED JANTES19P NAVI CAM TOIT CUIR BOSE,2015
+Guelph,43.533783,-80.2306337,Infiniti,46018,Infiniti QX50,21488,Ontario,Infiniti QX50 ,2015
+Toronto,43.653963,-79.387207,Infiniti,109000,Infiniti QX60,25950,Ontario,Infiniti QX60 AWD,2015
+Oakville,43.447436,-79.666672,Infiniti,76000,Infiniti QX60,25988,Ontario,Infiniti QX60 AWD - 7 PASS - NAVI - SUNROOF - LEATHER,2015
+Richmond,49.163168,-123.137414,Infiniti,66000,Infiniti QX80,41888,British Columbia,Infiniti QX80 8 passengers Accident Free :Priced to Sell!,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,23992,Infiniti Q50,26900,Ontario,Infiniti Q50 LIMITED  CPO FROM 2.9% & CPO WARRANTY INCLUDED,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,48022,Infiniti Q50,26900,Ontario,Infiniti Q50 LIMITED  Tech  CPO FROM 2.9% & CPO WARRANTY INCLUD,2015
+St-Hubert,46.501891,-64.025032,Infiniti,71313,Infiniti QX50,20999,Prince Edward Island,Infiniti QX50 AWD CUIR TOIT MAGS CAMERA DE RECUL,2015
+Winnipeg,49.884017,-97.168579,Infiniti,78000,Infiniti QX60,26980,Manitoba,Infiniti QX60 AWD ,2015
+Guelph,43.533783,-80.2306337,Infiniti,76022,Infiniti Q70,26988,Ontario,Infiniti Q70 ,2015
+Brossard,45.4554829,-73.4678904,Infiniti,73557,Infiniti Q50,20994,Québec,Infiniti Q50 3.7,2015
+Mississauga,43.590338,-79.645729,Infiniti,73460,Infiniti Q50,20993,Ontario,Infiniti Q50 LIMITED TECH ,2015
+Laval,45.60558895,-73.7344173056906,Infiniti,81199,Infiniti Q50,20999,Québec,Infiniti Q50 LIMITED AWD TOIT NAV MAGS 19 À VENIR,2015
+Vaughan,43.820904,-79.5084,Infiniti,75000,Infiniti Q50,20998,Ontario,Infiniti Q50 Sport AWD,2015
+Saint-Constant,45.3724897,-73.5704589,Infiniti,58024,Infiniti QX50,20999,Québec,Infiniti QX50 AWD CUIR TOIT MAGS CAMERA DE RECUL,2015
+Thornhill,43.8161477,-79.4245925,Infiniti,70458,Infiniti QX60,31800,Ontario,Infiniti QX60 Tech  Adaptive  CPO from 2.9% & CPO Warranty INCL.,2015
+Toronto,43.653963,-79.387207,Infiniti,32000,Infiniti Q50,26800,Ontario,Infiniti Q50 AWD Limited,2015
+Laval,45.60558895,-73.7344173056906,Infiniti,92764,Infiniti Q50,18975,Québec,Infiniti Q50 AWD ,2015
+Mississauga,43.590338,-79.645729,Infiniti,63898,Infiniti QX60,26883,Ontario,Infiniti QX60 [LOW KMS!] [Premium Package] [360 Cam] [Navi],2015
+Ile-Perrot,46.050293,-71.9814568,Infiniti,73493,Infiniti QX50,20999,Québec,Infiniti QX50 AWD CUIR TOIT MAGS CAMERA DE RECUL,2015
+Mississauga,43.590338,-79.645729,Infiniti,70532,Infiniti QX60,26555,Ontario,Infiniti QX60 [LOW KMS!] [Blind Spot Warnings] [360 Cam] [Navi],2015
+Saskatoon,52.131802,-106.660767,Infiniti,84528,Infiniti QX60,26552,Saskatchewan,Infiniti QX60 Base - Sunroof -  Power Tailgate - $209 B,2015
+Ste-Julie,45.5930624,-73.3395943,Infiniti,68600,Infiniti QX50,21995,Québec,Infiniti QX50 AWD CUIR,2016
+La Prairie,45.4174659,-73.4891644,Infiniti,68600,Infiniti QX50,21995,Québec,Infiniti QX50 AWD CUIR,2016
+Sainte-Julie,45.5930624,-73.3395943,Infiniti,68600,Infiniti QX50,21995,Québec,Infiniti QX50 AWD CUIR,2016
+Laval,45.60558895,-73.7344173056906,Infiniti,68600,Infiniti QX50,21995,Québec,Infiniti QX50 AWD CUIR,2016
+Laval,45.60558895,-73.7344173056906,Infiniti,89000,Infiniti QX50,21500,Québec,Infiniti QX50 Base,2016
+La Prairie,45.4174659,-73.4891644,Infiniti,80000,Infiniti Q50,21495,Québec,Infiniti Q50 2.0t AWD CUIR,2016
+Laval,45.60558895,-73.7344173056906,Infiniti,80000,Infiniti Q50,21495,Québec,Infiniti Q50 2.0t AWD CUIR,2016
+Sainte-Julie,45.5930624,-73.3395943,Infiniti,80000,Infiniti Q50,21495,Québec,Infiniti Q50 2.0t AWD CUIR,2016
+Edmonton,53.535411,-113.507996,Infiniti,18639,Infiniti QX80,45500,Alberta,Infiniti QX80 7-Passenger,2016
+Langley,49.10647185,-122.550131156815,Infiniti,53300,Infiniti Q50,29895,British Columbia,Infiniti Q50 Q50S SPORT - 3.0L TURBO,2016
+Richmond,49.163168,-123.137414,Infiniti,65398,Infiniti QX80,45662,British Columbia,Infiniti QX80 QX80- Accident free,2016
+Saint-Hubert,45.5042755,-73.4216976,Infiniti,64001,Infiniti QX60,29888,Québec,Infiniti QX60 Premium ,2016
+Thornhill,43.8161477,-79.4245925,Infiniti,76141,Infiniti QX70,29888,Ontario,Infiniti QX70 Deluxe Touring  CPO from 2.9% & CPO Warranty INCL,2016
+Toronto,43.653963,-79.387207,Infiniti,42756,Infiniti QX60,29888,Ontario,Infiniti QX60 QX60 AWD - 3.5L - CVT - Leather - Sunroof - 7 Pass,2016
+Thornhill,43.8161477,-79.4245925,Infiniti,47915,Infiniti QX50,29885,Ontario,Infiniti QX50 Tech  Adaptive  CPO from 2.9% & CPO Warranty INCL.,2016
+North York,43.7708175,-79.4132998,Infiniti,71000,Infiniti QX60,29880,Ontario,Infiniti QX60 7PASS,2016
+Vancouver,49.2608724,-123.1139529,Infiniti,69300,Infiniti QX80,46490,British Columbia,Infiniti QX80 7-Passenger,2016
+Oakville,43.447436,-79.666672,Infiniti,72000,Infiniti QX60,29488,Ontario,Infiniti QX60 AWD - NAVI - DVD - 360 CAMERA - SUNROOF,2016
+Vaughan,43.820904,-79.5084,Infiniti,48821,Infiniti QX50,29900,Ontario,Infiniti QX50 Base,2016
+Vaughan,43.820904,-79.5084,Infiniti,61563,Infiniti QX80,44910,Ontario,Infiniti QX80 TECH PKG ,2016
+Laval,45.60558895,-73.7344173056906,Infiniti,65475,Infiniti QX80,43695,Québec,Infiniti QX80 Technology ,2016
+Sherbrooke,45.403271,-71.889038,Infiniti,24608,Infiniti QX60,29995,Québec,Infiniti QX60 7 Pass - Toit Ouvrant - Cuir - Climatisation Bi-Zo,2016
+Vaughan,43.820904,-79.5084,Infiniti,44219,Infiniti Q50,29995,Ontario,Infiniti Q50,2016
+Thornhill,43.8161477,-79.4245925,Infiniti,75055,Infiniti QX80,47500,Ontario,Infiniti QX80 Tech  Adaptive  CPO from 2.9% & CPO Warranty INCL.,2016
+Ajax,43.850374,-79.024658,Infiniti,83454,Infiniti QX80,43888,Ontario,Infiniti QX80 Technology,2016
+Ajax,43.850374,-79.024658,Infiniti,93120,Infiniti QX60,29988,Ontario,Infiniti QX60 PREMIUM PKG,2016
+Saskatoon,52.131802,-106.660767,Infiniti,93785,Infiniti QX80,43966,Saskatchewan,Infiniti QX80 - Navigation - Leather - Local Trade,2016
+Mississauga,43.590338,-79.645729,Infiniti,66237,Infiniti QX60,29328,Ontario,Infiniti QX60 [LOW KMS!] [Premium Package] [360 Cam] [Navi],2016
+Brossard,45.4554829,-73.4678904,Infiniti,40020,Infiniti Q50,29298,Québec,Infiniti Q50 ,2016
+Toronto,43.653963,-79.387207,Infiniti,105000,Infiniti QX60,29250,Ontario,Infiniti QX60 AWD,2016
+Vaughan,43.820904,-79.5084,Infiniti,57729,Infiniti QX50,28900,Ontario,Infiniti QX50 Base,2016
+Woodbridge,43.7848982,-79.5923855,Infiniti,82589,Infiniti Q50,28888,Ontario,Infiniti Q50 Red Sport 400 AWD,2016
+Thornhill,43.8161477,-79.4245925,Infiniti,60257,Infiniti QX80,51900,Ontario,Infiniti QX80 LIMITÉ 7 places LIMITED  CPO from 2.9% & CPO Warra,2016
+Mississauga,43.590338,-79.645729,Infiniti,30555,Infiniti Q50,28550,Ontario,Infiniti Q50 [Sport] [NAVI] [LOW KMS] [BACKUP CAM],2016
+Toronto,43.653963,-79.387207,Infiniti,93969,Infiniti QX60,27999,Ontario,Infiniti QX60 7 PASSANGER,2016
+Mississauga,43.590338,-79.645729,Infiniti,74044,Infiniti Q50,27995,Ontario,Infiniti Q50 [SPORT][TECH PKG][BLIND SPOT][NAVI],2016
+Guelph,43.533783,-80.2306337,Infiniti,94589,Infiniti QX60,27788,Ontario,Infiniti QX60 PREMIUM ,2016
+Brossard,45.4554829,-73.4678904,Infiniti,60112,Infiniti QX80,42989,Québec,Infiniti QX80 TECH DVD NAV CAM 360,2016
+Mississauga,43.590338,-79.645729,Infiniti,64954,Infiniti QX80,47888,Ontario,Infiniti QX80 Limited 7 Passenger One owner accident free,2016
+Medicine Hat,50.04303,-110.679016,Infiniti,92092,Infiniti QX70,28998,Alberta,Infiniti QX70 AWD Local Vehicle,2016
+Bolton,43.879548,-79.73826,Infiniti,94895,Infiniti QX60,28997,Ontario,Infiniti QX60 AWD,2016
+Thornhill,43.8161477,-79.4245925,Infiniti,68550,Infiniti QX80,47900,Ontario,Infiniti QX80 Tech  8 Pass  CPO from 2.9% & CPO Warranty INCL,2016
+Thornhill,43.8161477,-79.4245925,Infiniti,67859,Infiniti QX80,47900,Ontario,Infiniti QX80 Tech pkg  CPO from 2.9% & CPO Warranty INCL.,2016
+Burlington,43.3248924,-79.7966835,Infiniti,52796,Infiniti QX60,28988,Ontario,Infiniti QX60 ,2016
+Oakville,43.447436,-79.666672,Infiniti,79057,Infiniti QX60,28988,Ontario,Infiniti QX60 1-Owner,2016
+Brossard,45.4554829,-73.4678904,Infiniti,42500,Infiniti QX60,30195,Québec,Infiniti QX60 CUIR TOIT CAMERA JANTES 18P BLUETOOTH,2016
+St-Jean-Sur-Richelieu,45.3056879,-73.2533401,Infiniti,48900,Infiniti QX60,30495,Québec,Infiniti QX60 PREMIUM,2016
+Thornhill,43.8161477,-79.4245925,Infiniti,7085,Infiniti QX50,33700,Ontario,Infiniti QX50 Tech  Adaptive  CPO from 2.9% & CPO Warranty INCL.,2016
+Ajax,43.850374,-79.024658,Infiniti,62985,Infiniti QX60,33588,Ontario,Infiniti QX60 PREM PKG,2016
+Mississauga,43.590338,-79.645729,Infiniti,32777,Infiniti Q50,33550,Ontario,Infiniti Q50 [RED Sport] [NAVI] [400 HP] [BLIND SPOT],2016
+Bolton,43.879548,-79.73826,Infiniti,77702,Infiniti QX50,22300,Ontario,Infiniti QX50 AWD,2016
+Winnipeg,49.884017,-97.168579,Infiniti,53000,Infiniti QX70,34800,Manitoba,Infiniti QX70 SPORT AWD - Nav,2016
+Stouffville,43.967349,-79.2473758,Infiniti,39600,Infiniti QX70,35995,Ontario,Infiniti QX70 SPORT 3.7L AWD,2016
+Ottawa,45.421106,-75.690308,Infiniti,46200,Infiniti QX60,32900,Ontario,Infiniti QX60 2016 Infiniti QX60 -AUTO-AWD-NAVI-PANO-CAM-46K,2016
+Mississauga,43.590338,-79.645729,Infiniti,63933,Infiniti QX60,33990,Ontario,Infiniti QX60 [TECH PKG] [DVD] [BLIND SPOT] [NAVI],2016
+Windsor,42.30423,-83.029861,Infiniti,71000,Infiniti QX60,32900,Ontario,Infiniti QX60 Hybrid Premium,2016
+Ajax,43.850374,-79.024658,Infiniti,78809,Infiniti QX60,32888,Ontario,Infiniti QX60 PREMIUM,2016
+Headingley,49.868087,-97.391052,Infiniti,101000,Infiniti QX70,31800,Manitoba,Infiniti QX70 SPORT EDITION AWD BLACK LOADED SUV,2016
+Thornhill,43.8161477,-79.4245925,Infiniti,56163,Infiniti QX60,31800,Ontario,Infiniti QX60 Premium pkg  Navi  360 cam  Streaming audio,2016
+Toronto,43.653963,-79.387207,Infiniti,48141,Infiniti Q50,31788,Ontario,Infiniti Q50 Red Sport 400 AWD,2016
+Montreal,45.4972159,-73.6103642,Infiniti,61000,Infiniti QX60,31588,Québec,Infiniti QX60 AWD !! CAMERA ,2016
+Pickering,43.835765,-79.090576,Infiniti,102699,Infiniti QX80,40799,Ontario,Infiniti QX80 de Base 7 Places Heat,2016
+Calgary,51.02532675,-114.049868485806,Infiniti,48760,Infiniti QX60,31850,Alberta,Infiniti QX60,2016
+Vancouver,49.2608724,-123.1139529,Infiniti,20940,Infiniti Q50,30977,British Columbia,Infiniti Q50 3.0t 21000 kms ! - AWD - NAV,2016
+Ajax,43.850374,-79.024658,Infiniti,73847,Infiniti QX60,30888,Ontario,Infiniti QX60,2016
+Toronto,43.653963,-79.387207,Infiniti,43000,Infiniti QX80,41995,Ontario,Infiniti QX80 TECH PKG NAVIGATION,2016
+Guelph,43.533783,-80.2306337,Infiniti,75000,Infiniti Q50,30725,Ontario,Infiniti Q50 Red Sport 400 - Kacchu Aluminum Interior Trim,2016
+St-Rémi,46.009289,-74.763049,Infiniti,77712,Infiniti Q50,30495,Québec,Infiniti Q50 RED SPORT 400 AWD,2016
+Montreal,45.4972159,-73.6103642,Infiniti,71123,Infiniti QX60,30222,Québec,Infiniti QX60 2016 Infiniti QX60 - AWD!! PREMIUM,2016
+Stoney Creek,43.217687,-79.758682,Infiniti,94867,Infiniti QX70,31888,Ontario,Infiniti QX70 Leather,2016
+Montreal,45.4972159,-73.6103642,Infiniti,48800,Infiniti QX60,32888,Québec,Infiniti QX60 AWD !! DELUX TOURING !! GPS ,2016
+Montreal,45.4972159,-73.6103642,Infiniti,76990,Infiniti Q50,32888,Québec,Infiniti Q50 2016 Infiniti Q50  Red Sport 400!! TECH !!,2016
+Calgary,51.02532675,-114.049868485806,Infiniti,117731,Infiniti QX80,38990,Alberta,Infiniti QX80 LIMITED NAVI,2016
+North Vancouver,49.3207133,-123.0737831,Infiniti,38100,Infiniti QX60,38998,British Columbia,Infiniti QX60 Premium,2016
+Mississauga,43.590338,-79.645729,Infiniti,74470,Infiniti QX60,31883,Ontario,Infiniti QX60 [TECH PKG] [DVD] [BLIND SPOT] [NAVI],2016
+Brossard,45.4554829,-73.4678904,Infiniti,61000,Infiniti QX60,32450,Québec,Infiniti QX60 TECH DVD CAM360 JANTES 20P NAV BOSE DÉMARRE,2016
+Mississauga,43.590338,-79.645729,Infiniti,34688,Infiniti QX60,31990,Ontario,Infiniti QX60 [LOW KMS!] [Premium Package] [360 Cam] [Navi],2016
+Vaughan,43.820904,-79.5084,Infiniti,75763,Infiniti Q70L,31900,Ontario,Infiniti Q70L 5.6 Premium,2016
+Montreal,45.4972159,-73.6103642,Infiniti,37000,Infiniti QX60,32495,Québec,Infiniti QX60 AWD !! CUIR ,2016
+Brossard,45.4554829,-73.4678904,Infiniti,79000,Infiniti QX60,29450,Québec,Infiniti QX60 NAV CAM360 TOIT CUIR BOSE DÉMARREUR BLUETHO,2016
+Mississauga,43.590338,-79.645729,Infiniti,62881,Infiniti QX50,24990,Ontario,Infiniti QX50 [NAVI] [360 CAM] [PREMIUM PKG] [LOADED],2016
+Mississauga,43.590338,-79.645729,Infiniti,63555,Infiniti QX50,24995,Ontario,Infiniti QX50 [PREMIUM][BACK UP CAM][LUXURY PKG],2016
+North Vancouver,49.3207133,-123.0737831,Infiniti,45226,Infiniti QX50,24994,British Columbia,Infiniti QX50 Base,2016
+Winnipeg,49.884017,-97.168579,Infiniti,61000,Infiniti QX50,24988,Manitoba,Infiniti QX50 AWD - NO ACCIDENTS,2016
+Oakville,43.447436,-79.666672,Infiniti,46000,Infiniti Q50,24988,Ontario,Infiniti Q50 2.0T AWD - NAVI - 360 CAMERA - SUNROOF,2016
+Burnaby,49.2433804,-122.9725459,Infiniti,75428,Infiniti QX50,24985,British Columbia,Infiniti QX50 AWD with heated seats,2016
+Montreal,45.4972159,-73.6103642,Infiniti,57887,Infiniti QX50,24888,Québec,Infiniti QX50 2016 Infiniti QX50 - AWD !!,2016
+Montreal,45.4972159,-73.6103642,Infiniti,41920,Infiniti QX50,24888,Québec,Infiniti QX50 2016 Infiniti QX50 - AWD!! PREMIUM ,2016
+Calgary,51.02532675,-114.049868485806,Infiniti,106000,Infiniti QX50,24888,Alberta,Infiniti QX50 Wagon,2016
+Saint-Hubert,45.5042755,-73.4216976,Infiniti,47550,Infiniti QX50,24980,Québec,Infiniti QX50 3.7L Premium ,2016
+Laval,45.60558895,-73.7344173056906,Infiniti,40006,Infiniti QX50,24999,Québec,Infiniti QX50 AWD TOIT CUIR  MAGS,2016
+Whitby,43.899871,-78.940201,Infiniti,34855,Infiniti QX50,25516,Ontario,Infiniti QX50 AWD,2016
+Winnipeg,49.884017,-97.168579,Infiniti,66000,Infiniti QX50,25980,Manitoba,Infiniti QX50 AWD PREMIUM ,2016
+Toronto,43.653963,-79.387207,Infiniti,51000,Infiniti QX50,25950,Ontario,Infiniti QX50 NO ACCIDENT,2016
+Toronto,43.653963,-79.387207,Infiniti,31000,Infiniti QX60,25900,Ontario,Infiniti QX60 Premium PGK. 7 Passenger   LOW KMS !!!,2016
+Brossard,45.4554829,-73.4678904,Infiniti,78000,Infiniti Q50,25895,Québec,Infiniti Q50 NAVI TOIT CAM BLUETOOTH SIÈGES MÉMOI,2016
+Montreal,45.4972159,-73.6103642,Infiniti,54899,Infiniti QX50,25888,Québec,Infiniti QX50 AWD !! PREMIUM,2016
+St-Hubert,46.501891,-64.025032,Infiniti,120089,Infiniti QX60,24999,Prince Edward Island,Infiniti QX60 LUXURY AWD CUIR TOIT MAGS CAMERA DE RECU,2016
+Hamilton,43.2425289,-79.9470423,Infiniti,79860,Infiniti QX50,25777,Ontario,Infiniti QX50 Base,2016
+Mississauga,43.590338,-79.645729,Infiniti,44950,Infiniti QX50,25555,Ontario,Infiniti QX50,2016
+Mississauga,43.590338,-79.645729,Infiniti,44440,Infiniti QX50,25550,Ontario,Infiniti QX50 [NAVI] [360 CAM] [PREMIUM PKG] [LOADED],2016
+Mono,43.9462199,-80.1042319,Infiniti,73648,Infiniti Q50,24799,Ontario,Infiniti Q50 3.0t AWD  Fully Loaded 73 K.,2016
+Brossard,45.4554829,-73.4678904,Infiniti,21000,Infiniti Q50,24795,Québec,Infiniti Q50 4dr Sdn 2.0t,2016
+Montreal,45.4972159,-73.6103642,Infiniti,43739,Infiniti QX50,23777,Québec,Infiniti QX50 2016 Infiniti QX50 - AWD !! TOIT ,2016
+Brampton,43.6858146,-79.7599337,Infiniti,54202,Infiniti QX50,23777,Ontario,Infiniti QX50 4DR AWD JOURNEY,2016
+Guelph,43.533783,-80.2306337,Infiniti,85000,Infiniti QX50,23725,Ontario,Infiniti QX50 AWD - Leather,2016
+Concord,45.452798,-62.7905136,Infiniti,71000,Infiniti QX50,23700,Nova Scotia,Infiniti QX50 BACKUP CAMERA SUNROOF ALLOY AWD,2016
+Guelph,43.533783,-80.2306337,Infiniti,84077,Infiniti QX50,23688,Ontario,Infiniti QX50 PREMIUM ,2016
+Winnipeg,49.884017,-97.168579,Infiniti,71468,Infiniti QX50,23577,Manitoba,Infiniti QX50 AWD 4dr AWD,2016
+Sainte-Julie,45.5930624,-73.3395943,Infiniti,65246,Infiniti QX50,23495,Québec,Infiniti QX50 AWD CUIR,2016
+Laval,45.60558895,-73.7344173056906,Infiniti,65246,Infiniti QX50,23495,Québec,Infiniti QX50 AWD CUIR,2016
+Guelph,43.533783,-80.2306337,Infiniti,93535,Infiniti Q50,22998,Ontario,Infiniti Q50 3.0T ,2016
+Ottawa,45.421106,-75.690308,Infiniti,93170,Infiniti QX50,22750,Ontario,Infiniti QX50 LEATHER  ROOF  HEATED SEATS  BACKUP CAMERA,2016
+Laval,45.60558895,-73.7344173056906,Infiniti,67899,Infiniti Q50,22494,Québec,Infiniti Q50 2.0t AWD TOIT OUVRANT - A,2016
+La Prairie,45.4174659,-73.4891644,Infiniti,65246,Infiniti QX50,23495,Québec,Infiniti QX50 AWD CUIR,2016
+Newmarket,44.056258,-79.461708,Infiniti,67000,Infiniti QX50,23888,Ontario,Infiniti QX50 Wagon -ONE Owner,2016
+Ajax,43.850374,-79.024658,Infiniti,98829,Infiniti Q50,23888,Ontario,Infiniti Q50 3.0t AWD,2016
+Ajax,43.850374,-79.024658,Infiniti,67212,Infiniti QX50,23888,Ontario,Infiniti QX50,2016
+Toronto,43.653963,-79.387207,Infiniti,60000,Infiniti QX50,24450,Ontario,Infiniti QX50 AWD,2016
+Markham,43.854336,-79.326782,Infiniti,61011,Infiniti Q50,24000,Ontario,Infiniti Q50 2.0T de Base One Owner,2016
+Montreal,45.4972159,-73.6103642,Infiniti,62900,Infiniti QX50,23995,Québec,Infiniti QX50 2016 Infiniti QX50 JOURNEY ! CAMERA,2016
+Winnipeg,49.884017,-97.168579,Infiniti,80000,Infiniti QX50,23988,Manitoba,Infiniti QX50 AWD - NO ACCIDENTS,2016
+Toronto,43.653963,-79.387207,Infiniti,110000,Infiniti Q50,23950,Ontario,Infiniti Q50 3.0T AWD Navigation Leather Sunroof Backup Cam,2016
+Toronto,43.653963,-79.387207,Infiniti,85000,Infiniti Q50,23950,Ontario,Infiniti Q50 AWD NAVIGATION LEATHER SUNROOF BACKUP CAM,2016
+Guelph,43.533783,-80.2306337,Infiniti,55742,Infiniti Q50,25988,Ontario,Infiniti Q50 3.0T DRIVERS ASSISTANCE ,2016
+Winnipeg,49.884017,-97.168579,Infiniti,45000,Infiniti QX50,25988,Manitoba,Infiniti QX50 AWD - NO ACCIDENTS,2016
+Toronto,43.653963,-79.387207,Infiniti,87073,Infiniti QX60,26880,Ontario,Infiniti QX60 AWD ,2016
+Mississauga,43.590338,-79.645729,Infiniti,21922,Infiniti QX50,26995,Ontario,Infiniti QX50,2016
+Ajax,43.850374,-79.024658,Infiniti,95648,Infiniti QX60,26588,Ontario,Infiniti QX60,2016
+North Vancouver,49.3207133,-123.0737831,Infiniti,37459,Infiniti Q50,26756,British Columbia,Infiniti Q50,2016
+Montreal,45.4972159,-73.6103642,Infiniti,70783,Infiniti Q50,26994,Québec,Infiniti Q50 4dr Sdn 3.0t!! BOSE ,2016
+Whitby,43.899871,-78.940201,Infiniti,57749,Infiniti Q50,26900,Ontario,Infiniti Q50,2016
+Pickering,43.835765,-79.090576,Infiniti,95190,Infiniti QX60,26599,Ontario,Infiniti QX60 Bluetooth,2016
+Nobleton (vaughan),43.9244361,-79.5672218,Infiniti,90945,Infiniti QX60,26999,Ontario,Infiniti QX60,2016
+Brossard,45.4554829,-73.4678904,Infiniti,58461,Infiniti Q50,27495,Québec,Infiniti Q50 123$-SEMAINES 0$CASH SPORT 19P NAVI TOIT,2016
+Toronto,43.653963,-79.387207,Infiniti,123000,Infiniti QX60,26450,Ontario,Infiniti QX60 4WD Navigation Leather Sunroof Backup Cam 7Pass,2016
+Edmonton,53.535411,-113.507996,Infiniti,44046,Infiniti QX50,26493,Alberta,Infiniti QX50 4DR AWD JOURNEY ,2016
+Calgary,51.02532675,-114.049868485806,Infiniti,64000,Infiniti QX50,26995,Alberta,Infiniti QX50 AWD,2016
+St-Jérôme,45.775426,-74.013176,Infiniti,119539,Infiniti QX60,26995,Québec,Infiniti QX60 PREMIUM AWD ,2016
+Port Coquitlam,49.2621643,-122.7805425,Infiniti,32894,Infiniti Q50,26995,British Columbia,Infiniti Q50 2.0t - Sunroof -  Heated Seats,2016
+Toronto,43.653963,-79.387207,Infiniti,117000,Infiniti QX60,26450,Ontario,Infiniti QX60 AWD,2016
+Ajax,43.850374,-79.024658,Infiniti,12561,Infiniti QX80,52988,Ontario,Infiniti QX80 ,2017
+Toronto,43.653963,-79.387207,Infiniti,13111,Infiniti QX50,38000,Ontario,Infiniti QX50 Wagon Premium and Navigation,2017
+Saskatoon,52.131802,-106.660767,Infiniti,65567,Infiniti QX60,36996,Saskatchewan,Infiniti QX60 Base  - Leather -  Heated Seats - Navigation,2017
+Toronto,43.653963,-79.387207,Infiniti,44000,Infiniti Q70,38000,Ontario,Infiniti Q70 3.7 Sport AWD Sport Awd,2017
+Markham,43.854336,-79.326782,Infiniti,9500,Infiniti QX80,52900,Ontario,Infiniti QX80 de Base 7 Places,2017
+Vaughan,43.820904,-79.5084,Infiniti,34125,Infiniti QX60,37900,Ontario,Infiniti QX60 PREMIUM DRIVER ASS PKG,2017
+Coquitlam,49.2842958,-122.793281,Infiniti,45070,Infiniti QX60,37500,British Columbia,Infiniti QX60 Navigation,2017
+Markham,43.854336,-79.326782,Infiniti,101,Infiniti QX80,59900,Ontario,Infiniti QX80 de Base 8 Places REAL MILEAGE - THIS IS A NEW CAR!,2017
+Thornhill,43.8161477,-79.4245925,Infiniti,79445,Infiniti QX60,37400,Ontario,Infiniti QX60 Tech pkg  CPO Warranty & CPO Financing INCLUDED,2017
+Guelph,43.533783,-80.2306337,Infiniti,32765,Infiniti Q60,37588,Ontario,Infiniti Q60 3.0T TECH ,2017
+Montreal,45.4972159,-73.6103642,Infiniti,87857,Infiniti Q60,37995,Québec,Infiniti Q60 2017 Infiniti Q60! Red Sport! 358$ au 2 semaines!,2017
+Markham,43.854336,-79.326782,Infiniti,23675,Infiniti QX80,52900,Ontario,Infiniti QX80 de Base 8 Places Tech,2017
+Markham,43.854336,-79.326782,Infiniti,13909,Infiniti QX80,52900,Ontario,Infiniti QX80 de Base 8 Places Tech,2017
+Markham,43.854336,-79.326782,Infiniti,28881,Infiniti QX80,52900,Ontario,Infiniti QX80 de Base 7 Places Tech,2017
+Ajax,43.850374,-79.024658,Infiniti,22714,Infiniti QX80,52988,Ontario,Infiniti QX80 7-Pass,2017
+Mississauga,43.590338,-79.645729,Infiniti,18787,Infiniti Q60,35990,Ontario,Infiniti Q60 [Sport] [NAVI] [BACKUP CAM] [LOW KMS],2017
+Edmonton,53.535411,-113.507996,Infiniti,22582,Infiniti QX60,35988,Alberta,Infiniti QX60 Leather,2017
+Toronto,43.653963,-79.387207,Infiniti,23794,Infiniti QX80,53000,Ontario,Infiniti QX80 8-Passenger One Owner,2017
+Thornhill,43.8161477,-79.4245925,Infiniti,16537,Infiniti Q50,35900,Ontario,Infiniti Q50 3.0T Tech pkg  CPO Warranty & CPO Financing INCLUD,2017
+Ajax,43.850374,-79.024658,Infiniti,20844,Infiniti Q60,35888,Ontario,Infiniti Q60 2.0t,2017
+Montreal,45.4972159,-73.6103642,Infiniti,102000,Infiniti QX70,35888,Québec,Infiniti QX70 2017 Infiniti QX70 - AWD Sport! 314$ au 2 semaines,2017
+North York,43.7708175,-79.4132998,Infiniti,32000,Infiniti Q60,35880,Ontario,Infiniti Q60 3.0t,2017
+Mississauga,43.590338,-79.645729,Infiniti,33667,Infiniti Q60,35550,Ontario,Infiniti Q60 [Sport] [NAVI] [BACKUP CAM] [LOW KMS],2017
+Cornwall,46.240769,-63.2009544400727,Infiniti,32143,Infiniti QX60,35956,Prince Edward Island,Infiniti QX60 Base - Trade-in - Power Seats - $251 B,2017
+St-Hubert,46.501891,-64.025032,Infiniti,21800,Infiniti Q60,35999,Prince Edward Island,Infiniti Q60 Q60 3.0T AWD CUIR TOIT OUVRANT MAGS 19 P,2017
+Markham,43.854336,-79.326782,Infiniti,25801,Infiniti Q50,36000,Ontario,Infiniti Q50 3.0t Red Sport 400 RedSport,2017
+Port Moody,49.2822243,-122.8293424,Infiniti,37541,Infiniti QX60,36990,British Columbia,Infiniti QX60,2017
+Oakville,43.447436,-79.666672,Infiniti,21000,Infiniti Q60,36988,Ontario,Infiniti Q60 3.0t AWD - NAVI - SUNROOF - 360 CAMERA,2017
+Vaughan,43.820904,-79.5084,Infiniti,82166,Infiniti QX70,36900,Ontario,Infiniti QX70,2017
+Montreal,45.4972159,-73.6103642,Infiniti,92000,Infiniti QX70,36888,Québec,Infiniti QX70 AWD 4dr Sport !! MAGS 21 PO ,2017
+Guelph,43.533783,-80.2306337,Infiniti,31650,Infiniti Q60,36888,Ontario,Infiniti Q60 PREMIUM ,2017
+Guelph,43.533783,-80.2306337,Infiniti,69585,Infiniti QX70,36798,Ontario,Infiniti QX70 SPORT TECH ,2017
+Markham,43.854336,-79.326782,Infiniti,11074,Infiniti Q60,36500,Ontario,Infiniti Q60 3.0T Premium Pkg,2017
+Hamilton,43.2425289,-79.9470423,Infiniti,46313,Infiniti QX80,52990,Ontario,Infiniti QX80 8-Passenger 8-Passenger,2017
+Brossard,45.4554829,-73.4678904,Infiniti,44998,Infiniti Q60,36198,Québec,Infiniti Q60 NAVI CAM TOIT JANTES 19P BOSE BLUETOOTH,2017
+Markham,43.854336,-79.326782,Infiniti,20339,Infiniti QX80,56649,Ontario,Infiniti QX80 de Base 7 Places Tech,2017
+Edmonton,53.535411,-113.507996,Infiniti,48403,Infiniti QX70,41888,Alberta,Infiniti QX70,2017
+Brossard,45.4554829,-73.4678904,Infiniti,29678,Infiniti Q60,41598,Québec,Infiniti Q60 RED SPORT NAVI TOIT CAM MAGS19P BOSE,2017
+Toronto,43.653963,-79.387207,Infiniti,7279,Infiniti QX50,41000,Ontario,Infiniti QX50 Wagon Premium,2017
+Waterloo,43.466874,-80.524635,Infiniti,43515,Infiniti QX70,40996,Ontario,Infiniti QX70 AWD ,2017
+Brossard,45.4554829,-73.4678904,Infiniti,37425,Infiniti Q60,40995,Québec,Infiniti Q60 Red Sport 400 HP ,2017
+Toronto,43.653963,-79.387207,Infiniti,23502,Infiniti QX80,56000,Ontario,Infiniti QX80 8-Passenger,2017
+Toronto,43.653963,-79.387207,Infiniti,23648,Infiniti QX80,58000,Ontario,Infiniti QX80 7-Passenger,2017
+Toronto,43.653963,-79.387207,Infiniti,46000,Infiniti QX70,41000,Ontario,Infiniti QX70 Sport 1owner,2017
+Thornhill,43.8161477,-79.4245925,Infiniti,83,Infiniti Q50,42900,Ontario,Infiniti Q50 3.0T Tech  Adaptive Cruise  Blind spot  360 cam.,2017
+Toronto,43.653963,-79.387207,Infiniti,13500,Infiniti QX80,57000,Ontario,Infiniti QX80 8-Passenger ,2017
+Calgary,51.02532675,-114.049868485806,Infiniti,22362,Infiniti QX80,56998,Alberta,Infiniti QX80 Tech Package ,2017
+Toronto,43.653963,-79.387207,Infiniti,15700,Infiniti QX80,57000,Ontario,Infiniti QX80 8-Passenger,2017
+Toronto,43.653963,-79.387207,Infiniti,9775,Infiniti QX80,57000,Ontario,Infiniti QX80 7-Passenger,2017
+Toronto,43.653963,-79.387207,Infiniti,9500,Infiniti QX80,57000,Ontario,Infiniti QX80 7-Passenger,2017
+Innisfil,44.3150892,-79.5461073,Infiniti,79249,Infiniti Q50,28995,Ontario,Infiniti Q50 SPORT ,2017
+Vaughan,43.820904,-79.5084,Infiniti,16899,Infiniti QX70,45900,Ontario,Infiniti QX70,2017
+Toronto,43.653963,-79.387207,Infiniti,25002,Infiniti QX80,56000,Ontario,Infiniti QX80 7-Passenger,2017
+Markham,43.854336,-79.326782,Infiniti,16863,Infiniti QX80,55888,Ontario,Infiniti QX80 de Base 8 Places Tech,2017
+Toronto,43.653963,-79.387207,Infiniti,10765,Infiniti QX50,39000,Ontario,Infiniti QX50 Wagon Premium,2017
+Markham,43.854336,-79.326782,Infiniti,41402,Infiniti QX80,54846,Ontario,Infiniti QX80 de Base 8 Places 8Seats,2017
+Boucherville,45.6050197,-73.4526144,Infiniti,29700,Infiniti Q60,38995,Québec,Infiniti Q60 Red Sport 400 ,2017
+Toronto,43.653963,-79.387207,Infiniti,52523,Infiniti QX70,38995,Ontario,Infiniti QX70 SPORT NAVI 360 CAMERA BLUETOOTH 21 INCH ALLOYS,2017
+Ottawa,45.421106,-75.690308,Infiniti,34768,Infiniti QX60,38988,Ontario,Infiniti QX60 AWD 4dr,2017
+Toronto,43.653963,-79.387207,Infiniti,17986,Infiniti QX50,39000,Ontario,Infiniti QX50 Wagon Premium,2017
+Winnipeg,49.884017,-97.168579,Infiniti,7230,Infiniti Q60,38888,Manitoba,Infiniti Q60 ALMOST NEW! FULLY LOADED ,2017
+Mississauga,43.590338,-79.645729,Infiniti,11182,Infiniti Q50,38738,Ontario,Infiniti Q50 3.0t Red Sport 400,2017
+Ajax,43.850374,-79.024658,Infiniti,45547,Infiniti QX80,51998,Ontario,Infiniti QX80,2017
+Markham,43.854336,-79.326782,Infiniti,24144,Infiniti QX80,58480,Ontario,Infiniti QX80 de Base 7 Places Tech,2017
+Toronto,43.653963,-79.387207,Infiniti,11031,Infiniti QX50,39000,Ontario,Infiniti QX50 Wagon Premium,2017
+Montreal,45.4972159,-73.6103642,Infiniti,54495,Infiniti Q60,39995,Québec,Infiniti Q60 2017 Infiniti Q60 - 2dr Cpe 3.0t Red Sport 400,2017
+Brossard,45.4554829,-73.4678904,Infiniti,2177,Infiniti Q50,39995,Québec,Infiniti Q50 REDSPORT 400 HP !!! PADDLE SHIFT !! BAS KILO!!,2017
+Mississauga,43.590338,-79.645729,Infiniti,14388,Infiniti Q60,39990,Ontario,Infiniti Q60 [RED Sport] [NAVI] [400 HP] [BLIND SPOT],2017
+Brossard,45.4554829,-73.4678904,Infiniti,52398,Infiniti Q60,39988,Québec,Infiniti Q60 RED SPORT BLIND SPOT NAV CAM360 BOSE JANTES19 TOIT,2017
+Markham,43.854336,-79.326782,Infiniti,13537,Infiniti QX80,55645,Ontario,Infiniti QX80 de Base 7 Places TECH,2017
+Ajax,43.850374,-79.024658,Infiniti,18725,Infiniti QX80,53988,Ontario,Infiniti QX80 TechPack,2017
+Innisfil,44.3150892,-79.5461073,Infiniti,79249,Infiniti Q50,28995,Ontario,Infiniti Q50 SPORT ,2017
+Thornhill,43.8161477,-79.4245925,Infiniti,49681,Infiniti Q50,29600,Ontario,Infiniti Q50 3.0T Premium Navi  CPO Warranty & CPO Financing IN,2017
+Ottawa,45.421106,-75.690308,Infiniti,17510,Infiniti QX50,32900,Ontario,Infiniti QX50 2017 Infiniti QX50 - AWD-TECH PKG-NAVI-LEATHER-17K,2017
+Vaughan,43.820904,-79.5084,Infiniti,48441,Infiniti QX60,32900,Ontario,Infiniti QX60 Base,2017
+Montreal,45.4972159,-73.6103642,Infiniti,88500,Infiniti QX60,29888,Québec,Infiniti QX60 2017 Infiniti QX60 - AWD!! JOURNEY !!CUIR,2017
+Innisfil,44.3150892,-79.5461073,Infiniti,46800,Infiniti QX50,29888,Ontario,Infiniti QX50,2017
+Vaughan,43.820904,-79.5084,Infiniti,39421,Infiniti QX60,32900,Ontario,Infiniti QX60 Base,2017
+Vaughan,43.820904,-79.5084,Infiniti,33900,Infiniti QX30,29900,Ontario,Infiniti QX30,2017
+Vaughan,43.820904,-79.5084,Infiniti,66072,Infiniti QX60,29900,Ontario,Infiniti QX60 Base,2017
+Scarborough,43.773077,-79.257774,Infiniti,40885,Infiniti Q50,32888,Ontario,Infiniti Q50 3.0t AWD,2017
+Ajax,43.850374,-79.024658,Infiniti,63757,Infiniti QX60,32888,Ontario,Infiniti QX60,2017
+Laval,45.60558895,-73.7344173056906,Infiniti,23416,Infiniti QX30,29491,Québec,Infiniti QX30 S NAVIGATION - Toit Ouvrant - A,2017
+Thornhill,43.8161477,-79.4245925,Infiniti,24281,Infiniti QX30,29400,Ontario,Infiniti QX30 Premium Navi  CPO Warranty & CPO Financing INCLUDE,2017
+Mississauga,43.590338,-79.645729,Infiniti,27320,Infiniti QX60,33550,Ontario,Infiniti QX60 [LOW KMS!] [Premium Package] [360 Cam] [Navi],2017
+Vaughan,43.820904,-79.5084,Infiniti,52600,Infiniti Q50,28900,Ontario,Infiniti Q50 3.0t,2017
+Guelph,43.533783,-80.2306337,Infiniti,81262,Infiniti Q50,32998,Ontario,Infiniti Q50 RED SPORT TECH ,2017
+St-Hubert,46.501891,-64.025032,Infiniti,15842,Infiniti QX30,28999,Prince Edward Island,Infiniti QX30 AWD TOIT PANO NAV CUIR  CAMERA 360,2017
+Whitby,43.899871,-78.940201,Infiniti,38836,Infiniti QX30,29988,Ontario,Infiniti QX30,2017
+Thornhill,43.8161477,-79.4245925,Infiniti,12783,Infiniti QX50,31900,Ontario,Infiniti QX50 Leather  Bluetooth  Back up  Sunroof  Heated seats,2017
+Thornhill,43.8161477,-79.4245925,Infiniti,12648,Infiniti QX50,31900,Ontario,Infiniti QX50 Leather  Bluetooth  Back up cam  Heated seats,2017
+Vaughan,43.820904,-79.5084,Infiniti,41266,Infiniti QX50,31900,Ontario,Infiniti QX50 PREMIUM NAVI PKG,2017
+Montreal,45.4972159,-73.6103642,Infiniti,53100,Infiniti Q50,31888,Québec,Infiniti Q50 Q50 3.0T !! BOSE ,2017
+Ajax,43.850374,-79.024658,Infiniti,85639,Infiniti QX60,30888,Ontario,Infiniti QX60,2017
+Vaughan,43.820904,-79.5084,Infiniti,25313,Infiniti Q60,31910,Ontario,Infiniti Q60 ,2017
+Edmonton,53.535411,-113.507996,Infiniti,18289,Infiniti QX50,30893,Alberta,Infiniti QX50 2017 Infiniti QX50,2017
+Toronto,43.653963,-79.387207,Infiniti,42541,Infiniti Q60,31880,Ontario,Infiniti Q60 Turbo,2017
+Mississauga,43.590338,-79.645729,Infiniti,35555,Infiniti Q50,30995,Ontario,Infiniti Q50,2017
+Thornhill,43.8161477,-79.4245925,Infiniti,17990,Infiniti QX50,31600,Ontario,Infiniti QX50 Leather  Bluetooth  Back up cam  Heated seats,2017
+Granby,45.3990409,-72.721834,Infiniti,42000,Infiniti Q50,30995,Québec,Infiniti Q50 Sport AWD 3.0L Twin Turbo Cruise Control Adaptatif,2017
+Thornhill,43.8161477,-79.4245925,Infiniti,18832,Infiniti QX50,31500,Ontario,Infiniti QX50 Leather  Bluetooth  Back up  CPO Warranty,2017
+Thornhill,43.8161477,-79.4245925,Infiniti,25231,Infiniti QX50,31200,Ontario,Infiniti QX50 Leather  Bluetooth  Back up  CPO Warranty,2017
+Thornhill,43.8161477,-79.4245925,Infiniti,20125,Infiniti QX50,30900,Ontario,Infiniti QX50 Leather  Bluetooth  Back up  CPO Warranty,2017
+Guelph,43.533783,-80.2306337,Infiniti,46751,Infiniti QX50,29988,Ontario,Infiniti QX50 TECH ,2017
+Sainte-Julie,45.5930624,-73.3395943,Infiniti,20945,Infiniti Q50,30495,Québec,Infiniti Q50 3.0t,2017
+Thornhill,43.8161477,-79.4245925,Infiniti,50931,Infiniti QX60,32700,Ontario,Infiniti QX60 Leather  Bluetooth  Back up  CPO Warranty,2017
+Thornhill,43.8161477,-79.4245925,Infiniti,28442,Infiniti QX50,32681,Ontario,Infiniti QX50 Tech  Adaptive Cruise  Blind spot  360 cam.,2017
+Ile-Perrot,46.050293,-71.9814568,Infiniti,43225,Infiniti QX30,29999,Québec,Infiniti QX30 SPORT CUIR TOIT MAGS 19P NAV,2017
+Mississauga,43.590338,-79.645729,Infiniti,35188,Infiniti Q50,31990,Ontario,Infiniti Q50 [Sport] [NAVI] [Loaded] [BACKUP CAM],2017
+Kitchener,43.453168,-80.494423,Infiniti,42200,Infiniti Q50,31492,Ontario,Infiniti Q50 3.0t Sport AWD ,2017
+Magog,45.265463,-72.147903,Infiniti,44719,Infiniti Q60,34527,Québec,Infiniti Q60 3.0T ,2017
+North Vancouver,49.3207133,-123.0737831,Infiniti,31222,Infiniti QX50,34499,British Columbia,Infiniti QX50,2017
+Thornhill,43.8161477,-79.4245925,Infiniti,62441,Infiniti QX30,26632,Ontario,Infiniti QX30 ,2017
+Courtenay,49.6894061,-124.9954959,Infiniti,21294,Infiniti QX30,26994,British Columbia,Infiniti QX30 Base,2017
+Brampton,43.6858146,-79.7599337,Infiniti,65064,Infiniti QX60,34000,Ontario,Infiniti QX60,2017
+Sarnia,42.992595,-82.380981,Infiniti,35005,Infiniti QX50,33995,Ontario,Infiniti QX50,2017
+St-Jérôme,45.775426,-74.013176,Infiniti,72481,Infiniti QX30,26995,Québec,Infiniti QX30 AWD CAMÉRA RECUL SIÈGES CHAUFFANTS ,2017
+Mississauga,43.590338,-79.645729,Infiniti,63843,Infiniti QX50,26990,Ontario,Infiniti QX50 [PREMIUM][BACK UP CAM][LUXURY PKG],2017
+Guelph,43.533783,-80.2306337,Infiniti,70310,Infiniti Q50,33988,Ontario,Infiniti Q50 RED SPORT TECH ,2017
+St-Esprit,45.898371,-73.666077,Infiniti,210700,Infiniti QX60,22999,Québec,Infiniti QX60 preminum cuir toit 4x4,2017
+Toronto,43.653963,-79.387207,Infiniti,99000,Infiniti QX30,23450,Ontario,Infiniti QX30 4WD Leather  Backup Cam,2017
+Calgary,51.02532675,-114.049868485806,Infiniti,29493,Infiniti Q60,34900,Alberta,Infiniti Q60 2.0t,2017
+Langley,49.10647185,-122.550131156815,Infiniti,33892,Infiniti QX60,34883,British Columbia,Infiniti QX60 AWD,2017
+St-Hyacinthe,45.627484,-72.940636,Infiniti,79803,Infiniti QX30,25394,Québec,Infiniti QX30 Premium AWD Cuir GPS Caméra 360 Toit Ouvrant Panor,2017
+Mississauga,43.590338,-79.645729,Infiniti,43481,Infiniti QX30,25550,Ontario,Infiniti QX30 [LOW KMS] [NAVi] [PANO ROOF] [LOADED,2017
+Toronto,43.653963,-79.387207,Infiniti,105000,Infiniti Q50,24950,Ontario,Infiniti Q50 4WD Navigation Leather Sunroof Backup Cam,2017
+Bolton,43.879548,-79.73826,Infiniti,46371,Infiniti QX50,27298,Ontario,Infiniti QX50 AWD,2017
+Guelph,43.533783,-80.2306337,Infiniti,87304,Infiniti QX50,27988,Ontario,Infiniti QX50 BLUETOOTH ,2017
+Vaughan,43.820904,-79.5084,Infiniti,34445,Infiniti Q50,33900,Ontario,Infiniti Q50 3.0t,2017
+Vancouver,49.2608724,-123.1139529,Infiniti,27051,Infiniti QX30,27900,British Columbia,Infiniti QX30 AWD,2017
+Thornhill,43.8161477,-79.4245925,Infiniti,14,Infiniti QX50,33900,Ontario,Infiniti QX50 Leather  Bluetooth  Back up  Sunroof  Heated seats,2017
+Vaughan,43.820904,-79.5084,Infiniti,28894,Infiniti QX50,27900,Ontario,Infiniti QX50,2017
+Vaughan,43.820904,-79.5084,Infiniti,69792,Infiniti Q50,27900,Ontario,Infiniti Q50 3.0t,2017
+Toronto,43.653963,-79.387207,Infiniti,109000,Infiniti QX60,27999,Ontario,Infiniti QX60 PREMIUM LEATHER,2017
+North York,43.7708175,-79.4132998,Infiniti,32000,Infiniti Q60,35880,Ontario,Infiniti Q60 3.0t,2017
+Etobicoke,43.67145915,-79.5524920661167,Infiniti,44296,Infiniti QX50,27995,Ontario,Infiniti QX50 NAV,2017
+Ajax,43.850374,-79.024658,Infiniti,23973,Infiniti Q60,42988,Ontario,Infiniti Q60 3.0t SPORT,2018
+Brossard,45.4554829,-73.4678904,Infiniti,41123,Infiniti Q50,41995,Québec,Infiniti Q50 RED SPORT NAV CAM360 BOSE PRO ACTIVE 19P,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,39,Infiniti Q50,51900,Ontario,Infiniti Q50 3.0t Red Sport 400 Red Sport  400 h,2018
+Markham,43.854336,-79.326782,Infiniti,23003,Infiniti QX80,59000,Ontario,Infiniti QX80 de Base 7 Places Like New Qx80 Base,2018
+Markham,43.854336,-79.326782,Infiniti,8156,Infiniti QX80,60000,Ontario,Infiniti QX80 de Base 8 Places Demo Qx80,2018
+Mississauga,43.590338,-79.645729,Infiniti,25101,Infiniti QX80,60328,Ontario,Infiniti QX80 [TECH PKG] [DVDS] [BLIND SPOT] [NAVI],2018
+Thornhill,43.8161477,-79.4245925,Infiniti,29,Infiniti QX30,42600,Ontario,Infiniti QX30 Navi  CPO from 4.9% & CPO Warranty INCL.,2018
+Bolton,43.879548,-79.73826,Infiniti,34016,Infiniti Q50,41994,Ontario,Infiniti Q50 RED SPORT,2018
+Markham,43.854336,-79.326782,Infiniti,6896,Infiniti QX30,31000,Ontario,Infiniti QX30 Luxe AWD,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,15,Infiniti QX60,51900,Ontario,Infiniti QX60 Tech pkg  CPO Warranty & CPO Financing INCLUDED,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,14,Infiniti QX60,51900,Ontario,Infiniti QX60 Tech pkg  CPO Warranty & CPO Financing INCLUDED,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,8,Infiniti QX60,51900,Ontario,Infiniti QX60 Tech pkg  CPO Warranty & CPO Financing INCLUDED,2018
+North Vancouver,49.3207133,-123.0737831,Infiniti,43,Infiniti Q50,41252,British Columbia,Infiniti Q50 3.0t Sport,2018
+Niagara Falls,43.100983,-79.115295,Infiniti,22062,Infiniti QX60,41495,Ontario,Infiniti QX60 2018 Infiniti QX60 - AWD,2018
+Coquitlam,49.2842958,-122.793281,Infiniti,49047,Infiniti QX60,41787,British Columbia,Infiniti QX60 Navigation,2018
+Calgary,51.02532675,-114.049868485806,Infiniti,23937,Infiniti Q60,41888,Alberta,Infiniti Q60 3.0T Luxe AWD ,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,50,Infiniti Q50,41900,Ontario,Infiniti Q50 3.0t ESSENTIAL  Navi  Bluetooth  Back up,2018
+Welland,42.993097,-79.250565,Infiniti,4025,Infiniti QX30,42995,Ontario,Infiniti QX30 Sport,2018
+Niagara Falls,43.100983,-79.115295,Infiniti,13475,Infiniti QX60,41995,Ontario,Infiniti QX60 2018 Infiniti QX60 - AWD,2018
+North Vancouver,49.3207133,-123.0737831,Infiniti,49,Infiniti Q60,42999,British Columbia,Infiniti Q60 3.0t Sport,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,57,Infiniti QX30,43600,Ontario,Infiniti QX30 Sport Sport  Navi  CPO from 4.9% & CPO Warranty IN,2018
+Ajax,43.850374,-79.024658,Infiniti,90,Infiniti QX60,50038,Ontario,Infiniti QX60 CPO,2018
+Burlington,43.3248924,-79.7966835,Infiniti,13190,Infiniti QX30,29988,Ontario,Infiniti QX30 AWD,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,11,Infiniti Q60,44900,Ontario,Infiniti Q60 Sensory  Navi  Leather  Back up,2018
+Markham,43.854336,-79.326782,Infiniti,35742,Infiniti QX30,29000,Ontario,Infiniti QX30 Luxe AWD,2018
+Toronto,43.653963,-79.387207,Infiniti,55,Infiniti QX60,53000,Ontario,Infiniti QX60 AWD Premium and Deluxe Touring Package,2018
+Welland,42.993097,-79.250565,Infiniti,14812,Infiniti QX60,47500,Ontario,Infiniti QX60,2018
+Ajax,43.850374,-79.024658,Infiniti,9728,Infiniti QX60,44988,Ontario,Infiniti QX60 Premium and Deluxe Touring Package,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,135,Infiniti Q50,54900,Ontario,Infiniti Q50 3.0t Red Sport 400 RED SPORT  Pro-Active ,2018
+Ajax,43.850374,-79.024658,Infiniti,200,Infiniti QX60,47038,Ontario,Infiniti QX60 CPO,2018
+Markham,43.854336,-79.326782,Infiniti,50000,Infiniti QX30,27000,Ontario,Infiniti QX30 Luxe AWD,2018
+Markham,43.854336,-79.326782,Infiniti,4000,Infiniti Q50,54402,Ontario,Infiniti Q50 3.0t Luxe,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,5403,Infiniti Q60,53900,Ontario,Infiniti Q60 3.0t Red Sport 400 RED SPORT  Pro-Active ,2018
+Brossard,45.4554829,-73.4678904,Infiniti,13999,Infiniti QX60,46988,Québec,Infiniti QX60 PROMO DEMO TECH PACK DVD JANTES 2OP TOIT PANO NAVI,2018
+Toronto,43.653963,-79.387207,Infiniti,90,Infiniti Q50,46000,Ontario,Infiniti Q50 3.0T Luxe AWD Sensory,2018
+Toronto,43.653963,-79.387207,Infiniti,55,Infiniti Q50,46000,Ontario,Infiniti Q50 3.0T Luxe AWD,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,632,Infiniti Q60,47900,Ontario,Infiniti Q60 Pro-Active ,2018
+Ajax,43.850374,-79.024658,Infiniti,11319,Infiniti QX60,44588,Ontario,Infiniti QX60,2018
+Welland,42.993097,-79.250565,Infiniti,23306,Infiniti QX60,43400,Ontario,Infiniti QX60,2018
+Markham,43.854336,-79.326782,Infiniti,12340,Infiniti Q50,35000,Ontario,Infiniti Q50 3.0t Ã‰Dition Signature,2018
+Langley,49.10647185,-122.550131156815,Infiniti,11853,Infiniti QX30,28983,British Columbia,Infiniti QX30 AWD Luxe,2018
+Welland,42.993097,-79.250565,Infiniti,33,Infiniti Q60,48900,Ontario,Infiniti Q60 3.0t Sport,2018
+Calgary,51.02532675,-114.049868485806,Infiniti,1336,Infiniti Q50,43887,Alberta,Infiniti Q50 3.0T AWD Signature Edition ,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,19,Infiniti QX60,48800,Ontario,Infiniti QX60 Driver Assist pkg  CPO Warranty & CPO Financing IN,2018
+Calgary,51.02532675,-114.049868485806,Infiniti,2318,Infiniti Q50,43995,Alberta,Infiniti Q50 3.0T Luxe AWD ,2018
+Calgary,51.02532675,-114.049868485806,Infiniti,720,Infiniti Q50,47988,Alberta,Infiniti Q50 3.0T Sport AWD ,2018
+Edmonton,53.535411,-113.507996,Infiniti,19166,Infiniti Q50,43995,Alberta,Infiniti Q50 3.0t RED SPORT 400,2018
+North Vancouver,49.3207133,-123.0737831,Infiniti,46,Infiniti Q60,43998,British Columbia,Infiniti Q60 3.0t Sport,2018
+North Vancouver,49.3207133,-123.0737831,Infiniti,45,Infiniti Q60,43998,British Columbia,Infiniti Q60 3.0t Sport,2018
+Saskatoon,52.131802,-106.660767,Infiniti,34450,Infiniti QX60,46998,Saskatchewan,Infiniti QX60 w,2018
+Mississauga,43.590338,-79.645729,Infiniti,27888,Infiniti Q50,32883,Ontario,Infiniti Q50 [SIGNITURE] [Bose Sound] [Navi] [Sport Wheels],2018
+Thornhill,43.8161477,-79.4245925,Infiniti,20547,Infiniti QX30,32800,Ontario,Infiniti QX30 LUXE Luxe  Bluetooth  CPO from 4.9% & CPO Warranty,2018
+Brossard,45.4554829,-73.4678904,Infiniti,8600,Infiniti Q50,35999,Québec,Infiniti Q50 3.0t LUXE AWD GPS - CAMERA - CUIR - TOIT OUVRANT -,2018
+Oakville,43.447436,-79.666672,Infiniti,9452,Infiniti QX80,60000,Ontario,Infiniti QX80 Base 7 Passenger ,2018
+Brossard,45.4554829,-73.4678904,Infiniti,49621,Infiniti QX60,35997,Québec,Infiniti QX60 302$- 2 SEMAINES NAV CAM360 TOIT CUIR DÉMAR,2018
+Boucherville,45.6050197,-73.4526144,Infiniti,38000,Infiniti Q50,32149,Québec,Infiniti Q50 3.0T SPORT,2018
+Brossard,45.4554829,-73.4678904,Infiniti,20751,Infiniti Q60,39873,Québec,Infiniti Q60 LUXE,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,24,Infiniti QX30,39800,Ontario,Infiniti QX30 LUXE Luxe  Bluetooth  CPO from 4.9% & CPO Warranty,2018
+Brossard,45.4554829,-73.4678904,Infiniti,59000,Infiniti QX60,34494,Québec,Infiniti QX60 ESSENTIEL PACK NAVI CAM360 BLIND SPOT DÉMAR,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,25157,Infiniti Q50,34600,Ontario,Infiniti Q50 3.0t LUXE ESSENTIAL  Navi  Back up cam  Streaming,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,20895,Infiniti Q50,39500,Ontario,Infiniti Q50 ESSENTIAL  Navi  Back up cam.,2018
+Montreal,45.4972159,-73.6103642,Infiniti,8500,Infiniti QX30,31995,Québec,Infiniti QX30 2018 Infiniti QX30 ,2018
+Bolton,43.879548,-79.73826,Infiniti,17068,Infiniti Q50,31998,Ontario,Infiniti Q50 2.0t LUXE,2018
+Surrey,49.1913033,-122.8491439,Infiniti,5511,Infiniti Q50,39000,British Columbia,Infiniti Q50 3.0t Sport AWD - Sunroof -  Leather Seats - $201 B,2018
+Brossard,45.4554829,-73.4678904,Infiniti,62000,Infiniti QX60,34595,Québec,Infiniti QX60 ESSENTIEL NAVI CAM360 DÉMARREUR BOSE CUIR,2018
+Langley,49.10647185,-122.550131156815,Infiniti,16200,Infiniti Q50,39895,British Columbia,Infiniti Q50 Q50S SPORT - 3.0L TURBO,2018
+Montreal,45.4972159,-73.6103642,Infiniti,5000,Infiniti QX30,37888,Québec,Infiniti QX30 !!! MODÈLE SPORT TOUTE ÉQUIPÉ 338$,2018
+Guelph,43.533783,-80.2306337,Infiniti,44136,Infiniti QX60,37488,Ontario,Infiniti QX60 PREMIUM ,2018
+Ajax,43.850374,-79.024658,Infiniti,40266,Infiniti Q50,33888,Ontario,Infiniti Q50 3.0t Signature Edition,2018
+Truro,45.366668,-63.300006,Infiniti,30559,Infiniti QX60,37995,Nova Scotia,Infiniti QX60 AWD,2018
+St-Hubert,46.501891,-64.025032,Infiniti,3783,Infiniti Q50,36988,Prince Edward Island,Infiniti Q50 2018 Infiniti Q50 - 3.0t SPORT AWD,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,7442,Infiniti Q50,37998,Ontario,Infiniti Q50 3.0t LUXE,2018
+St Albert,53.633239,-113.628845,Infiniti,14367,Infiniti Q50,38500,Alberta,Infiniti Q50 3.0t SPORT AWD,2018
+Edmonton,53.535411,-113.507996,Infiniti,21865,Infiniti Q50,38800,Alberta,Infiniti Q50 3.0T Sport AWD,2018
+Guelph,43.533783,-80.2306337,Infiniti,25341,Infiniti Q50,33988,Ontario,Infiniti Q50 3.0T ,2018
+Ottawa,45.421106,-75.690308,Infiniti,70856,Infiniti QX60,33982,Ontario,Infiniti QX60 Premium AWD 7 SEAT LEATHER NAV SUNROOF LOADED,2018
+North Vancouver,49.3207133,-123.0737831,Infiniti,21847,Infiniti QX60,38351,British Columbia,Infiniti QX60 Base,2018
+Ottawa,45.421106,-75.690308,Infiniti,69215,Infiniti QX60,32989,Ontario,Infiniti QX60 AWD,2018
+Brossard,45.4554829,-73.4678904,Infiniti,5646,Infiniti Q50,33988,Québec,Infiniti Q50 277$-2 SEM 3.0T LUXE  NAV CAMÉRA TOIT,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,26,Infiniti Q60,39900,Ontario,Infiniti Q60 2.0t Pure,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,19044,Infiniti Q50,35300,Ontario,Infiniti Q50 3.0t ESSENTIAL  Navi  CPO Warranty,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,6308,Infiniti QX30,35900,Ontario,Infiniti QX30 Luxe  Bluetooth  CPO from 4.9% & CPO Warranty INCL,2018
+Burlington,43.3248924,-79.7966835,Infiniti,62435,Infiniti QX60,31988,Ontario,Infiniti QX60 AWD,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,22111,Infiniti Q50,35300,Ontario,Infiniti Q50 3.0t ESSENTIAL  Navi  CPO Warranty,2018
+Mont-Royal,45.5086157,-73.5903112,Infiniti,23709,Infiniti Q50,35770,Québec,Infiniti Q50 READY FOR WINTER! - LEATHER - NAVI - AWD!,2018
+Brossard,45.4554829,-73.4678904,Infiniti,725,Infiniti Q50,39988,Québec,Infiniti Q50 DEMO PACK TECH BOSE CUIR AIDE A LA CONDUITE,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,194,Infiniti QX30,40900,Ontario,Infiniti QX30 Navi  CPO from 4.9% & CPO Warranty INCL.,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,21273,Infiniti Q50,35300,Ontario,Infiniti Q50 3.0t ESSENTIAL  Navi  CPO Warranty,2018
+Brossard,45.4554829,-73.4678904,Infiniti,13456,Infiniti Q50,35598,Québec,Infiniti Q50 Sport ,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,12689,Infiniti Q50,35600,Ontario,Infiniti Q50 ESSENTIAL  Navi  CPO Warranty,2018
+Thornhill,43.8161477,-79.4245925,Infiniti,12915,Infiniti Q50,39900,Ontario,Infiniti Q50 ESSENTIAL  Navi  Back up cam.,2018
+Calgary,51.02532675,-114.049868485806,Infiniti,36750,Infiniti Q50,35888,Alberta,Infiniti Q50 3.0T Sport AWD 1 Owner No Accidents Carfax Report,2018
+Brossard,45.4554829,-73.4678904,Infiniti,26419,Infiniti Q50,35495,Québec,Infiniti Q50 SPORT TOIT CAM NAVI JANTES 19 BOSE,2018
+Guelph,43.533783,-80.2306337,Infiniti,33425,Infiniti Q50,35889,Ontario,Infiniti Q50 ,2018
+Surrey,49.1913033,-122.8491439,Infiniti,9309,Infiniti Q50,40000,British Columbia,Infiniti Q50 3.0t Sport AWD - Sunroof -  Leather Seats - $206 B,2018
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX50,52409,Ontario,Infiniti QX50 Essential,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX50,52409,Ontario,Infiniti QX50 Essential,2019
+Vaughan,43.820904,-79.5084,Infiniti,2391,Infiniti QX80,82900,Ontario,Infiniti QX80 LUXE 8 Passenger,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX50,52509,Ontario,Infiniti QX50 Essential,2019
+Burnaby,49.2433804,-122.9725459,Infiniti,25732,Infiniti QX60,36985,British Columbia,Infiniti QX60 AWD with heated seats,2019
+Mississauga,43.590338,-79.645729,Infiniti,9000,Infiniti QX50,52995,Ontario,Infiniti QX50 Essential,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX60,52263,Ontario,Infiniti QX60 PURE,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX50,51759,Ontario,Infiniti QX50 Essential,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX60,51414,Ontario,Infiniti QX60 PURE,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX60,51414,Ontario,Infiniti QX60 PURE,2019
+St-Léonard,45.58671,-73.5969488,Infiniti,40452,Infiniti QX60,37690,Québec,Infiniti QX60 PURE,2019
+Markham,43.854336,-79.326782,Infiniti,831,Infiniti Q50,50910,Ontario,Infiniti Q50 3.0t Ã‰Dition Signature,2019
+Windsor,42.30423,-83.029861,Infiniti,12658,Infiniti QX50,52129,Ontario,Infiniti QX50,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX60,52064,Ontario,Infiniti QX60 PURE,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX60,52064,Ontario,Infiniti QX60 PURE,2019
+Thornhill,43.8161477,-79.4245925,Infiniti,14539,Infiniti Q50,51900,Ontario,Infiniti Q50 3.0t Red Sport 400 Red Sport  400 h,2019
+Brossard,45.4554829,-73.4678904,Infiniti,7000,Infiniti QX60,51988,Québec,Infiniti QX60 ,2019
+Saskatoon,52.131802,-106.660767,Infiniti,10057,Infiniti QX60,51982,Saskatchewan,Infiniti QX60 Pure AWD - Sunroof -  Heated Seats,2019
+Montréal,45.4972159,-73.6103642,Infiniti,6243,Infiniti QX60,51977,Québec,Infiniti QX60 PURE,2019
+Innisfil,44.3150892,-79.5461073,Infiniti,25044,Infiniti QX60,41900,Ontario,Infiniti QX60 ESSENTIAL ,2019
+Mississauga,43.590338,-79.645729,Infiniti,8500,Infiniti QX60,51995,Ontario,Infiniti QX60 SENSORY PKG! NAVI! BLIND SPOT! SENSORS!,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti Q60,72014,Ontario,Infiniti Q60 3.0t I-LINE RED SPORT,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX50,56409,Ontario,Infiniti QX50 ProACTIVE,2019
+Windsor,42.30423,-83.029861,Infiniti,50287,Infiniti QX60,34995,Ontario,Infiniti QX60 PURE 4X4,2019
+Mississauga,43.590338,-79.645729,Infiniti,4900,Infiniti Q60,60995,Ontario,Infiniti Q60 RED SPORT! 400HP! FULLY LOADED! NAVI! BSW!,2019
+Mississauga,43.590338,-79.645729,Infiniti,9000,Infiniti QX60,56815,Ontario,Infiniti QX60 PURE,2019
+North Vancouver,49.3207133,-123.0737831,Infiniti,1069,Infiniti Q50,35999,British Columbia,Infiniti Q50 3.0t Signature Edition,2019
+Okotoks,50.7253685,-113.975082,Infiniti,50903,Infiniti QX60,35995,Alberta,Infiniti QX60 PURE,2019
+St-Léonard,45.58671,-73.5969488,Infiniti,54542,Infiniti QX60,35995,Québec,Infiniti QX60 PURE,2019
+Stratford,46.2189935,-63.0876534061131,Infiniti,50287,Infiniti QX60,34995,Prince Edward Island,Infiniti QX60 PURE 4X4,2019
+Brantford,43.1554354,-80.2665916,Infiniti,50287,Infiniti QX60,34995,Ontario,Infiniti QX60 PURE 4X4,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX60,57064,Ontario,Infiniti QX60 PURE,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX60,57164,Ontario,Infiniti QX60 PURE,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX50,59909,Ontario,Infiniti QX50 Sensory,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX50,59259,Ontario,Infiniti QX50 Sensory,2019
+Brampton,43.6858146,-79.7599337,Infiniti,48808,Infiniti QX60,34900,Ontario,Infiniti QX60,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX50,55709,Ontario,Infiniti QX50 Essential,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX50,55709,Ontario,Infiniti QX50 ProACTIVE,2019
+Saskatoon,52.131802,-106.660767,Infiniti,25734,Infiniti QX80,72144,Saskatchewan,Infiniti QX80 7-Passenger LUXE - Navigation,2019
+Ajax,43.850374,-79.024658,Infiniti,7073,Infiniti QX80,71888,Ontario,Infiniti QX80 LUXE,2019
+Port Moody,49.2822243,-122.8293424,Infiniti,45880,Infiniti QX60,36888,British Columbia,Infiniti QX60,2019
+Toronto,43.653963,-79.387207,Infiniti,28600,Infiniti QX80,71000,Ontario,Infiniti QX80 8-Passenger Technology Package,2019
+St-Léonard,45.58671,-73.5969488,Infiniti,45556,Infiniti QX60,36880,Québec,Infiniti QX60 PURE,2019
+Regina,50.44876,-104.61731,Infiniti,49776,Infiniti QX60,36836,Saskatchewan,Infiniti QX60 ,2019
+Ajax,43.850374,-79.024658,Infiniti,17255,Infiniti QX80,69888,Ontario,Infiniti QX80 LUXE,2019
+Innisfil,44.3150892,-79.5461073,Infiniti,14752,Infiniti QX50,47990,Ontario,Infiniti QX50 SENSORY ,2019
+Saskatoon,52.131802,-106.660767,Infiniti,6120,Infiniti QX50,48884,Saskatchewan,Infiniti QX50 Sensory AWD  - Low Mileage - Navigation,2019
+Brossard,45.4554829,-73.4678904,Infiniti,5000,Infiniti QX60,43988,Québec,Infiniti QX60 ,2019
+Vaughan,43.820904,-79.5084,Infiniti,4245,Infiniti QX60,43900,Ontario,Infiniti QX60 ESSENTIAL PKG,2019
+Surrey,49.1913033,-122.8491439,Infiniti,44400,Infiniti QX60,39500,British Columbia,Infiniti QX60 Essential Pkg,2019
+St-Raymond,46.889058,-71.835136,Infiniti,35209,Infiniti QX60,39850,Québec,Infiniti QX60 PURE,2019
+Donnacona,46.676532,-71.73008,Infiniti,34402,Infiniti QX60,39853,Québec,Infiniti QX60 PURE - TOIT OUVRANT - TAUX AVANTAGEUX,2019
+Montreal,45.4972159,-73.6103642,Infiniti,10500,Infiniti QX60,39888,Québec,Infiniti QX60 ,2019
+Windsor,42.30423,-83.029861,Infiniti,30819,Infiniti QX60,42998,Ontario,Infiniti QX60 PURE 4D Sport Utility,2019
+Winnipeg,49.884017,-97.168579,Infiniti,22376,Infiniti QX60,42998,Manitoba,Infiniti QX60 PURE ESSENTIAL  NAV,2019
+Mississauga,43.590338,-79.645729,Infiniti,6493,Infiniti QX60,42990,Ontario,Infiniti QX60 2019 BLOWOUT! Essential PKG! 360 Cam! Navi!,2019
+Thornhill,43.8161477,-79.4245925,Infiniti,17200,Infiniti Q50,38998,Ontario,Infiniti Q50 3.0t Luxe,2019
+Thornhill,43.8161477,-79.4245925,Infiniti,18458,Infiniti QX50,44998,Ontario,Infiniti QX50 Sensory,2019
+Brossard,45.4554829,-73.4678904,Infiniti,19678,Infiniti QX50,44995,Québec,Infiniti QX50 SENSORIEL NAV CAM 360 BOSE TOIT PANO 20P,2019
+Ajax,43.850374,-79.024658,Infiniti,5326,Infiniti QX60,44988,Ontario,Infiniti QX60 Essential Package,2019
+Toronto,43.653963,-79.387207,Infiniti,49873,Infiniti QX60,38995,Ontario,Infiniti QX60 PURE AWD,2019
+Brossard,45.4554829,-73.4678904,Infiniti,9400,Infiniti QX60,44900,Québec,Infiniti QX60 PROMO QX60 ESSENTIEL ,2019
+Vaughan,43.820904,-79.5084,Infiniti,28228,Infiniti QX60,41900,Ontario,Infiniti QX60 ESSENTIAL PKG,2019
+Newmarket,44.056258,-79.461708,Infiniti,11036,Infiniti Q50,40495,Ontario,Infiniti Q50 3.0t Signature Edition,2019
+Brossard,45.4554829,-73.4678904,Infiniti,20454,Infiniti Q50,41495,Québec,Infiniti Q50 SPORT PROACTIVE BLIND SPOT CAM360 BOSE,2019
+Mississauga,43.590338,-79.645729,Infiniti,11326,Infiniti QX60,40550,Ontario,Infiniti QX60 2019 BLOWOUT! Essential PKG! 360 Cam! Navi!,2019
+Mississauga,43.590338,-79.645729,Infiniti,11367,Infiniti QX60,40550,Ontario,Infiniti QX60 2019 BLOWOUT! Essential PKG! 360 Cam! Navi!,2019
+Montreal,45.4972159,-73.6103642,Infiniti,9500,Infiniti QX60,40888,Québec,Infiniti QX60 ESSENTIEL AWD! PNEUS HIVER,2019
+Montreal,45.4972159,-73.6103642,Infiniti,9500,Infiniti QX60,40888,Québec,Infiniti QX60 ESSENTIEL AWD!!! PNEUS HIVER INCLUS !! ,2019
+Mississauga,43.590338,-79.645729,Infiniti,12200,Infiniti QX60,40990,Ontario,Infiniti QX60 2019 BLOWOUT! Essential PKG! 360 Cam! Navi!,2019
+Mississauga,43.590338,-79.645729,Infiniti,9614,Infiniti QX60,40990,Ontario,Infiniti QX60 2019 BLOWOUT! Essential PKG! 360 Cam! Navi!,2019
+Thornhill,43.8161477,-79.4245925,Infiniti,12089,Infiniti QX50,40998,Ontario,Infiniti QX50 LUXE,2019
+Mississauga,43.590338,-79.645729,Infiniti,11405,Infiniti QX60,40990,Ontario,Infiniti QX60 2019 BLOWOUT! Essential PKG! 360 Cam! Navi!,2019
+Saskatoon,52.131802,-106.660767,Infiniti,35000,Infiniti QX60,41907,Saskatchewan,Infiniti QX60 Pure AWD - $292 B,2019
+Brossard,45.4554829,-73.4678904,Infiniti,22000,Infiniti QX50,42750,Québec,Infiniti QX50 ESSENTIEL PACK NAVI CAM360 TOIT PANO BLIND SPOT D&,2019
+Montreal,45.4972159,-73.6103642,Infiniti,5042,Infiniti QX50,42588,Québec,Infiniti QX50 2019 Infiniti QX50 - LUXE AWD! 367$ au 2 semaines!,2019
+Brossard,45.4554829,-73.4678904,Infiniti,3700,Infiniti Q50,39988,Québec,Infiniti Q50 ,2019
+Brossard,45.4554829,-73.4678904,Infiniti,3000,Infiniti Q50,39988,Québec,Infiniti Q50 ,2019
+Saskatoon,52.131802,-106.660767,Infiniti,41002,Infiniti QX60,41907,Saskatchewan,Infiniti QX60 Pure AWD - $292 B,2019
+Simcoe,44.5014007,-79.7038708,Infiniti,33192,Infiniti QX60,39995,Ontario,Infiniti QX60 PURE,2019
+Surrey,49.1913033,-122.8491439,Infiniti,29147,Infiniti QX60,41995,British Columbia,Infiniti QX60 2019 Infiniti QX60 - PURE AWD,2019
+Campbell River,50.023071,-125.2441538,Infiniti,30997,Infiniti QX60,41995,British Columbia,Infiniti QX60 PURE,2019
+Mississauga,43.590338,-79.645729,Infiniti,11493,Infiniti QX60,41990,Ontario,Infiniti QX60 2019 BLOWOUT! Essential PKG! 360 Cam! Navi!,2019
+Ajax,43.850374,-79.024658,Infiniti,6144,Infiniti Q50,39998,Ontario,Infiniti Q50 3.0t LUXE,2019
+Duncan,48.7786872,-123.7080446,Infiniti,47199,Infiniti QX60,41998,British Columbia,Infiniti QX60 PURE,2019
+Brossard,45.4554829,-73.4678904,Infiniti,38456,Infiniti QX60,37895,Québec,Infiniti QX60 ESSENTIEL 300$-2 SEM TOIT NAV BOSE BLIND SPOT,2019
+Welland,42.993097,-79.250565,Infiniti,87,Infiniti Q50,48900,Ontario,Infiniti Q50 3.0t Sport,2019
+Courtenay,49.6894061,-124.9954959,Infiniti,39348,Infiniti QX60,40995,British Columbia,Infiniti QX60 PURE - Bluetooth,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti Q50,48364,Ontario,Infiniti Q50 3.0t Luxe,2019
+Windsor,42.30423,-83.029861,Infiniti,43075,Infiniti QX60,37941,Ontario,Infiniti QX60 PURE 4D Sport Utility,2019
+Brossard,45.4554829,-73.4678904,Infiniti,2400,Infiniti Q60,47988,Québec,Infiniti Q60 ,2019
+Ajax,43.850374,-79.024658,Infiniti,4720,Infiniti QX50,48988,Ontario,Infiniti QX50 Sensory,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti Q50,49264,Ontario,Infiniti Q50 3.0t Signature Edition,2019
+Mississauga,43.590338,-79.645729,Infiniti,9000,Infiniti QX60,49995,Ontario,Infiniti QX60 AWD! BSW,2019
+Brossard,45.4554829,-73.4678904,Infiniti,8500,Infiniti QX50,49988,Québec,Infiniti QX50 PROMO,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti Q50,49964,Ontario,Infiniti Q50 3.0t Signature Edition,2019
+Mississauga,43.590338,-79.645729,Infiniti,4500,Infiniti Q50,49964,Ontario,Infiniti Q50 3.0t Signature Edition,2019
+Vaughan,43.820904,-79.5084,Infiniti,5439,Infiniti QX60,49900,Ontario,Infiniti QX60 PROACTIVE PKG,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti Q50,49864,Ontario,Infiniti Q50 3.0t Signature Edition,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti Q50,49864,Ontario,Infiniti Q50 3.0t Signature Edition,2019
+Ottawa,45.421106,-75.690308,Infiniti,14574,Infiniti QX50,48995,Ontario,Infiniti QX50,2019
+Guelph,43.533783,-80.2306337,Infiniti,75376,Infiniti QX60,37988,Ontario,Infiniti QX60 PURE ESSENTIAL ,2019
+Montreal,45.4972159,-73.6103642,Infiniti,9400,Infiniti QX50,46785,Québec,Infiniti QX50 ,2019
+Guelph,43.533783,-80.2306337,Infiniti,52146,Infiniti QX60,38388,Ontario,Infiniti QX60 PURE ESSENTIAL ,2019
+Brossard,45.4554829,-73.4678904,Infiniti,12234,Infiniti QX50,45995,Québec,Infiniti QX50 SENSORIEL NAVI AIDE A LA CONDUITE BOSE,2019
+Calgary,51.02532675,-114.049868485806,Infiniti,14000,Infiniti QX60,45995,Alberta,Infiniti QX60 AWD Pure,2019
+Thornhill,43.8161477,-79.4245925,Infiniti,11703,Infiniti QX50,45981,Ontario,Infiniti QX50 Sensory SENSORY pkg  PRO-Pilot  Adaptive Cruise  3,2019
+Richmond,49.163168,-123.137414,Infiniti,34927,Infiniti QX60,37990,British Columbia,Infiniti QX60 PURE- Local,2019
+Calgary,51.02532675,-114.049868485806,Infiniti,11518,Infiniti QX60,45888,Alberta,Infiniti QX60 AWD Pure,2019
+Thornhill,43.8161477,-79.4245925,Infiniti,13115,Infiniti QX50,45881,Ontario,Infiniti QX50 Sensory SENSORY pkg  PRO-Pilot  Adaptive Cruise  3,2019
+Vaughan,43.820904,-79.5084,Infiniti,4411,Infiniti Q50,45500,Ontario,Infiniti Q50 3.0t,2019
+Innisfil,44.3150892,-79.5461073,Infiniti,8665,Infiniti QX50,45888,Ontario,Infiniti QX50,2019
+Ottawa,45.421106,-75.690308,Infiniti,30128,Infiniti QX60,38216,Ontario,Infiniti QX60 AWD 7 SEAT LEATHER NAV SUNROOF REAR CAM LOADED,2019
+Regina,50.44876,-104.61731,Infiniti,35618,Infiniti QX60,37994,Saskatchewan,Infiniti QX60 ,2019
+Calgary,51.02532675,-114.049868485806,Infiniti,12831,Infiniti QX50,47888,Alberta,Infiniti QX50 2.0T Essential AWD ,2019
+Thornhill,43.8161477,-79.4245925,Infiniti,9080,Infiniti QX50,47500,Ontario,Infiniti QX50 Sensory SENSORY pkg  PRO-Pilot  Adaptive Cruise  3,2019
+Montreal,45.4972159,-73.6103642,Infiniti,9500,Infiniti QX50,47500,Québec,Infiniti QX50 Essential,2019
+Thornhill,43.8161477,-79.4245925,Infiniti,14154,Infiniti QX50,47481,Ontario,Infiniti QX50 Sensory SENSORY pkg  CPO Warranty,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX50,47259,Ontario,Infiniti QX50 LUXE,2019
+Toronto,43.653963,-79.387207,Infiniti,12035,Infiniti QX60,37995,Ontario,Infiniti QX60 PURE AWD,2019
+Surrey,49.1913033,-122.8491439,Infiniti,53733,Infiniti QX60,37999,British Columbia,Infiniti QX60 PURE 4dr AWD Sport Utility,2019
+Thornhill,43.8161477,-79.4245925,Infiniti,13313,Infiniti QX50,47481,Ontario,Infiniti QX50 Sensory SENSORY pkg  CPO Warranty,2019
+Brossard,45.4554829,-73.4678904,Infiniti,8900,Infiniti QX60,43490,Québec,Infiniti QX60 ,2019
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX60,51764,Ontario,Infiniti QX60 PURE,2020
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX60,51764,Ontario,Infiniti QX60 PURE,2020
+Mississauga,43.590338,-79.645729,Infiniti,25,Infiniti QX60,67214,Ontario,Infiniti QX60 ProACTIVE,2020

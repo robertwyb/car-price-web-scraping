@@ -1,0 +1,870 @@
+city,lat,long,make,mileage,model,price,province,sepc,year
+Woodbridge,43.7848982,-79.5923855,Porsche,53105,Porsche 911,109988,Ontario,Porsche 911 T Targa,1972
+Oakville,43.447436,-79.666672,Porsche,61438,Porsche 911,149900,Ontario,Porsche 911 Turbo ,1984
+Montréal,45.4972159,-73.6103642,Porsche,146900,Porsche 944,23888,Québec,Porsche 944 Base,1984
+Toronto,43.653963,-79.387207,Porsche,86967,Porsche 944,12800,Ontario,Porsche 944 ,1985
+Richmond Hill,43.880078,-79.439392,Porsche,135026,Porsche 911,55999,Ontario,Porsche 911,1986
+Laval,45.60558895,-73.7344173056906,Porsche,78866,Porsche 911,169000,Québec,Porsche 911,1987
+Dollard-Des Ormeaux,45.48423,-73.8064547,Porsche,169588,Porsche 911,52987,Québec,Porsche 911 CARRERA WOW!,1988
+Thornhill,43.8161477,-79.4245925,Porsche,36277,Porsche 911,449998,Ontario,Porsche 911 Turbo Slant Nose Cabriolet,1988
+Woodbridge,43.7848982,-79.5923855,Porsche,68186,Porsche 930,174888,Ontario,Porsche 930 Turbo Coupe 89 5 SPEED!,1989
+Ottawa,45.421106,-75.690308,Porsche,180634,Porsche 911,89900,Ontario,Porsche 911 Carrera Coupe,1989
+North York,43.7708175,-79.4132998,Porsche,24818,Porsche 911,79800,Ontario,Porsche 911 CARRERA 4 CABRIOLET,1991
+Montréal,45.4972159,-73.6103642,Porsche,88000,Porsche 911,159888,Québec,Porsche 911 Carrera Turbo,1991
+Kelowna,49.889326,-119.498291,Porsche,61553,Porsche 911,117990,British Columbia,Porsche 911 American Roadster C2,1992
+Vaughan,43.820904,-79.5084,Porsche,118076,Porsche 911,56910,Ontario,Porsche 911 CARRERA CONVERTIBLE,1995
+Montréal,45.4972159,-73.6103642,Porsche,88500,Porsche 911,61888,Québec,Porsche 911 Carrera Cabriolet,1995
+Woodbridge,43.7848982,-79.5923855,Porsche,122019,Porsche 911,69900,Ontario,Porsche 911 Carrera,1996
+Ottawa,45.421106,-75.690308,Porsche,79485,Porsche 911,179900,Ontario,Porsche 911 Turbo Coupe,1996
+Vaughan,43.820904,-79.5084,Porsche,54540,Porsche 911,147900,Ontario,Porsche 911,1997
+North York,43.7708175,-79.4132998,Porsche,118200,Porsche 911,109800,Ontario,Porsche 911 Carrera 4S,1997
+Kelowna,49.889326,-119.498291,Porsche,76625,Porsche 911,189990,British Columbia,Porsche 911 TURBO,1997
+North York,43.7708175,-79.4132998,Porsche,30658,Porsche 911,255699,Ontario,Porsche 911 TURBO 993,1997
+Montréal,45.4972159,-73.6103642,Porsche,68000,Porsche 911,148888,Québec,Porsche 911 Carrera 2S 1998 Porsche 911 ,1998
+Winnipeg,49.884017,-97.168579,Porsche,119000,Porsche Boxster,12800,Manitoba,Porsche Boxster 5 Spd Manual w,1999
+London,42.9537654,-81.2291529,Porsche,119883,Porsche 911,19995,Ontario,Porsche 911 Carrera 4 Coupe,1999
+Saint-Basile-Le-Grand,45.526246,-73.2876515,Porsche,120423,Porsche Boxster,11989,Québec,Porsche Boxster ,1999
+Longueuil,45.5172382,-73.4467466,Porsche,132778,Porsche Boxster,10995,Québec,Porsche Boxster 2dr Roadster Manual Cuir,1999
+Sherbrooke,45.403271,-71.889038,Porsche,151236,Porsche Boxster,10998,Québec,Porsche Boxster 1999 Porsche Boxster - 2dr Roadster Manual,1999
+Charlemagne,45.72551965,-73.4896922220162,Porsche,104450,Porsche Boxster,15795,Québec,Porsche Boxster S,2000
+Vancouver,49.2608724,-123.1139529,Porsche,141760,Porsche 911,24980,British Columbia,Porsche 911 Carrera - IMS bearing updated,2000
+Toronto,43.653963,-79.387207,Porsche,86238,Porsche Boxster,17800,Ontario,Porsche Boxster S ,2000
+Saint-Basile-Le-Grand,45.526246,-73.2876515,Porsche,86862,Porsche 911,25489,Québec,Porsche 911 PRIX DE FIN DE SAISON,2001
+Vaughan,43.820904,-79.5084,Porsche,56314,Porsche 911,33000,Ontario,Porsche 911 CARRERA -Low KMS,2001
+Burnaby,49.2433804,-122.9725459,Porsche,107881,Porsche 911,49800,British Columbia,Porsche 911 Turbo,2001
+Kelowna,49.889326,-119.498291,Porsche,75746,Porsche 911,23911,British Columbia,Porsche 911 Carrera 4,2001
+North York,43.7708175,-79.4132998,Porsche,125064,Porsche Boxster,11888,Ontario,Porsche Boxster Roadster LOW KM ,2001
+Terrebonne,45.7081005,-73.6515157,Porsche,127300,Porsche Boxster,13825,Québec,Porsche Boxster LA MEME COULEUR QUE LES FEUILLES D AUTOMNE,2001
+Toronto,43.653963,-79.387207,Porsche,91120,Porsche 911,32888,Ontario,Porsche 911 Carrera 4,2002
+Laval,45.60558895,-73.7344173056906,Porsche,51756,Porsche 911,149900,Québec,Porsche 911 Twin Turbo 456HP,2002
+Toronto,43.653963,-79.387207,Porsche,142361,Porsche 911,28800,Ontario,Porsche 911 Carrera ,2002
+Saint-Basile-Le-Grand,45.526246,-73.2876515,Porsche,94071,Porsche 911,26989,Québec,Porsche 911 PORSCHE 911 ,2002
+North York,43.7708175,-79.4132998,Porsche,144468,Porsche 911,24950,Ontario,Porsche 911 6SPD,2002
+Toronto,43.653963,-79.387207,Porsche,131370,Porsche 911,28800,Ontario,Porsche 911 Carrera ,2002
+Vaughan,43.820904,-79.5084,Porsche,59994,Porsche 911,35063,Ontario,Porsche 911 --BOSE,2003
+Vaughan,43.820904,-79.5084,Porsche,165624,Porsche Boxster,15910,Ontario,Porsche Boxster S ,2003
+Kelowna,49.889326,-119.498291,Porsche,79379,Porsche 911,69990,British Columbia,Porsche 911 Turbo S,2003
+Brossard,45.4554829,-73.4678904,Porsche,99987,Porsche 911,29987,Québec,Porsche 911 CARRERA Carrera Targa Manual,2003
+Woodbridge,43.7848982,-79.5923855,Porsche,93000,Porsche 911,56988,Ontario,Porsche 911 TURBO  WITH NAV,2003
+Toronto,43.653963,-79.387207,Porsche,91822,Porsche 911,34800,Ontario,Porsche 911 Carrera ,2003
+Mississauga,43.590338,-79.645729,Porsche,95405,Porsche 911,48800,Ontario,Porsche 911 Turbo,2004
+Edmonton,53.535411,-113.507996,Porsche,39213,Porsche 911,44800,Alberta,Porsche 911 Carrera 911 4S Cabriolet,2004
+Woodbridge,43.7848982,-79.5923855,Porsche,62652,Porsche 911,47900,Ontario,Porsche 911 Carrera 4S,2004
+London,42.9537654,-81.2291529,Porsche,61459,Porsche 911,44998,Ontario,Porsche 911 Carrera 4S Coupe ,2004
+Winnipeg,49.884017,-97.168579,Porsche,115068,Porsche CARRERA,32900,Manitoba,Porsche CARRERA 2 911  2004 PORSCHE 911 CARERRA 2,2004
+Concord,45.452798,-62.7905136,Porsche,98030,Porsche 911,99999,Nova Scotia,Porsche 911 Cabriolet Turbo 6-Spd Manual CCP Toronto,2004
+Richmond Hill,43.880078,-79.439392,Porsche,91108,Porsche Carrera,31900,Ontario,Porsche Carrera,2004
+Toronto,43.653963,-79.387207,Porsche,95000,Porsche 911,30950,Ontario,Porsche 911 Carrera 4S. cabriolet& Hard top,2004
+Scarborough,43.773077,-79.257774,Porsche,91897,Porsche 911,27777,Ontario,Porsche 911 Carrera 4S,2004
+Toronto,43.653963,-79.387207,Porsche,256488,Porsche Cayenne,4500,Ontario,Porsche Cayenne S VEHICLE SOLD AS-IS! INQUIRE TODAY! CREDIT CARD P,2004
+Mont-Royal,45.5086157,-73.5903112,Porsche,55333,Porsche 911,64900,Québec,Porsche 911 Turbo Cabriolet Tiptronic S,2004
+North York,43.7708175,-79.4132998,Porsche,134900,Porsche 911,25888,Ontario,Porsche 911 TARGA PANO ROOF,2004
+Edmonton,53.535411,-113.507996,Porsche,50100,Porsche 911,59900,Alberta,Porsche 911 Carrera 4S Cabriolet,2004
+Winnipeg,49.884017,-97.168579,Porsche,168000,Porsche Cayenne,13495,Manitoba,Porsche Cayenne S,2005
+Kirkland,45.4529194,-73.8647559,Porsche,135516,Porsche 911,69900,Québec,Porsche 911 Turbo S HardTop Removal,2005
+Toronto,43.653963,-79.387207,Porsche,150000,Porsche Cayenne,13999,Ontario,Porsche Cayenne TURBO NAVIGATION,2005
+Toronto,43.653963,-79.387207,Porsche,31000,Porsche 911,49999,Ontario,Porsche 911 ,2005
+Vancouver,49.2608724,-123.1139529,Porsche,29179,Porsche 911,56995,British Columbia,Porsche 911,2005
+Mont-Royal,45.5086157,-73.5903112,Porsche,82597,Porsche BOXSTER,24900,Québec,Porsche BOXSTER S Convertible,2005
+Laval,45.60558895,-73.7344173056906,Porsche,90828,Porsche 911,41900,Québec,Porsche 911 4S MANUEL,2005
+Innisfil,44.3150892,-79.5461073,Porsche,315251,Porsche Cayenne,4888,Ontario,Porsche Cayenne,2005
+Lethbridge,49.694285,-112.851562,Porsche,232244,Porsche Cayenne,12495,Alberta,Porsche Cayenne S,2006
+North York,43.7708175,-79.4132998,Porsche,182504,Porsche Cayenne,6800,Ontario,Porsche Cayenne V6 AWD,2006
+Beauport,46.8594456,-71.1932496,Porsche,214613,Porsche Cayenne,10987,Québec Québec,Porsche Cayenne S,2006
+North York,43.7708175,-79.4132998,Porsche,207965,Porsche Cayenne,7980,Ontario,Porsche Cayenne AWD Navi Leather Sunroof,2006
+Toronto,43.653963,-79.387207,Porsche,216500,Porsche Cayenne,8350,Ontario,Porsche Cayenne LEATHER,2006
+Lévis,46.7910096,-71.1753274,Porsche,63300,Porsche Boxster,22995,Québec,Porsche Boxster Convertible,2006
+Laval,45.60558895,-73.7344173056906,Porsche,88000,Porsche 911,39990,Québec,Porsche 911 ,2006
+Kelowna,49.889326,-119.498291,Porsche,82397,Porsche Boxster,25990,British Columbia,Porsche Boxster S,2006
+London,42.9537654,-81.2291529,Porsche,80672,Porsche Cayman,32998,Ontario,Porsche Cayman S ,2006
+Laval,45.60558895,-73.7344173056906,Porsche,120328,Porsche 911,44900,Québec,Porsche 911 Carrera 4 CABRIOLET,2006
+Mississauga,43.590338,-79.645729,Porsche,87640,Porsche Boxster,24995,Ontario,Porsche Boxster Base,2006
+Calgary,51.02532675,-114.049868485806,Porsche,44500,Porsche Cayman,25950,Alberta,Porsche Cayman Base,2007
+North Vancouver,49.3207133,-123.0737831,Porsche,35300,Porsche 911,229980,British Columbia,Porsche 911 GT3 RS Coupe,2007
+Concord,45.452798,-62.7905136,Porsche,61287,Porsche 911,57950,Nova Scotia,Porsche 911 997 Carrera Cabrio,2007
+Drummondville,45.8864303,-72.5018764,Porsche,99871,Porsche Boxster,17889,Québec,Porsche Boxster MAGS ,2007
+Toronto,43.653963,-79.387207,Porsche,102067,Porsche Boxster,21995,Ontario,Porsche Boxster ,2007
+Edmonton,53.535411,-113.507996,Porsche,63730,Porsche 911,79980,Alberta,Porsche 911 Turbo ,2007
+Kirkland,45.4529194,-73.8647559,Porsche,96756,Porsche 911,79900,Québec,Porsche 911 Carbriolet MANUAL,2008
+North York,43.7708175,-79.4132998,Porsche,95701,Porsche 911,69800,Ontario,Porsche 911 TURBO CABRIOLET,2008
+Saint-Basile-Le-Grand,45.526246,-73.2876515,Porsche,106683,Porsche 911,44444,Québec,Porsche 911 911 Carrera ,2008
+Toronto,43.653963,-79.387207,Porsche,110742,Porsche Boxster,20999,Ontario,Porsche Boxster Convertible,2008
+Québec,52.4760892,-71.8258668,Porsche,88000,Porsche 911,64995,Québec,Porsche 911 Navigation,2008
+Vaughan,43.820904,-79.5084,Porsche,32499,Porsche 911,95910,Ontario,Porsche 911 TURBO ,2008
+Woodbridge,43.7848982,-79.5923855,Porsche,98796,Porsche 911,72900,Ontario,Porsche 911 Turbo,2008
+Halifax,44.8543667,-63.137798,Porsche,32300,Porsche Boxster,34990,Nova Scotia,Porsche Boxster Cabriolet,2008
+Oakville,43.447436,-79.666672,Porsche,70000,Porsche Boxster,33554,Ontario,Porsche Boxster,2008
+Montréal,45.4972159,-73.6103642,Porsche,92218,Porsche 911,70888,Québec,Porsche 911 Turbo Cabriolet,2008
+Kirkland,45.4529194,-73.8647559,Porsche,71554,Porsche 911,64900,Québec,Porsche 911 4S Coupe Manual,2008
+Dollard-Des Ormeaux,45.48423,-73.8064547,Porsche,79855,Porsche 911,69987,Québec,Porsche 911 Turbo,2008
+Montréal,45.4972159,-73.6103642,Porsche,90277,Porsche Boxster,24900,Québec,Porsche Boxster Roadster - JUST ARRIVED!,2008
+Newmarket,44.056258,-79.461708,Porsche,39523,Porsche Cayman,37095,Ontario,Porsche Cayman -1owner,2008
+Toronto,43.653963,-79.387207,Porsche,37000,Porsche Cayman,39800,Ontario,Porsche Cayman CAYMAN S!!!CHRONO PKG!!!LOW KM!!!,2008
+North York,43.7708175,-79.4132998,Porsche,163272,Porsche Cayenne,17800,Ontario,Porsche Cayenne GTS,2008
+Concord,45.452798,-62.7905136,Porsche,42553,Porsche 911,58800,Nova Scotia,Porsche 911 997 Carrera 2 Cabriolet 6 Speed,2008
+Port Coquitlam,49.2621643,-122.7805425,Porsche,86130,Porsche 911,61888,British Columbia,Porsche 911 Carrera 4S Leather-Convertible-Manual,2008
+Toronto,43.653963,-79.387207,Porsche,91417,Porsche 911,49888,Ontario,Porsche 911 Carrera 4S,2008
+Vaughan,43.820904,-79.5084,Porsche,132795,Porsche 911,39910,Ontario,Porsche 911 Carrera 4,2008
+Dartmouth,44.6799707,-63.5720232,Porsche,69780,Porsche 911,49900,Nova Scotia,Porsche 911 PORSCHE HALIFAX INSPECTED l NO ACCIDENTS l MANUAL,2008
+North Vancouver,49.3207133,-123.0737831,Porsche,168000,Porsche Cayenne,8980,British Columbia,Porsche Cayenne Turbo AWD ,2008
+Toronto,43.653963,-79.387207,Porsche,156000,Porsche Cayenne,9999,Ontario,Porsche Cayenne PREMIUM AWD LEATHER,2008
+Kirkland,45.4529194,-73.8647559,Porsche,68321,Porsche 911,64900,Québec,Porsche 911 Carrera 4S PDK,2009
+Vancouver,49.2608724,-123.1139529,Porsche,67718,Porsche 911,62888,British Columbia,Porsche 911 LOCAL BC CAR ,2009
+Winnipeg,49.884017,-97.168579,Porsche,41402,Porsche 911,64887,Manitoba,Porsche 911 CABRIOLET  ,2009
+North York,43.7708175,-79.4132998,Porsche,177000,Porsche Cayenne,26887,Ontario,Porsche Cayenne TURBO S,2009
+Calgary,51.02532675,-114.049868485806,Porsche,65503,Porsche Boxster,32999,Alberta,Porsche Boxster 6 SPEED MANUAL! VERY CLEAN!,2009
+Drummondville,45.8864303,-72.5018764,Porsche,77556,Porsche 911,63997,Québec,Porsche 911 CARRERA S ,2009
+Rivière-Du-Loup,47.8358164,-69.5368025,Porsche,33945,Porsche 911,74995,Québec,Porsche 911 Carrera S Cabriolet PDK Chrono ,2009
+Mont-Royal,45.5086157,-73.5903112,Porsche,77100,Porsche Cayenne,16995,Québec,Porsche Cayenne AWD,2009
+Thornhill,43.8161477,-79.4245925,Porsche,118595,Porsche 911,89998,Ontario,Porsche 911 Turbo,2009
+North York,43.7708175,-79.4132998,Porsche,74899,Porsche 911,69800,Ontario,Porsche 911 Targa 4S,2009
+Langley,49.10647185,-122.550131156815,Porsche,85800,Porsche 911,65894,British Columbia,Porsche 911 Carrera 4S Coupe PDK Local BC Unit!,2009
+St-Eustache,45.5646052,-73.8929714,Porsche,95000,Porsche Boxster,27968,Québec,Porsche Boxster Base,2009
+Calgary,51.02532675,-114.049868485806,Porsche,122142,Porsche Cayenne,24888,Alberta,Porsche Cayenne Turbo S ,2009
+Laval,45.60558895,-73.7344173056906,Porsche,55000,Porsche 911,69900,Québec,Porsche 911 cabriolet Carrera S,2009
+Laval,45.60558895,-73.7344173056906,Porsche,109664,Porsche Boxster,29900,Québec,Porsche Boxster manuel,2009
+North Vancouver,49.3207133,-123.0737831,Porsche,125100,Porsche Cayenne,29980,British Columbia,Porsche Cayenne GTS AWD,2010
+North York,43.7708175,-79.4132998,Porsche,114000,Porsche Panamera,29949,Ontario,Porsche Panamera S PDK,2010
+Toronto,43.653963,-79.387207,Porsche,121000,Porsche Panamera,31950,Ontario,Porsche Panamera 4S,2010
+Vaughan,43.820904,-79.5084,Porsche,79258,Porsche Panamera,35910,Ontario,Porsche Panamera 4S ,2010
+Edmonton,53.535411,-113.507996,Porsche,107352,Porsche Cayenne,24488,Alberta,Porsche Cayenne Premium Audio,2010
+Mont-Royal,45.5086157,-73.5903112,Porsche,59778,Porsche 911,68900,Québec,Porsche 911 997.2 Carrera 4S Cabriolet,2010
+Winnipeg,49.884017,-97.168579,Porsche,65575,Porsche Panamara,51888,Manitoba,Porsche Panamara TURBO  WINTER TIRE PACKAGE,2010
+Vaughan,43.820904,-79.5084,Porsche,114402,Porsche Cayman,34000,Ontario,Porsche Cayman,2010
+North York,43.7708175,-79.4132998,Porsche,132394,Porsche Panamera,38800,Ontario,Porsche Panamera TURBO 500HP,2010
+Kirkland,45.4529194,-73.8647559,Porsche,73200,Porsche 911,117900,Québec,Porsche 911 Turbo S Techart KIT,2011
+Mississauga,43.590338,-79.645729,Porsche,114000,Porsche Panamera,31000,Ontario,Porsche Panamera Flat Black Wrap,2011
+Vaughan,43.820904,-79.5084,Porsche,91473,Porsche Cayenne,37910,Ontario,Porsche Cayenne TURBO ,2011
+Langley,49.10647185,-122.550131156815,Porsche,70163,Porsche Cayman,38900,British Columbia,Porsche Cayman $386.48 Biweekly,2011
+Toronto,43.653963,-79.387207,Porsche,103184,Porsche 911,58900,Ontario,Porsche 911 CONVERTIBLE ,2011
+Burnaby,49.2433804,-122.9725459,Porsche,119200,Porsche Cayenne,34800,British Columbia,Porsche Cayenne Turbo,2011
+Dartmouth,44.6799707,-63.5720232,Porsche,33012,Porsche 911,119000,Nova Scotia,Porsche 911 Turbo,2011
+Thornhill,43.8161477,-79.4245925,Porsche,134711,Porsche 911,49998,Ontario,Porsche 911 Carrera,2011
+Vancouver,49.2608724,-123.1139529,Porsche,34764,Porsche Cayenne,36900,British Columbia,Porsche Cayenne S w,2011
+Vaughan,43.820904,-79.5084,Porsche,89607,Porsche Cayenne,31910,Ontario,Porsche Cayenne ,2011
+North York,43.7708175,-79.4132998,Porsche,67064,Porsche Panamera,36800,Ontario,Porsche Panamera 4,2011
+Toronto,43.653963,-79.387207,Porsche,93995,Porsche Panamera,29888,Ontario,Porsche Panamera 4,2011
+North York,43.7708175,-79.4132998,Porsche,97059,Porsche Cayenne,29800,Ontario,Porsche Cayenne S Hybrid,2011
+North York,43.7708175,-79.4132998,Porsche,145532,Porsche Cayenne,19950,Ontario,Porsche Cayenne AWD,2011
+Toronto,43.653963,-79.387207,Porsche,132000,Porsche Cayenne,21995,Ontario,Porsche Cayenne PREMIUM NAVIGATION,2011
+Vancouver,49.2608724,-123.1139529,Porsche,18068,Porsche 911,232778,British Columbia,Porsche 911 GT3 RS,2011
+Toronto,43.653963,-79.387207,Porsche,188000,Porsche Cayenne,21885,Ontario,Porsche Cayenne S AWD LEATHER,2011
+North York,43.7708175,-79.4132998,Porsche,53000,Porsche Cayenne,82988,Ontario,Porsche Cayenne Turbo MSRP $193000 BURMESTER,2011
+North York,43.7708175,-79.4132998,Porsche,102999,Porsche Cayenne,28800,Ontario,Porsche Cayenne S HYBRID,2011
+Laval,45.60558895,-73.7344173056906,Porsche,43000,Porsche 911,94900,Québec,Porsche 911 Cabriolet Carrera GTS,2011
+Vaughan,43.820904,-79.5084,Porsche,38521,Porsche 911,89888,Ontario,Porsche 911 Carrera Cabriolet GTS BOSE Sound,2011
+Calgary,51.02532675,-114.049868485806,Porsche,162611,Porsche Cayenne,23888,Alberta,Porsche Cayenne Base ,2011
+Kirkland,45.4529194,-73.8647559,Porsche,7047,Porsche 911,579900,Québec,Porsche 911 GT2 RS,2011
+Oakville,43.447436,-79.666672,Porsche,63038,Porsche 911,124900,Ontario,Porsche 911 Turbo S Coupe PDK,2011
+Vancouver,49.2608724,-123.1139529,Porsche,51811,Porsche 911,78995,British Columbia,Porsche 911,2011
+Kelowna,49.889326,-119.498291,Porsche,28123,Porsche Cayman,48888,British Columbia,Porsche Cayman Base,2012
+Victoriaville,46.0573705,-71.9536674,Porsche,124941,Porsche Cayenne,86495,Québec,Porsche Cayenne Hamann Guardian Turbo AWD ,2012
+North York,43.7708175,-79.4132998,Porsche,79989,Porsche Panamera,42800,Ontario,Porsche Panamera 4S,2012
+Toronto,43.653963,-79.387207,Porsche,134495,Porsche Cayenne,23800,Ontario,Porsche Cayenne ,2012
+Montréal,45.4972159,-73.6103642,Porsche,36529,Porsche Cayman,64900,Québec,Porsche Cayman R - JUST ARRIVED!,2012
+Ottawa,45.421106,-75.690308,Porsche,36321,Porsche 911,88800,Ontario,Porsche 911 Carrera S Cabriolet ,2012
+North York,43.7708175,-79.4132998,Porsche,191800,Porsche Panamera,37888,Ontario,Porsche Panamera TURBO 550 HP FULLY LOADED!!!,2012
+Mississauga,43.590338,-79.645729,Porsche,160847,Porsche Cayenne,22900,Ontario,Porsche Cayenne S MOONROOF,2012
+North York,43.7708175,-79.4132998,Porsche,148250,Porsche Cayenne,21888,Ontario,Porsche Cayenne PANORAMIC ROOF,2012
+Kelowna,49.889326,-119.498291,Porsche,28150,Porsche Cayman,47888,British Columbia,Porsche Cayman PDK - Only 28,2012
+Vaughan,43.820904,-79.5084,Porsche,63521,Porsche Panamera,57200,Ontario,Porsche Panamera - Clean Carfax,2012
+Laval,45.60558895,-73.7344173056906,Porsche,44000,Porsche 911,84900,Québec,Porsche 911 Carrera S PDK,2012
+Oakville,43.447436,-79.666672,Porsche,111339,Porsche Panamera,32950,Ontario,Porsche Panamera 4 ,2012
+Oakville,43.447436,-79.666672,Porsche,47542,Porsche 911,82000,Ontario,Porsche 911 Carrera S Coupe ,2012
+Vaughan,43.820904,-79.5084,Porsche,47000,Porsche 911,81275,Ontario,Porsche 911 --Accident Free,2012
+Toronto,43.653963,-79.387207,Porsche,105000,Porsche Panamera,32885,Ontario,Porsche Panamera 4 AWD NAVIGATION,2012
+Saint-Hubert,45.5042755,-73.4216976,Porsche,84925,Porsche 911,69900,Québec,Porsche 911 CARRERA Carrera 4 Coupe 3.6L AWD Sport-Chrono ,2012
+Surrey,49.1913033,-122.8491439,Porsche,105054,Porsche Panamera,46900,British Columbia,Porsche Panamera Panamera S Hybrid,2012
+Concord,45.452798,-62.7905136,Porsche,48871,Porsche 911,76800,Nova Scotia,Porsche 911 Carrera 2,2012
+North York,43.7708175,-79.4132998,Porsche,56000,Porsche 911,83899,Ontario,Porsche 911 4S,2012
+Halifax,44.8543667,-63.137798,Porsche,44300,Porsche Cayenne,54990,Nova Scotia,Porsche Cayenne Turbo 4x4 Turbo,2012
+Calgary,51.02532675,-114.049868485806,Porsche,41000,Porsche Boxster,39995,Alberta,Porsche Boxster 2dr Roadster NAVIGATION,2013
+Edmonton,53.535411,-113.507996,Porsche,64750,Porsche Cayenne,40286,Alberta,Porsche Cayenne Cayenne S,2013
+Notre-Dame-Des-Pins,46.183158,-70.713844,Porsche,63009,Porsche Boxster,41995,Québec,Porsche Boxster CONVERTIBLE 2.7 L MANUELLE,2013
+North York,43.7708175,-79.4132998,Porsche,122160,Porsche Cayenne,45888,Ontario,Porsche Cayenne TURBO ,2013
+Montréal,45.4972159,-73.6103642,Porsche,61500,Porsche Cayenne,58999,Québec,Porsche Cayenne Turbo                  Pre-owned vehicle 2013 Pors,2013
+Concord,45.452798,-62.7905136,Porsche,93654,Porsche Cayenne,30888,Nova Scotia,Porsche Cayenne PREMIUM NAVIGATION PANO ROOF ACCIDENTS FREE,2013
+Laval,45.60558895,-73.7344173056906,Porsche,17500,Porsche 911,84900,Québec,Porsche 911 Carrera 4 PDK Sport Chrono Sunroof Premium Pack.,2013
+North York,43.7708175,-79.4132998,Porsche,61000,Porsche Cayenne,55888,Ontario,Porsche Cayenne TURBO,2013
+North York,43.7708175,-79.4132998,Porsche,142702,Porsche Cayenne,27800,Ontario,Porsche Cayenne Diesel,2013
+Concord,45.452798,-62.7905136,Porsche,49542,Porsche Cayenne,55888,Nova Scotia,Porsche Cayenne TURBO PREMIUM PLUS NAVIGATION REAR CAM DVD NO ACCI,2013
+Vancouver,49.2608724,-123.1139529,Porsche,109678,Porsche Cayenne,33888,British Columbia,Porsche Cayenne,2013
+Vaughan,43.820904,-79.5084,Porsche,72016,Porsche 911,73910,Ontario,Porsche 911 CARRERA ,2013
+Laval,45.60558895,-73.7344173056906,Porsche,96032,Porsche Cayenne,32993,Québec,Porsche Cayenne S Hybrid AWD NAVIGATION - Toit Ouvrant - A,2013
+Vaughan,43.820904,-79.5084,Porsche,122222,Porsche Cayenne,28910,Ontario,Porsche Cayenne DIESEL ,2013
+Toronto,43.653963,-79.387207,Porsche,79000,Porsche Cayenne,28950,Ontario,Porsche Cayenne V6,2013
+Toronto,43.653963,-79.387207,Porsche,136000,Porsche Cayenne,25950,Ontario,Porsche Cayenne AWD 4dr Tiptronic Premium,2013
+Vancouver,49.2608724,-123.1139529,Porsche,96311,Porsche Boxster,36495,British Columbia,Porsche Boxster 6spd manual,2013
+Toronto,43.653963,-79.387207,Porsche,161000,Porsche Cayenne,25900,Ontario,Porsche Cayenne NAV   Roof    CAM   Chrono Sports   NO Accidents,2013
+North York,43.7708175,-79.4132998,Porsche,164143,Porsche Cayenne,25800,Ontario,Porsche Cayenne V6 DIESEL,2013
+Vancouver,49.2608724,-123.1139529,Porsche,72600,Porsche Cayenne,48900,British Columbia,Porsche Cayenne,2013
+Toronto,43.653963,-79.387207,Porsche,136000,Porsche Cayenne,29995,Ontario,Porsche Cayenne AWD DIESEL LEATHER,2013
+Mont-Royal,45.5086157,-73.5903112,Porsche,60180,Porsche Panamera,47995,Québec,Porsche Panamera 4S,2013
+Montreal,45.4972159,-73.6103642,Porsche,61500,Porsche Cayenne,48287,Québec,Porsche Cayenne Turbo                  Pre-owned vehicle 2013 Pors,2013
+Winnipeg,49.884017,-97.168579,Porsche,59464,Porsche Cayenne,35987,Manitoba,Porsche Cayenne V6  AWD,2013
+Mississauga,43.590338,-79.645729,Porsche,166350,Porsche Cayenne,25995,Ontario,Porsche Cayenne S MOONROOF,2013
+North York,43.7708175,-79.4132998,Porsche,79000,Porsche Cayenne,35888,Ontario,Porsche Cayenne SPORTDESIGNPKG,2013
+Montréal,45.4972159,-73.6103642,Porsche,44320,Porsche 911,86888,Québec,Porsche 911 Carrera  4 Cab,2013
+Montréal,45.4972159,-73.6103642,Porsche,33500,Porsche 911,78888,Québec,Porsche 911 Carrera 4 Coupe,2013
+Laval,45.60558895,-73.7344173056906,Porsche,32800,Porsche 911,139900,Québec,Porsche 911 Turbo Sport Chrono,2014
+Port Moody,49.2822243,-122.8293424,Porsche,114384,Porsche Cayenne,48485,British Columbia,Porsche Cayenne,2014
+Vaughan,43.820904,-79.5084,Porsche,58849,Porsche Cayenne,43910,Ontario,Porsche Cayenne S ,2014
+Vancouver,49.2608724,-123.1139529,Porsche,30300,Porsche Boxster,47900,British Columbia,Porsche Boxster,2014
+Vancouver,49.2608724,-123.1139529,Porsche,84186,Porsche Cayenne,42966,British Columbia,Porsche Cayenne S,2014
+Vancouver,49.2608724,-123.1139529,Porsche,62800,Porsche Cayman,59900,British Columbia,Porsche Cayman,2014
+Oakville,43.447436,-79.666672,Porsche,26248,Porsche 911,139000,Ontario,Porsche 911 Carrera 50th Ann Coupe w,2014
+Burnaby,49.2433804,-122.9725459,Porsche,55418,Porsche Cayenne,43800,British Columbia,Porsche Cayenne S,2014
+Calgary,51.02532675,-114.049868485806,Porsche,79736,Porsche Cayenne,39999,Alberta,Porsche Cayenne,2014
+Newmarket,44.056258,-79.461708,Porsche,149116,Porsche Cayenne,26995,Ontario,Porsche Cayenne AWD 4dr Diesel,2014
+North York,43.7708175,-79.4132998,Porsche,131000,Porsche Cayenne,27995,Ontario,Porsche Cayenne Navigation Panoramic Roof,2014
+North York,43.7708175,-79.4132998,Porsche,127535,Porsche Cayenne,28800,Ontario,Porsche Cayenne AWD,2014
+Vancouver,49.2608724,-123.1139529,Porsche,16100,Porsche 911,158995,British Columbia,Porsche 911 PDK with 16000km only,2014
+London,42.9537654,-81.2291529,Porsche,177124,Porsche Cayenne,29498,Ontario,Porsche Cayenne Diesel ,2014
+Montréal,45.4972159,-73.6103642,Porsche,22498,Porsche 911,156888,Québec,Porsche 911 Turbo Cabriolet,2014
+Oakville,43.447436,-79.666672,Porsche,14779,Porsche 911,166500,Ontario,Porsche 911 GT3 ,2014
+Toronto,43.653963,-79.387207,Porsche,15195,Porsche 911,155800,Ontario,Porsche 911 édition 50e anniversaire ,2014
+Vaughan,43.820904,-79.5084,Porsche,167477,Porsche Cayenne,30910,Ontario,Porsche Cayenne PLATINUM EDITION ,2014
+Toronto,43.653963,-79.387207,Porsche,132620,Porsche Cayenne,30995,Ontario,Porsche Cayenne S V8 PLATINUM PKG NAVI PANO ROOF REAR CAM AIR SUSP,2014
+Vaughan,43.820904,-79.5084,Porsche,49995,Porsche 911,150000,Ontario,Porsche 911 Turbo S - LOW KMS,2014
+Toronto,43.653963,-79.387207,Porsche,130000,Porsche Cayenne,32900,Ontario,Porsche Cayenne S  V8 Navigation.Platinum pkg,2014
+Vaughan,43.820904,-79.5084,Porsche,108084,Porsche Cayenne,32910,Ontario,Porsche Cayenne ,2014
+Laval,45.60558895,-73.7344173056906,Porsche,22838,Porsche 911,149900,Québec,Porsche 911  Cabriolet Turbo,2014
+North York,43.7708175,-79.4132998,Porsche,56000,Porsche Cayenne,33788,Ontario,Porsche Cayenne 3.6 V6,2014
+Vaughan,43.820904,-79.5084,Porsche,17766,Porsche 911,87910,Ontario,Porsche 911 PDK,2014
+Vancouver,49.2608724,-123.1139529,Porsche,11431,Porsche 911,115995,British Columbia,Porsche 911,2014
+Laval,45.60558895,-73.7344173056906,Porsche,59077,Porsche 911,114900,Québec,Porsche 911 Targa 4S,2014
+Montréal,45.4972159,-73.6103642,Porsche,20100,Porsche Cayman,53888,Québec,Porsche Cayman S                        20-inch SportTechno wheel,2014
+Laval,45.60558895,-73.7344173056906,Porsche,46855,Porsche 911,114900,Québec,Porsche 911  Targa 4S,2014
+Kirkland,45.4529194,-73.8647559,Porsche,30686,Porsche 911,113900,Québec,Porsche 911 Carrera 4S Cabriolet,2014
+Vancouver,49.2608724,-123.1139529,Porsche,18430,Porsche 911,110995,British Columbia,Porsche 911 with 18,2014
+Waterloo,43.466874,-80.524635,Porsche,31000,Porsche 911,109995,Ontario,Porsche 911 CARRERA 4S ,2014
+Langley,49.10647185,-122.550131156815,Porsche,500,Porsche 911,169990,British Columbia,Porsche 911 GT3 ,2014
+Laval,45.60558895,-73.7344173056906,Porsche,14560,Porsche 911,104900,Québec,Porsche 911 Carrera 4S,2014
+Langley,49.10647185,-122.550131156815,Porsche,22258,Porsche 911,96894,British Columbia,Porsche 911 Carrera S Coupe ,2014
+Vaughan,43.820904,-79.5084,Porsche,46046,Porsche 911,96888,Ontario,Porsche 911 Carrera 4S ,2014
+Vancouver,49.2608724,-123.1139529,Porsche,91982,Porsche Cayenne,51888,British Columbia,Porsche Cayenne,2014
+Vaughan,43.820904,-79.5084,Porsche,15723,Porsche 911,91833,Ontario,Porsche 911 --PDK,2014
+London,42.9537654,-81.2291529,Porsche,103135,Porsche Cayenne,55388,Ontario,Porsche Cayenne GTS ,2014
+Montréal,45.4972159,-73.6103642,Porsche,45800,Porsche 911,109900,Québec,Porsche 911 Carrera 4S Coupe Pre-owned vehicle 2014 Porsche 91,2014
+North York,43.7708175,-79.4132998,Porsche,128805,Porsche Cayenne,33800,Ontario,Porsche Cayenne DIESEL,2014
+North York,43.7708175,-79.4132998,Porsche,93701,Porsche Cayenne,31950,Ontario,Porsche Cayenne AWD,2014
+Toronto,43.653963,-79.387207,Porsche,63045,Porsche 911,127499,Ontario,Porsche 911 Turbo,2014
+North York,43.7708175,-79.4132998,Porsche,115790,Porsche Cayenne,37899,Ontario,Porsche Cayenne Diesel,2014
+North York,43.7708175,-79.4132998,Porsche,88921,Porsche Cayenne,38800,Ontario,Porsche Cayenne S 400HP AWD,2014
+Toronto,43.653963,-79.387207,Porsche,53237,Porsche Cayenne,39888,Ontario,Porsche Cayenne CORONO SPORT PKG,2014
+Drummondville,45.8864303,-72.5018764,Porsche,110382,Porsche Cayenne,49989,Québec,Porsche Cayenne TURBO ,2014
+Vaughan,43.820904,-79.5084,Porsche,46046,Porsche 911,96888,Ontario,Porsche 911 Carrera 4S ,2014
+Edmonton,53.535411,-113.507996,Porsche,65678,Porsche Panamera,68486,Alberta,Porsche Panamera,2014
+Vaughan,43.820904,-79.5084,Porsche,33000,Porsche 911,149000,Ontario,Porsche 911 --PDK,2014
+Montréal,45.4972159,-73.6103642,Porsche,23000,Porsche 911,148888,Québec,Porsche 911 Turbo Coupe,2014
+North Vancouver,49.3207133,-123.0737831,Porsche,81941,Porsche Cayenne,34994,British Columbia,Porsche Cayenne,2014
+Vancouver,49.2608724,-123.1139529,Porsche,77371,Porsche Cayenne,39995,British Columbia,Porsche Cayenne Base,2014
+Mont-Royal,45.5086157,-73.5903112,Porsche,56716,Porsche Cayenne,56995,Québec,Porsche Cayenne GTS AWD Sport Chrono w-BOSE,2014
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Porsche,62000,Porsche Cayenne,35990,Québec,Porsche Cayenne TOIT PANO ,2014
+Oakville,43.447436,-79.666672,Porsche,44854,Porsche Boxster,50000,Ontario,Porsche Boxster PDK,2014
+Montréal,45.4972159,-73.6103642,Porsche,68000,Porsche Cayenne,58888,Québec,Porsche Cayenne Diesel Pre-owned vehicle 2015 Porsche Cayenne Dies,2015
+Toronto,43.653963,-79.387207,Porsche,70949,Porsche Macan,48888,Ontario,Porsche Macan S 21' WHEELS,2015
+Vaughan,43.820904,-79.5084,Porsche,72662,Porsche Macan,51910,Ontario,Porsche Macan TURBO ,2015
+Oakville,43.447436,-79.666672,Porsche,23198,Porsche 911,125000,Ontario,Porsche 911 Targa 4S PDK,2015
+Langley,49.10647185,-122.550131156815,Porsche,30912,Porsche Macan,49894,British Columbia,Porsche Macan S Porsche Approved Certified ,2015
+Winnipeg,49.884017,-97.168579,Porsche,52972,Porsche Cayenne,59888,Manitoba,Porsche Cayenne S-AWD 3.6L TWIN-TURBO 420HP ,2015
+St-Jérôme,45.775426,-74.013176,Porsche,65857,Porsche Macan,59795,Québec,Porsche Macan TURBO AWD MAGS 21 NAV CUIR ROUGE ,2015
+London,42.9537654,-81.2291529,Porsche,46435,Porsche Boxster,51498,Ontario,Porsche Boxster PDK ,2015
+Markham,43.854336,-79.326782,Porsche,69870,Porsche Cayenne,48000,Ontario,Porsche Cayenne PANORAMIC ROOF,2015
+North York,43.7708175,-79.4132998,Porsche,94000,Porsche Panamera,57888,Ontario,Porsche Panamera GTS,2015
+Laval,45.60558895,-73.7344173056906,Porsche,96500,Porsche Cayenne,47900,Québec,"Porsche Cayenne  S ROUES 21""",2015
+Brossard,45.4554829,-73.4678904,Porsche,40123,Porsche Cayman,59995,Québec,Porsche Cayman S PDK 6 CYL 325 HP,2015
+Ottawa,45.421106,-75.690308,Porsche,98767,Porsche Cayman,47888,Ontario,Porsche Cayman PDK,2015
+North York,43.7708175,-79.4132998,Porsche,84624,Porsche Macan,49800,Ontario,Porsche Macan TURBO,2015
+Vancouver,49.2608724,-123.1139529,Porsche,20100,Porsche 911,122995,British Columbia,Porsche 911,2015
+Vancouver,49.2608724,-123.1139529,Porsche,45500,Porsche Macan,42895,British Columbia,Porsche Macan S,2015
+Vaughan,43.820904,-79.5084,Porsche,36986,Porsche 911,90888,Ontario,Porsche 911 LOW KMS ,2015
+Vancouver,49.2608724,-123.1139529,Porsche,20300,Porsche 911,123595,British Columbia,Porsche 911 Carrera 4 GTS Coupe PDK,2015
+Montréal,45.4972159,-73.6103642,Porsche,29500,Porsche Panamera,74888,Québec,Porsche Panamera GTS,2015
+Oakville,43.447436,-79.666672,Porsche,41815,Porsche 911,96000,Ontario,Porsche 911 Carrera S Coupe ,2015
+Brossard,45.4554829,-73.4678904,Porsche,88012,Porsche Macan,39798,Québec,Porsche Macan S ,2015
+Toronto,43.653963,-79.387207,Porsche,133887,Porsche Macan,34995,Ontario,Porsche Macan ,2015
+Laval,45.60558895,-73.7344173056906,Porsche,42000,Porsche 911,89900,Québec,Porsche 911 Carrera 4,2015
+Vancouver,49.2608724,-123.1139529,Porsche,16932,Porsche 911,153999,British Columbia,Porsche 911 GT3 ,2015
+North York,43.7708175,-79.4132998,Porsche,84033,Porsche Macan,39998,Ontario,Porsche Macan S,2015
+St-Hubert,46.501891,-64.025032,Porsche,71392,Porsche Macan,39999,Prince Edward Island,Porsche Macan MACAN S AWD CUIR TOIT PANO,2015
+North York,43.7708175,-79.4132998,Porsche,84204,Porsche Macan,40800,Ontario,Porsche Macan S 340HP AWD,2015
+Vancouver,49.2608724,-123.1139529,Porsche,31117,Porsche Panamera,65888,British Columbia,Porsche Panamera ALL WHEEL DRIVE FAMILY PORSCHE,2015
+North York,43.7708175,-79.4132998,Porsche,17000,Porsche Panamera,79888,Ontario,Porsche Panamera GTS,2015
+Oakville,43.447436,-79.666672,Porsche,67043,Porsche 911,83000,Ontario,Porsche 911 Carrera Coupe ,2015
+Drummondville,45.8864303,-72.5018764,Porsche,64308,Porsche 911,83489,Québec,Porsche 911 CARRERA 4 ,2015
+Vancouver,49.2608724,-123.1139529,Porsche,12357,Porsche 911,162995,British Columbia,Porsche 911,2015
+Toronto,43.653963,-79.387207,Porsche,66513,Porsche Macan,39995,Ontario,Porsche Macan S ,2015
+Vaughan,43.820904,-79.5084,Porsche,33733,Porsche 911,115000,Ontario,Porsche 911 - LOW KMS,2015
+Drummondville,45.8864303,-72.5018764,Porsche,43164,Porsche Macan,36989,Québec,Porsche Macan S ,2015
+Vancouver,49.2608724,-123.1139529,Porsche,28634,Porsche 911,109999,British Columbia,Porsche 911 Targa 4 PDK,2015
+North York,43.7708175,-79.4132998,Porsche,66908,Porsche Macan,37800,Ontario,Porsche Macan S 340HP AWD,2015
+Toronto,43.653963,-79.387207,Porsche,80000,Porsche Macan,38900,Ontario,Porsche Macan S Navigation. Panoramic Roof. Rear Camera,2015
+Kirkland,45.4529194,-73.8647559,Porsche,8614,Porsche 918,1699900,Québec,Porsche 918 Spyder E-Hybrid PRICE IN USD.,2015
+St-Hubert,46.501891,-64.025032,Porsche,111780,Porsche Cayenne,37999,Prince Edward Island,Porsche Cayenne S CUIR TOIT PANO NAV MAGS,2015
+Windsor,42.30423,-83.029861,Porsche,43849,Porsche Cayenne,69293,Ontario,Porsche Cayenne Turbo w,2015
+Mississauga,43.590338,-79.645729,Porsche,88102,Porsche Macan,37888,Ontario,Porsche Macan S,2015
+Vaughan,43.820904,-79.5084,Porsche,100000,Porsche Macan,45800,Ontario,Porsche Macan Turbo AWD,2015
+Montréal,45.4972159,-73.6103642,Porsche,75375,Porsche Macan,62999,Québec,Porsche Macan Turbo,2015
+Vaughan,43.820904,-79.5084,Porsche,57544,Porsche 911,102075,Ontario,Porsche 911 CARRERA --PDK,2015
+Laval,45.60558895,-73.7344173056906,Porsche,25032,Porsche 911,102900,Québec,Porsche 911 Carrera S - Ensemble Sport Chrono,2015
+Vaughan,43.820904,-79.5084,Porsche,100500,Porsche Macan,35752,Ontario,Porsche Macan S AWD-Navi,2015
+North York,43.7708175,-79.4132998,Porsche,67000,Porsche Macan,44899,Ontario,Porsche Macan S,2015
+Laval,45.60558895,-73.7344173056906,Porsche,63175,Porsche Macan,44900,Québec,Porsche Macan S Panoramique Camera,2015
+Hamilton,43.2425289,-79.9470423,Porsche,92025,Porsche Macan,38990,Ontario,Porsche Macan S,2015
+Scarborough,43.773077,-79.257774,Porsche,103000,Porsche Macan,36799,Ontario,Porsche Macan S,2015
+Thornhill,43.8161477,-79.4245925,Porsche,75570,Porsche Macan,38987,Ontario,Porsche Macan S,2015
+Vaughan,43.820904,-79.5084,Porsche,72666,Porsche Cayenne,67188,Ontario,Porsche Cayenne Premium Plus,2015
+Vaughan,43.820904,-79.5084,Porsche,49911,Porsche Cayenne,46810,Ontario,Porsche Cayenne ,2016
+Vancouver,49.2608724,-123.1139529,Porsche,63218,Porsche Cayenne,50995,British Columbia,Porsche Cayenne with Premium Plus and Bose Sound,2016
+Toronto,43.653963,-79.387207,Porsche,78107,Porsche Cayenne,52888,Ontario,Porsche Cayenne HYBRID,2016
+Kirkland,45.4529194,-73.8647559,Porsche,4208,Porsche 911,227900,Québec,Porsche 911 GT3 RS Racing Seats,2016
+Montréal,45.4972159,-73.6103642,Porsche,7990,Porsche 911,228888,Québec,Porsche 911 GT3 RS,2016
+Ottawa,45.421106,-75.690308,Porsche,2677,Porsche 911,235900,Ontario,Porsche 911 GT3 RS,2016
+Kirkland,45.4529194,-73.8647559,Porsche,2916,Porsche 911,249900,Québec,Porsche 911 GT3 RS,2016
+Montréal,45.4972159,-73.6103642,Porsche,1500,Porsche 911,259999,Québec,Porsche 911 GT3 RS Pre-owned vehicle 2016 Porsche 911 GT3 RS&n,2016
+Mont-Royal,45.5086157,-73.5903112,Porsche,72277,Porsche Cayenne,52995,Québec,Porsche Cayenne S AWD,2016
+Moncton,46.097995,-64.80011,Porsche,8994,Porsche 911,259800,New Brunswick,Porsche 911 GT3 RS,2016
+Windsor,42.30423,-83.029861,Porsche,9000,Porsche 911,216994,Ontario,Porsche 911 GT3 RS,2016
+Montréal,45.4972159,-73.6103642,Porsche,24300,Porsche 911,192888,Québec,Porsche 911 GT3 RS,2016
+Thornhill,43.8161477,-79.4245925,Porsche,7699,Porsche 911,197987,Ontario,Porsche 911 GT3 RS,2016
+Laval,45.60558895,-73.7344173056906,Porsche,8284,Porsche 911,198492,Québec,Porsche 911 GT3 RS cuir,2016
+Vancouver,49.2608724,-123.1139529,Porsche,11466,Porsche 911,208995,British Columbia,Porsche 911 PDK,2016
+Vancouver,49.2608724,-123.1139529,Porsche,8191,Porsche 911,211995,British Columbia,Porsche 911,2016
+Montréal,45.4972159,-73.6103642,Porsche,8382,Porsche 911,213888,Québec,Porsche 911 GT3 RS Car is a full wrap in Miami Bleu super well,2016
+Laval,45.60558895,-73.7344173056906,Porsche,68276,Porsche Cayenne,49900,Québec,"Porsche Cayenne 21""",2016
+Bolton,43.879548,-79.73826,Porsche,58866,Porsche Cayenne,44998,Ontario,Porsche Cayenne AWD,2016
+Saint-Basile-Le-Grand,45.526246,-73.2876515,Porsche,69706,Porsche Macan,44989,Québec,Porsche Macan S ,2016
+London,42.9537654,-81.2291529,Porsche,75275,Porsche Macan,44698,Ontario,Porsche Macan S ,2016
+Toronto,43.653963,-79.387207,Porsche,64589,Porsche Cayenne,45574,Ontario,Porsche Cayenne w,2016
+North York,43.7708175,-79.4132998,Porsche,59080,Porsche Macan,48800,Ontario,Porsche Macan S,2016
+Toronto,43.653963,-79.387207,Porsche,42657,Porsche Cayenne,48800,Ontario,Porsche Cayenne ,2016
+Thornhill,43.8161477,-79.4245925,Porsche,61458,Porsche Cayenne,43788,Ontario,Porsche Cayenne Navi  Heated,2016
+Laval,45.60558895,-73.7344173056906,Porsche,87300,Porsche Cayenne,47900,Québec,Porsche Cayenne Premium,2016
+Toronto,43.653963,-79.387207,Porsche,66000,Porsche Cayenne,45800,Ontario,Porsche Cayenne PANO,2016
+North York,43.7708175,-79.4132998,Porsche,55542,Porsche Macan,46800,Ontario,Porsche Macan S,2016
+Toronto,43.653963,-79.387207,Porsche,58704,Porsche Cayenne,46888,Ontario,Porsche Cayenne PANO ROOF,2016
+Toronto,43.653963,-79.387207,Porsche,54486,Porsche Cayenne,46888,Ontario,Porsche Cayenne BOSE SOUND,2016
+Laval,45.60558895,-73.7344173056906,Porsche,72000,Porsche Macan,46900,Québec,Porsche Macan S Toit panoramique,2016
+Laval,45.60558895,-73.7344173056906,Porsche,47883,Porsche Cayenne,45999,Québec,Porsche Cayenne V6 AWD CUIR NAV,2016
+North York,43.7708175,-79.4132998,Porsche,71000,Porsche Cayenne,47888,Ontario,Porsche Cayenne 3.6 V6,2016
+Toronto,43.653963,-79.387207,Porsche,41000,Porsche Cayenne,48800,Ontario,Porsche Cayenne NAV,2016
+Toronto,43.653963,-79.387207,Porsche,47000,Porsche Cayenne,42950,Ontario,Porsche Cayenne Premium PKG.V6.Pano Roof Navigation,2016
+Toronto,43.653963,-79.387207,Porsche,88858,Porsche Cayenne,39900,Ontario,Porsche Cayenne ,2016
+Vancouver,49.2608724,-123.1139529,Porsche,8191,Porsche 911,211995,British Columbia,Porsche 911,2016
+North York,43.7708175,-79.4132998,Porsche,94360,Porsche Cayenne,38888,Ontario,Porsche Cayenne AWD,2016
+St-Jean-Sur-Richelieu,45.3056879,-73.2533401,Porsche,90863,Porsche Macan,39911,Québec,Porsche Macan S  AWD  AU MEILLEUR PRIX DU MARCHÉ,2016
+Kitchener,43.453168,-80.494423,Porsche,58600,Porsche Macan,48990,Ontario,Porsche Macan S ,2016
+Vaughan,43.820904,-79.5084,Porsche,76334,Porsche Macan,42688,Ontario,Porsche Macan Porsche Certifed,2016
+Toronto,43.653963,-79.387207,Porsche,35005,Porsche Cayenne,49800,Ontario,Porsche Cayenne ,2016
+Toronto,43.653963,-79.387207,Porsche,64000,Porsche Macan,49800,Ontario,Porsche Macan PRIMUM PLUS!!!CHRONO PKG!!!CARBON PKG!!!,2016
+Toronto,43.653963,-79.387207,Porsche,64095,Porsche Boxster,49888,Ontario,Porsche Boxster BOXTER ROADSTER,2016
+Laval,45.60558895,-73.7344173056906,Porsche,65143,Porsche Macan,49900,Québec,Porsche Macan S PANORAMIC PREMIUM PACKAGE,2016
+North York,43.7708175,-79.4132998,Porsche,42153,Porsche Panamera,60888,Ontario,Porsche Panamera AWD,2016
+Edmonton,53.535411,-113.507996,Porsche,47000,Porsche Macan,53900,Alberta,Porsche Macan S,2016
+Thornhill,43.8161477,-79.4245925,Porsche,47761,Porsche Cayenne,67998,Ontario,Porsche Cayenne GTS,2016
+Toronto,43.653963,-79.387207,Porsche,76230,Porsche Panamera,58999,Ontario,Porsche Panamera Panamera 4 - V6 - PDK - Navigation - Sunroof - Pow,2016
+Vaughan,43.820904,-79.5084,Porsche,47000,Porsche Macan,68500,Ontario,Porsche Macan - LOW KMS,2016
+North Vancouver,49.3207133,-123.0737831,Porsche,41200,Porsche Panamera,86595,British Columbia,Porsche Panamera GTS,2016
+Toronto,43.653963,-79.387207,Porsche,33000,Porsche Panamera,68800,Ontario,Porsche Panamera 4 Edition,2016
+Oakville,43.447436,-79.666672,Porsche,90045,Porsche 911,116000,Ontario,Porsche 911 Carrera 4 GTS Cabriolet PDK ,2016
+Laval,45.60558895,-73.7344173056906,Porsche,79700,Porsche Cayenne,58900,Québec,Porsche Cayenne S - premium package plus,2016
+Concord,45.452798,-62.7905136,Porsche,46834,Porsche Cayenne,57950,Nova Scotia,Porsche Cayenne Premium Pkg,2016
+Toronto,43.653963,-79.387207,Porsche,62500,Porsche Cayenne,57980,Ontario,Porsche Cayenne GTS 440 Horsepower!!! Airmatic Chrono Sport Nav,2016
+Thornhill,43.8161477,-79.4245925,Porsche,22183,Porsche Cayenne,92888,Ontario,Porsche Cayenne Turbo Blind Spot  Navigation  BOSE  Keyless Entry,2016
+North York,43.7708175,-79.4132998,Porsche,64246,Porsche Cayenne,66800,Ontario,Porsche Cayenne GTS,2016
+Vaughan,43.820904,-79.5084,Porsche,33948,Porsche Macan,62388,Ontario,Porsche Macan LOW KMS,2016
+Vaughan,43.820904,-79.5084,Porsche,62687,Porsche Cayenne,66988,Ontario,Porsche Cayenne GTS,2016
+North York,43.7708175,-79.4132998,Porsche,92000,Porsche Cayenne,58888,Ontario,Porsche Cayenne GTS,2016
+Langley,49.10647185,-122.550131156815,Porsche,15803,Porsche Boxster,115894,British Columbia,Porsche Boxster Spyder Porsche Approved Certified ,2016
+Vaughan,43.820904,-79.5084,Porsche,59402,Porsche Cayenne,67510,Ontario,Porsche Cayenne SPORT CHRONO ,2016
+Oakville,43.447436,-79.666672,Porsche,42700,Porsche Panamera,57888,Ontario,Porsche Panamera 4 Edition,2016
+Toronto,43.653963,-79.387207,Porsche,10539,Porsche Boxster,59800,Ontario,Porsche Boxster Black Edition ,2016
+Oakville,43.447436,-79.666672,Porsche,60018,Porsche Panamera,69800,Ontario,Porsche Panamera 4 ,2016
+Kirkland,45.4529194,-73.8647559,Porsche,76432,Porsche Cayenne,69900,Québec,Porsche Cayenne GTS,2016
+London,42.9537654,-81.2291529,Porsche,53921,Porsche Cayenne,59998,Ontario,Porsche Cayenne,2016
+Montréal,45.4972159,-73.6103642,Porsche,6850,Porsche Boxster,118888,Québec,Porsche Boxster Spyder,2016
+Oakville,43.447436,-79.666672,Porsche,46651,Porsche Panamera,59999,Ontario,Porsche Panamera 4 Edition - LEATHER,2016
+Toronto,43.653963,-79.387207,Porsche,45450,Porsche Panamera,59999,Ontario,Porsche Panamera 2016 Porsche Panamera -4 Edition AIR COOLED SEATS,2016
+Saint-Hubert,45.5042755,-73.4216976,Porsche,17906,Porsche Cayenne,74800,Québec,Porsche Cayenne GTS 3.6L Twin-turbo 440hp Prem-Plus,2016
+Burlington,43.3248924,-79.7966835,Porsche,81083,Porsche Panamera,73999,Ontario,Porsche Panamera GTS Brand New Tires and Brakes,2016
+Ottawa,45.421106,-75.690308,Porsche,40600,Porsche Cayenne,73895,Ontario,Porsche Cayenne GTS PREMIUM PLUS PKG.,2016
+Oakville,43.447436,-79.666672,Porsche,4374,Porsche Boxster,119500,Ontario,Porsche Boxster Spyder ,2016
+Vaughan,43.820904,-79.5084,Porsche,29493,Porsche Cayenne,59910,Ontario,Porsche Cayenne S ,2016
+Montréal,45.4972159,-73.6103642,Porsche,4671,Porsche Cayman,116888,Québec,Porsche Cayman GT4                        Automatically dimming m,2016
+Laval,45.60558895,-73.7344173056906,Porsche,54155,Porsche Panamera,79900,Québec,Porsche Panamera GTS,2016
+Montréal,45.4972159,-73.6103642,Porsche,4900,Porsche Cayman,116900,Québec,Porsche Cayman GT4,2016
+Langley,49.10647185,-122.550131156815,Porsche,26180,Porsche Macan,68894,British Columbia,Porsche Macan Turbo Porsche Approved Certified ,2016
+Laval,45.60558895,-73.7344173056906,Porsche,71322,Porsche Cayenne,59900,Québec,Porsche Cayenne S E-Hybrid PANORAMIQUE,2016
+Langley,49.10647185,-122.550131156815,Porsche,20813,Porsche Panamera,68994,British Columbia,Porsche Panamera 4 Edition PORSCHE APPROVED CERTIFIED ,2016
+Mont-Royal,45.5086157,-73.5903112,Porsche,21337,Porsche Cayenne,77995,Québec,Porsche Cayenne GTS,2016
+Montréal,45.4972159,-73.6103642,Porsche,7500,Porsche Cayman,117888,Québec,Porsche Cayman GT4,2016
+Laval,45.60558895,-73.7344173056906,Porsche,964,Porsche Boxster,119900,Québec,Porsche Boxster Spyder Bucket SEATS ,2016
+Oakville,43.447436,-79.666672,Porsche,14902,Porsche Cayman,109000,Ontario,Porsche Cayman GT4,2016
+Montréal,45.4972159,-73.6103642,Porsche,40700,Porsche 911,123888,Québec,Porsche 911 Carrera GTS,2016
+Vancouver,49.2608724,-123.1139529,Porsche,24135,Porsche 911,127995,British Columbia,Porsche 911 PDK with Turbo S wheels,2016
+Mississauga,43.590338,-79.645729,Porsche,61799,Porsche Cayenne,55888,Ontario,Porsche Cayenne S,2016
+Victoria,48.4283182,-123.3649533,Porsche,14735,Porsche 911,105824,British Columbia,Porsche 911 Carrera,2016
+Toronto,43.653963,-79.387207,Porsche,52000,Porsche Cayenne,55800,Ontario,Porsche Cayenne S E-Hybrid,2016
+Winnipeg,49.884017,-97.168579,Porsche,69000,Porsche Cayenne,64988,Manitoba,Porsche Cayenne GTS - CARBON PACK,2016
+Toronto,43.653963,-79.387207,Porsche,53000,Porsche Cayenne,55800,Ontario,Porsche Cayenne S E-HYBRID!!!PREMIUM PLUS PKG!!! CHRONO PKG!!!,2016
+Oakville,43.447436,-79.666672,Porsche,33663,Porsche 911,128000,Ontario,Porsche 911 Carrera Coupe GTS ,2016
+Vaughan,43.820904,-79.5084,Porsche,17934,Porsche Panamera,113688,Ontario,Porsche Panamera - LOW KMS,2016
+North York,43.7708175,-79.4132998,Porsche,51000,Porsche Macan,54880,Ontario,Porsche Macan S,2016
+Vaughan,43.820904,-79.5084,Porsche,8900,Porsche Cayman,109900,Ontario,Porsche Cayman GT4 -- 20inch GT4 wheels,2016
+Kitchener,43.453168,-80.494423,Porsche,7832,Porsche Cayman,112988,Ontario,Porsche Cayman GT4,2016
+Halifax,44.8543667,-63.137798,Porsche,13000,Porsche Cayman,114990,Nova Scotia,Porsche Cayman GT4,2016
+Vancouver,49.2608724,-123.1139529,Porsche,13025,Porsche Cayman,109995,British Columbia,Porsche Cayman,2016
+Oakville,43.447436,-79.666672,Porsche,26509,Porsche Cayman,110000,Ontario,Porsche Cayman GT4 ,2016
+London,42.9537654,-81.2291529,Porsche,10575,Porsche Cayman,109998,Ontario,Porsche Cayman GT4 ,2016
+Toronto,43.653963,-79.387207,Porsche,77685,Porsche Cayenne,55995,Ontario,Porsche Cayenne S HYBRID ,2016
+Ottawa,45.421106,-75.690308,Porsche,10479,Porsche Cayman,104900,Ontario,Porsche Cayman GT4,2016
+Toronto,43.653963,-79.387207,Porsche,58648,Porsche Cayenne,54888,Ontario,Porsche Cayenne HYBRID,2016
+Salaberry-De-Valleyfield,45.2555625,-74.1316153,Porsche,12900,Porsche Panamera,115000,Québec,Porsche Panamera GTS 4.8 ,2016
+Ottawa,45.421106,-75.690308,Porsche,70301,Porsche Cayenne,64800,Ontario,Porsche Cayenne GTS w,2016
+Montréal,45.4972159,-73.6103642,Porsche,13000,Porsche Cayman,100900,Québec,Porsche Cayman GT4,2016
+London,42.9537654,-81.2291529,Porsche,16575,Porsche Cayman,114998,Ontario,Porsche Cayman GT4 ,2016
+Vaughan,43.820904,-79.5084,Porsche,49044,Porsche Panamera,63900,Ontario,Porsche Panamera,2016
+Vaughan,43.820904,-79.5084,Porsche,74910,Porsche Cayenne,53910,Ontario,Porsche Cayenne S ,2016
+Mont-Royal,45.5086157,-73.5903112,Porsche,19476,Porsche Panamera,64995,Québec,Porsche Panamera 4 Edition,2016
+Toronto,43.653963,-79.387207,Porsche,62000,Porsche Panamera,64800,Ontario,Porsche Panamera 4 Edition!!!PREMIUM PACKAGE PLUS!!!,2016
+Toronto,43.653963,-79.387207,Porsche,89667,Porsche Cayenne,56888,Ontario,Porsche Cayenne GTS,2016
+Oakville,43.447436,-79.666672,Porsche,45999,Porsche Cayenne,57000,Ontario,Porsche Cayenne w,2016
+Vancouver,49.2608724,-123.1139529,Porsche,1500,Porsche 911,145995,British Columbia,Porsche 911 PDK,2017
+Oakville,43.447436,-79.666672,Porsche,18229,Porsche 911,119000,Ontario,Porsche 911 Carrera S Coupe ,2017
+Toronto,43.653963,-79.387207,Porsche,36000,Porsche Cayenne,64800,Ontario,Porsche Cayenne S E-Hybrid!!!Platinum Edition !!!PREMIUM PLUS PKG!,2017
+Laval,45.60558895,-73.7344173056906,Porsche,13643,Porsche 911,119900,Québec,Porsche 911 Carrera S Manuel Sport Exhaust Système ambiophoniq,2017
+Montréal,45.4972159,-73.6103642,Porsche,69470,Porsche Cayenne,69999,Québec,Porsche Cayenne GTS,2017
+Vaughan,43.820904,-79.5084,Porsche,20370,Porsche 718,69888,Ontario,Porsche 718 Boxster --Miami Blue,2017
+Langley,49.10647185,-122.550131156815,Porsche,36180,Porsche Macan,69894,British Columbia,Porsche Macan GTS Porsche Approved Certified ,2017
+Laval,45.60558895,-73.7344173056906,Porsche,56000,Porsche Macan,69900,Québec,Porsche Macan GTS,2017
+Laval,45.60558895,-73.7344173056906,Porsche,58327,Porsche Macan,69900,Québec,Porsche Macan  GTS  Panoramique,2017
+Laval,45.60558895,-73.7344173056906,Porsche,35734,Porsche Macan,69900,Québec,Porsche Macan GTS,2017
+Thornhill,43.8161477,-79.4245925,Porsche,61230,Porsche Macan,42998,Ontario,Porsche Macan ,2017
+Laval,45.60558895,-73.7344173056906,Porsche,12157,Porsche 718,69900,Québec,Porsche 718 Cayman Manuel,2017
+Oakville,43.447436,-79.666672,Porsche,3585,Porsche 911,144000,Ontario,Porsche 911 Carrera 4 GTS Coupe ,2017
+Toronto,43.653963,-79.387207,Porsche,94450,Porsche Macan,37777,Ontario,Porsche Macan PARKING ASSIST REAR CD OR MULTIDISC,2017
+Langley,49.10647185,-122.550131156815,Porsche,13012,Porsche 911,138994,British Columbia,Porsche 911 Carrera 4 GTS Coupe PDK Porsche Approved Certified,2017
+Montréal,45.4972159,-73.6103642,Porsche,35800,Porsche 911,122888,Québec,Porsche 911 Carrera 4 Coupe,2017
+Oakville,43.447436,-79.666672,Porsche,21548,Porsche 911,120000,Ontario,Porsche 911 Carrera 4S Coupe PDK,2017
+Montréal,45.4972159,-73.6103642,Porsche,10660,Porsche Macan,65500,Québec,Porsche Macan base Pre-owned vehicle 2017 Porsche Macan &nb,2017
+Aurora,43.99973,-79.467545,Porsche,28685,Porsche 911,119989,Ontario,Porsche 911 Carrera 4S,2017
+Vaughan,43.820904,-79.5084,Porsche,63998,Porsche Cayenne,65900,Ontario,Porsche Cayenne --Accident Free! CPO,2017
+Thornhill,43.8161477,-79.4245925,Porsche,52159,Porsche Cayenne,64880,Ontario,Porsche Cayenne S E-Hybrid Platinum nav AWD,2017
+Vaughan,43.820904,-79.5084,Porsche,34044,Porsche 911,139000,Ontario,Porsche 911 Targa 4 GTS --Alcantara,2017
+Montréal,45.4972159,-73.6103642,Porsche,8000,Porsche Cayenne,64888,Québec,Porsche Cayenne Platinum Edition,2017
+Montréal,45.4972159,-73.6103642,Porsche,16938,Porsche Cayenne,68888,Québec,Porsche Cayenne Base,2017
+Montréal,45.4972159,-73.6103642,Porsche,16129,Porsche Cayenne,64888,Québec,Porsche Cayenne Base Pre-owned vehicle 2017 Porsche Cayenne &,2017
+North York,43.7708175,-79.4132998,Porsche,25000,Porsche Macan,68888,Ontario,Porsche Macan TURBO,2017
+Toronto,43.653963,-79.387207,Porsche,75000,Porsche Macan,42900,Ontario,Porsche Macan Platinum Pkg.Pano roof.AWD.Loaded.r,2017
+Dartmouth,44.6799707,-63.5720232,Porsche,32347,Porsche Macan,64900,Nova Scotia,Porsche Macan S,2017
+Oakville,43.447436,-79.666672,Porsche,69739,Porsche Macan,42750,Ontario,Porsche Macan Premium Package Plus Navigation Pano Roof,2017
+Vaughan,43.820904,-79.5084,Porsche,9870,Porsche 911,141000,Ontario,Porsche 911 Carrera Coupe GTS PDK,2017
+Vaughan,43.820904,-79.5084,Porsche,32003,Porsche 718,67910,Ontario,Porsche 718 Cayman ,2017
+Montréal,45.4972159,-73.6103642,Porsche,6500,Porsche Cayenne,67888,Québec,Porsche Cayenne Base Pre-owned vehicle 2017 Porsche Cayenne &,2017
+Montréal,45.4972159,-73.6103642,Porsche,7700,Porsche Cayenne,78888,Québec,Porsche Cayenne S Pre-owned vehicle 2017 Porsche Cayenne S E-Hybri,2017
+Oakville,43.447436,-79.666672,Porsche,5790,Porsche 911,209000,Ontario,Porsche 911 Turbo S Cabriolet PDK ,2017
+Kirkland,45.4529194,-73.8647559,Porsche,32294,Porsche 911,189900,Québec,Porsche 911 Turbo S,2017
+North York,43.7708175,-79.4132998,Porsche,23000,Porsche 911,94888,Ontario,Porsche 911 CARRERA,2017
+Thornhill,43.8161477,-79.4245925,Porsche,28830,Porsche 911,93998,Ontario,Porsche 911 Carrera Sunroof,2017
+North York,43.7708175,-79.4132998,Porsche,23000,Porsche Panamera,93899,Ontario,Porsche Panamera 4,2017
+Vaughan,43.820904,-79.5084,Porsche,14955,Porsche 911,179208,Ontario,Porsche 911 Turbo S Cabriolet PDK,2017
+Toronto,43.653963,-79.387207,Porsche,15267,Porsche 911,176800,Ontario,Porsche 911 Turbo S ,2017
+Oakville,43.447436,-79.666672,Porsche,19400,Porsche 911,176000,Ontario,Porsche 911 Turbo S Coupe PDK ,2017
+Montréal,45.4972159,-73.6103642,Porsche,12700,Porsche 911,174000,Québec,Porsche 911 Turbo Cabriolet,2017
+Vancouver,49.2608724,-123.1139529,Porsche,6130,Porsche 911,173800,British Columbia,Porsche 911 Turbo,2017
+Laval,45.60558895,-73.7344173056906,Porsche,7906,Porsche 911,209900,Québec,Porsche 911 Turbo S AEROKIT Certified,2017
+Montréal,45.4972159,-73.6103642,Porsche,14900,Porsche 911,213888,Québec,Porsche 911 Turbo S Coupe Pre-owned vehicle 2017 Porsche 911 T,2017
+Vaughan,43.820904,-79.5084,Porsche,21690,Porsche 911,103488,Ontario,Porsche 911 --Premium Pkg,2017
+Edmonton,53.535411,-113.507996,Porsche,15323,Porsche 911,173000,Alberta,Porsche 911 Turbo S ,2017
+Langley,49.10647185,-122.550131156815,Porsche,500,Porsche Unlisted,269990,British Columbia,Porsche Unlisted Item 911,2017
+Vancouver,49.2608724,-123.1139529,Porsche,19000,Porsche Panamera,108995,British Columbia,Porsche Panamera,2017
+Oakville,43.447436,-79.666672,Porsche,48958,Porsche 911,107999,Ontario,Porsche 911 Carrera 4S,2017
+Langley,49.10647185,-122.550131156815,Porsche,35328,Porsche 911,103894,British Columbia,Porsche 911 Carrera Coupe ,2017
+London,42.9537654,-81.2291529,Porsche,3165,Porsche 911,103498,Ontario,Porsche 911 Carrera Coupe ,2017
+Halifax,44.8543667,-63.137798,Porsche,6800,Porsche 911,115990,Nova Scotia,Porsche 911 Carrera S,2017
+Burnaby,49.2433804,-122.9725459,Porsche,18000,Porsche Macan,75800,British Columbia,Porsche Macan Turbo,2017
+Richmond,49.163168,-123.137414,Porsche,16806,Porsche 718,75388,British Columbia,Porsche 718 Boxster S PDK,2017
+Oakville,43.447436,-79.666672,Porsche,23011,Porsche 911,118000,Ontario,Porsche 911 Carrera S Coupe ,2017
+Langley,49.10647185,-122.550131156815,Porsche,14545,Porsche 911,149994,British Columbia,Porsche 911 Carrera Coupe GTS PDK Porsche Approved Certified ,2017
+Winnipeg,49.884017,-97.168579,Porsche,52348,Porsche Macan,75888,Manitoba,Porsche Macan Turbo,2017
+North York,43.7708175,-79.4132998,Porsche,56000,Porsche Cayenne,73988,Ontario,Porsche Cayenne GTS,2017
+Montréal,45.4972159,-73.6103642,Porsche,45,Porsche Cayenne,118999,Québec,Porsche Cayenne GTS,2017
+North York,43.7708175,-79.4132998,Porsche,94000,Porsche Macan,53888,Ontario,Porsche Macan GTS PREMIUM PACKAGE PLUS,2017
+Oakville,43.447436,-79.666672,Porsche,29801,Porsche 911,119000,Ontario,Porsche 911 Carrera 4S Coupe PDK ,2017
+Montréal,45.4972159,-73.6103642,Porsche,35800,Porsche Boxster,76888,Québec,Porsche Boxster S,2017
+Laval,45.60558895,-73.7344173056906,Porsche,22815,Porsche 911,169900,Québec,Porsche 911 911 Turbo PDCC,2017
+Montréal,45.4972159,-73.6103642,Porsche,9748,Porsche 911,169900,Québec,Porsche 911 Turbo - JUST ARRIVED!,2017
+Montréal,45.4972159,-73.6103642,Porsche,25457,Porsche 911,169888,Québec,Porsche 911 Turbo Coupe                        20&quot; 911 Tu,2017
+Toronto,43.653963,-79.387207,Porsche,17987,Porsche 911,167777,Ontario,Porsche 911 Turbo Cabriolet PDK,2017
+Ottawa,45.421106,-75.690308,Porsche,12835,Porsche Cayenne,83888,Ontario,Porsche Cayenne S w,2017
+Langley,49.10647185,-122.550131156815,Porsche,27628,Porsche Cayenne,80894,British Columbia,Porsche Cayenne S e-Hybrid Platinum Edition Porsche Approved Certi,2017
+Halifax,44.8543667,-63.137798,Porsche,16085,Porsche Cayenne,79989,Nova Scotia,Porsche Cayenne S 4x4,2017
+Vaughan,43.820904,-79.5084,Porsche,58000,Porsche Cayenne,79910,Ontario,Porsche Cayenne KEYLESS START ,2017
+Vancouver,49.2608724,-123.1139529,Porsche,22296,Porsche 718,76995,British Columbia,Porsche 718 Boxster,2017
+Montréal,45.4972159,-73.6103642,Porsche,6720,Porsche Cayenne,82888,Québec,Porsche Cayenne S Pre-owned vehicle 2017 Porsche Cayenne S E-Hybri,2017
+Laval,45.60558895,-73.7344173056906,Porsche,57500,Porsche Cayenne,63996,Québec,Porsche Cayenne AWD HYBRID NAVIGATION - Toit Ouvrant - A,2017
+Montréal,45.4972159,-73.6103642,Porsche,10500,Porsche Cayman,73000,Québec,Porsche Cayman S,2017
+Montréal,45.4972159,-73.6103642,Porsche,18500,Porsche 911,131500,Québec,Porsche 911 Carrera GTS 4S              Pre-owned vehicle 2017,2017
+Oakville,43.447436,-79.666672,Porsche,24027,Porsche 911,124995,Ontario,Porsche 911 4S ,2017
+Calgary,51.02532675,-114.049868485806,Porsche,37000,Porsche 718,59995,Alberta,Porsche 718 Cayman 6 SPEED MANUAL,2017
+Laval,45.60558895,-73.7344173056906,Porsche,77000,Porsche Macan,47900,Québec,Porsche Macan Panoramique,2017
+Vaughan,43.820904,-79.5084,Porsche,59121,Porsche Macan,59910,Ontario,Porsche Macan GTS ,2017
+Laval,45.60558895,-73.7344173056906,Porsche,58750,Porsche Cayenne,59900,Québec,"Porsche Cayenne Platinum Panoramique 21""",2017
+Ottawa,45.421106,-75.690308,Porsche,49300,Porsche Cayenne,59900,Ontario,Porsche Cayenne Platinum Edition-nav-camera-49k,2017
+Vaughan,43.820904,-79.5084,Porsche,21800,Porsche Macan,48900,Ontario,Porsche Macan,2017
+Guelph,43.533783,-80.2306337,Porsche,52000,Porsche Cayenne,59888,Ontario,Porsche Cayenne S E-Hybrid Platinum Edition Premium Package,2017
+Toronto,43.653963,-79.387207,Porsche,79000,Porsche Cayenne,48900,Ontario,Porsche Cayenne Nav Camera Ventilated Seats Bose Panoramic Sunroof,2017
+Kelowna,49.889326,-119.498291,Porsche,21025,Porsche 911,129990,British Columbia,Porsche 911 Carrera GTS,2017
+Burlington,43.3248924,-79.7966835,Porsche,14119,Porsche 911,129988,Ontario,Porsche 911 Carrera 4S,2017
+Vancouver,49.2608724,-123.1139529,Porsche,31500,Porsche Cayenne,59495,British Columbia,Porsche Cayenne w,2017
+Laval,45.60558895,-73.7344173056906,Porsche,95976,Porsche Macan,59900,Québec,Porsche Macan Turbo,2017
+Vancouver,49.2608724,-123.1139529,Porsche,16590,Porsche 911,124991,British Columbia,Porsche 911 Carrera 4S Coupe -Safety-,2017
+Vaughan,43.820904,-79.5084,Porsche,70572,Porsche Macan,47275,Ontario,Porsche Macan --Accident Free!,2017
+Vancouver,49.2608724,-123.1139529,Porsche,20564,Porsche 718,61985,British Columbia,Porsche 718 Boxster PDK,2017
+North York,43.7708175,-79.4132998,Porsche,30000,Porsche Macan,45880,Ontario,Porsche Macan PREM PLUS,2017
+North York,43.7708175,-79.4132998,Porsche,25000,Porsche Macan,45899,Ontario,Porsche Macan SPORT,2017
+Ottawa,45.421106,-75.690308,Porsche,3731,Porsche 911,133300,Ontario,Porsche 911 Carrera 4S Coupe PDK,2017
+Ottawa,45.421106,-75.690308,Porsche,11055,Porsche 911,132200,Ontario,Porsche 911 Carrera S Cabriolet ,2017
+Montréal,45.4972159,-73.6103642,Porsche,8900,Porsche Cayenne,61888,Québec,Porsche Cayenne Base Pre-owned vehicle 2017 Porsche Cayenne Platin,2017
+Montréal,45.4972159,-73.6103642,Porsche,44764,Porsche Macan,45995,Québec,Porsche Macan,2017
+Langley,49.10647185,-122.550131156815,Porsche,40201,Porsche Cayenne,60900,British Columbia,Porsche Cayenne Platinum Edition $615.53 Biweekly,2017
+Langley,49.10647185,-122.550131156815,Porsche,32135,Porsche 718,60894,British Columbia,Porsche 718 Boxster PDK Porsche Approved Certified ,2017
+Langley,49.10647185,-122.550131156815,Porsche,41333,Porsche Macan,60894,British Columbia,Porsche Macan S Porsche Approved Certified ,2017
+Laval,45.60558895,-73.7344173056906,Porsche,36700,Porsche 911,124900,Québec,Porsche 911 Cabriolet Carrera S,2017
+Concord,45.452798,-62.7905136,Porsche,59000,Porsche Cayenne,55100,Nova Scotia,Porsche Cayenne PLATINUM EDITION PREMIUM PKG NAVIGATION BACKUP,2017
+Laval,45.60558895,-73.7344173056906,Porsche,32785,Porsche Macan,51900,Québec,Porsche Macan Panoramic Premium Package,2017
+Concord,45.452798,-62.7905136,Porsche,46446,Porsche Macan,51950,Nova Scotia,Porsche Macan Premium Plus,2017
+Thornhill,43.8161477,-79.4245925,Porsche,47345,Porsche 911,128887,Ontario,Porsche 911 Targa 4S,2017
+Vaughan,43.820904,-79.5084,Porsche,74809,Porsche Cayenne,52000,Ontario,Porsche Cayenne - Porsche Certified ,2017
+Montréal,45.4972159,-73.6103642,Porsche,8500,Porsche Macan,54888,Québec,Porsche Macan Base,2017
+Montréal,45.4972159,-73.6103642,Porsche,9500,Porsche Macan,54888,Québec,Porsche Macan base Pre-owned vehicle 2017 Porsche Macan &nb,2017
+Langley,49.10647185,-122.550131156815,Porsche,9860,Porsche 911,128994,British Columbia,Porsche 911 Carrera S Coupe ,2017
+Vaughan,43.820904,-79.5084,Porsche,37484,Porsche Cayenne,55808,Ontario,Porsche Cayenne w,2017
+Richmond,49.163168,-123.137414,Porsche,23481,Porsche 911,127990,British Columbia,Porsche 911 Carrera 4S Cabriolet PDK WELL EQUIPPED AND WELL MA,2017
+Ottawa,45.421106,-75.690308,Porsche,14667,Porsche 911,125900,Ontario,Porsche 911 Carrera 4S Coupe PDK,2017
+Richmond,49.163168,-123.137414,Porsche,67313,Porsche Macan,49888,British Columbia,Porsche Macan 2017 Porsche Macan - AWD 4dr S,2017
+Laval,45.60558895,-73.7344173056906,Porsche,83297,Porsche Macan,49900,Québec,Porsche Macan S,2017
+Laval,45.60558895,-73.7344173056906,Porsche,65000,Porsche Macan,49900,Québec,Porsche Macan Panoramique,2017
+Laval,45.60558895,-73.7344173056906,Porsche,39407,Porsche Panamera,129900,Québec,Porsche Panamera Turbo,2017
+Laval,45.60558895,-73.7344173056906,Porsche,17711,Porsche 911,129900,Québec,Porsche 911 Targa 4 - Ensemble Sport Chrono,2017
+Oakville,43.447436,-79.666672,Porsche,20010,Porsche Cayenne,58888,Ontario,Porsche Cayenne,2017
+Laval,45.60558895,-73.7344173056906,Porsche,49770,Porsche Macan,49900,Québec,Porsche Macan,2017
+Regina,50.44876,-104.61731,Porsche,18301,Porsche Macan,57995,Saskatchewan,Porsche Macan S,2017
+Toronto,43.653963,-79.387207,Porsche,88667,Porsche Macan,57995,Ontario,Porsche Macan Turbo ,2017
+Montréal,45.4972159,-73.6103642,Porsche,31780,Porsche Cayenne,57888,Québec,Porsche Cayenne platinum edition Pre-owned vehicle 2017 Porsche Ca,2017
+Concord,45.452798,-62.7905136,Porsche,9572,Porsche Macan,57800,Nova Scotia,Porsche Macan Premium Plus,2017
+Langley,49.10647185,-122.550131156815,Porsche,50483,Porsche Cayenne,57794,British Columbia,Porsche Cayenne w,2017
+Vancouver,49.2608724,-123.1139529,Porsche,17598,Porsche Macan,49995,British Columbia,Porsche Macan,2017
+Victoriaville,46.0573705,-71.9536674,Porsche,45141,Porsche Macan,49995,Québec,Porsche Macan AWD Pneus 20'' TURBO,2017
+Montréal,45.4972159,-73.6103642,Porsche,50850,Porsche Cayenne,56991,Québec,Porsche Cayenne 2017 Porsche Cayenne ,2017
+Mississauga,43.590338,-79.645729,Porsche,23423,Porsche 718,61995,Ontario,Porsche 718 Boxster,2017
+Toronto,43.653963,-79.387207,Porsche,21000,Porsche Macan,45800,Ontario,Porsche Macan PREMIUM PLUS PKG!!!PANO!!!APPLE CAR PLAY!!!,2017
+Toronto,43.653963,-79.387207,Porsche,71536,Porsche Cayenne,51888,Ontario,Porsche Cayenne Platinum Edition,2017
+Oakville,43.447436,-79.666672,Porsche,70340,Porsche Macan,45000,Ontario,Porsche Macan,2017
+Terrebonne,45.7081005,-73.6515157,Porsche,13265,Porsche 911,135600,Québec,Porsche 911 CARRERA 4S ,2017
+Montréal,45.4972159,-73.6103642,Porsche,15447,Porsche Cayenne,62888,Québec,Porsche Cayenne Base,2017
+Langley,49.10647185,-122.550131156815,Porsche,39235,Porsche Cayenne,63894,British Columbia,Porsche Cayenne w,2017
+Mont-Royal,45.5086157,-73.5903112,Porsche,55865,Porsche Macan,44995,Québec,Porsche Macan AWD w Panoramic Roof,2017
+Montréal,45.4972159,-73.6103642,Porsche,11123,Porsche 911,124888,Québec,Porsche 911 Carrera S Coupe Pre-owned vehicle 2017 Porsche 911,2017
+Laval,45.60558895,-73.7344173056906,Porsche,54000,Porsche Cayenne,62900,Québec,Porsche Cayenne Platinum Edition -Toit ouvrant panoramique,2017
+Toronto,43.653963,-79.387207,Porsche,68000,Porsche Macan,43800,Ontario,Porsche Macan PREMIUM PLUS PKG!!!PANO,2017
+Dollard-Des-Ormeaux,45.48423,-73.8064547,Porsche,32000,Porsche Macan,44888,Québec,Porsche Macan TOIT PANO ,2017
+Mississauga,43.590338,-79.645729,Porsche,29359,Porsche Cayenne,62888,Ontario,Porsche Cayenne Platinum Edition,2017
+Oakville,43.447436,-79.666672,Porsche,45981,Porsche Macan,44488,Ontario,Porsche Macan Navigation,2017
+Kitchener,43.453168,-80.494423,Porsche,56440,Porsche Macan,44994,Ontario,Porsche Macan NAVIGATION ,2017
+North York,43.7708175,-79.4132998,Porsche,123306,Porsche Cayenne,44800,Ontario,Porsche Cayenne AWD,2017
+Vaughan,43.820904,-79.5084,Porsche,23155,Porsche 911,133798,Ontario,Porsche 911 4S Cabriolet --BOSE,2017
+Mississauga,43.590338,-79.645729,Porsche,68731,Porsche Macan,44995,Ontario,Porsche Macan S S,2017
+Kirkland,45.4529194,-73.8647559,Porsche,39852,Porsche Panamera,137900,Québec,Porsche Panamera Turbo,2017
+London,42.9537654,-81.2291529,Porsche,10890,Porsche 718,89998,Ontario,Porsche 718 Boxster GTS PDK ,2018
+Halifax,44.8543667,-63.137798,Porsche,10500,Porsche Cayman,89990,Nova Scotia,Porsche Cayman GTS,2018
+Vaughan,43.820904,-79.5084,Porsche,10351,Porsche 911,178975,Ontario,Porsche 911 --Low KMS!,2018
+Vancouver,49.2608724,-123.1139529,Porsche,5300,Porsche 718,94995,British Columbia,Porsche 718 Cayman PDK,2018
+Vaughan,43.820904,-79.5084,Porsche,10263,Porsche Panamera,178800,Ontario,Porsche Panamera Turbo S e-Hybrid Sport Turismo -- Low KMS! CPO,2018
+London,42.9537654,-81.2291529,Porsche,3980,Porsche 911,192998,Ontario,Porsche 911 GT3 w,2018
+Vancouver,49.2608724,-123.1139529,Porsche,14952,Porsche Macan,57995,British Columbia,Porsche Macan,2018
+Vaughan,43.820904,-79.5084,Porsche,26078,Porsche Macan,58763,Ontario,Porsche Macan,2018
+Langley,49.10647185,-122.550131156815,Porsche,1169,Porsche Macan,90169,British Columbia,Porsche Macan S,2018
+Vancouver,49.2608724,-123.1139529,Porsche,2500,Porsche 911,179800,British Columbia,Porsche 911 Turbo,2018
+Kirkland,45.4529194,-73.8647559,Porsche,30196,Porsche Macan,94900,Québec,Porsche Macan Turbo Performance Package,2018
+Laval,45.60558895,-73.7344173056906,Porsche,14700,Porsche 911,137900,Québec,Porsche 911 4S Coupe Sport Exhaust,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,57750,Québec,Porsche Macan,2018
+Aurora,43.99973,-79.467545,Porsche,17986,Porsche Macan,57689,Ontario,Porsche Macan ,2018
+Calgary,51.02532675,-114.049868485806,Porsche,11500,Porsche 911,179516,Alberta,Porsche 911 - Low Mileage ,2018
+Toronto,43.653963,-79.387207,Porsche,2294,Porsche 911,187800,Ontario,Porsche 911 Turbo ,2018
+Vaughan,43.820904,-79.5084,Porsche,16173,Porsche Macan,57500,Ontario,Porsche Macan --Low KMS,2018
+Ottawa,45.421106,-75.690308,Porsche,9195,Porsche 718,91400,Ontario,Porsche 718 Boxster GTS PDK,2018
+Montréal,45.4972159,-73.6103642,Porsche,21500,Porsche 911,179888,Québec,Porsche 911 GT3 Pre-owned vehicle 2018 Porsche 911 GT3 &n,2018
+North York,43.7708175,-79.4132998,Porsche,46000,Porsche Panamera,89988,Ontario,Porsche Panamera 4 PREMIUM PLUS PKG,2018
+Vancouver,49.2608724,-123.1139529,Porsche,5763,Porsche Macan,61995,British Columbia,Porsche Macan,2018
+Laval,45.60558895,-73.7344173056906,Porsche,9088,Porsche 911,129900,Québec,Porsche 911 Carrera S Sport Chrono BOSE PDLS,2018
+Vaughan,43.820904,-79.5084,Porsche,26972,Porsche Cayenne,87000,Ontario,Porsche Cayenne -Accident Free,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,59200,Québec,Porsche Macan,2018
+Toronto,43.653963,-79.387207,Porsche,7642,Porsche 911,166800,Ontario,Porsche 911 Targa 4S TechArt Pacakge! AWE Exhaust ,2018
+Langley,49.10647185,-122.550131156815,Porsche,10597,Porsche 718,87894,British Columbia,Porsche 718 Cayman S Porsche Approved Certified ,2018
+Vaughan,43.820904,-79.5084,Porsche,8019,Porsche 718,86888,Ontario,Porsche 718 Cayman - LOW KMS,2018
+Oakville,43.447436,-79.666672,Porsche,12432,Porsche Panamera,165000,Ontario,Porsche Panamera Turbo ,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,59200,Québec,Porsche Macan,2018
+Vaughan,43.820904,-79.5084,Porsche,11450,Porsche 911,129900,Ontario,Porsche 911 - CPO ,2018
+Laval,45.60558895,-73.7344173056906,Porsche,30953,Porsche Macan,85900,Québec,Porsche Macan Turbo Sport Exhaust,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,85651,Québec,Porsche Macan GTS,2018
+Laval,45.60558895,-73.7344173056906,Porsche,5213,Porsche 911,159900,Québec,Porsche 911 Carrera GTS Sport Exhaust MSRP $185,2018
+Laval,45.60558895,-73.7344173056906,Porsche,8520,Porsche 911,159900,Québec,Porsche 911 Carrera 4 GTS Coupe,2018
+Vancouver,49.2608724,-123.1139529,Porsche,6654,Porsche Macan,61995,British Columbia,Porsche Macan,2018
+Toronto,43.653963,-79.387207,Porsche,8065,Porsche 911,115888,Ontario,Porsche 911 ,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,65225,Québec,Porsche Macan Sport Edition,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,65225,Québec,Porsche Macan Sport Edition,2018
+Laval,45.60558895,-73.7344173056906,Porsche,9400,Porsche 718,89900,Québec,Porsche 718 Cayman S PDK Sport Exhaust,2018
+Oakville,43.447436,-79.666672,Porsche,22124,Porsche 911,170509,Ontario,Porsche 911 Carrera 4 GTS Cabriolet PDK ,2018
+Vancouver,49.2608724,-123.1139529,Porsche,10788,Porsche Macan,58900,British Columbia,Porsche Macan,2018
+Laval,45.60558895,-73.7344173056906,Porsche,6926,Porsche Panamera,169900,Québec,Porsche Panamera  Turbo AWD - PDK - Premium Package Plus,2018
+Mont-Royal,45.5086157,-73.5903112,Porsche,500,Porsche Macan,65770,Québec,Porsche Macan READY FOR WINTER - AWD - ALCANTARA INTERIOR!,2018
+Victoriaville,46.0573705,-71.9536674,Porsche,1364,Porsche 718,87995,Québec,Porsche 718 Boxster S Roadster,2018
+Vancouver,49.2608724,-123.1139529,Porsche,15000,Porsche 718,89900,British Columbia,Porsche 718 Cayman,2018
+Vaughan,43.820904,-79.5084,Porsche,1600,Porsche GT3,199900,Ontario,Porsche GT3  - LOW KMS ,2018
+Vaughan,43.820904,-79.5084,Porsche,300,Porsche 911,459000,Ontario,Porsche 911 GT2 RS -Weissach Seats,2018
+Ottawa,45.421106,-75.690308,Porsche,19889,Porsche 911,111900,Ontario,Porsche 911 Carrera 4 Coupe PDK,2018
+Oakville,43.447436,-79.666672,Porsche,5600,Porsche 911,129000,Ontario,Porsche 911 Carrera S Coupe ,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,63250,Québec,Porsche Macan,2018
+Woodbridge,43.7848982,-79.5923855,Porsche,2971,Porsche 911,468888,Ontario,Porsche 911 GT2 RS,2018
+Oakville,43.447436,-79.666672,Porsche,44499,Porsche Macan,52000,Ontario,Porsche Macan ,2018
+Saint-Laurent,45.5032702,-73.7254477,Porsche,14100,Porsche 718,62990,Québec,Porsche 718 Cayman Coupe JAMAIS ACCIDENTE!,2018
+Vaughan,43.820904,-79.5084,Porsche,19678,Porsche Macan,64900,Ontario,Porsche Macan --Low KMS! Accident Free,2018
+Oakville,43.447436,-79.666672,Porsche,10512,Porsche Panamera,128886,Ontario,Porsche Panamera 4S ,2018
+Vancouver,49.2608724,-123.1139529,Porsche,2312,Porsche 911,239995,British Columbia,Porsche 911,2018
+Vancouver,49.2608724,-123.1139529,Porsche,1870,Porsche Panamera,128800,British Columbia,Porsche Panamera 4 E-Hybrid Sport Turismo,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,64900,Québec,Porsche Macan Sport Edition,2018
+Vaughan,43.820904,-79.5084,Porsche,2500,Porsche 911,229900,Ontario,Porsche 911 Turbo S Coupe PDK,2018
+Kelowna,49.889326,-119.498291,Porsche,5060,Porsche 911,109990,British Columbia,Porsche 911 Carrera Manual,2018
+Thornhill,43.8161477,-79.4245925,Porsche,3407,Porsche 911,488888,Ontario,Porsche 911 GT2 RS,2018
+Montréal,45.4972159,-73.6103642,Porsche,2400,Porsche 911,138888,Québec,Porsche 911 Carrera T                        Auto-Dimming Mirr,2018
+Laval,45.60558895,-73.7344173056906,Porsche,41226,Porsche Panamera,114900,Québec,Porsche Panamera sport turismo 4S  - Sport Exhaust Sport Design,2018
+Burlington,43.3248924,-79.7966835,Porsche,11441,Porsche Macan,63999,Ontario,Porsche Macan SPORT EDITION NAVIGATION PANOROOF LEATHER 20 INCH,2018
+Oakville,43.447436,-79.666672,Porsche,32605,Porsche Macan,53000,Ontario,Porsche Macan,2018
+Burlington,43.3248924,-79.7966835,Porsche,37900,Porsche Macan,53950,Ontario,Porsche Macan l SPORT CHRONO l PANO ROOF l HEATED SEATS,2018
+Kirkland,45.4529194,-73.8647559,Porsche,455,Porsche 911,639900,Québec,Porsche 911 GT2 RS Weissach Package,2018
+Kirkland,45.4529194,-73.8647559,Porsche,88,Porsche 911,549900,Québec,Porsche 911 GT2 RS Weissach Package,2018
+Kirkland,45.4529194,-73.8647559,Porsche,75,Porsche 911,549900,Québec,Porsche 911 GT2 RS Weissach Package,2018
+Oakville,43.447436,-79.666672,Porsche,22458,Porsche Macan,54000,Ontario,Porsche Macan,2018
+Kirkland,45.4529194,-73.8647559,Porsche,420,Porsche 911,539900,Québec,Porsche 911 GT2 RS Weissach Package,2018
+Oakville,43.447436,-79.666672,Porsche,2581,Porsche 911,538900,Ontario,Porsche 911 GT2 RS ,2018
+Laval,45.60558895,-73.7344173056906,Porsche,990,Porsche 911,525000,Québec,Porsche 911 GT2 RS,2018
+Vancouver,49.2608724,-123.1139529,Porsche,950,Porsche 911,512995,British Columbia,Porsche 911 Weissach Package,2018
+Vancouver,49.2608724,-123.1139529,Porsche,433,Porsche 911,512995,British Columbia,Porsche 911 with Weissach Package,2018
+Montréal,45.4972159,-73.6103642,Porsche,215,Porsche 911,509900,Québec,Porsche 911 GT2 RS - WEISSACH - SOLD! VENDU!,2018
+Langley,49.10647185,-122.550131156815,Porsche,613,Porsche 911,488994,British Columbia,Porsche 911 GT2 RS Paint to Sample 'Slate Grey'!,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,64995,Québec,Porsche Macan,2018
+Oakville,43.447436,-79.666672,Porsche,2861,Porsche 911,209000,Ontario,Porsche 911 GT3 ,2018
+Halifax,44.8543667,-63.137798,Porsche,10325,Porsche Cayenne,99989,Nova Scotia,Porsche Cayenne GTS AWD,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,65000,Québec,Porsche Macan Sport Edition,2018
+Montréal,45.4972159,-73.6103642,Porsche,2200,Porsche 911,204000,Québec,Porsche 911 Turbo Cabriolet                        Burmester&r,2018
+Montréal,45.4972159,-73.6103642,Porsche,1162,Porsche 911,203888,Québec,Porsche 911 GT3 Pre-owned vehicle 2018 Porsche 911 GT3 &n,2018
+Vaughan,43.820904,-79.5084,Porsche,3364,Porsche 718,99900,Ontario,Porsche 718 Cayman GTS,2018
+Langley,49.10647185,-122.550131156815,Porsche,20407,Porsche Cayenne,99894,British Columbia,Porsche Cayenne GTS w,2018
+London,42.9537654,-81.2291529,Porsche,22932,Porsche 911,199998,Ontario,Porsche 911 Turbo S Cabriolet PDK ,2018
+Oakville,43.447436,-79.666672,Porsche,16998,Porsche 911,99750,Ontario,Porsche 911 CARRERA Automatic Sunroof Sport Chrono Package,2018
+Montréal,45.4972159,-73.6103642,Porsche,25,Porsche 718,99000,Québec,Porsche 718 Cayman GTS,2018
+Laval,45.60558895,-73.7344173056906,Porsche,4200,Porsche 911,199900,Québec,Porsche 911 GT3 PDK Bucket seats,2018
+Kirkland,45.4529194,-73.8647559,Porsche,9457,Porsche 911,199900,Québec,Porsche 911 GT3 Modified,2018
+Kirkland,45.4529194,-73.8647559,Porsche,7232,Porsche 911,199900,Québec,Porsche 911 GT3,2018
+Vaughan,43.820904,-79.5084,Porsche,25052,Porsche 911,199000,Ontario,Porsche 911 - LOW KMS ,2018
+North York,43.7708175,-79.4132998,Porsche,8000,Porsche 911,129880,Ontario,Porsche 911 4S,2018
+Oakville,43.447436,-79.666672,Porsche,5698,Porsche 911,197000,Ontario,Porsche 911 GT3,2018
+Vaughan,43.820904,-79.5084,Porsche,3102,Porsche GT3,209075,Ontario,Porsche GT3 - LOW KMS,2018
+Montréal,45.4972159,-73.6103642,Porsche,10500,Porsche Cayenne,97888,Québec,Porsche Cayenne GTS                        14-Way Power Seats with,2018
+Laval,45.60558895,-73.7344173056906,Porsche,5900,Porsche 911,209900,Québec,Porsche 911 Turbo S Coupe,2018
+Vaughan,43.820904,-79.5084,Porsche,17100,Porsche Panamera,101488,Ontario,Porsche Panamera 4 Sport Turismo --LED Headlights,2018
+Oakville,43.447436,-79.666672,Porsche,10168,Porsche 911,224000,Ontario,Porsche 911 GT3 ,2018
+North York,43.7708175,-79.4132998,Porsche,18518,Porsche Cayenne,64950,Ontario,Porsche Cayenne AWD ,2018
+Montréal,45.4972159,-73.6103642,Porsche,957,Porsche 911,223888,Québec,Porsche 911 GT3 Pre-owned vehicle 2018 Porsche 911 GT3 &n,2018
+Woodbridge,43.7848982,-79.5923855,Porsche,1720,Porsche 911,219985,Ontario,Porsche 911 GT3 TOURING,2018
+Aurora,43.99973,-79.467545,Porsche,30553,Porsche Macan,64989,Ontario,Porsche Macan S,2018
+Laval,45.60558895,-73.7344173056906,Porsche,6870,Porsche 911,219900,Québec,Porsche 911 Turbo S Aero Kit & Burmester,2018
+Vaughan,43.820904,-79.5084,Porsche,185,Porsche GT3,219075,Ontario,Porsche GT3 --Custom Exterior Paint! Interior Stitching!,2018
+Montréal,45.4972159,-73.6103642,Porsche,25,Porsche Boxster,104900,Québec,Porsche Boxster GTS Porsche Prestige vous offre fi&egrave;rement c,2018
+Leduc,53.2607636,-113.5501238,Porsche,19977,Porsche Cayenne,64995,Alberta,Porsche Cayenne PLATINUM EDITION ,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,56150,Québec,Porsche Macan,2018
+Ottawa,45.421106,-75.690308,Porsche,692,Porsche 911,218800,Ontario,Porsche 911 GT3 w,2018
+Laval,45.60558895,-73.7344173056906,Porsche,10300,Porsche 911,127900,Québec,Porsche 911 S - SPOST EXHAUST,2018
+Mont-Royal,45.5086157,-73.5903112,Porsche,500,Porsche Panamera,129770,Québec,Porsche Panamera 2018 Porsche Panamera - 4 AWD,2018
+Toronto,43.653963,-79.387207,Porsche,3122,Porsche Panamera,129800,Ontario,Porsche Panamera E-Hybrid Sport Turismo 4 ,2018
+Vancouver,49.2608724,-123.1139529,Porsche,2300,Porsche 911,212995,British Columbia,Porsche 911 6spd manual with Front Axle Lift,2018
+Vancouver,49.2608724,-123.1139529,Porsche,3667,Porsche 911,212995,British Columbia,Porsche 911,2018
+Toronto,43.653963,-79.387207,Porsche,21255,Porsche Panamera,127800,Ontario,Porsche Panamera Sport Turismo 4S ,2018
+Vaughan,43.820904,-79.5084,Porsche,31000,Porsche Cayenne,73238,Ontario,Porsche Cayenne --Premium Pkg,2018
+Vaughan,43.820904,-79.5084,Porsche,34842,Porsche Macan,60388,Ontario,Porsche Macan S,2018
+Vancouver,49.2608724,-123.1139529,Porsche,10853,Porsche 718,72995,British Columbia,Porsche 718 Cayman PDK ,2018
+Halifax,44.8543667,-63.137798,Porsche,8550,Porsche Cayenne,72990,Nova Scotia,Porsche Cayenne 4x4,2018
+Halifax,44.8543667,-63.137798,Porsche,10000,Porsche Cayenne,72990,Nova Scotia,Porsche Cayenne 4x4,2018
+Woodbridge,43.7848982,-79.5923855,Porsche,179,Porsche 911,139985,Ontario,Porsche 911 Carrera T Coupe,2018
+Vaughan,43.820904,-79.5084,Porsche,21937,Porsche Cayenne,72500,Ontario,Porsche Cayenne - LOW KMS ,2018
+Vaughan,43.820904,-79.5084,Porsche,21188,Porsche Cayenne,72500,Ontario,Porsche Cayenne,2018
+Langley,49.10647185,-122.550131156815,Porsche,17800,Porsche 911,135994,British Columbia,Porsche 911 Targa 4 PDK Porsche Approved Certified ,2018
+Vaughan,43.820904,-79.5084,Porsche,18667,Porsche 911,148873,Ontario,Porsche 911 Targa 4 GTS - Low KMS! Prem package,2018
+Longueuil,45.5172382,-73.4467466,Porsche,47426,Porsche Macan,71995,Québec,Porsche Macan 2018 Porsche Macan - GTS AWD NAVIGATION,2018
+Vancouver,49.2608724,-123.1139529,Porsche,6224,Porsche Macan,60995,British Columbia,Porsche Macan,2018
+Vancouver,49.2608724,-123.1139529,Porsche,7745,Porsche Macan,60995,British Columbia,Porsche Macan,2018
+St-Bruno,48.4719308,-71.653028,Porsche,9258,Porsche 718,71800,Québec,Porsche 718 Boxster LOOK INCROYABLE ,2018
+Ottawa,45.421106,-75.690308,Porsche,13789,Porsche Macan,71740,Ontario,Porsche Macan Sport Edition,2018
+Mississauga,43.590338,-79.645729,Porsche,4278,Porsche 911,146800,Ontario,Porsche 911 Carrera GTS,2018
+Montréal,45.4972159,-73.6103642,Porsche,25,Porsche 718,71600,Québec,Porsche 718 Cayman Coupe,2018
+Ottawa,45.421106,-75.690308,Porsche,1931,Porsche Macan,71100,Ontario,Porsche Macan Sport Edition,2018
+Vancouver,49.2608724,-123.1139529,Porsche,7129,Porsche Macan,70995,British Columbia,Porsche Macan,2018
+Vancouver,49.2608724,-123.1139529,Porsche,7879,Porsche Macan,60995,British Columbia,Porsche Macan,2018
+Vancouver,49.2608724,-123.1139529,Porsche,6882,Porsche Panamera,118995,British Columbia,Porsche Panamera Sport Turismo,2018
+Vaughan,43.820904,-79.5084,Porsche,13459,Porsche Macan,60288,Ontario,Porsche Macan,2018
+Toronto,43.653963,-79.387207,Porsche,7129,Porsche Panamera,123800,Ontario,Porsche Panamera 4S ,2018
+Langley,49.10647185,-122.550131156815,Porsche,14687,Porsche 911,149994,British Columbia,Porsche 911 Carrera Cabriolet GTS Demo Savings!  Porsche Appro,2018
+Oakville,43.447436,-79.666672,Porsche,14600,Porsche 911,149990,Ontario,Porsche 911 PDK,2018
+Laval,45.60558895,-73.7344173056906,Porsche,5400,Porsche 718,74900,Québec,Porsche 718 Cayman PDK Sport Exhaust,2018
+Thornhill,43.8161477,-79.4245925,Porsche,76,Porsche Macan,66995,Ontario,Porsche Macan S NAVI  SPORT CHRONO  PREMIUM PLUS PACKAGE,2018
+Mississauga,43.590338,-79.645729,Porsche,22759,Porsche Macan,74888,Ontario,Porsche Macan GTS,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,74000,Québec,Porsche Macan S,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,74000,Québec,Porsche Macan S,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,74000,Québec,Porsche Macan S,2018
+Vaughan,43.820904,-79.5084,Porsche,16333,Porsche Macan,62268,Ontario,Porsche Macan - Low KMS! Nav,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,62200,Québec,Porsche Macan,2018
+Montréal,45.4972159,-73.6103642,Porsche,24815,Porsche Macan,73900,Québec,Porsche Macan VENDU! - SOLD!,2018
+Mississauga,43.590338,-79.645729,Porsche,17388,Porsche 718,73888,Ontario,Porsche 718 Cayman S,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,70900,Québec,Porsche Macan S,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,70700,Québec,Porsche Macan S,2018
+Langley,49.10647185,-122.550131156815,Porsche,7526,Porsche Macan,70509,British Columbia,Porsche Macan Sport Edition Porsche Approved Certified ,2018
+Vaughan,43.820904,-79.5084,Porsche,25000,Porsche Macan,61898,Ontario,Porsche Macan,2018
+Mont-Royal,45.5086157,-73.5903112,Porsche,24700,Porsche Macan,69770,Québec,Porsche Macan 2018 Porsche Macan - S AWD,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,69700,Québec,Porsche Macan S,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,69700,Québec,Porsche Macan S,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,69700,Québec,Porsche Macan S,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,69700,Québec,Porsche Macan S,2018
+Ottawa,45.421106,-75.690308,Porsche,6484,Porsche Macan,69300,Ontario,Porsche Macan S,2018
+Vaughan,43.820904,-79.5084,Porsche,20681,Porsche Macan,61898,Ontario,Porsche Macan,2018
+Vaughan,43.820904,-79.5084,Porsche,33881,Porsche Macan,61898,Ontario,Porsche Macan,2018
+Vaughan,43.820904,-79.5084,Porsche,27976,Porsche Macan,61898,Ontario,Porsche Macan,2018
+Vancouver,49.2608724,-123.1139529,Porsche,8023,Porsche Macan,69830,British Columbia,Porsche Macan,2018
+Vancouver,49.2608724,-123.1139529,Porsche,6982,Porsche Macan,68995,British Columbia,Porsche Macan with Apple Carplay,2018
+Vaughan,43.820904,-79.5084,Porsche,18941,Porsche Macan,61898,Ontario,Porsche Macan,2018
+Oakville,43.447436,-79.666672,Porsche,3440,Porsche 911,134999,Ontario,Porsche 911 Carrera 4S,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,61950,Québec,Porsche Macan,2018
+Vancouver,49.2608724,-123.1139529,Porsche,6622,Porsche Macan,61995,British Columbia,Porsche Macan,2018
+Vancouver,49.2608724,-123.1139529,Porsche,6555,Porsche Macan,61995,British Columbia,Porsche Macan,2018
+Oakville,43.447436,-79.666672,Porsche,29500,Porsche Cayenne,67995,Ontario,Porsche Cayenne Premium Package Lane Change Assist Pano Roof,2018
+Vaughan,43.820904,-79.5084,Porsche,21459,Porsche Macan,61700,Ontario,Porsche Macan -- CPO certified,2018
+Montréal,45.4972159,-73.6103642,Porsche,25,Porsche 718,70500,Québec,Porsche 718 Cayman Coupe,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,70450,Québec,Porsche Macan S,2018
+Vancouver,49.2608724,-123.1139529,Porsche,7849,Porsche Macan,60995,British Columbia,Porsche Macan,2018
+Vaughan,43.820904,-79.5084,Porsche,18500,Porsche 911,145000,Ontario,Porsche 911 --Low KMS,2018
+Ottawa,45.421106,-75.690308,Porsche,7688,Porsche Macan,70400,Ontario,Porsche Macan S,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,70050,Québec,Porsche Macan S,2018
+Vaughan,43.820904,-79.5084,Porsche,19710,Porsche Macan,62063,Ontario,Porsche Macan --Low KMS,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,70000,Québec,Porsche Macan S,2018
+Vancouver,49.2608724,-123.1139529,Porsche,7296,Porsche Macan,69995,British Columbia,Porsche Macan,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,61200,Québec,Porsche Macan,2018
+Aurora,43.99973,-79.467545,Porsche,24708,Porsche Macan,67989,Ontario,Porsche Macan S,2018
+Laval,45.60558895,-73.7344173056906,Porsche,5109,Porsche Panamera,119900,Québec,Porsche Panamera Sport Turismo AWD Premium Package Plus,2018
+Langley,49.10647185,-122.550131156815,Porsche,12400,Porsche 911,135794,British Columbia,Porsche 911 Carrera 4S Coupe PDK Porsche Approved Certified ,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,61600,Québec,Porsche Macan,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,61600,Québec,Porsche Macan,2018
+Vaughan,43.820904,-79.5084,Porsche,23376,Porsche Macan,61700,Ontario,Porsche Macan --Low kms! Accident Free,2018
+Vaughan,43.820904,-79.5084,Porsche,28557,Porsche Macan,61700,Ontario,Porsche Macan --Low KMS! Accident Free,2018
+Montréal,45.4972159,-73.6103642,Porsche,18900,Porsche Macan,69900,Québec,Porsche Macan S,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,61200,Québec,Porsche Macan,2018
+Vaughan,43.820904,-79.5084,Porsche,13800,Porsche Panamera,116063,Ontario,Porsche Panamera 4 e-Hybrid Sport Turismo 4 e-Hybrid Sport Turismo,2018
+Oakville,43.447436,-79.666672,Porsche,4758,Porsche 911,159000,Ontario,Porsche 911 Carrera 4 GTS Coupe PDK,2018
+Aurora,43.99973,-79.467545,Porsche,11901,Porsche Macan,59702,Ontario,Porsche Macan NAV,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,78465,Québec,Porsche Macan S,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,59200,Québec,Porsche Macan,2018
+Vancouver,49.2608724,-123.1139529,Porsche,1832,Porsche 911,135995,British Columbia,Porsche 911 with Sport Exhaust,2018
+Oakville,43.447436,-79.666672,Porsche,5734,Porsche 911,159000,Ontario,Porsche 911 Carrera 4 GTS Coupe PDK ,2018
+Mont-Royal,45.5086157,-73.5903112,Porsche,14707,Porsche 911,158770,Québec,Porsche 911 ALCANTARA PACKAGE - GTS - READY FOR THE ROAD!,2018
+Vancouver,49.2608724,-123.1139529,Porsche,7723,Porsche 718,79995,British Columbia,Porsche 718 Cayman,2018
+Ottawa,45.421106,-75.690308,Porsche,5907,Porsche 911,158500,Ontario,Porsche 911 Targa 4S PDK,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,59750,Québec,Porsche Macan,2018
+Langley,49.10647185,-122.550131156815,Porsche,10349,Porsche Macan,79994,British Columbia,Porsche Macan GTS Porsche Approved Certified ,2018
+Oakville,43.447436,-79.666672,Porsche,9028,Porsche 911,158000,Ontario,Porsche 911 Carrera Cabriolet GTS PDK ,2018
+Vancouver,49.2608724,-123.1139529,Porsche,14127,Porsche Macan,80995,British Columbia,Porsche Macan,2018
+London,42.9537654,-81.2291529,Porsche,13572,Porsche 718,80998,Ontario,Porsche 718 Cayman S ,2018
+Montréal,45.4972159,-73.6103642,Porsche,51701,Porsche Panamera,139900,Québec,Porsche Panamera Turbo AWD - JUST ARRIVED!,2018
+Laval,45.60558895,-73.7344173056906,Porsche,13023,Porsche 911,157900,Québec,Porsche 911 Carrera GTS Green Manual trans. Sport Exaust,2018
+Vaughan,43.820904,-79.5084,Porsche,12710,Porsche Macan,62688,Ontario,Porsche Macan --Low KMS! Nav,2018
+London,42.9537654,-81.2291529,Porsche,11275,Porsche 718,80998,Ontario,Porsche 718 Cayman S ,2018
+Laval,45.60558895,-73.7344173056906,Porsche,14427,Porsche Cayenne,79900,Québec,Porsche Cayenne S E-Hybrid Premium Package PLUS,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,62600,Québec,Porsche Macan,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,59200,Québec,Porsche Macan,2018
+Langley,49.10647185,-122.550131156815,Porsche,1032,Porsche Macan,78819,British Columbia,Porsche Macan S,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,62350,Québec,Porsche Macan,2018
+Vaughan,43.820904,-79.5084,Porsche,15676,Porsche Cayenne,83898,Ontario,Porsche Cayenne --Air suspension,2018
+Mont-Royal,45.5086157,-73.5903112,Porsche,100,Porsche 911,159770,Québec,Porsche 911 Carrera 4S LOADED,2018
+Mont-Royal,45.5086157,-73.5903112,Porsche,500,Porsche Macan,77770,Québec,Porsche Macan MACAN S - RED LEATHER INTERIOR - FULLY LOADED,2018
+Vaughan,43.820904,-79.5084,Porsche,11000,Porsche 911,130000,Ontario,Porsche 911 --Low KMS!,2018
+Concord,45.452798,-62.7905136,Porsche,17135,Porsche Macan,66800,Nova Scotia,Porsche Macan Sport Edition,2018
+Vancouver,49.2608724,-123.1139529,Porsche,3830,Porsche 718,75985,British Columbia,Porsche 718 Boxster S ,2018
+Montréal,45.4972159,-73.6103642,Porsche,30,Porsche Macan,62600,Québec,Porsche Macan,2018
+Toronto,43.653963,-79.387207,Porsche,47,Porsche 911,326042,Ontario,Porsche 911 GT3 RS,2019
+Vaughan,43.820904,-79.5084,Porsche,5613,Porsche 911,141403,Ontario,Porsche 911 --Low KMS! CPO,2019
+Ottawa,45.421106,-75.690308,Porsche,686,Porsche 911,289900,Ontario,Porsche 911 GT3 RS,2019
+Kirkland,45.4529194,-73.8647559,Porsche,86,Porsche 911,309900,Québec,Porsche 911 GT3 RS,2019
+Laval,45.60558895,-73.7344173056906,Porsche,8000,Porsche 911,119900,Québec,Porsche 911 Carrera T Coupe,2019
+Oakville,43.447436,-79.666672,Porsche,3493,Porsche 911,285900,Ontario,Porsche 911 GT3 RS,2019
+Toronto,43.653963,-79.387207,Porsche,1062,Porsche 911,279800,Ontario,Porsche 911 GT3 RS One Owner ,2019
+Oakville,43.447436,-79.666672,Porsche,5291,Porsche 911,279000,Ontario,Porsche 911 GT3 RS ,2019
+London,42.9537654,-81.2291529,Porsche,3117,Porsche 911,275998,Ontario,Porsche 911 GT3 RS ,2019
+Laval,45.60558895,-73.7344173056906,Porsche,1365,Porsche 911,275000,Québec,Porsche 911 GT3 RS Coupe,2019
+Winnipeg,49.884017,-97.168579,Porsche,500,Porsche 911,273888,Manitoba,Porsche 911 AS NEW SIMPLY NO DISSAPOINTMENT,2019
+Vaughan,43.820904,-79.5084,Porsche,12700,Porsche Cayenne,82388,Ontario,Porsche Cayenne NAV,2019
+Langley,49.10647185,-122.550131156815,Porsche,872,Porsche 911,499994,British Columbia,Porsche 911 GT2 RS Weissach Package ,2019
+Langley,49.10647185,-122.550131156815,Porsche,6800,Porsche Cayenne,113059,British Columbia,Porsche Cayenne,2019
+Thornhill,43.8161477,-79.4245925,Porsche,13373,Porsche Cayenne,85848,Ontario,Porsche Cayenne Premium Plus Package  21' Alloy Rims  360 Cam,2019
+Vancouver,49.2608724,-123.1139529,Porsche,110,Porsche 911,469995,British Columbia,Porsche 911,2019
+London,42.9537654,-81.2291529,Porsche,17950,Porsche Cayenne,86498,Ontario,Porsche Cayenne ,2019
+Kirkland,45.4529194,-73.8647559,Porsche,39,Porsche 911,619900,Québec,Porsche 911 GT2 RS Weissach Package,2019
+Mont-Royal,45.5086157,-73.5903112,Porsche,4550,Porsche Cayenne,84995,Québec,Porsche Cayenne,2019
+London,42.9537654,-81.2291529,Porsche,5610,Porsche 911,144998,Ontario,Porsche 911 Carrera Coupe GTS PDK ,2019
+Thornhill,43.8161477,-79.4245925,Porsche,29,Porsche 911,399988,Ontario,Porsche 911 SPEEDSTER,2019
+Vancouver,49.2608724,-123.1139529,Porsche,7814,Porsche Cayenne,86995,British Columbia,Porsche Cayenne,2019
+Vancouver,49.2608724,-123.1139529,Porsche,5100,Porsche Cayenne,86995,British Columbia,Porsche Cayenne,2019
+Ottawa,45.421106,-75.690308,Porsche,4723,Porsche 911,139900,Ontario,Porsche 911 Carrera S Coupe ,2019
+Toronto,43.653963,-79.387207,Porsche,1828,Porsche 911,166800,Ontario,Porsche 911 Targa 4S ,2019
+Mont-Royal,45.5086157,-73.5903112,Porsche,14000,Porsche Cayenne,111900,Québec,Porsche Cayenne Premium Plus,2019
+Vancouver,49.2608724,-123.1139529,Porsche,7095,Porsche Cayenne,86995,British Columbia,Porsche Cayenne,2019
+Burnaby,49.2433804,-122.9725459,Porsche,7500,Porsche Cayenne,129800,British Columbia,Porsche Cayenne S,2019
+Langley,49.10647185,-122.550131156815,Porsche,480,Porsche Macan,73559,British Columbia,Porsche Macan,2019
+Laval,45.60558895,-73.7344173056906,Porsche,1204,Porsche Cayenne,154900,Québec,Porsche Cayenne  Turbo AWD - Premium plus Package,2019
+St-Eustache,45.5646052,-73.8929714,Porsche,5163,Porsche 911,154999,Québec,Porsche 911 Targa 4 ,2019
+Vancouver,49.2608724,-123.1139529,Porsche,5950,Porsche 911,155800,British Columbia,Porsche 911 Targa 4S,2019
+Mont-Royal,45.5086157,-73.5903112,Porsche,500,Porsche Macan,78770,Québec,Porsche Macan AWD - NAVI - FULLY LOADED AND READY FOR WINTER,2019
+Aurora,43.99973,-79.467545,Porsche,652,Porsche 911,174696,Ontario,Porsche 911 Carrera 4 GTS Premium Plus Pack,2019
+Oakville,43.447436,-79.666672,Porsche,4113,Porsche 911,214000,Ontario,Porsche 911 Turbo S Coupe PDK ,2019
+Kirkland,45.4529194,-73.8647559,Porsche,8116,Porsche 911,149900,Québec,Porsche 911 Carrera 4 GTS,2019
+Thornhill,43.8161477,-79.4245925,Porsche,6735,Porsche Cayenne,118609,Ontario,Porsche Cayenne S,2019
+Toronto,43.653963,-79.387207,Porsche,16546,Porsche Cayenne,91999,Ontario,Porsche Cayenne,2019
+Montréal,45.4972159,-73.6103642,Porsche,550,Porsche 911,195900,Québec,Porsche 911 Turbo Coupe - Turbo S Wheels ,2019
+Vancouver,49.2608724,-123.1139529,Porsche,2772,Porsche 911,179900,British Columbia,Porsche 911 Targa 4 GTS PDK,2019
+Montréal,45.4972159,-73.6103642,Porsche,450,Porsche 911,149900,Québec,Porsche 911 Carrera 4S - SPORT EXHAUST - PREMIUM PLUS,2019
+Vancouver,49.2608724,-123.1139529,Porsche,107,Porsche 911,272166,British Columbia,Porsche 911 GT3 RS ,2019
+Vaughan,43.820904,-79.5084,Porsche,4500,Porsche 911,125000,Ontario,Porsche 911 Carrera T Coupe - LOW KMS,2019
+Victoria,48.4283182,-123.3649533,Porsche,4110,Porsche 911,247500,British Columbia,Porsche 911 GT3 RS,2019
+Langley,49.10647185,-122.550131156815,Porsche,108,Porsche 911,250994,British Columbia,Porsche 911 GT3 RS Immaculate Local BC Unit,2019
+Oakville,43.447436,-79.666672,Porsche,2380,Porsche 911,259000,Ontario,Porsche 911 GT3 RS ,2019
+Vaughan,43.820904,-79.5084,Porsche,12000,Porsche 911,144900,Ontario,Porsche 911 Carrera 4 GTS --LOW KMS,2019
+Oakville,43.447436,-79.666672,Porsche,1632,Porsche 911,158500,Ontario,Porsche 911 Carrera 4S Coupe PDK ,2019
+Laval,45.60558895,-73.7344173056906,Porsche,4500,Porsche Cayenne,139900,Québec,Porsche Cayenne S    ,2019
+Mont-Royal,45.5086157,-73.5903112,Porsche,4198,Porsche Cayenne,137995,Québec,Porsche Cayenne Turbo AWD,2019
+Granby,45.3990409,-72.721834,Porsche,657,Porsche 911,269000,Québec,Porsche 911 GT3 RS,2019
+Mississauga,43.590338,-79.645729,Porsche,20,Porsche 911,269900,Ontario,Porsche 911 GT3 RS,2019
+Langley,49.10647185,-122.550131156815,Porsche,90,Porsche 718,87779,British Columbia,Porsche 718 Cayman PDK,2019
+Mont-Royal,45.5086157,-73.5903112,Porsche,18,Porsche 911,269995,Québec,Porsche 911 WEISSACH Package,2019
+Toronto,43.653963,-79.387207,Porsche,1277,Porsche 911,167800,Ontario,Porsche 911 Targa 4 GTS ,2019
+Kirkland,45.4529194,-73.8647559,Porsche,4618,Porsche 911,239900,Québec,Porsche 911 Turbo S,2019
+London,42.9537654,-81.2291529,Porsche,1810,Porsche 911,145998,Ontario,Porsche 911 Carrera Coupe GTS ,2019
+Vancouver,49.2608724,-123.1139529,Porsche,7457,Porsche Cayenne,88995,British Columbia,Porsche Cayenne,2019
+Oakville,43.447436,-79.666672,Porsche,7534,Porsche 911,125000,Ontario,Porsche 911 Carrera T Coupe,2019
+London,42.9537654,-81.2291529,Porsche,5610,Porsche 911,144998,Ontario,Porsche 911 Carrera Coupe GTS PDK ,2019
+Vancouver,49.2608724,-123.1139529,Porsche,7711,Porsche Cayenne,87995,British Columbia,Porsche Cayenne,2019
+Scarborough,43.773077,-79.257774,Porsche,5600,Porsche 911,239888,Ontario,Porsche 911 Turbo S Cabriolet,2019
+Mont-Royal,45.5086157,-73.5903112,Porsche,500,Porsche Macan,88770,Québec,Porsche Macan S AWD - FULLY LOADED - READY FOR WINTER,2019
+Montréal,45.4972159,-73.6103642,Porsche,312,Porsche 911,169900,Québec,Porsche 911 Carrera 4S - LEASE ONLY - JUST ARRIVED!,2020
+Mont-Royal,45.5086157,-73.5903112,Porsche,100,Porsche 911,155770,Québec,Porsche 911 Carrera S Coupe ,2020
+Montréal,45.4972159,-73.6103642,Porsche,33,Porsche 911,159900,Québec,Porsche 911 Carrera S - LEASE ONLY - JUST ARRIVED!,2020
+Mississauga,43.590338,-79.645729,Porsche,595,Porsche 911,168888,Ontario,Porsche 911 Carrera S,2020
+Mont-Royal,45.5086157,-73.5903112,Porsche,90,Porsche 911,172900,Québec,Porsche 911 Carrera 4S - LEASE ONLY,2020
+Mont-Royal,45.5086157,-73.5903112,Porsche,100,Porsche 911,185770,Québec,Porsche 911 Carrera 4S Cabriolet,2020

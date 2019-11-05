@@ -16,10 +16,13 @@ from dash.dependencies import Output, Input
 import folium
 from folium.plugins import MarkerCluster
 import plotly.graph_objs as go
-import plotly.offline as py
+import plotly.express as px
+
 import plotly.io as pio
 import glob
-from sklearn import datasets, linear_model
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error, r2_score
 
 
 def create_url(brand, model, number, start_num, used='Used'):
@@ -143,16 +146,17 @@ df = df[df['year'] > 2000]
 df = df[df['price'] < 500000]
 df = df[df['mileage'] < 800000]
 df = df.replace('Québec Québec', 'Québec')
+df = df.replace({'city': 'Québec'}, 'Québec City')
+df = df.replace({})
 dff = df.groupby(['year']).agg({'price': 'mean'})
+df_civic = df[df['model'] == 'Honda Civic']
 car_make = df['make'].unique()
 df_bar = df.groupby(['make', 'province'], as_index=False).count()
 df_bar = df_bar[['make', 'province', 'model']]
 bar_data = []
 for make in car_make:
-    bar_data.append(go.Bar(name=make, x=df_bar.province.unique(),
+    bar_data.append(go.Bar(name=make, x=df_bar[df_bar['make'] == make]['province'],
                          y=df_bar[df_bar['make'] == make]['model'].to_list()))
-
-
 
 
 # ----------------  Create map, only need to run once ----------------------
@@ -194,7 +198,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background']}, children=
                        'padding':'25px 50px', 'border-style':'none'}),
 
     html.Div([
-        html.Label('Multi-Select Dropdown', style={'color': colors['text'], 'margin': 'auto'}),
+        html.Label('Select Provinces', style={'color': colors['text'], 'margin': 'auto'}),
         dcc.Dropdown(
             id= 'graph-dropdown',
             options=[
@@ -212,9 +216,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background']}, children=
                 {'label': 'Yukon', 'value': 'Yukon'},
                 {'label': 'Nunavut', 'value': 'Nunavut'}
             ],
-            value=['Ontario', 'Nova Scotia', 'New Brunswick', 'Manitoba', 'British Columbia', 'Québec',
-                     'Prince Edward Island', 'Saskatchewan', 'Alberta', 'Northwest Territories',
-                     'Newfoundland and Labrador', 'Yukon', 'Nunavut'],
+            value=['Ontario'],
             multi=True,
             style={'backgroundColor': colors['background'], 'margin': 'auto' }
         )
@@ -233,6 +235,17 @@ app.layout = html.Div(style={'backgroundColor': colors['background']}, children=
         style={'padding': '50px, 100px', 'width': '80%', 'margin': 'auto'}
     ),
 
+    html.Div(
+        html.Div([
+            html.Div([
+                dcc.Graph(id='civic-year')
+            ], className='six columns'),
+            html.Div([
+                dcc.Graph(id='civic-mile')
+            ], className='six columns')
+        ], className='row'),
+        style={'padding': '50px, 100px', 'width': '80%', 'margin': 'auto'}
+    ),
 
     dcc.Graph(
         id='example-graph',
@@ -241,14 +254,26 @@ app.layout = html.Div(style={'backgroundColor': colors['background']}, children=
             'layout': {
                 'title': 'Market share based on province',
                 'showlegend': True,
-                'barmode': 'stack'
+                'barmode': 'group'
             }
         }),
         style={'width':'80%', 'margin': 'auto', 'height': '900px'},
     ),
+
     html.Div([
     html.Label('Car price prediction', style={'color': colors['text'], 'margin': 'auto'}),
-    ])
+        html.Div([
+            html.Div(dcc.Input(id='input-text', value='year model mileage', type='text'), className='two columns'),
+            html.Div(id='price-prediction', style={'margin':'auto'}),
+        ], className='row'),
+        html.Div([
+            html.Div([
+                dcc.Graph(id='prediction-graph', style={'height': '900px'},)
+            ], className='eight columns'),
+            html.Div(id='similar', className='four columns')
+        ], className='row')
+
+    ], style={'width':'80%', 'margin': 'auto'})
 ])
 
 
@@ -256,7 +281,6 @@ app.layout = html.Div(style={'backgroundColor': colors['background']}, children=
     Output('mean-price-graph-year', 'figure'),
     [Input('graph-dropdown', 'value')])
 def update_year_graph(prov):
-    print(prov)
     fig = create_graph(prov, 'year')
     return fig
 
@@ -272,7 +296,6 @@ def update_mile_graph(prov):
 def create_graph(prov, ways):
     dff = df.loc[df['province'].isin(prov)]
     dff = dff.groupby([ways]).agg({'price': 'mean'})
-# prepare figure_a from value
     figure = {
         'data': [
             {'x': dff.index.values, 'y': dff.price, 'type': 'scatter'},
@@ -281,17 +304,113 @@ def create_graph(prov, ways):
             'title': f'Price based on {ways}'
         }
     }
-    print(figure['data'])
     return figure
 
 
-def lr(model, year, mileage):
-    regr = linear_model.LinearRegression()
-    df_lr = df[df['model'] == model]
-    regr.fit(df_lr[['year', 'mileage']], df_lr['price'])
-    df_test = pd.DataFrame([[year, mileage]])
-    prediction = regr.predict(df_test[[0, 1]])
-    return prediction
+@app.callback(
+    Output('civic-year', 'figure'),
+    [Input('graph-dropdown', 'value')])
+def update_year_graph(prov):
+    return create_civic_graph(prov, 'year')
+
+
+@app.callback(
+    Output('civic-mile', 'figure'),
+    [Input('graph-dropdown', 'value')])
+def update_mile_graph(prov):
+    return create_civic_graph(prov, 'mileage')
+
+
+def create_civic_graph(prov, ways):
+    fig = go.Figure()
+    for p in prov:
+        df_prov = df_civic[df_civic['province'] == p]
+        df_prov = df_prov.groupby([ways]).agg({'price': 'mean'})
+        fig.add_trace(go.Scatter(x=df_prov.index.values, y=df_prov.price, mode='lines', name=p))
+    # print(fig)
+    return fig
+
+@app.callback(
+    Output('price-prediction', 'children'),
+    [Input('input-text', 'value')])
+def lr(inputtext):
+    if len(inputtext.split()) == 4:
+        year, model, mileage = inputtext.split()[0], ' '.join(inputtext.split()[1:3]), inputtext.split()[3]
+        if model in df['model'].to_list():
+            # print('predicting price')
+            df_lr = df[df['model'] == model]
+            regr = LinearRegression()
+            regr.fit(df_lr[['year', 'mileage']], df_lr['price'])
+            test = pd.DataFrame([[year, mileage]])
+            price_pred = regr.predict(test[[0, 1]])
+            return f'Prediction of your car pice:{str(int(price_pred[0]))}'
+
+
+@app.callback(
+    Output('similar', 'children'),
+    [Input('input-text', 'value')])
+def lr_similar(inputtext):
+    if len(inputtext.split()) == 4:
+        year, model, mileage = inputtext.split()[0], ' '.join(inputtext.split()[1:3]), inputtext.split()[3]
+        year, mileage = int(year), int(mileage)
+        other_df = df[df['model'] == model]
+        other_df = other_df[other_df['year'] == year]
+        mile_range = 10000
+        other_df_greater = other_df[other_df['mileage'] > mileage].sort_values(by='mileage', ascending=True)
+        other_df_smaller = other_df[other_df['mileage'] < mileage].sort_values(by='mileage', ascending=False)
+
+        try:
+            first_seller, second_seller = other_df_greater.iloc[0], other_df_smaller.iloc[0]
+        except:
+            return 'No similar seller found'
+        similar = "{0} {1} {2}km ${3}       " \
+                  "{4} {5} {6}km ${7}".format(first_seller.year, first_seller.model,
+                                              first_seller.mileage, first_seller.price,
+                                              second_seller.year, second_seller.model,
+                                              second_seller.mileage, second_seller.price)
+        return(similar)
+
+
+
+@app.callback(
+    Output('prediction-graph', 'figure'),
+    [Input('input-text', 'value')])
+def lr_graph(inputtext):
+    if len(inputtext.split()) == 4:
+        year, model, mileage = inputtext.split()[0], ' '.join(inputtext.split()[1:3]), inputtext.split()[3]
+        if model in df['model'].to_list():
+            df_lr = df[df['model'] == model]
+            train, test = train_test_split(df_lr, test_size=0.2)
+            regr = LinearRegression()
+            regr.fit(train[['year', 'mileage']], train['price'])
+            price_pred = regr.predict(test[['year', 'mileage']])
+            test['prediction'] = price_pred
+            # print(test[['year', 'mileage', 'prediction']])
+            fig = go.Figure()
+            year_concat = pd.concat([train['year'], test['year']])
+            mile_concat = pd.concat([train['mileage'], test['mileage']])
+            price_concat = pd.concat([train['price'], test['price']])
+            # fig = px.line_3d(test, x='year', y="mileage", z="prediction")
+            fig.add_trace(go.Scatter3d(x=year_concat, y=mile_concat, z=price_concat, mode='markers', opacity=0.8,
+                                       marker=dict(
+                                           size=5,
+                                       ))
+                          )
+            fig.add_trace(go.Scatter3d(x=test['year'], y=test['mileage'], z=test['prediction'], mode='lines'))
+            fig.update_layout(scene=dict(
+                xaxis=dict(title_text='year', nticks=4 ),
+                yaxis=dict(title_text='mileage', nticks=4),
+                zaxis=dict(title_text='price', nticks=4)),
+                autosize=True,
+            )
+            return fig
+
+    return dash.no_update
+
+
+
+
+
 
 
 if __name__ == '__main__':
