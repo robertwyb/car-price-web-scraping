@@ -179,6 +179,7 @@ external_stylesheets = ['https://cdn.rawgit.com/plotly/dash-app-stylesheets/2d26
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
+server = app.server
 
 colors = {
     'background': '#F0FFFF',
@@ -414,20 +415,20 @@ def lr_graph(inputtext):
 
 
 if __name__ == '__main__':
-    make_list = ['Acura', 'Audi','BMW', 'Buick', 'Cadillac', 'Chevrolet', 'Chrysler', 'Dodge', 'Ford',
-                 'Honda', 'Hyundai', 'Infiniti', 'Jeep', 'Kia', 'Lexus', 'Lincoln',
-                 'Mercedes-Benz', 'MINI', 'Nissan', 'Porsche', 'Toyota', 'Volkswagen', 'Volvo']
-    model_list = [['bmw', '1 series'], ['bmw', '2 series'], ['bmw', '3 series'], ['bmw', '4 series'],
-                 ['bmw', '5 series'], ['bmw', '6 series'], ['bmw', '7 series'], ['bmw', '8 series'],
-                 ['bmw', 'x1'], ['bmw', 'x2'], ['bmw', 'x3'], ['bmw', 'x3 M'], ['bmw', 'x4'], ['bmw', 'x4 M'],
-                 ['bmw', 'x5'], ['bmw', 'x5 M'], ['bmw', 'x6'], ['bmw', 'x6 M'], ['bmw', 'M'],
-                 ['Mercedes-Benz', 'A-Class'], ['Mercedes-Benz', 'B-Class'], ['Mercedes-Benz', 'C-Class'],
-                 ['Mercedes-Benz', 'CLA-Class'], ['Mercedes-Benz', 'E-Class'], ['Mercedes-Benz', 'S-Class'],
-                 ['Mercedes-Benz', 'GLC-Class'], ['Mercedes-Benz', 'GLE-Class'],
-                 ['audi', 'a3'], ['audi', 's3'], ['audi', 'a4'], ['audi', 's4'], ['audi', 'a5'], ['audi', 's5'],
-                 ['audi', 'a6'], ['audi', 's6'], ['audi', 'a7'], ['audi', 's7'], ['audi', 'a8'], ['audi', 's8'],
-                 ['audi', 'q3'], ['audi', 'q5'], ['audi', 'q7'], ['audi', 'q8']
-                 ]
+    # make_list = ['Acura', 'Audi','BMW', 'Buick', 'Cadillac', 'Chevrolet', 'Chrysler', 'Dodge', 'Ford',
+    #              'Honda', 'Hyundai', 'Infiniti', 'Jeep', 'Kia', 'Lexus', 'Lincoln',
+    #              'Mercedes-Benz', 'MINI', 'Nissan', 'Porsche', 'Toyota', 'Volkswagen', 'Volvo']
+    # model_list = [['bmw', '1 series'], ['bmw', '2 series'], ['bmw', '3 series'], ['bmw', '4 series'],
+    #              ['bmw', '5 series'], ['bmw', '6 series'], ['bmw', '7 series'], ['bmw', '8 series'],
+    #              ['bmw', 'x1'], ['bmw', 'x2'], ['bmw', 'x3'], ['bmw', 'x3 M'], ['bmw', 'x4'], ['bmw', 'x4 M'],
+    #              ['bmw', 'x5'], ['bmw', 'x5 M'], ['bmw', 'x6'], ['bmw', 'x6 M'], ['bmw', 'M'],
+    #              ['Mercedes-Benz', 'A-Class'], ['Mercedes-Benz', 'B-Class'], ['Mercedes-Benz', 'C-Class'],
+    #              ['Mercedes-Benz', 'CLA-Class'], ['Mercedes-Benz', 'E-Class'], ['Mercedes-Benz', 'S-Class'],
+    #              ['Mercedes-Benz', 'GLC-Class'], ['Mercedes-Benz', 'GLE-Class'],
+    #              ['audi', 'a3'], ['audi', 's3'], ['audi', 'a4'], ['audi', 's4'], ['audi', 'a5'], ['audi', 's5'],
+    #              ['audi', 'a6'], ['audi', 's6'], ['audi', 'a7'], ['audi', 's7'], ['audi', 'a8'], ['audi', 's8'],
+    #              ['audi', 'q3'], ['audi', 'q5'], ['audi', 'q7'], ['audi', 'q8']
+    #              ]
 
     # for make in make_list:
     #     print(make)
